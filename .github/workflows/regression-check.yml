@@ -1,0 +1,70 @@
+name: Regression Check
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  regression:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout PR branch
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # full history for git diff against main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run regression check
+        id: regression
+        run: |
+          python3 scripts/check_regression.py \
+            --base origin/main \
+            --output regression-results.json
+
+      - name: Upload results
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: regression-results
+          path: regression-results.json
+          if-no-files-found: ignore
+
+      - name: Post PR comment on regression
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let body = '## Regression Check Failed\n\n';
+
+            try {
+              const results = JSON.parse(fs.readFileSync('regression-results.json', 'utf8'));
+              body += `**${results.checked}** acts checked, **${results.regressions}** regressions, **${results.improved}** improved, **${results.new_files}** new\n\n`;
+
+              if (results.details) {
+                const regs = results.details.filter(d => d.regression);
+                if (regs.length > 0) {
+                  body += '### Regressions\n\n';
+                  body += '| File | Issue |\n|------|-------|\n';
+                  for (const r of regs) {
+                    const short = r.file.length > 60 ? '...' + r.file.slice(-57) : r.file;
+                    body += `| \`${short}\` | ${r.reasons.join('; ')} |\n`;
+                  }
+                }
+              }
+            } catch (e) {
+              body += 'Could not parse regression-results.json — check the logs.\n';
+            }
+
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: body
+            });
