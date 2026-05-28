@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy Ordynacja podatkowa
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 maja 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000622) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/622/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 kwietnia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy Ordynacja podatkowa
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 29 sierpnia 1997 r. Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111), z uwzględnieniem stanu prawnego na dzień 21 kwietnia 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621);
 2) ustawą z dnia 4 kwietnia 2025 r. o zmianie ustawy Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U.
@@ -44,9 +44,8 @@ poz. 497);
 13) ustawą z dnia 13 lutego 2026 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 347);
 14) ustawą z dnia 11 marca 2026 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (Dz. U.
 poz. 473).
-2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
 1) art. 114 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621), który stanowi: „Art. 114. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia.”;
-2) art. 4 i art. 5 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 497), które stanowią: niezaliczonych na poczet zaległości podatkowych albo bieżących zobowiązań podatkowych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 78 3 pkt 3a i 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
+2) art. 4 i art. 5 ustawy z dnia 4 kwietnia 2025 r. o zmianie ustawy Ordynacja podatkowa oraz niektórych innych ustaw (Dz. U. poz. 497), które stanowią: „Art. 4. Do oprocentowania nadpłat, o których mowa w art. 74 ustawy zmienianej w art. 1, niezwróconych lub niezaliczonych na poczet zaległości podatkowych albo bieżących zobowiązań podatkowych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy art. 78 3 pkt 3a i 4 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą.
 Art. 14zo. 1. Rada GLOBE jest niezależnym organem, którego zadaniem jest opiniowanie spraw z zakresu przepisów dotyczących opodatkowania wyrównawczego, o którym mowa w ustawie o opodatkowaniu wyrównawczym, w tym ich stosowania w indywidualnych sprawach na gruncie przepisów prawa podatkowego, przepisów o rachunkowości oraz wytycznych i innych dokumentów przyjętych przez Otwarte Ramy do spraw Erozji Podstawy Opodatkowania i Przenoszenia Zysku działające przy OECD.
 2. Zadaniem Rady GLOBE jest także opiniowanie projektów aktów normatywnych związanych z opodatkowaniem wyrównawczym.
 Art. 14zp. 1. Radę GLOBE powołuje minister właściwy do spraw finansów publicznych na czteroletnią kadencję.
@@ -163,7 +162,7 @@ Art. 20zk. Audyt podatkowy w zakresie prawidłowości wypełniania obowiązków 
 Art. 20zl. Audyt podatkowy w zakresie ram wewnętrznego nadzoru podatkowego obejmuje ocenę możliwości prawidłowego wykonywania obowiązków podatkowych poprzez weryfikację poziomu wdrożenia i funkcjonowania:
 1) systemu zarządzania ryzykiem,
 2) kontroli wewnętrznej,
-3) audytu wewnętrznego,
+3) audytu wewnętrznego, dardami,
 5) mechanizmów nadzoru zewnętrznego, w tym niezależnego audytu funkcji podatkowej w odniesieniu do spraw podatkowych.
 Art. 20zm. 1. W przypadku złożenia prawnie skutecznej deklaracji lub korekty deklaracji:
 1) w terminie 14 dni od dnia otrzymania zaleceń audytu wstępnego i w celu usunięcia stwierdzonych w nim nieprawidłowości w zakresie realizacji obowiązków podatkowych i wpłacenia związanej z tą korektą zaległości podatkowej w terminie 7 dni od daty złożenia tej deklaracji albo korekty deklaracji przepis art. 56a 1 stosuje się odpowiednio;
@@ -304,6 +303,7 @@ c) stanu prawnego, jaki zaistniałby, gdyby wskazany przepis ustawy podatkowej n
 3. Wniosek powinien zostać sporządzony i podpisany przez pełnomocnika szczególnego będącego doradcą podatkowym, adwokatem lub radcą prawnym.
 4. Wniosek o wydanie decyzji niespełniający wymogów określonych w 1–3 lub przepisach wydanych na podstawie 5, lub innych wymogów określonych przepisami prawa pozostawia się bez rozpatrzenia.
 5. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzór wniosku, o którym mowa w 1, który zawiera informacje określone w tym przepisie oraz wskazane w art. 14b 4 i art. 14r 2, a także sposób uiszczenia opłaty, o której mowa w art. 119zff, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców.
+dzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej.
 2. W toku postępowania o wydanie decyzji domniemywa się, że:
 1) wskazana we wniosku czynność, o której mowa w art. 119zfd 1 pkt 1 lit. a, została dokonana w sposób sztuczny;
 2) co najmniej jednym z głównych celów dokonania czynności, o której mowa w pkt 1, było osiągnięcie korzyści podatkowej;
@@ -345,7 +345,7 @@ Art. 119zfk. 1. W terminie 14 dni od dnia doręczenia decyzji zainteresowany mo�
 3. Złożenie korekty deklaracji lub informacji zastępczej niezgodnej z treścią decyzji nie wywołuje skutków prawnych w zakresie cofnięcia skutków unikania opodatkowania.
 4. Ponowne skorygowanie deklaracji nie wywołuje skutków prawnych w zakresie, w jakim dokonana na podstawie 1 korekta przewidywała cofnięcie skutków unikania opodatkowania.
 5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór informacji zastępczej, wraz z objaśnieniami co do sposobu prawidłowego jej wypełnienia oraz terminu i miejsca jej składania, mając na uwadze umożliwienie prawidłowego rozliczenia podatku, a także kierując się potrzebą ułatwienia zainteresowanym poprawnego sporządzenia informacji zastępczej.
-kania opodatkowania dokonane zgodnie z treścią decyzji.
+-skarbowej lub postępowania podatkowego decyzję wydaną na podstawie art. 119zfi 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji.
 2. Organ podatkowy w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego pomija decyzję wydaną na podstawie art. 119zfi 1 lub 2 lub cofnięcie skutków unikania opodatkowania dokonane zgodnie z treścią decyzji, jeżeli zgromadzone dowody wskazują na nierzetelność opisu czynności prowadzącej do unikania opodatkowania.
 Art. 119zfm. 1. Zainteresowany niebędący podmiotem, który unikał opodatkowania, może w terminie 3 miesięcy od dnia doręczenia decyzji skorygować deklarację, uwzględniając treść tej decyzji, a także na jej podstawie w tym terminie wystąpić z wnioskiem o stwierdzenie nadpłaty lub zwrot podatku, jeżeli zainteresowany, który unikał opodatkowania:
 1) cofnął zgodnie z art. 119zfk 1 lub 2 skutki unikania opodatkowania oraz
@@ -384,7 +384,7 @@ e) opis podstawowej działalności wnioskodawcy, w tym: wskazanie przedmiotu pro
 f) opis przyjętych zasad lub polityki rachunkowości w zakresie, w jakim mają one zastosowanie do czynności, o których mowa w art. 119zfp 3, stosowanych przez wnioskodawcę i pozostałe jednostki składowe uczestniczące w tych czynnościach,
 g) wskazanie umów, porozumień wewnątrzgrupowych lub innych dokumentów dotyczących czynności, o których mowa w art. 119zfp 3,
 h) wskazanie innych dokumentów lub informacji niezbędnych do dokonania oceny stanowiska wnioskodawcy.
-mień wewnątrzgrupowych lub innych dokumentów, lub ich projektów.
+dokumentacja dotycząca czynności, o których mowa w art. 119zfp 3, w szczególności oryginały lub kopie umów, porozumień wewnątrzgrupowych lub innych dokumentów, lub ich projektów.
 3. Szef Krajowej Administracji Skarbowej wzywa wnoszącego wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, który nie spełnia wymogów określonych w 1 lub innych wymogów określonych w przepisach prawa, do usunięcia braków w terminie 14 dni od dnia doręczenia wezwania, z pouczeniem, że niewypełnienie tego warunku spowoduje pozostawienie wniosku bez rozpatrzenia.
 4. Szef Krajowej Administracji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię zabezpieczającą w sprawie opodatkowania wyrównawczego lub zorganizować z zainteresowanym spotkanie uzgodnieniowe w celu wyjaśnienia tych wątpliwości.
 5. Ze spotkania uzgodnieniowego sporządza się protokół.
@@ -406,7 +406,7 @@ Art. 119zfv. 1. Wniosek o wydanie opinii zabezpieczającej w sprawie opodatkowan
 4. Koszty postępowania, o których mowa w art. 265 1 pkt 1 i 3, obciążają wnioskodawcę.
 Art. 119zfw. Szef Krajowej Administracji Skarbowej może, z urzędu, zmienić wydaną opinię zabezpieczającą w sprawie opodatkowania wyrównawczego albo odmowę wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
 Art. 119zfx. 1. Na podstawie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego lub odmowy wydania opinii zabezpieczającej w sprawie opodatkowania wyrównawczego sporządza się informację, którą niezwłocznie zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
-macja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie zainteresowanego lub innych podmiotów wskazanych w jej treści.
+zabezpieczającej w sprawie opodatkowania wyrównawczego oraz wyjaśnienie powodów podjętego rozstrzygnięcia. Informacja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie zainteresowanego lub innych podmiotów wskazanych w jej treści.
 Art. 119zfy. 1. Szef Krajowej Administracji Skarbowej zasięga opinii organu właściwego w sprawie porozumienia inwestycyjnego, jeżeli:
 1) okoliczności przedstawione we wniosku o wydanie opinii zabezpieczającej w sprawie opodatkowania wyrównawczego świadczą, że do korzyści podatkowej wskazanej we wniosku, wynikającej z czynności, o których mowa w art. 119zfp 3, może mieć zastosowanie zawarte porozumienie inwestycyjne w zakresie, o którym mowa w art. 20zt pkt 2a, albo w zakresie tej korzyści podatkowej organ właściwy w sprawie porozumienia odmówił zawarcia tego porozumienia lub
 2) zainteresowany jest stroną postępowania w przedmiocie zawarcia porozumienia inwestycyjnego w zakresie czynności opisanych we wniosku.
@@ -423,7 +423,7 @@ b) oddział instytucji kredytowej w rozumieniu art. 4 ust. 1 pkt 18 ustawy z dni
 c) oddział banku zagranicznego w rozumieniu art. 4 ust. 1 pkt 20 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe;
 2) blokadzie rachunku podmiotu kwalifikowanego rozumie się przez to czasowe uniemożliwienie dysponowania środkami pieniężnymi zgromadzonymi na rachunku podmiotu kwalifikowanego prowadzonym przez bank lub spółdzielczą kasę oszczędnościowo-kredytową i korzystania z tych środków;
 3) izbie rozliczeniowej rozumie się przez to izbę rozliczeniową, o której mowa w art. 67 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, która w roku kalendarzowym poprzedzającym o 2 lata rok kalendarzowy, w którym będą wykonywane obowiązki określone w niniejszym dziale, rozliczyła największą liczbę poleceń przelewu w złotych ze wszystkich izb rozliczeniowych działających na podstawie tego przepisu;
-lub wypłat gotówkowych z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego;
+zycji dotyczących rachunku podmiotu kwalifikowanego, wpłat gotówkowych na rachunek podmiotu kwalifikowanego lub wypłat gotówkowych z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego;
 4) podmiocie kwalifikowanym rozumie się przez to:
 a) osobę fizyczną będącą przedsiębiorcą w rozumieniu art. 4 ust. 1 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców,
 b) osobę fizyczną prowadzącą działalność zarobkową na własny rachunek, która nie jest przedsiębiorcą w rozumieniu ustawy, o której mowa w lit. a,
@@ -511,7 +511,7 @@ Art. 119zn. 1. Szef Krajowej Administracji Skarbowej dokonuje analizy ryzyka wyk
 3) kryteria przedmiotowe polegające na prowadzeniu przez podmiot kwalifikowany działalności gospodarczej wysokiego ryzyka z punktu widzenia podatności na wyłudzenia skarbowe;
 4) kryteria behawioralne polegające na nietypowym, w danej sytuacji, zachowaniu podmiotu kwalifikowanego;
 5) kryteria powiązań polegające na istnieniu powiązań podmiotu kwalifikowanego z podmiotami, co do których występuje ryzyko, że uczestniczą w działaniach mających związek z wyłudzeniami skarbowymi lub organizują takie działania.
-ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową.
+kasy oszczędnościowo-kredytowe wskazane odpowiednio przez bankowe izby gospodarcze, o których mowa w art. 121 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową.
 5. Przetwarzanie, o którym mowa w 2, może opierać się na danych osobowych ujawniających pochodzenie rasowe lub etniczne oraz danych biometrycznych, jeżeli zachowane są cele i warunki określone w niniejszym dziale.
 Art. 119zo. 1. Izba rozliczeniowa przekazuje informacje o wskaźniku ryzyka wyłącznie:
 1) Szefowi Krajowej Administracji Skarbowej;
@@ -533,7 +533,7 @@ b) inne banki i spółdzielcze kasy oszczędnościowo-kredytowe w przypadku otwi
 8. Dostęp do informacji o istotności wpływu poszczególnych kryteriów na wskaźnik ryzyka, przekazywanych bankom i spółdzielczym kasom oszczędnościowo-kredytowym, mają wyłącznie osoby wyznaczone do realizacji celów, o których mowa w 4.
 9. Izba rozliczeniowa udostępnia algorytmy, na podstawie których jest ustalany wskaźnik ryzyka, wyłącznie Szefowi Krajowej Administracji Skarbowej, na jego żądanie.
 10. Za ustalanie wskaźnika ryzyka bank i spółdzielcza kasa oszczędnościowo-kredytowa ponoszą roczną opłatę na rzecz izby rozliczeniowej ustalaną ryczałtowo w odniesieniu do liczby rachunków podmiotu kwalifikowanego prowadzonych przez ten bank lub spółdzielczą kasę oszczędnościowo-kredytową. W przypadku gdy wskaźnik ryzyka ustalany jest za okres krótszy niż rok kalendarzowy, opłata ustalana jest w wysokości proporcjonalnej do liczby miesięcy, w których wskaźnik ryzyka jest ustalany.
-mania STIR oraz okres, za który wskaźnik ryzyka jest ustalany.
+opłaty, o której mowa w 10, uwzględniając koszty ustalania i przekazywania wskaźnika ryzyka, koszty wdrożenia i utrzymania STIR oraz okres, za który wskaźnik ryzyka jest ustalany.
 Art. 119zp. 1. Banki oraz spółdzielcze kasy oszczędnościowo-kredytowe przekazują izbie rozliczeniowej:
 1) informacje o rachunkach podmiotów kwalifikowanych:
 a) otwieranych przez banki i spółdzielcze kasy oszczędnościowo-kredytowe niezwłocznie, niepóźniej jednak niż do godziny 12.00 dnia następującego po dniu otwarcia rachunku podmiotu kwalifikowanego,
@@ -557,8 +557,8 @@ Art. 119zr. 1. Informacje, o których mowa w art. 119zp 1 pkt 1 i art. 119zq pkt
 3) rodzaj rachunku podmiotu kwalifikowanego, kod waluty rachunku podmiotu kwalifikowanego, numer rachunku podmiotu kwalifikowanego w formacie Numeru Rachunku Bankowego lub inny numer w przypadku rachunku lokaty terminowej, datę zakończenia okresu, na jaki umowa lokaty terminowej została zawarta w przypadku rachunku lokaty terminowej, oraz datę otwarcia i zamknięcia rachunku podmiotu kwalifikowanego;
 4) dane identyfikacyjne podmiotu kwalifikowanego, jeżeli są dostępne, zawierające:
 a) firmę, nazwę albo imię i nazwisko osoby fizycznej, o której mowa w art. 119zg pkt 4 lit. b,
-b) rodzaj prowadzonej działalności, numer w Krajowym Rejestrze Sądowym i datę rejestracji lub rozpoczęcia działalności oraz kraj rejestracji podmiotu kwalifikowanego lub rezydencji podatkowej,
-c) numer PESEL, numer identyfikacyjny REGON oraz numer identyfikacji podatkowej, a w przypadku podmiotu kwalifikowanego mającego miejsce zamieszkania, siedzibę lub zarząd w państwie lub na terytorium spoza Unii Europejskiej EURONIP lub inny numer identyfikacji podatkowej,
+b) rodzaj prowadzonej działalności, numer w Krajowym Rejestrze Sądowym i datę rejestracji lub rozpoczęcia działalności oraz kraj rejestracji podmiotu kwalifikowanego lub rezydencji podatkowej, kwalifikowanego mającego miejsce zamieszkania, siedzibę lub zarząd w państwie lub na terytorium spoza Unii Europejskiej EURONIP lub inny numer identyfikacji podatkowej,
+d) dane adresowe prowadzonej działalności, siedziby oraz adres korespondencyjny podmiotu kwalifikowanego zawierający kod kraju, kod pocztowy, miejscowość, ulicę, numer domu i lokalu,
 e) numer telefonu i adres poczty elektronicznej podmiotu kwalifikowanego;
 5) dane identyfikacyjne pełnomocnika do rachunków podmiotu kwalifikowanego i reprezentanta podmiotu kwalifikowanego, a także jego beneficjenta rzeczywistego w rozumieniu art. 2 ust. 2 pkt 1 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, jeżeli są dostępne, zawierające:
 a) imię i nazwisko,
@@ -590,8 +590,8 @@ b) dane adresowe zawierające kod kraju, kod pocztowy, miejscowość, ulicę, nu
 4) kwotę i walutę transakcji;
 5) tytuł i opis transakcji;
 6) saldo początkowe i saldo końcowe zestawienia transakcji dotyczących rachunku podmiotu kwalifikowanego;
-7) dane identyfikacyjne osoby, o której mowa w 1 pkt 5 w przypadku gdy osoba ta złożyła dyspozycję przeprowadzenia transakcji dotyczącej rachunku podmiotu kwalifikowanego, dokonała wpłaty gotówkowej na rachunek podmiotu kwalifikowanego lub dokonała wypłaty gotówkowej z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego jeżeli są dostępne;
-kwalifikowanego;
+nia transakcji dotyczącej rachunku podmiotu kwalifikowanego, dokonała wpłaty gotówkowej na rachunek podmiotu kwalifikowanego lub dokonała wypłaty gotówkowej z rachunku podmiotu kwalifikowanego, w imieniu jego posiadacza, w tym przy użyciu karty płatniczej w rozumieniu art. 2 pkt 15a ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych wydanej do rachunku podmiotu kwalifikowanego jeżeli są dostępne;
+8) informację o łącznej kwocie środków zajętych przez organ egzekucyjny lub zablokowanych na rachunku podmiotu kwalifikowanego;
 9) numer rachunku prowadzonego w celu automatycznej identyfikacji dyspozycji składanych z rachunku podmiotu kwalifikowanego (rachunek wirtualny), jeżeli dyspozycje dotyczą uznania takiego rachunku w przypadku zestawień przekazywanych przez bank albo spółdzielczą kasę oszczędnościowo-kredytową prowadzące ten rachunek.
 4. Informacje, o których mowa w art. 119zp 1 pkt 3, obejmują:
 1) identyfikator banku lub spółdzielczej kasy oszczędnościowo-kredytowej;
@@ -611,9 +611,9 @@ b) zostały złożone dyspozycje przeprowadzenia transakcji dotyczących rachunk
 Art. 119zt. Informacje i zestawienia, o których mowa w art. 119zp 1 i art. 119zq, są udzielane przez izbę rozliczeniową podmiotom innym niż Szef Krajowej Administracji Skarbowej wyłącznie na żądanie:
 1) sądu lub prokuratora w związku z toczącym się postępowaniem o wyłudzenia skarbowe przeciwko podmiotowi kwalifikowanemu będącemu posiadaczem rachunku podmiotu kwalifikowanego;
 2) Prezesa Najwyższej Izby Kontroli w zakresie niezbędnym do przeprowadzenia postępowania kontrolnego określonego w ustawie z dnia 23 grudnia 1994 r. o Najwyższej Izbie Kontroli (Dz. U. z 2022 r. poz. 623 oraz z 2026 r. poz. 26);
-3) Agencji Bezpieczeństwa Wewnętrznego, Służby Kontrwywiadu Wojskowego, Agencji Wywiadu, Służby Wywiadu Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa i ich posiadających sporządzone na piśmie upoważnienie funkcjonariuszy lub żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+Wojskowego, Centralnego Biura Antykorupcyjnego, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służby Więziennej, Służby Ochrony Państwa i ich posiadających sporządzone na piśmie upoważnienie funkcjonariuszy lub żołnierzy w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
 4) Prezesa Urzędu Ochrony Danych Osobowych w zakresie niezbędnym do realizacji ustawowych zadań określonych w przepisach o ochronie danych osobowych;
-twem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
+5) Szefa Centralnego Biura Antykorupcyjnego w zakresie niezbędnym do realizacji ustawowych zadań za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 22a ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. z 2025 r. poz. 712 i 718);
 6) Szefa Agencji Bezpieczeństwa Wewnętrznego w zakresie niezbędnym do realizacji ustawowych zadań za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 34 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26);
 6a) Komendanta Głównego Policji, Komendanta Centralnego Biura Śledczego Policji, Komendanta Biura Spraw Wewnętrznych Policji, Komendanta Centralnego Biura Zwalczania Cyberprzestępczości, komendanta wojewódzkiego Policji albo Komendanta Stołecznego Policji w zakresie niezbędnym do realizacji ustawowych zadań za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 20 ustawy z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2025 r. poz. 636, 718 i 1366 oraz z 2026 r. poz. 187 i 421);
 6b) Komendanta Głównego Straży Granicznej, Komendanta Biura Spraw Wewnętrznych Straży Granicznej albo komendanta oddziału Straży Granicznej w zakresie niezbędnym do realizacji ustawowych zadań za pośrednictwem systemu teleinformatycznego, na zasadach i w trybie określonych w art. 10a ustawy z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2026 r. poz. 367);
@@ -629,9 +629,9 @@ poz. 151 i 507);
 1) stosowania przez izbę rozliczeniową środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu, na podstawie umowy, o której mowa w art. 48 ust. 1 tej ustawy, zawartej z bankiem, spółdzielczą kasą oszczędnościowo-kredytową lub instytucją zobowiązaną, o której mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej;
 2) wykonywania przez izbę rozliczeniową na rzecz banków, spółdzielczych kas oszczędnościowo-kredytowych lub instytucji zobowiązanych, o których mowa w art. 3 pkt 2 lit. c, d, f lub g ustawy z dnia 1 grudnia 2022 r. o Systemie Informacji Finansowej, czynności niezbędnych do zastosowania przez banki, spółdzielcze kasy oszczędnościowo-kredytowe lub inne instytucje zobowiązane, o których mowa w art. 3 pkt 2 tej ustawy, środków bezpieczeństwa finansowego oraz prowadzenia i dokumentowania wyników bieżącej analizy przeprowadzanych transakcji, o której mowa w art. 43 ust. 3 ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu.
 3. Dane przetwarzane na podstawie przepisów niniejszego działu są przechowywane przez izbę rozliczeniową, banki, spółdzielcze kasy oszczędnościowo-kredytowe oraz Szefa Krajowej Administracji Skarbowej przez 5 lat, licząc od pierwszego dnia roku następującego po roku, w którym otrzymały dane.
-4. Jeżeli w okresie, o którym mowa w 3, nie upłynął termin przedawnienia zobowiązania podatkowego, zwrotu podatku lub wyłudzenia skarbowego, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez Szefa Krajowej Administracji Skarbowej niedłużej niż do upływu terminu przedawnienia.
+podatku lub wyłudzenia skarbowego, w związku z którym przechowywane dane mogłyby stanowić dowód w postępowaniu, dane te mogą być przechowywane przez Szefa Krajowej Administracji Skarbowej niedłużej niż do upływu terminu przedawnienia.
 5. Izba rozliczeniowa, która wykonywała obowiązki określone w niniejszym dziale, jest obowiązana do przekazania Szefowi Krajowej Administracji Skarbowej danych i informacji przechowywanych na podstawie ustawy w terminie miesiąca, licząc od ostatniego dnia realizacji tych obowiązków.
-do ustalenia wskaźnika ryzyka, w terminie miesiąca, licząc od dnia ich otrzymania.
+6. Szef Krajowej Administracji Skarbowej jest obowiązany do przekazania danych i informacji, o których mowa w 5, izbie rozliczeniowej, która przejęła realizację obowiązków wynikających z niniejszego działu, w zakresie koniecznym do ustalenia wskaźnika ryzyka, w terminie miesiąca, licząc od dnia ich otrzymania.
 7. Do okresu przechowywania danych, o którym mowa w 3, przez izbę rozliczeniową, o której mowa w 6, wlicza się okres przechowywania danych przez izbę rozliczeniową, o której mowa w 5.
 Art. 119zv. 1. Szef Krajowej Administracji Skarbowej może zażądać blokady rachunku podmiotu kwalifikowanego na okres niedłuższy niż 72 godziny, jeżeli posiadane informacje, w szczególności wyniki analizy ryzyka, o której mowa w art. 119zn 1, wskazują, że podmiot kwalifikowany może wykorzystywać działalność banków lub spółdzielczych kas oszczędnościowo-kredytowych do celów mających związek z wyłudzeniami skarbowymi lub do czynności zmierzających do wyłudzenia skarbowego, a blokada rachunku podmiotu kwalifikowanego jest konieczna, aby temu przeciwdziałać.
 2. Żądanie blokady rachunku podmiotu kwalifikowanego zawiera:
@@ -651,10 +651,10 @@ b) nieprowadzeniu rachunku podmiotu kwalifikowanego wskazanego w żądaniu, o kt
 4c. W przypadku złożenia dyspozycji przeprowadzenia transakcji dotyczących rachunku podmiotu kwalifikowanego będącego przedmiotem blokady bank oraz spółdzielcza kasa oszczędnościowo-kredytowa niezwłocznie informują Szefa Krajowej Administracji Skarbowej o:
 1) dacie i godzinie złożenia dyspozycji;
 2) treści transakcji będącej przedmiotem dyspozycji w zakresie określonym w art. 119zr 3.
-4d. Niezwłocznie po otrzymaniu wniosku, o którym mowa w 4b, bank oraz spółdzielcza kasa oszczędnościowo-kredytowa informują Szefa Krajowej Administracji Skarbowej o:
+-kredytowa informują Szefa Krajowej Administracji Skarbowej o:
 1) dacie i godzinie złożenia wniosku;
 2) adresie poczty elektronicznej, z którego złożono wniosek, jeżeli jest dostępny w przypadku gdy wniosek został złożony za pośrednictwem poczty elektronicznej;
-liwiający identyfikację tego adresu;
+3) adresie IP, z którego nastąpiło logowanie, jeżeli jest dostępny w przypadku gdy wniosek został złożony za pośrednictwem serwisu internetowego służącego do obsługi rachunku podmiotu kwalifikowanego lub w inny sposób umożliwiający identyfikację tego adresu;
 4) numerze telefonu, za pośrednictwem którego został złożony wniosek, jeżeli jest dostępny w przypadku gdy wniosek został złożony telefonicznie;
 5) adresie placówki banku, spółdzielczej kasy oszczędnościowo-kredytowej albo ich oddziału, w których został złożony wniosek w przypadku gdy wniosek został złożony osobiście;
 6) adresie nadawcy, jeżeli jest dostępny w przypadku gdy wniosek został złożony za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe.
@@ -675,9 +675,9 @@ Art. 119zw. 1. Szef Krajowej Administracji Skarbowej może przedłużyć, w drod
 3. Po wydaniu postanowienia, o którym mowa w 1, Szef Krajowej Administracji Skarbowej przekazuje:
 1) bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej żądanie przedłużenia terminu blokady rachunku podmiotu kwalifikowanego zawierające dane, o których mowa w 2 pkt 1–3;
 2) właściwemu dla podmiotu kwalifikowanego naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego oraz prokuratorowi zawiadomienie o przedłużeniu terminu blokady rachunku podmiotu kwalifikowanego zawierające dane określone w postanowieniu.
-4. Żądanie przedłużenia terminu blokady rachunku podmiotu kwalifikowanego jest skuteczne, jeżeli zostanie przekazane do banku lub spółdzielczej kasy oszczędnościowo-kredytowej w okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w art. 119zv 2 pkt 2. Przepisy art. 119zv 4‒5 stosuje się odpowiednio.
+kazane do banku lub spółdzielczej kasy oszczędnościowo-kredytowej w okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w art. 119zv 2 pkt 2. Przepisy art. 119zv 4‒5 stosuje się odpowiednio.
 4a. Szef Krajowej Administracji Skarbowej, niezwłocznie po otrzymaniu informacji o przedłużeniu blokady rachunku podmiotu kwalifikowanego, doręcza podmiotowi kwalifikowanemu postanowienie, o którym mowa w 1, oraz informację o dacie i godzinie przekazania bankowi lub spółdzielczej kasie oszczędnościowo-kredytowej żądania przedłużenia terminu blokady rachunku podmiotu kwalifikowanego.
-Skarbowej, w drodze postanowienia:
+5. W okresie blokady rachunku podmiotu kwalifikowanego, o którym mowa w 2 pkt 3, Szef Krajowej Administracji Skarbowej, w drodze postanowienia:
 1) może zmienić zakres blokady rachunku podmiotu kwalifikowanego;
 2) uchyla blokadę rachunku podmiotu kwalifikowanego, jeżeli stwierdzi, że ustała przesłanka blokady rachunku podmiotu kwalifikowanego.
 6. Do postanowienia, o którym mowa w 5, przepisy 2, 3 i 4a oraz art. 119zv 4‒5 stosuje się odpowiednio.
@@ -696,11 +696,11 @@ Art. 119zza. 1. Szef Krajowej Administracji Skarbowej może, w drodze postanowie
 2) wydania ostatecznej decyzji ustalającej lub określającej wysokość zobowiązania podatkowego lub należności celnej, potwierdzającej istnienie zaległości podatkowej lub celnej;
 3) nadania rygoru natychmiastowej wykonalności decyzji ustalającej lub określającej wysokość zobowiązania podatkowego lub należności celnej, potwierdzającej istnienie zaległości podatkowej lub celnej.
 2. Przepis art. 119zz 2 stosuje się odpowiednio.
-Art. 119zzb. 1. Na postanowienia, o których mowa w art. 119zw 1 i 5, art. 119zy 1, art. 119zz 1 oraz art. 119zza 1, przysługuje zażalenie.
+1, przysługuje zażalenie.
 2. Zażalenie jest rozpatrywane niezwłocznie, jednak niepóźniej niż w terminie 7 dni od dnia jego otrzymania.
 3. (uchylony)
 4. W zakresie nieuregulowanym do postępowań, o których mowa w niniejszym rozdziale, stosuje się odpowiednio przepisy działu IV.
-i art. 119zza 1:
+5. W przypadku skarg do wojewódzkiego sądu administracyjnego w sprawach, o których mowa w art. 119zw 1 i art. 119zza 1:
 1) przekazanie akt i odpowiedzi na skargę następuje w terminie 7 dni od dnia otrzymania skargi;
 2) rozpatrzenie skargi następuje w terminie 30 dni od dnia otrzymania akt wraz z odpowiedzią na skargę.
 Art. 119zzc. 1. Blokada rachunku podmiotu kwalifikowanego upada:
@@ -719,10 +719,9 @@ Art. 119zze. (uchylony)
 Art. 119zzf. 1. Kontrolę wypełniania obowiązków, o których mowa w niniejszym dziale, przez banki, spółdzielcze kasy oszczędnościowo-kredytowe, izbę rozliczeniową, banki zrzeszające oraz Krajową Spółdzielczą Kasę Oszczędnościowo-Kredytową sprawuje Szef Krajowej Administracji Skarbowej.
 2. Szef Krajowej Administracji Skarbowej przeprowadza, nierzadziej niż raz na rok, kontrolę wypełniania przez izbę rozliczeniową obowiązków, o których mowa w niniejszym dziale.
 3. Kontrolę, o której mowa w 1, przeprowadzają upoważnieni przez Szefa Krajowej Administracji Skarbowej pracownicy urzędu obsługującego ministra właściwego do spraw finansów publicznych lub organów podległych Szefowi Krajowej Administracji Skarbowej.
-4. Kontrolę, o której mowa w 1, przeprowadzają osoby posiadające poświadczenie bezpieczeństwa upoważniające do dostępu do informacji niejawnych oznaczonych klauzulą „poufne”.
+dostępu do informacji niejawnych oznaczonych klauzulą „poufne”.
 5. Do kontroli, o której mowa w 1, stosuje się odpowiednio przepisy art. 62 ust. 1–3, 8 i 10, art. 64 ust. 1 pkt 1, 2, 5, 7, 8, 10, 11 i 17 i ust. 3 i 4, art. 72 ust. 1 pkt 1–3 i 8–11 oraz ust. 3, art. 84 ust. 1, 2 i 4, art. 93 oraz art. 97 ust. 4 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 Art. 119zzg. Prezes Urzędu Ochrony Danych Osobowych przeprowadza, nierzadziej niż raz na 2 lata, kontrolę izby rozliczeniowej w zakresie ochrony danych osobowych przy wypełnianiu obowiązków, o których mowa w niniejszym dziale.
-Kary pieniężne
 Art. 119zzh. 1. Bank, spółdzielcza kasa oszczędnościowo-kredytowa, bank zrzeszający oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa, które nie dopełniają obowiązku przekazywania informacji i zestawień, o których mowa w art. 119zp, lub danych, o których mowa w art. 119zs 2, przekazują je niezgodnie z posiadanymi informacjami, zestawieniami lub danymi, lub zatajają prawdziwe informacje, zestawienia lub dane, podlegają karze pieniężnej.
 2. Tej samej karze podlega bank oraz spółdzielcza kasa oszczędnościowo-kredytowa, które nie dopełniają obowiązku dokonania blokady rachunku podmiotu kwalifikowanego, przedłużenia, zmiany zakresu lub uchylenia blokady rachunku podmiotu kwalifikowanego.
 Art. 119zzi. Izba rozliczeniowa, która nie dopełnia obowiązku:
@@ -741,10 +740,10 @@ a) stanowić czynność lub element czynności określonej w art. 119a 1 lub
 b) być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
 c) stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
 2) potwierdzenie, że są zaspokojone lub zabezpieczone zobowiązania pieniężne spółki wobec organów podatkowych lub niepodatkowe należności budżetowe o charakterze publicznoprawnym w rozumieniu art. 60 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych, do których wymiaru lub poboru są właściwe organy Krajowej Administracji Skarbowej.
-3. Wniosek zawiera dane istotne dla określenia podatkowych skutków czynności transgranicznego przekształcenia, połączenia albo podziału spółki oraz zastosowania do tej czynności przepisu art. 119a 1 i art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, w tym:
+połączenia albo podziału spółki oraz zastosowania do tej czynności przepisu art. 119a 1 i art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, w tym:
 1) dane identyfikujące wnioskodawcę;
 2) wskazanie podmiotów dokonujących czynności;
-ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
+3) wyczerpujący opis czynności wraz ze wskazaniem występujących między podmiotami powiązań w rozumieniu art. 23m ust. 1 pkt 5 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 11a ust. 1 pkt 5 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
 4) NSP w rozumieniu art. 86a 1 pkt 5 odnoszący się do uzgodnienia albo wyjaśnienie, z jakich powodów faktycznych lub prawnych uzgodnienie nie podlegało zgłoszeniu w celu jego nadania;
 5) wskazanie celów, których realizacji czynność ma służyć;
 6) wskazanie ekonomicznego lub gospodarczego uzasadnienia czynności;
@@ -764,9 +763,10 @@ Art. 119zzo. 1. Wniosek podlega opłacie w wysokości odpowiadającej 50 % wysok
 o minimalnym wynagrodzeniu za pracę. Opłatę uiszcza się w terminie 7 dni od dnia złożenia wniosku, na rachunek organu właściwego w sprawach opinii.
 2. Opłata uiszczona w kwocie wyższej niż należna podlega zwrotowi w kwocie nadwyżki, niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii.
 3. Opłata stanowi dochód budżetu państwa.
-Art. 119zzp. 1. Szef Krajowej Administracji Skarbowej odmawia wydania opinii, jeżeli okoliczności sprawy wskazują na istnienie uzasadnionego przypuszczenia, że:
+zują na istnienie uzasadnionego przypuszczenia, że:
 1) transgraniczne przekształcenie, połączenie albo podział spółki może:
 a) stanowić czynność lub element czynności określonej w art. 119a 1 lub
+b) być przedmiotem decyzji wydanej z zastosowaniem środków ograniczających umowne korzyści, lub
 c) stanowić nadużycie prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
 2) nie zostaną zaspokojone lub nie zostały zabezpieczone zobowiązania pieniężne i niepodatkowe należności budżetowe, o których mowa w art. 119zzl 2 pkt 2.
 2. Odmowa wydania opinii zawiera wskazanie okoliczności, o których mowa w 1.
@@ -778,17 +778,67 @@ Art. 307–323. (pominięte)
 
 **Art. 5.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
 
+- **3)** art. 39 ustawy z dnia 4 kwietnia 2025 r. o zmianie niektórych ustaw w celu wyeliminowania nieprawidłowości w systemie wizowym Rzeczypospolitej Polskiej (Dz. U. poz. 622), który stanowi: „Art. 39. Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 33 oraz art. 35–38, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1, art. 4, art. 5, art. 6 pkt 2, 3, pkt 4 lit. b, pkt 6 i 8–16, art. 8, art. 10–19, art. 21, art. 23–30 oraz art. 34, które wchodzą w życie z dniem 1 lipca 2025 r.;
+- **3)** art. 7 oraz art. 31, które wchodzą w życie z dniem 1 września 2025 r.”;
+- **4)** art. 34 ustawy z dnia 9 maja 2025 r. o zmianie ustawy o Służbie Więziennej oraz niektórych innych ustaw (Dz. U. poz. 820), który stanowi: „Art. 34. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem art. 27, art. 28 i art. 30, które wchodzą w życie po upływie 14 dni od dnia ogłoszenia.”;
+- **5)** art. 31, art. 36, art. 37 i art. 48 ustawy z dnia 21 maja 2025 r. o zmianie niektórych ustaw w celu deregulacji prawa gospodarczego i administracyjnego oraz doskonalenia zasad opracowywania prawa gospodarczego (Dz. U. poz. 769), które stanowią: „Art. 31. 1. Do spraw prowadzonych na podstawie ustawy zmienianej w art. 1, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 1, w brzmieniu dotychczasowym.
+
+2. Do wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy postępowań, o których mowa w:
+
+- **1)** ustawie zmienianej w art. 3 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **2)** ustawie zmienianej w art. 8 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **3)** ustawie zmienianej w art. 9 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **4)** ustawie zmienianej w art. 12 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **5)** ustawie zmienianej w art. 13 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **6)** ustawie zmienianej w art. 14 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **7)** ustawie zmienianej w art. 15 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym, z wyjątkiem określonym w art. 39;
+- **8)** ustawie zmienianej w art. 17 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **9)** ustawie zmienianej w art. 20 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym;
+- **10)** ustawie zmienianej w art. 30 stosuje się przepisy tej ustawy w brzmieniu dotychczasowym.”
+
+2. Przepis art. 282b 4 pkt 4b ustawy zmienianej w art. 9 stosuje się do planowych kontroli podatkowych wszczętych od dnia 1 stycznia 2026 r.
+
 **Art. 37.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 282b 5 ustawy zmienianej w art. 9 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 282b 5 ustawy zmienianej w art. 9, jednak nie dłużej niż do dnia 31 grudnia 2025 r.” „Art. 48. Ustawa wchodzi w życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
 
-**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+- **1)** art. 6, art. 11, art. 18, art. 22, art. 24 pkt 4, 7 i 9, art. 38 oraz art. 40 ust. 1 i 2, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 28 oraz art. 44, które wchodzą w życie po upływie 9 miesięcy od dnia ogłoszenia.”;
+- **6)** art. 42 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych (Dz. U. poz. 1235), który stanowi: „Art. 42. Ustawa wchodzi w życie po upływie 10 miesięcy od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 5 ust. 3 pkt 2 i ust. 5, które wchodzą w życie po upływie 4 lat od dnia ogłoszenia;
+- **2)** art. 14, art. 19–23, art. 25 i art. 32–35, które wchodzą w życie po upływie 4 miesięcy od dnia ogłoszenia;
+- **3)** art. 38 pkt 1, który wchodzi w życie z dniem 1 stycznia 2026 r.”;
+- **7)** art. 2 i art. 3 ustawy z dnia 12 września 2025 r. o zmianie ustawy Ordynacja podatkowa (Dz. U. poz. 1414), które stanowią: „Art. 2. Przepisy art. 54 1 pkt 7c i 2a ustawy zmienianej w art. 1 stosuje się również do kontroli podatkowej i kontroli celno-skarbowej, wszczętej w okresie 6 miesięcy przed dniem wejścia w życie niniejszej ustawy i niezakończonej przed tym dniem.
 
 **Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **8)** art. 2 i art. 3 ustawy z dnia 12 września 2025 r. o zmianie ustawy Ordynacja podatkowa (Dz. U. poz. 1417), które stanowią: „Art. 2. Przepis art. 122 2 ustawy zmienianej w art. 1 ma zastosowanie także do postępowań wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy.
+
+**Art. 3.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.”;
+
+- **9)** art. 9 ustawy z dnia 17 października 2025 r. o zmianie ustawy o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym oraz niektórych innych ustaw (Dz. U. poz. 1669), który stanowi: „Art. 9. Ustawa wchodzi w życie po upływie 16 miesięcy od dnia ogłoszenia, z wyjątkiem:
+- **1)** art. 1 pkt 1, 2 i pkt 6 w zakresie art. 56a ust. 1 i ust. 2 pkt 1 oraz art. 5, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 3 i 4, które wchodzą w życie po upływie 10 miesięcy od dnia ogłoszenia;
+- **3)** art. 3, który wchodzi w życie po upływie 12 miesięcy od dnia ogłoszenia;
+- **4)** art. 6, który wchodzi w życie z dniem 30 czerwca 2026 r.”;
+- **10)** art. 7 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o podatku od wydobycia niektórych kopalin oraz niektórych innych ustaw (Dz. U. poz. 1804), który stanowi: „Art. 7. Ustawa wchodzi w życie z dniem 1 stycznia 2026 r.”;
+- **11)** art. 13 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o systemie zarządzania emisjami gazów cieplarnianych i innych substancji oraz niektórych innych ustaw (Dz. U. poz. 1863), który stanowi: „Art. 13. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 1 pkt 5, który wchodzi w życie z dniem 1 stycznia 2026 r.”; „Art. 49. Ustawa wchodzi w życie po upływie miesiąca od dnia ogłoszenia.”;
+- **13)** art. 11–13 ustawy z dnia 13 lutego 2026 r. o zmianie ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 347), które stanowią: „Art. 11. Do wniosków o wydanie interpretacji indywidualnej, o których mowa w art. 14b 1 ustawy zmienianej w art. 2, złożonych i nierozpatrzonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy ustawy zmienianej w art. 2, w brzmieniu dotychczasowym.
+
+**Art. 12.** Dotychczasowe przepisy wykonawcze wydane na podstawie art. 14b 7 i art. 14r 6 ustawy zmienianej w art. 2 zachowują moc do dnia wejścia w życie nowych przepisów wykonawczych wydanych na podstawie art. 14b 7 i art. 14r 6 ustawy zmienianej w art. 2.
 
 **Art. 13.** Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia.”;
+
+- **14)** art. 20 ustawy z dnia 11 marca 2026 r. o zmianie ustawy o Państwowej Inspekcji Pracy oraz niektórych innych ustaw (Dz. U. poz. 473), który stanowi: „Art. 20. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia, z wyjątkiem art. 1 pkt 6 lit. b i pkt 17, art. 9–12 oraz art. 17, które wchodzą w życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 29 sierpnia 1997 r. Ordynacja podatkowa
 
 ### DZIAŁ I Przepisy ogólne
 
 **Art. 1.** Ustawa normuje:
+
+- **1)** zobowiązania podatkowe;
+- **2)** informacje podatkowe;
+- **3)** postępowanie podatkowe, kontrolę podatkową i czynności sprawdzające;
+- **4)** tajemnicę skarbową.
 
 **Art. 1a.**
 
@@ -816,6 +866,33 @@ Art. 307–323. (pominięte)
 **Art. 2a.** Niedające się usunąć wątpliwości co do treści przepisów prawa podatkowego rozstrzyga się na korzyść podatnika.
 
 **Art. 3.** Ilekroć w ustawie jest mowa o:
+
+- **1)** ustawach podatkowych rozumie się przez to ustawy dotyczące podatków, opłat oraz niepodatkowych należności budżetowych określające podmiot, przedmiot opodatkowania, powstanie obowiązku podatkowego, podstawę opodatkowania, stawki podatkowe oraz regulujące prawa i obowiązki organów podatkowych, podatników, płatników i inkasentów, a także ich następców prawnych oraz osób trzecich; przez Rzeczpospolitą Polską umów o unikaniu podwójnego opodatkowania oraz ratyfikowanych przez Rzeczpospolitą Polską innych umów międzynarodowych dotyczących problematyki podatkowej, a także przepisy aktów wykonawczych wydanych na podstawie ustaw podatkowych;
+- **3)** podatkach rozumie się przez to również:
+    - **a)** zaliczki na podatki,
+    - **b)** raty podatków, jeżeli przepisy prawa podatkowego przewidują płatność podatku w ratach,
+    - **c)** opłaty oraz niepodatkowe należności budżetowe;
+
+- **4)** księgach podatkowych rozumie się przez to księgi rachunkowe, podatkową księgę przychodów i rozchodów, ewidencje oraz rejestry, do których prowadzenia, do celów podatkowych, na podstawie odrębnych przepisów, obowiązani są podatnicy, płatnicy lub inkasenci;
+- **5)** deklaracjach rozumie się przez to również zeznania, wykazy, zestawienia, sprawozdania oraz informacje, do których składania obowiązani są, na podstawie przepisów prawa podatkowego, podatnicy, płatnicy i inkasenci;
+- **6)** ulgach podatkowych rozumie się przez to przewidziane w przepisach prawa podatkowego zwolnienia, odliczenia, obniżki albo zmniejszenia, których zastosowanie powoduje obniżenie podstawy opodatkowania lub wysokości podatku, z wyjątkiem obniżenia kwoty podatku należnego o kwotę podatku naliczonego, w rozumieniu przepisów o podatku od towarów i usług, oraz innych odliczeń stanowiących element konstrukcji tego podatku;
+- **7)** zwrocie podatku rozumie się przez to zwrot różnicy podatku lub zwrot podatku naliczonego w rozumieniu przepisów o podatku od towarów i usług, a także inne formy zwrotu podatku przewidziane w przepisach prawa podatkowego;
+- **8)** niepodatkowych należnościach budżetowych rozumie się przez to niebędące podatkami i opłatami należności stanowiące dochód budżetu państwa lub budżetu jednostki samorządu terytorialnego, wynikające ze stosunków publicznoprawnych;
+- **9)** działalności gospodarczej rozumie się przez to każdą działalność zarobkową w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826 oraz z 2026 r. poz. 507), w tym wykonywanie wolnego zawodu, a także każdą inną działalność zarobkową wykonywaną we własnym imieniu i na własny lub cudzy rachunek, nawet gdy inne ustawy nie zaliczają tej działalności do działalności gospodarczej lub osoby wykonującej taką działalność do przedsiębiorców;
+- **10)** cenie transferowej rozumie się przez to cenę transferową w rozumieniu art. 23m ust. 1 pkt 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, z późn. zm. ) oraz art. 11a ust. 1 pkt 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. );
+- **11)** (uchylony)
+- **12)** (uchylony)
+- **13)** dokumencie elektronicznym rozumie się przez to dokument elektroniczny, o którym mowa w art. 3 pkt 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703 oraz z 2026 r. poz. 160);
+- **14)** (uchylony)
+- **15)** podaniu lub deklaracji odwzorowanych cyfrowo rozumie się przez to dokument elektroniczny będący kopią elektroniczną podania lub deklaracji, złożonych w jednostkach organizacyjnych administracji skarbowej w postaci innej niż elektroniczna, który został wprowadzony do systemu teleinformatycznego Szefa Krajowej Administracji Skarbowej w sposób zapewniający niezaprzeczalność i integralność odwzorowanych danych;
+- **16)** przedsiębiorstwie w spadku rozumie się przez to przedsiębiorstwo w spadku w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw (Dz. U. z 2021 r. poz. 170 oraz z 2026 r. poz. 507);
+- **17)** zarządzie sukcesyjnym rozumie się przez to zarząd sukcesyjny w rozumieniu ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw;
+    - **a)** niepowstanie zobowiązania podatkowego, odsunięcie w czasie powstania zobowiązania podatkowego lub obniżenie jego wysokości,
+    - **b)** powstanie lub zawyżenie straty podatkowej,
+    - **c)** powstanie nadpłaty lub prawa do zwrotu podatku albo zawyżenie kwoty nadpłaty lub zwrotu podatku,
+    - **d)** brak obowiązku pobrania podatku przez płatnika, jeżeli wynika on z okoliczności wskazanych w lit. a;
+
+- **19)** środkach ograniczających umowne korzyści rozumie się przez to postanowienia ratyfikowanych przez Rzeczpospolitą Polską umów o unikaniu podwójnego opodatkowania oraz ratyfikowanych przez Rzeczpospolitą Polską innych umów międzynarodowych dotyczących problematyki podatkowej lub inne środki ograniczające lub odmawiające korzyści wynikających z tych umów.
 
 **Art. 3a.**
 
@@ -865,9 +942,7 @@ Art. 307–323. (pominięte)
 
 **Art. 7a.**
 
-1. Prawa i obowiązki podatnika oraz płatnika będącego przedsiębiorstwem w spadku, w przypadku gdy na mocy ustaw podatkowych podlega obowiązkowi podatkowemu, w okresie od ustanowienia do dnia wygaśnięcia zarządu sukcesyjnego wykonuje zarządca sukcesyjny.
-
-2. W okresie od chwili śmierci przedsiębiorcy do dnia ustanowienia zarządu sukcesyjnego albo wygaśnięcia uprawnienia do powołania zarządcy sukcesyjnego, a także w okresie od dnia, w którym zarządca sukcesyjny przestał pełnić tę o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, dokonujące czynności, o których mowa w art. 13 tej ustawy.
+1. Prawa i obowiązki podatnika oraz płatnika będącego przedsiębiorstwem w spadku, w przypadku gdy na mocy ustaw podatkowych podlega obowiązkowi podatkowemu, w okresie od ustanowienia do dnia wygaśnięcia zarządu sukcesyjnego wykonuje zarządca sukcesyjny. nienia do powołania zarządcy sukcesyjnego, a także w okresie od dnia, w którym zarządca sukcesyjny przestał pełnić tę funkcję, do dnia powołania kolejnego zarządcy sukcesyjnego albo wygaśnięcia zarządu sukcesyjnego prawa i obowiązki podatnika oraz płatnika, o których mowa w 1, wykonują osoby, o których mowa w art. 14 ustawy z dnia 5 lipca 2018 r. o zarządzie sukcesyjnym przedsiębiorstwem osoby fizycznej i innych ułatwieniach związanych z sukcesją przedsiębiorstw, dokonujące czynności, o których mowa w art. 13 tej ustawy.
 
 **Art. 8.** Płatnikiem jest osoba fizyczna, osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej, obowiązana na podstawie przepisów prawa podatkowego do obliczenia i pobrania od podatnika podatku i wpłacenia go we właściwym terminie organowi podatkowemu.
 
@@ -944,7 +1019,7 @@ Art. 307–323. (pominięte)
     - **b)** wiążącej informacji akcyzowej, o której mowa w przepisach ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym;
 
 - **3)** organ odwoławczy od decyzji i postanowień wydanych w sprawach, o których mowa w pkt 2 i 4;
-- **4)** organ pierwszej instancji właściwy w sprawach zmiany albo uchylenia:
+- **4)** organ pierwszej instancji właściwy w sprawach zmiany albo uchylenia: o których mowa w art. 14a 1 i dziale IIC.
     - **a)** wiążącej informacji stawkowej, o której mowa w przepisach ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług,
     - **b)** wiążącej informacji akcyzowej, o której mowa w przepisach ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
 
@@ -953,6 +1028,12 @@ Art. 307–323. (pominięte)
 3. Organami podatkowymi wyższego stopnia są organy odwoławcze.
 
 **Art. 13a.** Rada Ministrów może, w drodze rozporządzenia, nadać uprawnienia organów podatkowych:
+
+- **1)** Szefowi Agencji Wywiadu,
+- **2)** Szefowi Agencji Bezpieczeństwa Wewnętrznego,
+- **3)** Szefowi Centralnego Biura Antykorupcyjnego,
+- **4)** Szefowi Służby Wywiadu Wojskowego,
+- **5)** Szefowi Służby Kontrwywiadu Wojskowego jeżeli jest to uzasadnione ochroną informacji niejawnych i wymogami bezpieczeństwa państwa.
 
 **Art. 14.**
 
@@ -987,7 +1068,7 @@ Art. 307–323. (pominięte)
 - **1)** przedstawienie zagadnienia oraz wskazanie przepisów prawa podatkowego wymagających wydania interpretacji ogólnej;
 - **2)** wskazanie niejednolitego stosowania przepisów prawa podatkowego w określonych decyzjach, postanowieniach oraz interpretacjach indywidualnych wydanych przez organy podatkowe w takich samych stanach faktycznych lub zdarzeniach przyszłych oraz w takich samych stanach prawnych.
 
-3. Interpretację ogólną wydaje się, jeżeli w dniu złożenia wniosku w sprawach, o których mowa w 2 pkt 2, nie toczy się postępowanie podatkowe, kontrola podatkowa, kontrola celno-skarbowa albo od decyzji lub na postanowienie nie zostało wniesione odwołanie lub zażalenie.
+3. Interpretację ogólną wydaje się, jeżeli w dniu złożenia wniosku w sprawach, o których mowa w 2 pkt 2, nie toczy się postępowanie podatkowe, kontrola podatkowa, kontrola celno-skarbowa albo od decyzji lub na postanowienie nie zostało wniesione odwołanie lub zażalenie. patrzenia, jeżeli:
 
 - **1)** nie są spełnione warunki, o których mowa w 2 i 3, lub wniosek nie spełnia innych wymogów określonych przepisami prawa, lub
 - **2)** przedstawione we wniosku zagadnienie jest przedmiotem interpretacji ogólnej i stan prawny nie uległ w tym zakresie zmianie.
@@ -1023,7 +1104,7 @@ Art. 307–323. (pominięte)
     - **c)** dotyczące przychodów zagranicznej jednostki kontrolowanej pochodzących z transakcji z podmiotami powiązanymi, w przypadku gdy jednostka nie wytwarza w związku z tymi transakcjami wartości dodanej pod względem ekonomicznym lub wartość ta jest znikoma, zawarte odpowiednio w art. 30f ust. 3 pkt 3 lit. b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych i art. 24a ust. 3 pkt 3 lit. b ustawy z dnia 15 lutego 1992 r.
     - **d)** środki ograniczające umowne korzyści;
 
-- **3)** dotyczące globalnego podatku wyrównawczego, krajowego podatku wyrównawczego oraz podatku wyrównawczego od niedostatecznie opodatkowanych zysków, o których mowa w ustawie o opodatkowaniu wyrównawczym. prawnej tego stanu faktycznego albo zdarzenia przyszłego.
+- **3)** dotyczące globalnego podatku wyrównawczego, krajowego podatku wyrównawczego oraz podatku wyrównawczego od niedostatecznie opodatkowanych zysków, o których mowa w ustawie o opodatkowaniu wyrównawczym. zaistniałego stanu faktycznego albo zdarzenia przyszłego oraz do przedstawienia własnego stanowiska w sprawie oceny prawnej tego stanu faktycznego albo zdarzenia przyszłego.
 
 3a. W przypadku gdy przedstawiony we wniosku o wydanie interpretacji indywidualnej stan faktyczny lub zdarzenie przyszłe obejmuje transakcję, zespół transakcji lub inne zdarzenia:
 
@@ -1045,7 +1126,7 @@ Art. 307–323. (pominięte)
 
 4. Wnioskujący o wydanie interpretacji indywidualnej składa oświadczenie pod rygorem odpowiedzialności karnej za fałszywe zeznania, że elementy stanu faktycznego objęte wnioskiem o wydanie interpretacji w dniu złożenia wniosku nie są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej oraz że w tym zakresie sprawa nie została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego. W razie złożenia fałszywego oświadczenia wydana interpretacja indywidualna nie wywołuje skutków prawnych.
 
-5. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego lub zdarzenia przyszłego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej, albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego albo uzgodniona w porozumieniu podatkowym, o którym mowa w art. 20zb, albo porozumieniu inwestycyjnym, o którym mowa w art. 20zs 1, w zakresie art. 20zt pkt 5. do stanu faktycznego lub zdarzenia przyszłego opisanych we wniosku ma zastosowanie interpretacja ogólna, z jednoczesnym stwierdzeniem bezprzedmiotowości wniosku. W tym przypadku w postanowieniu wskazuje się oznaczenie interpretacji ogólnej wraz z podaniem miejsca jej publikacji. Na wydane postanowienie przysługuje zażalenie.
+5. Nie wydaje się interpretacji indywidualnej w zakresie tych elementów stanu faktycznego lub zdarzenia przyszłego, które w dniu złożenia wniosku o interpretację są przedmiotem toczącego się postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej, albo gdy w tym zakresie sprawa została rozstrzygnięta co do jej istoty w decyzji lub postanowieniu organu podatkowego albo uzgodniona w porozumieniu podatkowym, o którym mowa w art. 20zb, albo porozumieniu inwestycyjnym, o którym mowa w art. 20zs 1, w zakresie art. 20zt pkt 5. przedmiotem interpretacji ogólnej wydanej w takim samym stanie prawnym, wydaje się postanowienie o stwierdzeniu, że do stanu faktycznego lub zdarzenia przyszłego opisanych we wniosku ma zastosowanie interpretacja ogólna, z jednoczesnym stwierdzeniem bezprzedmiotowości wniosku. W tym przypadku w postanowieniu wskazuje się oznaczenie interpretacji ogólnej wraz z podaniem miejsca jej publikacji. Na wydane postanowienie przysługuje zażalenie.
 
 5b. Odmawia się, w drodze postanowienia, wydania interpretacji indywidualnej w zakresie tych elementów stanu faktycznego lub zdarzenia przyszłego, co do których istnieje uzasadnione przypuszczenie, że mogą:
 
@@ -1084,7 +1165,7 @@ Art. 307–323. (pominięte)
 
 2. W przypadku doręczenia interpretacji indywidualnej za pomocą środków komunikacji elektronicznej interpretację indywidualną uważa się za wydaną z zachowaniem terminu, o którym mowa w 1, jeżeli dowód wysłania, o którym mowa w art. 40 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych, został wystawiony przed upływem tego terminu.
 
-3. Wnioskodawca może w każdym czasie wystąpić z żądaniem poinformowania go telefonicznie albo za pomocą środków komunikacji elektronicznej o dacie wydania interpretacji indywidualnej oraz o zawartej w niej ocenie jego stanowiska albo o innym sposobie rozstrzygnięcia sprawy. Informację przekazuje się niezwłocznie, a w przypadku gdy wnioskodawca wystąpił z tym żądaniem przed wydaniem interpretacji indywidualnej niepóźniej niż w dniu roboczym następującym po dniu wydania tej interpretacji albo innego rozstrzygnięcia w sprawie. nału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+3. Wnioskodawca może w każdym czasie wystąpić z żądaniem poinformowania go telefonicznie albo za pomocą środków komunikacji elektronicznej o dacie wydania interpretacji indywidualnej oraz o zawartej w niej ocenie jego stanowiska albo o innym sposobie rozstrzygnięcia sprawy. Informację przekazuje się niezwłocznie, a w przypadku gdy wnioskodawca wystąpił z tym żądaniem przed wydaniem interpretacji indywidualnej niepóźniej niż w dniu roboczym następującym po dniu wydania tej interpretacji albo innego rozstrzygnięcia w sprawie. objaśnienia podatkowe, jeżeli stwierdzi ich nieprawidłowość, uwzględniając w szczególności orzecznictwo sądów, Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
 
 **Art. 14e.**
 
@@ -1132,7 +1213,7 @@ Art. 307–323. (pominięte)
 
 2. (uchylony)
 
-3. (uchylony) art. 171, art. 208, art. 213 w zakresie uzupełniania lub sprostowania co do skargi do sądu administracyjnego, art. 214, art. 215 1 i 3 oraz przepisy rozdziałów 3a, 5, 6, 7, 10, 14, 16 i 23 działu IV.
+3. (uchylony) art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 3b, art. 165a, art. 168, art. 169 1–2 i 4, art. 170, art. 171, art. 208, art. 213 w zakresie uzupełniania lub sprostowania co do skargi do sądu administracyjnego, art. 214, art. 215 1 i 3 oraz przepisy rozdziałów 3a, 5, 6, 7, 10, 14, 16 i 23 działu IV.
 
 **Art. 14i.**
 
@@ -1235,7 +1316,7 @@ Art. 307–323. (pominięte)
 
 5. W zakresie nieuregulowanym w 1–4 przepisy niniejszego rozdziału stosuje się odpowiednio.
 
-6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku wspólnego zawierającego dane identyfikujące zainteresowanych oraz dane wskazane w 2 i w art. 14b 3–5, a także sposób uiszczenia opłaty, o której mowa w 4, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców. wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym, podmiot publiczny w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426) w zakresie mającym wpływ na sposób obliczenia wynagrodzenia w związku z zawieraną umową o partnerstwie publiczno-prywatnym, lub zamawiający w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688) w zakresie mającym wpływ na sposób obliczenia wynagrodzenia koncesjonariusza wraz z ewentualną płatnością od zamawiającego w związku z zawieraną umową koncesji na roboty budowlane lub usługi. Przepisu art. 14b 4 nie stosuje się.
+6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór wniosku wspólnego zawierającego dane identyfikujące zainteresowanych oraz dane wskazane w 2 i w art. 14b 3–5, a także sposób uiszczenia opłaty, o której mowa w 4, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców. z dnia 11 września 2019 r. Prawo zamówień publicznych (Dz. U. z 2024 r. poz. 1320, z późn. zm. ) w zakresie mającym wpływ na sposób obliczenia ceny w związku z udzielanym zamówieniem publicznym, podmiot publiczny w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 1637 oraz z 2026 r. poz. 426) w zakresie mającym wpływ na sposób obliczenia wynagrodzenia w związku z zawieraną umową o partnerstwie publiczno-prywatnym, lub zamawiający w rozumieniu ustawy z dnia 21 października 2016 r. o umowie koncesji na roboty budowlane lub usługi (Dz. U. z 2025 r. poz. 1688) w zakresie mającym wpływ na sposób obliczenia wynagrodzenia koncesjonariusza wraz z ewentualną płatnością od zamawiającego w związku z zawieraną umową koncesji na roboty budowlane lub usługi. Przepisu art. 14b 4 nie stosuje się.
 
 2. Przepisy art. 14k–14n stosuje się odpowiednio do wykonawcy, partnera prywatnego lub koncesjonariusza.
 
@@ -1290,10 +1371,9 @@ Art. 307–323. (pominięte)
 
 7. Powzięcie uzasadnionego przypuszczenia, o którym mowa w 5, może wynikać również z łącznej oceny więcej niż jednego wniosku o wydanie opinii w sprawie opodatkowania wyrównawczego, nawet jeżeli wnioski zostały złożone przez różnych wnioskodawców.
 
-8. Na postanowienia wydane na podstawie 4 i 5 przysługuje zażalenie.
+8. Na postanowienia wydane na podstawie 4 i 5 przysługuje zażalenie. stanowiska:
 
-9. Dyrektor Krajowej Informacji Skarbowej wydaje opinię w sprawie opodatkowania wyrównawczego po uzyskaniu stanowiska:
-
+- **1)** ministra właściwego do spraw finansów publicznych w przypadku gdy zainteresowany jest stroną zawartego porozumienia inwestycyjnego, o którym mowa w art. 20zs 1;
 - **2)** Szefa Krajowej Administracji Skarbowej w przypadku gdy zainteresowany jest stroną zawartej umowy o współdziałanie, o której mowa w art. 20s.
 
 10. Dyrektor Krajowej Informacji Skarbowej może zwrócić się do zainteresowanego o wyjaśnienie wątpliwości co do treści wniosku o opinię w sprawie opodatkowania wyrównawczego lub zorganizować spotkanie uzgodnieniowe z zainteresowanym w celu wyjaśnienia tych wątpliwości.
@@ -1509,7 +1589,16 @@ Art. 307–323. (pominięte)
 
 **Art. 20u.** Podatnik, który zawarł umowę o współdziałanie, jest obowiązany do:
 
+- **1)** dobrowolnego i prawidłowego wykonywania obowiązków wynikających z przepisów prawa podatkowego;
+- **2)** posiadania skutecznego i adekwatnego zbioru zidentyfikowanych i opisanych procesów oraz procedur dotyczących zarządzania wykonywaniem obowiązków wynikających z przepisów prawa podatkowego i zapewniających ich prawidłowe wykonanie (ramy wewnętrznego nadzoru podatkowego);
+- **3)** zgłaszania Szefowi Krajowej Administracji Skarbowej, bez wezwania, istotnych zagadnień podatkowych, które rozsądnie oceniając, mogą stać się źródłem sporu między podatnikiem a organem podatkowym, zgodnie z określonymi w umowie o współdziałanie progami istotności;
+- **4)** niezwłocznego przekazywania Szefowi Krajowej Administracji Skarbowej, bez wezwania, istotnych informacji mogących mieć wpływ na uzyskanie korzyści podatkowej przez podatnika, zgodnie z określonymi w umowie o współdziałanie progami istotności.
+
 **Art. 20v.** W zakresie objętym umową o współdziałanie Szef Krajowej Administracji Skarbowej:
+
+- **1)** dostosowuje formę i częstotliwość działań weryfikujących poprawność wykonywania przez podatnika obowiązków wynikających z przepisów prawa podatkowego do aktualnego poziomu skuteczności i adekwatności ram wewnętrznego nadzoru podatkowego i dotychczasowej współpracy z organami podatkowymi;
+- **2)** przeprowadza kontrolę celno-skarbową podatnika;
+- **3)** wyraża zgodę na podjęcie wobec podatnika czynności sprawdzających na podstawie art. 274c przez inne organy Krajowej Administracji Skarbowej oraz wystąpienie do podatnika w trybie art. 79 ustawy z dnia 16 listopada 2016 r. o Krajowej Administracji Skarbowej.
 
 **Art. 20x.**
 
@@ -1527,6 +1616,11 @@ Art. 307–323. (pominięte)
 **Art. 20y.** W okresie 2 lat od dnia rozwiązania umowy o współdziałanie przez Szefa Krajowej Administracji Skarbowej na podstawie art. 20x 2 podatnik ten nie może złożyć wniosku o zawarcie kolejnej umowy o współdziałanie.
 
 **Art. 20z.** Z dniem rozwiązania umowy o współdziałanie Szef Krajowej Administracji Skarbowej może wypowiedzieć porozumienie podatkowe, o którym mowa w rozdziale 2. Art. 20za. 1. Szef Krajowej Administracji Skarbowej prowadzi ewidencję podatników, z którymi zawarł umowę o współdziałanie. 2. Ewidencja, o której mowa w 1, zawiera:
+
+- **1)** nazwę i numer identyfikacji podatkowej podatnika, z którym została zawarta umowa o współdziałanie;
+- **2)** datę rozpoczęcia obowiązywania umowy o współdziałanie.
+
+3. Ewidencja, o której mowa w 1, jest jawna i udostępnia się ją w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
 #### Rozdział 2 Porozumienia podatkowe
 
@@ -1547,9 +1641,9 @@ Art. 307–323. (pominięte)
 
 3. Jeżeli w postępowaniu podatkowym organ podatkowy stwierdzi, że podatnik, mimo ciążącego na nim obowiązku, nie zapłacił w całości lub w części podatku, nie złożył deklaracji albo że wysokość zobowiązania podatkowego jest inna niż wykazana w deklaracji, albo powstałego zobowiązania nie wykazano, organ podatkowy wydaje decyzję, w której określa wysokość zobowiązania podatkowego.
 
-3a. Jeżeli w postępowaniu podatkowym organ podatkowy stwierdzi, że w złożonej deklaracji wykazano nieprawidłową kwotę zwrotu podatku lub kwotę podatku naliczonego przeniesionego do rozliczenia lub kwotę nadwyżki podatku naliczonego nad należnym w rozumieniu przepisów o podatku od towarów i usług do odliczenia w następnych okresach rozliczeniowych, w deklaracji nie wykazano tych kwot albo podatnik nie złożył deklaracji, mimo ciążącego na nim obowiązku, organ podatkowy wydaje decyzję, w której określa prawidłową wysokość zwrotu podatku lub nadwyżki podatku naliczonego nad należnym do odliczenia w następnych okresach rozliczeniowych.
+3a. Jeżeli w postępowaniu podatkowym organ podatkowy stwierdzi, że w złożonej deklaracji wykazano nieprawidłową kwotę zwrotu podatku lub kwotę podatku naliczonego przeniesionego do rozliczenia lub kwotę nadwyżki podatku naliczonego nad należnym w rozumieniu przepisów o podatku od towarów i usług do odliczenia w następnych okresach rozliczeniowych, w deklaracji nie wykazano tych kwot albo podatnik nie złożył deklaracji, mimo ciążącego na nim obowiązku, organ podatkowy wydaje decyzję, w której określa prawidłową wysokość zwrotu podatku lub nadwyżki podatku naliczonego nad należnym do odliczenia w następnych okresach rozliczeniowych. zaliczki na podatek lub raty podatku bez złożenia deklaracji, a obowiązku tego nie wykonał w całości lub w części.
 
-4. Przepisy 3 i art. 53a stosuje się odpowiednio, gdy podatnik lub inny podmiot jest obowiązany do zapłaty podatku, zaliczki na podatek lub raty podatku bez złożenia deklaracji, a obowiązku tego nie wykonał w całości lub w części. gólne przewidują inny sposób ustalenia wysokości zobowiązania podatkowego albo w toku postępowania podatkowego stwierdzono, że dane zawarte w deklaracji, mogące mieć wpływ na wysokość zobowiązania podatkowego, są niezgodne ze stanem faktycznym.
+5. Jeżeli przepisy prawa podatkowego nakładają na podatnika obowiązek złożenia deklaracji, wysokość zobowiązania podatkowego, o którym mowa w 1 pkt 2, ustala się zgodnie z danymi zawartymi w deklaracji, chyba że przepisy szczególne przewidują inny sposób ustalenia wysokości zobowiązania podatkowego albo w toku postępowania podatkowego stwierdzono, że dane zawarte w deklaracji, mogące mieć wpływ na wysokość zobowiązania podatkowego, są niezgodne ze stanem faktycznym.
 
 **Art. 21a.** Podatnik, który zamierza skorzystać z ulgi podatkowej, której warunkiem, określonym w odrębnych przepisach, jest brak zaległości podatkowych, może złożyć wniosek do właściwego organu podatkowego o przeprowadzenie postępowania podatkowego. Do wydania decyzji określającej wysokość zobowiązania podatkowego przepis art. 21 3 stosuje się odpowiednio.
 
@@ -1591,9 +1685,7 @@ Art. 307–323. (pominięte)
 
 - **1)** pomimo braku ksiąg podatkowych dowody uzyskane w toku postępowania, pozwalają na określenie podstawy opodatkowania;
 - **2)** dane wynikające z ksiąg podatkowych, uzupełnione dowodami uzyskanymi w toku postępowania, pozwalają na określenie podstawy opodatkowania.
-
-3. Podstawę opodatkowania określa się w drodze oszacowania, stosując w szczególności następujące metody:
-
+- **1)** porównawczą wewnętrzną polegającą na porównaniu wysokości obrotów w tym samym przedsiębiorstwie za poprzednie okresy, w których znana jest wysokość obrotu;
 - **2)** porównawczą zewnętrzną polegającą na porównaniu wysokości obrotów w innych przedsiębiorstwach prowadzących działalność o podobnym zakresie i w podobnych warunkach;
 - **3)** remanentową polegającą na porównaniu wartości majątku przedsiębiorstwa na początku i na końcu okresu, z uwzględnieniem wskaźnika szybkości obrotu;
 - **4)** produkcyjną polegającą na ustaleniu zdolności produkcyjnej przedsiębiorstwa;
@@ -1637,11 +1729,9 @@ Art. 307–323. (pominięte)
 - **1)** sposób ustalania wynagrodzenia płatników i inkasentów pobierających podatki na rzecz budżetu państwa, w relacji do kwoty pobranych podatków, oraz tryb pobrania wynagrodzenia, uwzględniając przy ustalaniu wynagrodzenia rodzaj pobranego podatku, a także sprawność pobrania wynagrodzenia.
 - **2)** (uchylony)
 
-4. Rada gminy, rada powiatu oraz sejmik województwa może ustalać wynagrodzenie dla płatników lub inkasentów z tytułu poboru podatków stanowiących dochody, odpowiednio, budżetu gminy, powiatu lub województwa.
+4. Rada gminy, rada powiatu oraz sejmik województwa może ustalać wynagrodzenie dla płatników lub inkasentów z tytułu poboru podatków stanowiących dochody, odpowiednio, budżetu gminy, powiatu lub województwa. obejmuje majątek odrębny podatnika oraz majątek wspólny podatnika i jego małżonka.
 
-**Art. 29.**
-
-1. W przypadku osób pozostających w związku małżeńskim odpowiedzialność, o której mowa w art. 26, obejmuje majątek odrębny podatnika oraz majątek wspólny podatnika i jego małżonka.
+2. Skutki prawne ograniczenia, zniesienia, wyłączenia lub ustania wspólności majątkowej nie odnoszą się do zobowiązań podatkowych powstałych przed dniem:
 
 - **1)** zawarcia umowy o ograniczeniu lub wyłączeniu ustawowej wspólności majątkowej;
 - **2)** zniesienia wspólności majątkowej prawomocnym orzeczeniem sądu;
@@ -1672,9 +1762,7 @@ Art. 307–323. (pominięte)
 - **6)** niewykonanie przez płatnika obowiązku nastąpiło w odniesieniu do podmiotu, dla którego na podstawie publicznie dostępnych informacji nie jest możliwe ustalenie udziałowca, akcjonariusza lub podmiotu o zbliżonych uprawnieniach, który posiada co najmniej 10 % udziałów w kapitale lub co najmniej 10 % praw głosu w organach kontrolnych, stanowiących lub zarządzających, lub co najmniej 10 % praw do uczestnictwa w zyskach;
 - **7)** płatnik jest spółką nieruchomościową w rozumieniu art. 5a pkt 49 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 4a pkt 35 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych.
 
-5b. W przypadkach, o których mowa w art. 41 ust. 4d i 10 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 26 ust. 2c ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli podatek nie został pobrany z uwagi na niewykonanie obowiązków określonych w art. 41 ust. 4da ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 26 ust. 2ca ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych lub z uwagi na niezgodność informacji przekazanej na podstawie tych przepisów z rzeczywistością, odpowiedzialność za podatek niepobrany ponosi podmiot, który dokonał wypłaty za pośrednictwem podmiotów prowadzących rachunki papierów wartościowych albo rachunki zbiorcze.
-
-5c. W przypadkach, o których mowa w art. 41 ust. 24 pkt 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 26 ust. 1aa pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli złożone przez emitenta oświadczenie, o którym mowa w art. 41 ust. 24a ustawy z dnia 26 lipca 1991 r. o podatku prawnych jest niezgodne z rzeczywistością, odpowiedzialność za podatek niepobrany ponosi emitent.
+5b. W przypadkach, o których mowa w art. 41 ust. 4d i 10 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 26 ust. 2c ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli podatek nie został pobrany z uwagi na niewykonanie obowiązków określonych w art. 41 ust. 4da ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 26 ust. 2ca ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych lub z uwagi na niezgodność informacji przekazanej na podstawie tych przepisów z rzeczywistością, odpowiedzialność za podatek niepobrany ponosi podmiot, który dokonał wypłaty za pośrednictwem podmiotów prowadzących rachunki papierów wartościowych albo rachunki zbiorcze. od osób fizycznych oraz art. 26 ust. 1aa pkt 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, jeżeli złożone przez emitenta oświadczenie, o którym mowa w art. 41 ust. 24a ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz art. 26 ust. 1ae ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych jest niezgodne z rzeczywistością, odpowiedzialność za podatek niepobrany ponosi emitent.
 
 6. Decyzję, o której mowa w 4 i 5, organ podatkowy może wydać również po zakończeniu roku podatkowego lub innego okresu rozliczeniowego.
 
@@ -1721,6 +1809,10 @@ Art. 307–323. (pominięte)
 
 **Art. 33b.** Przepis art. 33 stosuje się odpowiednio do zabezpieczenia na majątku:
 
+- **1)** płatnika lub inkasenta; decyzja o zabezpieczeniu wygasa z dniem doręczenia decyzji o odpowiedzialności podatkowej;
+- **2)** osób, o których mowa w art. 115, art. 116 i art. 116a, po doręczeniu im decyzji orzekającej o odpowiedzialności podatkowej za zaległości podatkowe, jeżeli zachodzi uzasadniona obawa, że zobowiązanie nie zostanie przez spółkę lub inną osobę prawną wykonane, w szczególności gdy spółka lub inna osoba prawna trwale nie uiszcza wymagalnych zobowiązań o charakterze publicznoprawnym lub dokonuje czynności polegających na zbywaniu majątku, które mogą utrudnić lub udaremnić postępowanie egzekucyjne; decyzja o zabezpieczeniu wygasa w momencie wszczęcia postępowania egzekucyjnego wobec osoby trzeciej;
+- **3)** podatnika, o którym mowa w art. 117b i art. 117ba, po doręczeniu mu decyzji orzekającej o odpowiedzialności podatkowej za zaległości podatkowe dostawcy towarów lub usługodawcy, jeżeli zachodzi uzasadniona obawa, że zobowiązanie nie zostanie przez dostawcę towarów lub usługodawcę wykonane, w szczególności gdy dostawca towarów lub usługodawca trwale nie uiszcza wymagalnych zobowiązań o charakterze publicznoprawnym lub dokonuje czynności polegających na zbywaniu majątku, które mogą utrudnić lub udaremnić postępowanie egzekucyjne; decyzja o zabezpieczeniu wygasa w momencie wszczęcia postępowania egzekucyjnego wobec podatnika, o którym mowa w art. 117b i art. 117ba.
+
 **Art. 33c.**
 
 1. Przepisy art. 33 2 pkt 2, 4 pkt 2 oraz art. 33a 1 pkt 2 stosuje się odpowiednio do decyzji określającej wysokość odsetek za zwłokę, o której mowa w art. 53a.
@@ -1743,9 +1835,13 @@ Art. 307–323. (pominięte)
 
 3. W razie złożenia wniosku o zabezpieczenie w formie określonej w 2 zabezpieczenie w trybie przepisów o postępowaniu egzekucyjnym w administracji, w zakresie objętym tym wnioskiem, może nastąpić po wydaniu postanowienia o odmowie przyjęcia zabezpieczenia.
 
-4. Jeżeli wniosek o zabezpieczenie w formie określonej w 2 złożono po ustanowieniu zabezpieczenia w trybie przepisów o postępowaniu egzekucyjnym w administracji, zakres zabezpieczenia ustanowionego w trybie przepisów o postępowaniu egzekucyjnym w administracji uchyla się lub zmienia, w zakresie przyjętego zabezpieczenia.
+4. Jeżeli wniosek o zabezpieczenie w formie określonej w 2 złożono po ustanowieniu zabezpieczenia w trybie przepisów o postępowaniu egzekucyjnym w administracji, zakres zabezpieczenia ustanowionego w trybie przepisów o postępowaniu egzekucyjnym w administracji uchyla się lub zmienia, w zakresie przyjętego zabezpieczenia. ustawy z dnia 19 marca 2004 r. Prawo celne (Dz. U. z 2024 r. poz. 1373).
 
-**Art. 33e.** Gwarantem lub poręczycielem może być osoba wpisana do wykazu gwarantów, o którym mowa w art. 52 ustawy z dnia 19 marca 2004 r. Prawo celne (Dz. U. z 2024 r. poz. 1373). 2. W przypadku przyjęcia zabezpieczenia, o którym mowa w art. 33d 2, strona może wystąpić o przedłużenie terminu przyjętego zabezpieczenia.
+**Art. 33f.**
+
+1. Strona może dowolnie wybrać formę lub formy zabezpieczenia, o których mowa w art. 33d 2.
+
+2. W przypadku przyjęcia zabezpieczenia, o którym mowa w art. 33d 2, strona może wystąpić o przedłużenie terminu przyjętego zabezpieczenia.
 
 **Art. 33g.** W sprawie przyjęcia zabezpieczenia, o którym mowa w art. 33d 2, lub przedłużenia terminu przyjętego zabezpieczenia, o którym mowa w art. 33f 2, wydaje się postanowienie, na które przysługuje zażalenie.
 
@@ -1793,13 +1889,9 @@ Art. 307–323. (pominięte)
 
 **Art. 36.** (uchylony)
 
-**Art. 37.** (uchylony)
+**Art. 37.** (uchylony) podatnika, płatnika, inkasenta, następców prawnych oraz osób trzecich odpowiadających za zaległości podatkowe. 2. Jeżeli przedmiot hipoteki przymusowej nie posiada księgi wieczystej, zabezpieczenie zobowiązań podatkowych dokonywane jest przez złożenie wniosku o wpis do zbioru dokumentów.
 
-**Art. 38.**
-
-1. Organy podatkowe mogą występować z wnioskiem o założenie księgi wieczystej dla nieruchomości podatnika, płatnika, inkasenta, następców prawnych oraz osób trzecich odpowiadających za zaległości podatkowe.
-
-2. Jeżeli przedmiot hipoteki przymusowej nie posiada księgi wieczystej, zabezpieczenie zobowiązań podatkowych dokonywane jest przez złożenie wniosku o wpis do zbioru dokumentów. nym w administracji, chyba że z przedmiotu hipoteki jest prowadzona egzekucja przez sądowy organ egzekucyjny.
+**Art. 38a.** Zaspokojenie z przedmiotu hipoteki przymusowej następuje w trybie przepisów o postępowaniu egzekucyjnym w administracji, chyba że z przedmiotu hipoteki jest prowadzona egzekucja przez sądowy organ egzekucyjny.
 
 **Art. 39.**
 
@@ -1840,9 +1932,9 @@ Art. 307–323. (pominięte)
 
 - **1)** datę ustanowienia zastawu skarbowego;
 - **2)** podstawę prawną wniosku o wpis zastawu skarbowego;
-- **3)** oznaczenie organu występującego z wnioskiem o wpis zastawu skarbowego;
-- **4)** dane dotyczące podmiotu, o którym mowa w art. 41 1 i 3: imię i nazwisko lub nazwę (firmę), miejsce zamieszkania lub adres siedziby oraz identyfikator podatkowy, a w przypadku nierezydenta numer paszportu lub inny numer identyfikacyjny, o ile nie posiada identyfikatora podatkowego, oraz znany adres do doręczeń w Rzeczypospolitej Polskiej;
+- **3)** oznaczenie organu występującego z wnioskiem o wpis zastawu skarbowego; lub adres siedziby oraz identyfikator podatkowy, a w przypadku nierezydenta numer paszportu lub inny numer identyfikacyjny, o ile nie posiada identyfikatora podatkowego, oraz znany adres do doręczeń w Rzeczypospolitej Polskiej;
 - **5)** dane identyfikujące przedmiot zastawu skarbowego;
+- **6)** wysokość zobowiązania podatkowego lub zaległości podatkowej zabezpieczonej zastawem skarbowym;
 - **7)** datę wygaśnięcia i wykreślenia zastawu skarbowego.
 
 3. Rejestr zastawów jest prowadzony w systemie teleinformatycznym przez Szefa Krajowej Administracji Skarbowej.
@@ -1891,14 +1983,12 @@ Art. 307–323. (pominięte)
 
 2. Wnioski i inne dokumenty przesyła się do organu prowadzącego rejestr zastawów za pomocą środków komunikacji elektronicznej.
 
-**Art. 46b.**
-
-1. Wnioski o wpis składa się na urzędowym formularzu.
-
 2. Rozpoznając wniosek o wpis, organ prowadzący rejestr zastawów bada:
 
 - **1)** treść i formę wniosku;
-- **2)** zgodność danych wskazanych we wniosku z dostępnymi mu danymi zgromadzonymi w systemach teleinformatycznych, przy pomocy których są prowadzone rejestry publiczne osób, ruchomości lub zbywalnych praw majątkowych. nanie wpisu, o przyczynie niedokonania wpisu.
+- **2)** zgodność danych wskazanych we wniosku z dostępnymi mu danymi zgromadzonymi w systemach teleinformatycznych, przy pomocy których są prowadzone rejestry publiczne osób, ruchomości lub zbywalnych praw majątkowych.
+
+3. Brak wymaganej treści lub niezachowanie wymaganej formy wniosku, lub niezgodność danych, o których mowa w 2, stanowi przeszkodę do dokonania wpisu. Organ prowadzący rejestr zastawów informuje organ, który wystąpił o dokonanie wpisu, o przyczynie niedokonania wpisu.
 
 **Art. 46c.**
 
@@ -1933,7 +2023,16 @@ Art. 307–323. (pominięte)
 
 **Art. 46f.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
-**Art. 46g.** Zastaw skarbowy wygasa:
+- **1)** strukturę rejestru zastawów,
+- **2)** sposób przesyłania wniosków o wpis zastawu skarbowego do rejestru zastawów i innych dokumentów,
+- **3)** wzór wniosku o wpis zastawu skarbowego do rejestru zastawów,
+- **4)** wzór wniosku o wydanie wypisu z rejestru zastawów i zaświadczenia,
+- **5)** wysokość opłaty za wydanie wypisu z rejestru zastawów i zaświadczenia,
+- **6)** tryb zapewnienia dostępu do rejestru zastawów organom uprawnionym do występowania o wpis zastawu skarbowego do tego rejestru oraz organom egzekucyjnym, innym niż naczelnicy urzędów skarbowych przy uwzględnieniu potrzeby zapewnienia bezpieczeństwa przesyłania dokumentów, ujednolicenia treści składanych wniosków, sprawności postępowania w sprawie dokonywania wpisu, ułatwienia pozyskiwania informacji zawartych w rejestrze, sprawności wydawania wypisów z rejestru zastawów i zaświadczeń oraz kosztów związanych z wydaniem wypisu z tego rejestru i zaświadczenia.
+- **1)** z mocy prawa, z dniem wygaśnięcia zobowiązania podatkowego albo
+- **2)** z dniem:
+    - **a)** sprzedaży przedmiotu zastawu skarbowego w postępowaniu egzekucyjnym lub upadłościowym albo
+    - **b)** wykreślenia wpisu z rejestru zastawów.
 
 **Art. 46h.**
 
@@ -1945,6 +2044,10 @@ Art. 307–323. (pominięte)
 2. Ostateczną decyzję o wykreśleniu zastawu skarbowego doręcza się również organowi prowadzącemu rejestr zastawów, który z urzędu wykreśla zastaw skarbowy z tego rejestru.
 
 **Art. 46i.** Na wniosek organu uprawnionego do występowania w imieniu Skarbu Państwa lub jednostki samorządu terytorialnego, o którym mowa w art. 46a 1, wykreśla się zastaw skarbowy z rejestru zastawów w przypadku stwierdzenia przez ten organ:
+
+- **1)** wygaśnięcia zastawu skarbowego zgodnie z art. 46g pkt 1 i 2 lit. a;
+- **2)** utraty zasadności istnienia zastawu skarbowego, w szczególności znacznego obniżenia wartości przedmiotu tego zastawu;
+- **3)** ustanowienia innego zabezpieczenia zobowiązania podatkowego lub zaległości podatkowej zabezpieczonych uprzednio tym zastawem skarbowym.
 
 #### Rozdział 4 Terminy płatności
 
@@ -1968,13 +2071,9 @@ Art. 307–323. (pominięte)
 
 2. Przepisy 1 stosuje się odpowiednio do terminów dotyczących płatników lub inkasentów.
 
-3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość rzeczową organów podatkowych w sprawach, o których mowa w 1, uwzględniając właściwość organów w zakresie czynności, dla których przewidziane są terminy, oraz termin udzielanego odroczenia.
+3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość rzeczową organów podatkowych w sprawach, o których mowa w 1, uwzględniając właściwość organów w zakresie czynności, dla których przewidziane są terminy, oraz termin udzielanego odroczenia. w którym, zgodnie z decyzją, powinna nastąpić zapłata odroczonego podatku lub zaległości podatkowej wraz z odsetkami za zwłokę albo poszczególnych rat, na jakie został rozłożony podatek lub zaległość podatkowa wraz z odsetkami za zwłokę.
 
-**Art. 49.**
-
-1. W razie wydania decyzji na podstawie art. 67a 1 pkt 1 lub pkt 2 nowym terminem płatności jest dzień, w którym, zgodnie z decyzją, powinna nastąpić zapłata odroczonego podatku lub zaległości podatkowej wraz z odsetkami za zwłokę albo poszczególnych rat, na jakie został rozłożony podatek lub zaległość podatkowa wraz z odsetkami za zwłokę.
-
-2. Jeżeli w terminie określonym w decyzji podatnik nie dokonał zapłaty odroczonego podatku lub zaległości podatkowej wraz z odsetkami za zwłokę lub nie zapłacił którejkolwiek z rat, na jakie został rozłożony podatek lub zaległość
+2. Jeżeli w terminie określonym w decyzji podatnik nie dokonał zapłaty odroczonego podatku lub zaległości podatkowej wraz z odsetkami za zwłokę lub nie zapłacił którejkolwiek z rat, na jakie został rozłożony podatek lub zaległość podatkowa wraz z odsetkami za zwłokę, terminem płatności podatku lub zaległości podatkowej objętej odroczeniem lub ratą staje się odpowiednio termin określony w art. 47 1–3.
 
 3. Przepisy 1 i 2 stosuje się odpowiednio do odroczonych lub rozłożonych na raty należności płatników lub inkasentów.
 
@@ -2012,11 +2111,11 @@ Art. 307–323. (pominięte)
 
 1. Od zaległości podatkowych, z zastrzeżeniem art. 52 1 pkt 2 i art. 54, naliczane są odsetki za zwłokę.
 
-2. Przepis 1 stosuje się również do nieuregulowanych w terminie zaliczek na podatek w części przekraczającej wysokość podatku należnego za okres rozliczeniowy.
+2. Przepis 1 stosuje się również do nieuregulowanych w terminie zaliczek na podatek w części przekraczającej wysokość podatku należnego za okres rozliczeniowy. podatkowe, z zastrzeżeniem art. 53a, art. 62 4, art. 66 5, art. 67a 1 pkt 1 lub 2 i art. 76a 1.
 
-3. Odsetki za zwłokę nalicza podatnik, płatnik, inkasent, następca prawny lub osoba trzecia odpowiadająca za zaległości podatkowe, z zastrzeżeniem art. 53a, art. 62 4, art. 66 5, art. 67a 1 pkt 1 lub 2 i art. 76a 1.
+4. Odsetki za zwłokę naliczane są od dnia następującego po dniu upływu terminu płatności podatku lub terminu, w którym płatnik lub inkasent był obowiązany dokonać wpłaty podatku na rachunek organu podatkowego.
 
-4. Odsetki za zwłokę naliczane są od dnia następującego po dniu upływu terminu płatności podatku lub terminu, w którym płatnik lub inkasent był obowiązany dokonać wpłaty podatku na rachunek organu podatkowego. nadpłaty, zwrotu podatku, zwrotu oprocentowania lub zaliczenia na poczet zaległości podatkowych lub na poczet bieżących lub przyszłych zobowiązań podatkowych.
+5. W przypadkach, o których mowa w art. 52 1 pkt 1, odsetki za zwłokę naliczane są odpowiednio od dnia zwrotu nadpłaty, zwrotu podatku, zwrotu oprocentowania lub zaliczenia na poczet zaległości podatkowych lub na poczet bieżących lub przyszłych zobowiązań podatkowych.
 
 6. W przypadkach, o których mowa w art. 52a, odsetki za zwłokę naliczane są od dnia pobrania wynagrodzenia.
 
@@ -2044,9 +2143,8 @@ Art. 307–323. (pominięte)
 
 2. Przepisu 1 pkt 3 i 7 nie stosuje się, jeżeli do opóźnienia w wydaniu decyzji przyczyniła się strona lub jej przedstawiciel lub opóźnienie powstało z przyczyn niezależnych od organu.
 
-2a. Do terminu i okresu, o których mowa w 1 pkt 7c, nie wlicza się:
-
-- **1)** terminów przewidzianych w przepisach prawa podatkowego dla dokonania określonych czynności; w art. 119gb 2 i art. 284a 5;
+- **1)** terminów przewidzianych w przepisach prawa podatkowego dla dokonania określonych czynności;
+- **2)** okresów zawieszenia kontroli podatkowej i kontroli celno-skarbowej, z wyjątkiem przypadków, o których mowa w art. 119gb 2 i art. 284a 5;
 - **3)** okresów opóźnień spowodowanych z winy strony lub jej przedstawiciela albo z przyczyn niezależnych od organu.
 
 3. Przepisy 1 pkt 2, 3 i 7 stosuje się również w razie uchylenia decyzji i przekazania sprawy do ponownego rozpatrzenia oraz stwierdzenia nieważności decyzji. W tym przypadku terminy należy liczyć sumując na poszczególnych etapach okresy trwania postępowania.
@@ -2088,6 +2186,13 @@ Art. 307–323. (pominięte)
 
 **Art. 56b.** Podwyższoną stawkę odsetek za zwłokę w wysokości 150 % stawki odsetek za zwłokę stosuje się do zaległości w podatku od towarów i usług oraz w podatku akcyzowym w przypadku:
 
+- **1)** zaniżenia zobowiązania podatkowego, zawyżenia kwoty nadpłaty lub zwrotu podatku ujawnionych przez organ podatkowy w toku kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego,
+- **2)** korekty deklaracji: o minimalnym wynagrodzeniu za pracę (Dz. U. z 2024 r. poz. 1773), obowiązującego w dniu następującym po dniu upływu terminu płatności zobowiązania lub terminu zwrotu;
+    - **a)** złożonej po doręczeniu zawiadomienia o zamiarze wszczęcia kontroli podatkowej, a w przypadkach gdy nie stosuje się zawiadomienia po zakończeniu kontroli podatkowej,
+    - **c)** złożonej po doręczeniu upoważnienia do przeprowadzenia kontroli celno-skarbowej jeżeli kwota zaniżenia zobowiązania podatkowego, zawyżenia kwoty nadpłaty lub zwrotu podatku przekracza 25 % kwoty należnej i jest wyższa niż pięciokrotna wysokość minimalnego wynagrodzenia w rozumieniu ustawy z dnia 10 października 2002 r.
+
+- **3)** ujawnienia przez organ podatkowy w toku czynności sprawdzających, kontroli podatkowej, kontroli celno-skarbowej lub postępowania podatkowego niezłożenia deklaracji, mimo ciążącego obowiązku oraz braku zapłaty podatku. Art. 56ba. Przepisu art. 56b nie stosuje się do zaległości w podatku od towarów i usług, w przypadku gdy ustala się dodatkowe zobowiązanie podatkowe, o którym mowa w art. 112b lub art. 112c ustawy o podatku od towarów i usług.
+
 **Art. 56c.** Stawki odsetek za zwłokę, o których mowa w art. 56–56b, ulegają obniżeniu lub podwyższeniu w stopniu odpowiadającym obniżeniu lub podwyższeniu podstawowej stopy oprocentowania kredytu lombardowego, począwszy od dnia, w którym stopa ta uległa zmianie.
 
 **Art. 56d.** Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” stawki odsetek za zwłokę, o których mowa w art. 56–56b.
@@ -2122,11 +2227,9 @@ Art. 307–323. (pominięte)
 - **2)** środków ograniczających umowne korzyści,
 - **3)** art. 24 ust. 19 i 20 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, a także art. 12 ust. 13 i 14 oraz art. 22c ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych,
 - **4)** przepisów rozdziału 4b oddziału 2 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub rozdziału 1a oddziału 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych,
-- **5)** art. 30 1, gdy oświadczenie, o którym mowa w art. 41 ust. 15 lub 21 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, lub oświadczenie, o którym mowa w art. 26 ust. 7a lub 7g ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, nie było zgodne z prawdą, płatnik nie dokonał wymaganej weryfikacji lub podjęta przez płatnika weryfikacja nie była adekwatna do charakteru i skali działalności płatnika organ podatkowy ustala jednocześnie dodatkowe zobowiązanie podatkowe na podstawie przepisów niniejszego rozdziału.
+- **5)** art. 30 1, gdy oświadczenie, o którym mowa w art. 41 ust. 15 lub 21 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, lub oświadczenie, o którym mowa w art. 26 ust. 7a lub 7g ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, nie było zgodne z prawdą, płatnik nie dokonał wymaganej weryfikacji lub podjęta przez płatnika weryfikacja nie była adekwatna do charakteru i skali działalności płatnika organ podatkowy ustala jednocześnie dodatkowe zobowiązanie podatkowe na podstawie przepisów niniejszego rozdziału. innych niż określone w 1.
 
-2. Przepisów niniejszego rozdziału nie stosuje się do ustalania dodatkowego zobowiązania podatkowego w sprawach innych niż określone w 1.
-
-3. W przypadkach, o których mowa w 1 pkt 1–3, organ podatkowy może odstąpić od ustalenia dodatkowego zobowiązania podatkowego, jeżeli na podstawie istniejących okoliczności oraz faktów należy przyjąć, że w momencie dokonywania czynności, których dotyczy decyzja, podatnik pozostawał w błędnym, ale usprawiedliwionym przekonaniu o zgodności przepisu (dobra wiara).
+3. W przypadkach, o których mowa w 1 pkt 1–3, organ podatkowy może odstąpić od ustalenia dodatkowego zobowiązania podatkowego, jeżeli na podstawie istniejących okoliczności oraz faktów należy przyjąć, że w momencie dokonywania czynności, których dotyczy decyzja, podatnik pozostawał w błędnym, ale usprawiedliwionym przekonaniu o zgodności uzyskanej przez niego w danych okolicznościach korzyści podatkowej z przedmiotem i celem ustawy podatkowej lub jej przepisu (dobra wiara).
 
 4. Na ocenę, że podatnik działał w dobrej wierze, może wskazywać w szczególności nieprowadzenie przez niego działalności gospodarczej lub prowadzenie jej w niewielkiej skali, wskutek czego nie można było rozsądnie oczekiwać, że w odniesieniu do czynności, których dotyczy decyzja, o której mowa w 1, będzie on korzystał z profesjonalnych porad dotyczących ich skutków podatkowych.
 
@@ -2156,9 +2259,7 @@ Art. 307–323. (pominięte)
 
 **Art. 58d.** Stawki wskazane w art. 58b i art. 58c ulegają obniżeniu o połowę w przypadku wydania decyzji na podstawie art. 119a 7 w zakresie podstawy ustalenia dodatkowego zobowiązania podatkowego, która związana jest z cofnięciem skutków unikania opodatkowania określonym w art. 81b 1a.
 
-**Art. 58e.** Dodatkowego zobowiązania podatkowego uregulowanego w niniejszym rozdziale nie stosuje się względem osoby fizycznej, która za ten sam czyn ponosi odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe.
-
-#### Rozdział 7 Wygaśnięcie zobowiązań podatkowych
+**Art. 58e.** Dodatkowego zobowiązania podatkowego uregulowanego w niniejszym rozdziale nie stosuje się względem osoby fizycznej, która za ten sam czyn ponosi odpowiedzialność za wykroczenie skarbowe albo za przestępstwo skarbowe. Wygaśnięcie zobowiązań podatkowych
 
 **Art. 59.**
 
@@ -2166,6 +2267,7 @@ Art. 307–323. (pominięte)
 
 - **1)** zapłaty;
 - **2)** pobrania podatku przez płatnika lub inkasenta;
+- **3)** potrącenia;
 - **4)** zaliczenia nadpłaty lub zaliczenia zwrotu podatku;
 - **5)** zaniechania poboru;
 - **6)** przeniesienia własności rzeczy lub praw majątkowych;
@@ -2194,13 +2296,11 @@ Art. 307–323. (pominięte)
 
 1a. W przypadku polecenia przelewu z rachunku bankowego podatnika w banku lub instytucji kredytowej lub rachunku płatniczego podatnika w unijnej instytucji płatniczej w rozumieniu art. 2 pkt 32 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych lub unijnej instytucji pieniądza elektronicznego, niemających siedziby lub oddziału na terytorium Rzeczypospolitej Polskiej za termin zapłaty podatku uważa się dzień złożenia zlecenia płatniczego przez podatnika, jeżeli wpłacana kwota zostanie uznana na rachunku bankowym organu podatkowego w terminie wskazanym w art. 54 ustawy z dnia 19 sierpnia 2011 r. o usługach płatniczych. W razie przekroczenia tego terminu za termin zapłaty uważa się dzień uznania kwoty na rachunku bankowym organu podatkowego.
 
-1b. W przypadku zapłaty podatku za pomocą innego instrumentu płatniczego, z którego podatnik korzysta za pośrednictwem konta w e-Urzędzie Skarbowym, podatnik jest obowiązany złożyć oświadczenie, że środki pieniężne przekazywane na zapłatę podatku pochodzą z rachunku tego podatnika. W takim przypadku przepisu art. 62b nie stosuje się.
-
-1c. Oświadczenie, o którym mowa w 1b, jest składane pod rygorem odpowiedzialności karnej za złożenie fałszywego oświadczenia i zawiera klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+1b. W przypadku zapłaty podatku za pomocą innego instrumentu płatniczego, z którego podatnik korzysta za pośrednictwem konta w e-Urzędzie Skarbowym, podatnik jest obowiązany złożyć oświadczenie, że środki pieniężne przekazywane na zapłatę podatku pochodzą z rachunku tego podatnika. W takim przypadku przepisu art. 62b nie stosuje się. wego oświadczenia i zawiera klauzulę o następującej treści: „Jestem świadomy odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie o odpowiedzialności karnej za składanie fałszywych oświadczeń.
 
 2. Przepisy 1–1c stosuje się również do wpłat dokonywanych przez płatnika lub inkasenta.
 
-2a. (uchylony) 2b. (uchylony)
+2a. (uchylony) 2b. (uchylony) 2c. (uchylony)
 
 3. Minister właściwy do spraw finansów publicznych, w porozumieniu z ministrem właściwym do spraw łączności i po zasięgnięciu opinii Prezesa Narodowego Banku Polskiego, może określić, w drodze rozporządzenia, wzór formularza wpłaty gotówkowej oraz polecenia przelewu na rachunek organu podatkowego, uwzględniając dane identyfikujące wpłacającego oraz tytuł wpłaty.
 
@@ -2241,11 +2341,11 @@ Art. 307–323. (pominięte)
 
 1. Wpłata podatków, opłat oraz niepodatkowych należności budżetowych dokonywana na rachunek urzędu skarbowego jest realizowana przy użyciu rachunku bankowego urzędu skarbowego albo identyfikującego podatnika, płatnika lub urząd skarbowy indywidualnego rachunku podatkowego (mikrorachunek podatkowy).
 
-2. Struktura mikrorachunku podatkowego jest zgodna z formatem Numeru Rachunku Bankowego i zawiera:
-
 - **1)** liczbę kontrolną;
 - **2)** numer rozliczeniowy jednostki organizacyjnej banku;
 - **3)** numer porządkowy rachunku bankowego, w skład którego wchodzi identyfikator podatkowy podatnika lub płatnika albo kod urzędu skarbowego.
+
+3. Numer mikrorachunku podatkowego jest udostępniany, po podaniu identyfikatora podatkowego podatnika lub płatnika, za pośrednictwem konta w e-Urzędzie Skarbowym lub w urzędzie skarbowym.
 
 4. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, rodzaje podatków, opłat lub niepodatkowych należności budżetowych, których wpłata jest realizowana przy użyciu mikrorachunku podatkowego, mając na względzie uwarunkowania techniczne i organizacyjne umożliwiające przekazywanie należności przy użyciu tego mikrorachunku.
 
@@ -2283,13 +2383,15 @@ Art. 307–323. (pominięte)
 
 **Art. 63.**
 
-1. Podstawy opodatkowania, kwoty podatków, odsetki za zwłokę, opłaty prolongacyjne, oprocentowanie nadpłat oraz wynagrodzenia przysługujące płatnikom i inkasentom zaokrągla się do pełnych złotych w ten sposób, że końcówki kwot wynoszące mniej niż 50 groszy pomija się, a końcówki kwot wynoszące 50 i więcej groszy podwyższa się do pełnych złotych, z zastrzeżeniem 1a i 2.
-
-1a. Podstawy opodatkowania, o których mowa w art. 30a ust. 1 pkt 1–3 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, oraz kwoty podatków od nich pobierane zaokrągla się do pełnych groszy w górę.
+1. Podstawy opodatkowania, kwoty podatków, odsetki za zwłokę, opłaty prolongacyjne, oprocentowanie nadpłat oraz wynagrodzenia przysługujące płatnikom i inkasentom zaokrągla się do pełnych złotych w ten sposób, że końcówki kwot wynoszące mniej niż 50 groszy pomija się, a końcówki kwot wynoszące 50 i więcej groszy podwyższa się do pełnych złotych, z zastrzeżeniem 1a i 2. dochodowym od osób fizycznych, oraz kwoty podatków od nich pobierane zaokrągla się do pełnych groszy w górę.
 
 2. Zaokrąglania podstaw opodatkowania i kwot podatków nie stosuje się do opłat, o których mowa w przepisach o podatkach i opłatach lokalnych.
 
-3. Przepisu 1 nie stosuje się do zaliczenia wpłaty, zaliczenia nadpłaty lub zaliczenia zwrotu podatku. cych dochód budżetu państwa podlegają, na wniosek podatnika, potrąceniu z wzajemnej, bezspornej i wymagalnej wierzytelności podatnika wobec Skarbu Państwa z tytułu:
+3. Przepisu 1 nie stosuje się do zaliczenia wpłaty, zaliczenia nadpłaty lub zaliczenia zwrotu podatku.
+
+**Art. 64.**
+
+1. Zobowiązania podatkowe oraz zaległości podatkowe wraz z odsetkami za zwłokę w podatkach stanowiących dochód budżetu państwa podlegają, na wniosek podatnika, potrąceniu z wzajemnej, bezspornej i wymagalnej wierzytelności podatnika wobec Skarbu Państwa z tytułu:
 
 - **1)** prawomocnego wyroku sądowego wydanego na podstawie art. 417 lub art. 417 Kodeksu cywilnego;
 - **2)** prawomocnej ugody sądowej zawartej w związku z zaistnieniem okoliczności przewidzianych w art. 417 lub art. 417 Kodeksu cywilnego;
@@ -2326,14 +2428,13 @@ Art. 307–323. (pominięte)
 - **3)** nabycia przez gminę, powiat lub województwo nieruchomości na cele uzasadniające jej wywłaszczenie lub wywłaszczenia nieruchomości na podstawie przepisów o gospodarce nieruchomościami;
 - **4)** odszkodowania orzeczonego w decyzji wydanej przez wójta, burmistrza (prezydenta miasta), starostę lub marszałka województwa.
 
-2. Przepisy art. 64 2–7 stosuje się odpowiednio.
-
-**Art. 66.**
-
-1. Szczególnym przypadkiem wygaśnięcia zobowiązania podatkowego jest przeniesienie własności rzeczy lub praw majątkowych na rzecz:
+2. Przepisy art. 64 2–7 stosuje się odpowiednio. lub praw majątkowych na rzecz:
 
 - **1)** Skarbu Państwa w zamian za zaległości podatkowe z tytułu podatków stanowiących dochody budżetu państwa;
 - **2)** gminy, powiatu lub województwa w zamian za zaległości podatkowe z tytułu podatków stanowiących dochody ich budżetów.
+
+2. Przeniesienie następuje na wniosek podatnika:
+
 - **1)** w przypadku, o którym mowa w 1 pkt 1, na podstawie umowy zawartej na piśmie, za zgodą właściwego naczelnika urzędu skarbowego, a w przypadku gdy przedmiotem umowy jest przeniesienie akcji lub udziałów także za zgodą Prezesa Rady Ministrów, między starostą wykonującym zadanie z zakresu administracji rządowej a podatnikiem;
 - **2)** w przypadku, o którym mowa w 1 pkt 2, na podstawie umowy zawartej na piśmie między wójtem, burmistrzem (prezydentem miasta), starostą albo marszałkiem województwa a podatnikiem.
 
@@ -2371,11 +2472,11 @@ Art. 307–323. (pominięte)
     - **c)** udzielaną w celu wsparcia krajowych przedsiębiorców działających w ramach przedsięwzięcia gospodarczego podejmowanego w interesie europejskim,
     - **d)** udzielaną w celu promowania i wspierania kultury, dziedzictwa narodowego, nauki i oświaty,
     - **e)** będącą rekompensatą za realizację usług świadczonych w ogólnym interesie gospodarczym powierzonych na podstawie odrębnych przepisów,
-    - **f)** na szkolenia,
     - **g)** na zatrudnienie,
     - **h)** na rozwój małych i średnich przedsiębiorstw,
     - **i)** na restrukturyzację,
     - **j)** na ochronę środowiska,
+    - **k)** na prace badawczo-rozwojowe,
     - **l)** regionalną,
     - **m)** udzielaną na inne przeznaczenia określone na podstawie 6 przez Radę Ministrów.
 
@@ -2411,13 +2512,12 @@ Art. 307–323. (pominięte)
 4. W przypadku, o którym mowa w 1 pkt 3, organ podatkowy może umorzyć zaległość podatkową, jeżeli umorzenie nie będzie stanowiło pomocy publicznej lub będzie stanowiło pomoc de minimis w zakresie i na zasadach określonych w bezpośrednio obowiązujących aktach prawa wspólnotowego dotyczących pomocy w ramach zasady de minimis. Art. 67da. 1. W razie niedotrzymania terminu płatności odroczonego podatku lub zaległości podatkowej bądź terminu płatności którejkolwiek z rat, na jakie zostały rozłożone podatek lub zaległość podatkowa, następuje z mocy prawa wygaśnięcie decyzji o:
 
 - **1)** odroczeniu terminu płatności podatku lub zaległości podatkowej wraz z odsetkami za zwłokę w całości;
-- **2)** rozłożeniu na raty zapłaty podatku lub zaległości podatkowej w części dotyczącej raty niezapłaconej w terminie płatności.
-
-2. W razie niedotrzymania terminu płatności trzech rat, na jakie zostały rozłożone podatek lub zaległość podatkowa, następuje z mocy prawa wygaśnięcie decyzji o rozłożeniu na raty zapłaty podatku lub zaległości podatkowej w zakresie wszystkich niezapłaconych rat.
+- **2)** rozłożeniu na raty zapłaty podatku lub zaległości podatkowej w części dotyczącej raty niezapłaconej w terminie płatności. następuje z mocy prawa wygaśnięcie decyzji o rozłożeniu na raty zapłaty podatku lub zaległości podatkowej w zakresie wszystkich niezapłaconych rat.
 
 3. Przepisy 1 i 2 stosuje się odpowiednio do odroczonych lub rozłożonych na raty:
 
 - **1)** należności płatników lub inkasentów;
+- **2)** odsetek od nieuregulowanych w terminie zaliczek na podatek;
 - **3)** należności przypadających od spadkobierców podatnika lub płatnika oraz osób trzecich.
 
 **Art. 67e.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość rzeczową poszczególnych organów podatkowych w sprawach stosowania ulg w spłacie zobowiązań podatkowych, uwzględniając wysokość kwoty będącej przedmiotem ulgi oraz terminy wpłat podatku lub zaległości podatkowej.
@@ -2444,13 +2544,11 @@ Art. 307–323. (pominięte)
 
 4. (utracił moc) 4a. Zobowiązanie podatkowe z tytułu opodatkowania przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych nie powstaje, jeżeli decyzja ustalająca to zobowiązanie została doręczona po upływie 5 lat, licząc od końca roku kalendarzowego, w którym powstał obowiązek podatkowy w tym zakresie.
 
-5. Bieg terminu przedawnienia zawiesza się, jeżeli wydanie decyzji jest uzależnione od rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd. Zawieszenie biegu terminu przedawnienia trwa do dnia, w którym decyzja innego organu stała się ostateczna lub orzeczenie sądu uprawomocniło się, niedłużej jednak niż przez 2 lata.
+5. Bieg terminu przedawnienia zawiesza się, jeżeli wydanie decyzji jest uzależnione od rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd. Zawieszenie biegu terminu przedawnienia trwa do dnia, w którym decyzja innego organu stała się ostateczna lub orzeczenie sądu uprawomocniło się, niedłużej jednak niż przez 2 lata. podatkowej, prawo do wydania decyzji ustalającej zobowiązanie podatkowe powstaje w dniu, w którym nastąpiło zdarzenie powodujące utratę prawa do ulgi.
 
-**Art. 69.**
+2. Termin do wydania decyzji, o której mowa w 1, wynosi 3 lata od końca roku podatkowego, w którym nastąpiło zdarzenie powodujące utratę prawa do ulgi podatkowej, a jeżeli podatnik nie zgłosił organowi podatkowemu utraty prawa do ulgi co najmniej na 2 miesiące przed upływem tego terminu termin do wydania decyzji, o której mowa w 1, wynosi 5 lat.
 
-1. W razie niedopełnienia przez podatnika warunków uprawniających do skorzystania z uzyskanej ulgi podatkowej, prawo do wydania decyzji ustalającej zobowiązanie podatkowe powstaje w dniu, w którym nastąpiło zdarzenie powodujące utratę prawa do ulgi.
-
-2. Termin do wydania decyzji, o której mowa w 1, wynosi 3 lata od końca roku podatkowego, w którym nastąpiło zdarzenie powodujące utratę prawa do ulgi podatkowej, a jeżeli podatnik nie zgłosił organowi podatkowemu utraty prawa do ulgi co najmniej na 2 miesiące przed upływem tego terminu termin do wydania decyzji, o której mowa w 1, wynosi 5 lat. powstania obowiązku podatkowego oraz istniejącego w tym dniu stanu faktycznego.
+3. Ustalenie wysokości zobowiązania podatkowego następuje na podstawie stanu prawnego obowiązującego w dniu powstania obowiązku podatkowego oraz istniejącego w tym dniu stanu faktycznego.
 
 4. Jeżeli, zgodnie z odrębnymi przepisami, zobowiązanie podatkowe ustalane jest na rok kalendarzowy lub na inny okres, decyzja, o której mowa w 1, wydawana jest na podstawie stanu prawnego obowiązującego w dniu nabycia prawa do ulgi.
 
@@ -2480,14 +2578,13 @@ Art. 307–323. (pominięte)
 
 3. Bieg terminu przedawnienia przerywa ogłoszenie upadłości. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego.
 
-3a. Jeżeli ogłoszenie upadłości, o którym mowa w 3, nastąpiło przed rozpoczęciem biegu terminu przedawnienia, bieg terminu przedawnienia rozpoczyna się od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego.
-
-4. Bieg terminu przedawnienia zostaje przerwany wskutek zastosowania środka egzekucyjnego, o którym podatnik został zawiadomiony. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu, w którym zastosowano środek egzekucyjny.
+3a. Jeżeli ogłoszenie upadłości, o którym mowa w 3, nastąpiło przed rozpoczęciem biegu terminu przedawnienia, bieg terminu przedawnienia rozpoczyna się od dnia następującego po dniu uprawomocnienia się postanowienia o zakończeniu lub umorzeniu postępowania upadłościowego. został zawiadomiony. Po przerwaniu biegu terminu przedawnienia biegnie on na nowo od dnia następującego po dniu, w którym zastosowano środek egzekucyjny.
 
 5. (uchylony)
 
-6. Bieg terminu przedawnienia zobowiązania podatkowego nie rozpoczyna się, a rozpoczęty ulega zawieszeniu, z dniem: zania;
+6. Bieg terminu przedawnienia zobowiązania podatkowego nie rozpoczyna się, a rozpoczęty ulega zawieszeniu, z dniem:
 
+- **1)** wszczęcia postępowania w sprawie o przestępstwo skarbowe lub wykroczenie skarbowe, o którym podatnik został zawiadomiony, jeżeli podejrzenie popełnienia przestępstwa lub wykroczenia wiąże się z niewykonaniem tego zobowiązania;
 - **2)** wniesienia skargi do sądu administracyjnego na decyzję dotyczącą tego zobowiązania;
 - **3)** wniesienia żądania ustalenia przez sąd powszechny istnienia lub nieistnienia stosunku prawnego lub prawa;
 - **3a)** przekazania do sądu powszechnego odwołania od decyzji w sprawie stwierdzenia istnienia stosunku pracy, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. );
@@ -2511,9 +2608,9 @@ Art. 307–323. (pominięte)
 
 **Art. 70a.**
 
-1. Bieg terminu przedawnienia, o którym mowa w art. 68 1 i 3 oraz w art. 70 1 i 1a, ulega zawieszeniu, jeżeli możliwość ustalenia lub określenia zobowiązania podatkowego wynika z umów o unikaniu podwójnego opodatkowania lub innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, a ustalenie lub określenie przez organ podatkowy wysokości tego zobowiązania uzależnione jest od uzyskania odpowiednich informacji od organów innego państwa.
+1. Bieg terminu przedawnienia, o którym mowa w art. 68 1 i 3 oraz w art. 70 1 i 1a, ulega zawieszeniu, jeżeli możliwość ustalenia lub określenia zobowiązania podatkowego wynika z umów o unikaniu podwójnego opodatkowania lub innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, a ustalenie lub określenie przez organ podatkowy wysokości tego zobowiązania uzależnione jest od uzyskania odpowiednich informacji od organów innego państwa. wszczęcia procedury wzajemnego porozumiewania na podstawie ratyfikowanej umowy o unikaniu podwójnego opodatkowania, której stroną jest Rzeczpospolita Polska, jeżeli ta umowa nie przewiduje możliwości wprowadzenia w życie zawartego porozumienia bez względu na terminy przedawnienia. Zawieszenie biegu terminu przedawnienia następuje od dnia wszczęcia procedury wzajemnego porozumiewania, jednak trwa niedłużej niż przez okres 3 lat.
 
-1a. Bieg terminu przedawnienia, o którym mowa w art. 68 1 i 3 oraz art. 70 1 i 1a, ulega zawieszeniu w przypadku wszczęcia procedury wzajemnego porozumiewania na podstawie ratyfikowanej umowy o unikaniu podwójnego opodatkowania, której stroną jest Rzeczpospolita Polska, jeżeli ta umowa nie przewiduje możliwości wprowadzenia w życie zawartego porozumienia bez względu na terminy przedawnienia. Zawieszenie biegu terminu przedawnienia następuje od dnia wszczęcia procedury wzajemnego porozumiewania, jednak trwa niedłużej niż przez okres 3 lat. przez okres 3 lat.
+2. Zawieszenie terminu przedawnienia, o którym mowa w 1, następuje od dnia wystąpienia przez organ podatkowy z wnioskiem do organu innego państwa do dnia uzyskania przez organ podatkowy żądanej informacji jednak niedłużej niż przez okres 3 lat.
 
 3. Zawieszenie terminu przedawnienia, o którym mowa w 1 i 1a, może następować wielokrotnie; w takich przypadkach okres łącznego zawieszenia terminu przedawnienia nie może przekroczyć 3 lat.
 
@@ -2523,6 +2620,9 @@ Art. 307–323. (pominięte)
 
 **Art. 70d.** Upływ terminu przedawnienia pozostaje bez wpływu na wprowadzenie w życie rozstrzygnięcia zapadłego w ramach procedury rozstrzygania sporów dotyczących podwójnego opodatkowania w przypadkach, o których mowa w:
 
+- **1)** dziale II rozdziale 2 ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych lub
+- **2)** umowie o unikaniu podwójnego opodatkowania lub innej ratyfikowanej umowie międzynarodowej, której stroną jest Rzeczpospolita Polska, jeżeli umowa ta przewiduje możliwość wprowadzenia w życie rozstrzygnięcia bez względu na upływ terminu przedawnienia.
+
 **Art. 70e.**
 
 1. Bieg terminu przedawnienia, o którym mowa w art. 68 1, 3 i 3a oraz art. 70 1 i 1a, ulega zawieszeniu w przypadku wszczęcia postępowania w sprawie wydania decyzji określającej warunki cofnięcia skutków unikania opodatkowania.
@@ -2531,6 +2631,9 @@ Art. 307–323. (pominięte)
 
 **Art. 71.** Przepisy art. 70, art. 70a, art. 70c i art. 70e stosuje się odpowiednio do: Przepisy art. 70, art. 70a, art. 70c, art. 70ca i art. 70e stosuje się odpowiednio do:
 
+- **1)** należności płatników lub inkasentów;
+- **2)** zaległości, o których mowa w art. 52 i art. 52a, z tym że bieg terminu przedawnienia liczy się od końca roku kalendarzowego, w którym organ podatkowy dokonał zwrotu lub zaliczenia nienależnej kwoty lub płatnik pobrał nienależne wynagrodzenie.
+
 #### Rozdział 9 Nadpłata
 
 **Art. 72.**
@@ -2538,8 +2641,8 @@ Art. 307–323. (pominięte)
 1. Za nadpłatę uważa się kwotę:
 
 - **1)** nadpłaconego lub nienależnie zapłaconego podatku;
-- **2)** podatku pobraną przez płatnika nienależnie lub w wysokości większej od należnej;
-- **3)** zobowiązania zapłaconego przez płatnika lub inkasenta, jeżeli w decyzji, o której mowa w art. 30 4, określono je nienależnie lub w wysokości większej od należnej; lub decyzji ustalającej wysokość zobowiązania podatkowego spadkodawcy określono je nienależnie lub w wysokości większej od należnej.
+- **2)** podatku pobraną przez płatnika nienależnie lub w wysokości większej od należnej; nienależnie lub w wysokości większej od należnej;
+- **4)** zobowiązania zapłaconego przez osobę trzecią lub spadkobiercę, jeżeli w decyzji o ich odpowiedzialności podatkowej lub decyzji ustalającej wysokość zobowiązania podatkowego spadkodawcy określono je nienależnie lub w wysokości większej od należnej.
 
 1a. Na równi z nadpłatą traktuje się kwotę stanowiącą różnicę określoną zgodnie z art. 27f ust. 8–10 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, wykazaną w zeznaniu, o którym mowa w art. 45 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, lub wynikającą z decyzji.
 
@@ -2574,7 +2677,38 @@ Art. 307–323. (pominięte)
 
 **Art. 74.** Jeżeli nadpłata powstała w wyniku orzeczenia Trybunału Konstytucyjnego lub orzeczenia Trybunału Sprawiedliwości Unii Europejskiej, a podatnik, którego zobowiązanie podatkowe powstaje w sposób przewidziany w art. 21 1 pkt 1:
 
-**Art. 74a.** W przypadkach niewymienionych w art. 73 2 i art. 74 wysokość nadpłaty określa organ podatkowy. może złożyć wniosek o stwierdzenie nadpłaty podatku. 2. Uprawnienie do złożenia wniosku o stwierdzenie nadpłaty przysługuje podatnikom, płatnikom i inkasentom oraz osobom, które były wspólnikami spółki cywilnej w momencie rozwiązania spółki w zakresie zobowiązań spółki. Płatnik lub inkasent jest uprawniony do złożenia wniosku o stwierdzenie nadpłaty, jeżeli wpłacony podatek nie został pobrany od podatnika. 2a. Uprawnienie do złożenia wniosku o stwierdzenie nadpłaty przysługuje:
+- **1)** złożył jedną z deklaracji, o których mowa w art. 73 2, lub inną deklarację, z której wynika wysokość zobowiązania podatkowego wysokość nadpłaty określa podatnik we wniosku o jej zwrot, składając równocześnie skorygowaną deklarację;
+- **2)** został rozliczony przez płatnika wysokość nadpłaty określa podatnik we wniosku o jej zwrot, składając równocześnie zeznanie (deklarację), o którym mowa w art. 73 2 pkt 1;
+- **3)** nie był obowiązany do składania deklaracji wysokość nadpłaty określa podatnik we wniosku o jej zwrot.
+
+**Art. 75.**
+
+1. Jeżeli podatnik kwestionuje zasadność pobrania przez płatnika podatku albo wysokość pobranego podatku, może złożyć wniosek o stwierdzenie nadpłaty podatku.
+
+2. Uprawnienie do złożenia wniosku o stwierdzenie nadpłaty przysługuje podatnikom, płatnikom i inkasentom oraz osobom, które były wspólnikami spółki cywilnej w momencie rozwiązania spółki w zakresie zobowiązań spółki. Płatnik lub inkasent jest uprawniony do złożenia wniosku o stwierdzenie nadpłaty, jeżeli wpłacony podatek nie został pobrany od podatnika.
+
+2a. Uprawnienie do złożenia wniosku o stwierdzenie nadpłaty przysługuje:
+
+- **1)** spółkom, które tworzyły podatkową grupę kapitałową w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, w momencie utraty przez tę grupę statusu podatnika, w zakresie zobowiązań tej grupy;
+- **2)** przedstawicielowi grupy VAT w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, po utracie przez tę grupę statusu podatnika.
+
+3. Jeżeli z przepisów prawa podatkowego wynika obowiązek złożenia zeznania (deklaracji), to podatnik, płatnik lub inkasent równocześnie z wnioskiem o stwierdzenie nadpłaty jest obowiązany złożyć skorygowane zeznanie (deklarację).
+
+3a. Osoba, która była wspólnikiem spółki cywilnej w momencie rozwiązania spółki, jest obowiązana złożyć równocześnie z wnioskiem o stwierdzenie nadpłaty skorygowane zeznanie (deklarację) w zakresie zobowiązań spółki oraz umowę spółki aktualną na dzień rozwiązania spółki.
+
+4. Jeżeli prawidłowość skorygowanego zeznania (deklaracji) nie budzi wątpliwości, organ podatkowy zwraca nadpłatę bez wydawania decyzji stwierdzającej nadpłatę. W takim przypadku korekta wywołuje skutki prawne.
+
+4a. W decyzji stwierdzającej nadpłatę organ podatkowy określa wysokość zobowiązania podatkowego w prawidłowej wysokości w takim zakresie, w jakim powstanie nadpłaty jest związane ze zmianą wysokości zobowiązania podatkowego. W zakresie, w jakim wniosek jest niezasadny, organ odmawia stwierdzenia nadpłaty.
+
+4b. Przepis 4a nie ogranicza możliwości wydania decyzji w trybie art. 21 3, o czym informuje się adresata w decyzji stwierdzającej nadpłatę.
+
+5. Jeżeli zwrotu nadpłaty w trybie, o którym mowa w 4, dokonano nienależnie lub w wysokości wyższej od należnej, w zakresie nadpłaty będącej przedmiotem wniosku nie wszczyna się postępowania w sprawach o przestępstwa i wykroczenia skarbowe.
+
+5a. Zwrotu nadpłaty osobom, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki, dokonuje się w proporcjach wynikających z prawa do udziału w zysku określonego w umowie spółki. Jeżeli z dołączonej umowy nie wynikają te udziały w zysku, przyjmuje się, że prawa do udziału w zysku są równe.
+
+6. Przepisu 2 nie stosuje się, jeżeli ustawy podatkowe przewidują inny tryb zwrotu podatku.
+
+7. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, właściwość miejscową organów podatkowych w sprawach, o których mowa w 1, uwzględniając w szczególności rodzaj podatku i przypadki poboru podatku przez płatnika.
 
 **Art. 76.**
 
@@ -2584,8 +2718,7 @@ Art. 307–323. (pominięte)
 
 2. (uchylony) 2a. W razie zajęcia wierzytelności z tytułu nadpłaty podatku jej zaliczenie na poczet zaległości podatkowych wraz z odsetkami za zwłokę, odsetek za zwłokę określonych w decyzji, o której mowa w art. 53a, oraz bieżących zobowiązań podatkowych ma pierwszeństwo przed realizacją zajęcia.
 
-3. Przepis 1 stosuje się odpowiednio do zaliczania nadpłaty: powstałych w związku z wykonywaniem obowiązków płatnika lub inkasenta;
-
+- **1)** płatnika lub inkasenta na poczet jego zaległości podatkowych, bieżących zobowiązań podatkowych lub zobowiązań powstałych w związku z wykonywaniem obowiązków płatnika lub inkasenta;
 - **2)** spółki cywilnej na poczet zobowiązań wspólników lub byłych wspólników tej spółki, z tym że w przypadku istniejącej spółki wymaga to zgody wszystkich wspólników.
 
 4. (uchylony)
@@ -2623,8 +2756,8 @@ Art. 307–323. (pominięte)
 - **3)** 30 dni od dnia wydania decyzji o zmianie, uchyleniu albo stwierdzeniu nieważności decyzji jeżeli w związku z uchyleniem albo stwierdzeniem nieważności decyzji nie wystąpi obowiązek wydania nowej decyzji;
 - **4)** 30 dni od dnia złożenia wniosku, o którym mowa w art. 74;
 - **4a)** 30 dni od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego lub publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej lub od dnia, w którym uchylono lub zmieniono w całości lub w części akt normatywny, jeżeli wniosek, o którym mowa w art. 74, został złożony przed terminem wejścia w życie orzeczenia Trybunału Konstytucyjnego lub publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej;
-- **5)** 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 73 2 pkt 1–3, z zastrzeżeniem pkt 5a i 2;
-- **5a)** 45 dni od dnia złożenia za pomocą środków komunikacji elektronicznej zeznania, o którym mowa w art. 73 2 pkt 1, przez podatników podatku dochodowego od osób fizycznych, z zastrzeżeniem 2;
+- **5)** 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 73 2 pkt 1–3, z zastrzeżeniem pkt 5a i 2; przez podatników podatku dochodowego od osób fizycznych, z zastrzeżeniem 2;
+- **6)** 2 miesięcy od dnia złożenia wniosku o stwierdzenie nadpłaty wraz ze:
     - **a)** skorygowanym zeznaniem (deklaracją) w przypadkach, o których mowa w art. 75 3,
     - **b)** skorygowanym zeznaniem (deklaracją) i z umową spółki aktualną na dzień rozwiązania spółki w przypadku, o którym mowa w art. 75 3a lecz niewcześniej niż w terminie 3 miesięcy od dnia złożenia zeznania lub deklaracji, o których mowa w art. 73 2, albo 45 dni od dnia złożenia za pomocą środków komunikacji elektronicznej zeznania, o którym mowa w art. 73 2 pkt 1, przez podatników podatku dochodowego od osób fizycznych.
 
@@ -2665,9 +2798,8 @@ Art. 307–323. (pominięte)
 
 4. Nadpłata zwracana przekazem pocztowym jest pomniejszana o koszty jej zwrotu.
 
-5. Przepisy 1–4 stosuje się odpowiednio do:
-
 - **1)** następców prawnych i osób trzecich;
+- **2)** osób, które były wspólnikami spółki cywilnej w chwili rozwiązania spółki;
 - **3)** spółek, które tworzyły podatkową grupę kapitałową w rozumieniu przepisów o podatku dochodowym od osób prawnych w chwili utraty przez tę podatkową grupę kapitałową statusu podatnika;
 - **4)** przedstawiciela grupy VAT w rozumieniu przepisów ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, po utracie przez tę grupę statusu podatnika.
 
@@ -2700,9 +2832,9 @@ Art. 307–323. (pominięte)
 - **4a)** w przypadkach przewidzianych w art. 77 1 pkt 5a i 2 pkt 1 od dnia powstania nadpłaty, jeżeli nadpłata nie została zwrócona w terminie 45 dni od dnia złożenia zeznania, o którym mowa w art. 73 2 pkt 1, lub od dnia skorygowania zeznania w trybie art. 274 lub art. 274a;
 - **5)** (uchylony)
 - **6)** w przypadku przewidzianym w art. 77 2a pkt 1 od dnia wszczęcia lub przejęcia postępowań określonych w art. 119g 1 pkt 3, jeżeli decyzja stwierdzająca nadpłatę nie została wydana albo nadpłata nie została zwrócona w terminie, o którym mowa w tym przepisie, chyba że do opóźnienia w wydaniu decyzji albo zwrocie nadpłaty przyczynił się podatnik, płatnik lub inkasent;
-- **7)** w przypadku przewidzianym w art. 77 2a pkt 2 od dnia złożenia wniosku o stwierdzenie nadpłaty, jeżeli nadpłata nie została zwrócona w terminie, o którym mowa w tym przepisie, chyba że do opóźnienia w zwrocie nadpłaty przyczynił się podatnik, płatnik lub inkasent.
+- **7)** w przypadku przewidzianym w art. 77 2a pkt 2 od dnia złożenia wniosku o stwierdzenie nadpłaty, jeżeli nadpłata nie została zwrócona w terminie, o którym mowa w tym przepisie, chyba że do opóźnienia w zwrocie nadpłaty przyczynił się podatnik, płatnik lub inkasent. bieżących zobowiązań podatkowych lub dnia złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych.
 
-4. Oprocentowanie z tytułu nadpłaty przysługuje do dnia zwrotu nadpłaty, zaliczenia jej na poczet zaległych lub bieżących zobowiązań podatkowych lub dnia złożenia wniosku o zaliczenie nadpłaty na poczet przyszłych zobowiązań podatkowych.
+5. (uchylony)
 
 **Art. 78a.** Jeżeli kwota dokonanego zwrotu podatku nie pokrywa kwoty nadpłaty wraz z jej oprocentowaniem, zwróconą kwotę zalicza się proporcjonalnie na poczet kwoty nadpłaty oraz kwoty jej oprocentowania w takim stosunku, w jakim w dniu zwrotu pozostaje kwota nadpłaty do kwoty oprocentowania.
 
@@ -2739,11 +2871,9 @@ Art. 307–323. (pominięte)
 
 2b. (uchylony) 2c. Pełnomocnictwo do podpisywania deklaracji oraz zawiadomienie o odwołaniu tego pełnomocnictwa składane na piśmie utrwalonym w postaci elektronicznej podatnik, płatnik lub inkasent składa do Szefa Krajowej Administracji Skarbowej.
 
-3. Jeżeli przepisy prawa podatkowego wymagają podpisania deklaracji przez więcej niż jedną osobę, pełnomocnictwo do podpisania tej deklaracji jest skuteczne, jeżeli udzieliły go wszystkie osoby.
+3. Jeżeli przepisy prawa podatkowego wymagają podpisania deklaracji przez więcej niż jedną osobę, pełnomocnictwo do podpisania tej deklaracji jest skuteczne, jeżeli udzieliły go wszystkie osoby. czące pełnomocnictwa w postępowaniu podatkowym.
 
-4. W kwestiach dotyczących pełnomocnictwa do podpisywania deklaracji stosuje się odpowiednio przepisy dotyczące pełnomocnictwa w postępowaniu podatkowym.
-
-5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory pełnomocnictw do podpisywania deklaracji i wzory zawiadomienia o zmianie lub odwołaniu tych pełnomocnictw, uwzględniając zakres pełnozgłaszania pełnomocnictwa oraz pewność ustalenia zakresu działania pełnomocnika.
+5. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzory pełnomocnictw do podpisywania deklaracji i wzory zawiadomienia o zmianie lub odwołaniu tych pełnomocnictw, uwzględniając zakres pełnomocnictwa i dane identyfikujące podatnika, płatnika lub inkasenta oraz pełnomocnika, a także mając na celu uproszczenie zgłaszania pełnomocnictwa oraz pewność ustalenia zakresu działania pełnomocnika.
 
 **Art. 80b.** Jeżeli odrębne ustawy nie stanowią inaczej, podpisanie deklaracji przez pełnomocnika zwalnia podatnika, płatnika lub inkasenta z obowiązku podpisania deklaracji.
 
@@ -2785,9 +2915,7 @@ Art. 307–323. (pominięte)
 
 1f. Korektę, o której mowa w 1a, składa się wraz z uzasadnieniem przyczyn korekty.
 
-2. Korekta złożona w przypadku, o którym mowa w 1 pkt 1, nie wywołuje skutków prawnych. Organ podatkowy zawiadamia na piśmie składającego korektę o jej bezskuteczności.
-
-2a. Korekta złożona wraz z wnioskiem o stwierdzenie nadpłaty nie wywołuje skutków prawnych w razie odmowy stwierdzenia nadpłaty w całości lub w części oraz w razie umorzenia postępowania w związku z wycofaniem wniosku lub
+2. Korekta złożona w przypadku, o którym mowa w 1 pkt 1, nie wywołuje skutków prawnych. Organ podatkowy zawiadamia na piśmie składającego korektę o jej bezskuteczności. stwierdzenia nadpłaty w całości lub w części oraz w razie umorzenia postępowania w związku z wycofaniem wniosku lub w przypadku, o którym mowa w art. 201 5. W uzasadnieniu wydanej decyzji organ podatkowy wskazuje bezskuteczność takiej korekty.
 
 3. (uchylony)
 
@@ -2822,11 +2950,7 @@ Art. 307–323. (pominięte)
 
 7. (uchylony)
 
-8. (uchylony)
-
-**Art. 82a.**
-
-1. Osoby prawne, jednostki organizacyjne niemające osobowości prawnej oraz osoby fizyczne prowadzące działalność gospodarczą obowiązane są do gromadzenia, sporządzania i przekazywania, bez wezwania przez organ świadczącym te usługi (wykonującym pracę), jeżeli:
+8. (uchylony) działalność gospodarczą obowiązane są do gromadzenia, sporządzania i przekazywania, bez wezwania przez organ podatkowy, informacji o wynagrodzeniach za świadczone na ich rzecz usługi (wykonywaną pracę), wypłacanych przez podmiot będący nierezydentem osobom fizycznym będącym nierezydentami w rozumieniu przepisów prawa dewizowego, świadczącym te usługi (wykonującym pracę), jeżeli:
 
 - **1)** w związku z umowami o unikaniu podwójnego opodatkowania oraz innymi ratyfikowanymi umowami międzynarodowymi, których stroną jest Rzeczpospolita Polska, może to mieć wpływ na powstanie obowiązku podatkowego lub wysokość zobowiązania podatkowego osób otrzymujących wynagrodzenie;
 - **2)** podmiot będący nierezydentem bezpośrednio lub pośrednio bierze udział w zarządzaniu lub kontroli podmiotu, którego dotyczy obowiązek informacyjny, albo posiada udział w kapitale tego podmiotu uprawniający do co najmniej 25 % wszystkich praw głosu.
@@ -2892,7 +3016,7 @@ Art. 307–323. (pominięte)
 
 - **1)** innej szczególnej cesze rozpoznawczej rozumie się przez to właściwość uzgodnienia polegającą na tym, że spełniony jest co najmniej jeden z poniższych warunków:
     - **a)** wpływ na część odroczoną podatku dochodowego lub aktywa albo rezerwy z tytułu podatku odroczonego, wynikający lub oczekiwany w związku z wykonaniem uzgodnienia u korzystającego jest istotny dla danej jednostki w rozumieniu przepisów o rachunkowości oraz przekracza w trakcie roku kalendarzowego kwotę 5 000 000 zł,
-    - **b)** płatnik podatku dochodowego byłby zobowiązany do pobrania podatku przekraczającego w trakcie roku kalendarzowego kwotę 5 000 000 zł, jeżeli w odniesieniu do wypłat należności wynikających lub oczekiwanych w związku z wykonaniem uzgodnienia nie miałyby zastosowania właściwe umowy o unikaniu podwójnego opodatkowania lub zwolnienia podatkowe, nych, wynikające lub oczekiwane w związku z wykonaniem uzgodnienia, przekraczają łącznie w trakcie roku kalendarzowego kwotę 25 000 000 zł,
+    - **b)** płatnik podatku dochodowego byłby zobowiązany do pobrania podatku przekraczającego w trakcie roku kalendarzowego kwotę 5 000 000 zł, jeżeli w odniesieniu do wypłat należności wynikających lub oczekiwanych w związku z wykonaniem uzgodnienia nie miałyby zastosowania właściwe umowy o unikaniu podwójnego opodatkowania lub zwolnienia podatkowe, dowym od osób fizycznych lub art. 3 ust. 2 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, wynikające lub oczekiwane w związku z wykonaniem uzgodnienia, przekraczają łącznie w trakcie roku kalendarzowego kwotę 25 000 000 zł,
     - **d)** różnica pomiędzy polskim podatkiem dochodowym, który byłby należny w związku z wykonaniem uzgodnienia od korzystającego nieposiadającego siedziby, zarządu ani miejsca zamieszkania na terytorium Rzeczypospolitej Polskiej, gdyby był on podatnikiem, o którym mowa w art. 3 ust. 1 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 3 ust. 1 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych, a podlegającym faktycznej zapłacie podatkiem dochodowym w państwie siedziby, zarządu lub miejsca zamieszkania korzystającego w związku z wykonaniem uzgodnienia, przekracza łącznie w trakcie roku kalendarzowego kwotę 5 000 000 zł;
 
 - **2)** instytucji finansowej oznacza to instytucję finansową w rozumieniu art. 24 ust. 1 pkt 8 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami (Dz. U. z 2025 r. poz. 1379 oraz z 2026 r. poz. 347) lub instytucję finansową w rozumieniu art. 1 ust. 1 lit. g umowy między Rządem Rzeczypospolitej Polskiej a Rządem Stanów Zjednoczonych Ameryki w sprawie poprawy wypełniania międzynarodowych obowiązków podatkowych oraz wdrożenia ustawodawstwa FATCA, oraz towarzyszących Uzgodnień Końcowych, podpisanych w Warszawie dnia 7 października 2014 r. (Dz. U. z 2015 r. poz. 1647 oraz z 2017 r. poz. 158);
@@ -2930,7 +3054,7 @@ Art. 307–323. (pominięte)
     - **c)** posiada inną szczególną cechę rozpoznawczą;
 
 - **11)** schemacie podatkowym standaryzowanym rozumie się przez to schemat podatkowy możliwy do wdrożenia lub udostępnienia u więcej niż jednego korzystającego bez konieczności zmiany jego istotnych założeń, w szczególności dotyczących rodzaju czynności podejmowanych lub planowanych w ramach schematu podatkowego;
-- **12)** schemacie podatkowym transgranicznym rozumie się przez to uzgodnienie, które spełnia kryterium transgraniczne oraz: o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
+- **12)** schemacie podatkowym transgranicznym rozumie się przez to uzgodnienie, które spełnia kryterium transgraniczne oraz: co najmniej jeden z poniższych warunków: o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
     - **a)** spełnia kryterium głównej korzyści oraz posiada którąkolwiek z ogólnych cech rozpoznawczych, o których mowa w pkt 6 lit. a–h, lub
     - **b)** posiada szczególną cechę rozpoznawczą;
     - **a)** obejmuje ono podlegające zaliczeniu do kosztów uzyskania przychodów transgraniczne płatności pomiędzy podmiotami powiązanymi oraz: odbiorca płatności nie ma miejsca zamieszkania, siedziby ani zarządu w żadnym z państw, odbiorca płatności posiada miejsce zamieszkania, siedzibę lub zarząd na terytorium lub w kraju stosującym szkodliwą konkurencję podatkową, wskazanych w aktach wykonawczych wydanych na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych oraz w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej,
@@ -2966,7 +3090,7 @@ Art. 307–323. (pominięte)
 - **4)** co najmniej jeden uczestnik uzgodnienia prowadzi działalność na terytorium innego państwa nie mając miejsca zamieszkania ani siedziby na terytorium tego państwa oraz nie posiadając zagranicznego zakładu na terytorium tego państwa,
 - **5)** uzgodnienie może mieć wpływ na automatyczną wymianę informacji, o której mowa w dziale III ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, lub na wskazanie beneficjenta rzeczywistego w rozumieniu ustawy z dnia 1 marca 2018 r. o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu z wyjątkiem sytuacji, gdy uzgodnienie dotyczy wyłącznie podatku od wartości dodanej, w tym podatku od towarów i usług, podatku akcyzowego lub ceł, nakładanych na terytorium państwa członkowskiego Unii Europejskiej.
 
-4. Kryterium kwalifikowanego korzystającego uważa się za spełnione, jeżeli przychody lub koszty korzystającego albo wartość aktywów tego podmiotu w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych, przekroczyły w roku poprzedzającym lub w bieżącym roku obrotowym równowartość 10 000 000 euro lub jeżeli udostępniane lub wdrażane uzgodnienie dotyczy rzeczy lub praw o wartości rynkowej przekraczającej równowartość 2 500 000 euro lub jeżeli korzystający jest podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 11a ust. 1 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych z takim podmiotem. W przypadku podmiotów, które nie prowadzą ksiąg rachunkowych, przychody i koszty ustala się odpowiednio zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub ustawą z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych w odpowiednich latach podatkowych, a wartość aktywów zgodnie z ich wartością rynkową w odpowiednich latach kalendarzowych.
+4. Kryterium kwalifikowanego korzystającego uważa się za spełnione, jeżeli przychody lub koszty korzystającego albo wartość aktywów tego podmiotu w rozumieniu przepisów o rachunkowości, ustalone na podstawie prowadzonych ksiąg rachunkowych, przekroczyły w roku poprzedzającym lub w bieżącym roku obrotowym równowartość 10 000 000 euro lub jeżeli udostępniane lub wdrażane uzgodnienie dotyczy rzeczy lub praw o wartości rynkowej przekraczającej równowartość 2 500 000 euro lub jeżeli korzystający jest podmiotem powiązanym w rozumieniu art. 23m ust. 1 pkt 4 ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub art. 11a ust. 1 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych z takim podmiotem. W przypadku podmiotów, które nie prowadzą ksiąg rachunkowych, przychody i koszty ustala się odpowiednio zgodnie z ustawą z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych lub ustawą z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych w odpowiednich latach podatkowych, a wartość aktywów zgodnie z ich wartością rynkową w odpowiednich latach kalendarzowych. podatkowy transgraniczny, dotyczy wyłącznie:
 
 - **1)** korzystającego, dla którego nie jest spełnione kryterium kwalifikowanego korzystającego, lub
 - **2)** korzystającego, który jest stroną umowy o współdziałanie, jeżeli w ramach audytu wstępnego Szef Krajowej Administracji Skarbowej potwierdził wykonywanie przez niego obowiązków, o których mowa w niniejszym rozdziale.
@@ -2996,7 +3120,7 @@ Art. 307–323. (pominięte)
 10. Minister właściwy do spraw finansów publicznych ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
 
 - **1)** listę krajów i terytoriów wskazanych w unijnym wykazie jurysdykcji niechętnych współpracy do celów podatkowych przyjmowanym przez Radę Unii Europejskiej, które nie zostały ujęte w wykazie krajów i terytoriów stosujących szkodliwą konkurencję podatkową wydawanym na podstawie przepisów o podatku dochodowym od osób fizycznych oraz przepisów o podatku dochodowym od osób prawnych,
-- **2)** dzień przyjęcia wykazu, o którym mowa w pkt 1, przez Radę Unii Europejskiej w terminie 7 dni od dnia przyjęcia tego wykazu. wdrożenia schematu podatkowego lub od dnia dokonania pierwszej czynności związanej z wdrażaniem schematu podatkowego w zależności od tego, które z tych zdarzeń nastąpi wcześniej.
+- **2)** dzień przyjęcia wykazu, o którym mowa w pkt 1, przez Radę Unii Europejskiej w terminie 7 dni od dnia przyjęcia tego wykazu. w terminie 30 dni od dnia następnego po udostępnieniu schematu podatkowego, od następnego dnia po przygotowaniu do wdrożenia schematu podatkowego lub od dnia dokonania pierwszej czynności związanej z wdrażaniem schematu podatkowego w zależności od tego, które z tych zdarzeń nastąpi wcześniej.
 
 2. Promotor informuje na piśmie korzystającego o NSP tego schematu podatkowego, załączając potwierdzenie nadania NSP, niezwłocznie po jego otrzymaniu.
 
@@ -3028,7 +3152,7 @@ Art. 307–323. (pominięte)
 
 **Art. 86c.**
 
-1. Jeżeli korzystający nie został poinformowany zgodnie z art. 86b 2 lub 3, przekazuje Szefowi Krajowej Administracji Skarbowej informację o schemacie podatkowym w terminie 30 dni od dnia następującego po udostępnieniu mu schematu podatkowego, przygotowaniu przez niego schematu podatkowego do wdrożenia lub od dnia dokonania pierwszej czynności związanej z wdrażaniem schematu podatkowego przez korzystającego, w zależności od tego, które z tych zdarzeń nastąpi wcześniej. stanowi schematu podatkowego, w terminie, o którym mowa w 1. Przekazując informację o schemacie podatkowym, korzystający weryfikuje dane otrzymane od promotora oraz modyfikuje je dla zapewnienia ich zgodności ze stanem rzeczywistym w tej informacji. Informacja o schemacie podatkowym przekazana przez korzystającego zawiera również dane otrzymane od promotora zgodnie z art. 86b 4.
+1. Jeżeli korzystający nie został poinformowany zgodnie z art. 86b 2 lub 3, przekazuje Szefowi Krajowej Administracji Skarbowej informację o schemacie podatkowym w terminie 30 dni od dnia następującego po udostępnieniu mu schematu podatkowego, przygotowaniu przez niego schematu podatkowego do wdrożenia lub od dnia dokonania pierwszej czynności związanej z wdrażaniem schematu podatkowego przez korzystającego, w zależności od tego, które z tych zdarzeń nastąpi wcześniej. Skarbowej informację o schemacie podatkowym również w sytuacji, w której uzgodnienie, w ocenie korzystającego, nie stanowi schematu podatkowego, w terminie, o którym mowa w 1. Przekazując informację o schemacie podatkowym, korzystający weryfikuje dane otrzymane od promotora oraz modyfikuje je dla zapewnienia ich zgodności ze stanem rzeczywistym w tej informacji. Informacja o schemacie podatkowym przekazana przez korzystającego zawiera również dane otrzymane od promotora zgodnie z art. 86b 4.
 
 3. Jeżeli korzystający jest obowiązany do przekazania informacji o schemacie podatkowym transgranicznym w więcej niż jednym państwie członkowskim Unii Europejskiej na podstawie przepisów tego państwa implementujących wymogi wynikające z przepisu art. 8ab dyrektywy Rady 2011/16/UE z dnia 15 lutego 2011 r. w sprawie współpracy administracyjnej w dziedzinie opodatkowania i uchylającej dyrektywę 77/799/EWG, obowiązek ten podlega wykonaniu wyłącznie w tym państwie członkowskim Unii Europejskiej, które widnieje wyżej na poniższej liście:
 
@@ -3136,7 +3260,7 @@ Art. 307–323. (pominięte)
 
 5. Na postanowienie, o którym mowa w 1 i 2, służy zażalenie.
 
-6. W sytuacji braku możliwości potwierdzenia tożsamości lub istnienia podmiotu, który przekazał informację o schemacie podatkowym, Szef Krajowej Administracji Skarbowej pozostawia informację o schemacie podatkowym bez rozpatrzenia. Art. 86ia. Szef Krajowej Administracji Skarbowej doręcza potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g–86i, za pomocą środków komunikacji elektronicznej, na adres do doręczeń elektronicznych wskazany przez przekazującego w informacji o schemacie podatkowym. podatkowej dotyczącej tego okresu rozliczeniowego przekazuje do Szefa Krajowej Administracji Skarbowej informację, według ustalonego wzoru, o zastosowaniu schematu podatkowego zawierającą:
+6. W sytuacji braku możliwości potwierdzenia tożsamości lub istnienia podmiotu, który przekazał informację o schemacie podatkowym, Szef Krajowej Administracji Skarbowej pozostawia informację o schemacie podatkowym bez rozpatrzenia. Art. 86ia. Szef Krajowej Administracji Skarbowej doręcza potwierdzenie nadania NSP oraz inne pisma w zakresie związanym ze stosowaniem przepisów art. 86g–86i, za pomocą środków komunikacji elektronicznej, na adres do doręczeń elektronicznych wskazany przez przekazującego w informacji o schemacie podatkowym. elementem schematu podatkowego lub uzyskiwał wynikającą z niego korzyść podatkową, w terminie złożenia deklaracji podatkowej dotyczącej tego okresu rozliczeniowego przekazuje do Szefa Krajowej Administracji Skarbowej informację, według ustalonego wzoru, o zastosowaniu schematu podatkowego zawierającą:
 
 - **1)** NSP tego schematu podatkowego;
 - **2)** wysokość korzyści podatkowej wynikającej ze schematu podatkowego jeżeli korzystający uzyskiwał w danym okresie rozliczeniowym taką korzyść.
@@ -3173,7 +3297,7 @@ Art. 307–323. (pominięte)
 
 - **1)** określenie czynności lub działań podejmowanych w celu, o którym mowa w 1;
 - **2)** środki stosowane w celu właściwego wypełnienia obowiązku przekazywania informacji o schematach podatkowych;
-- **3)** określenie zasad przechowywania dokumentów oraz informacji;
+- **3)** określenie zasad przechowywania dokumentów oraz informacji; informacji o schematach podatkowych;
 - **5)** określenie zasad upowszechniania wśród pracowników tego podmiotu wiedzy z zakresu przepisów niniejszego rozdziału;
 - **6)** określenie zasad zgłaszania przez pracowników rzeczywistych lub potencjalnych naruszeń przepisów niniejszego rozdziału;
 - **7)** określenie zasad kontroli wewnętrznej lub audytu przestrzegania przepisów niniejszego rozdziału oraz zasad postępowania określonych w wewnętrznej procedurze.
@@ -3255,7 +3379,7 @@ Art. 307–323. (pominięte)
 
 - **1)** osób prawnych,
 - **2)** osobowych spółek handlowych,
-- **3)** osobowych i kapitałowych spółek handlowych wstępują we wszelkie przewidziane w przepisach prawa podatkowego prawa i obowiązki każdej z łączących się osób lub spółek.
+- **3)** osobowych i kapitałowych spółek handlowych wstępują we wszelkie przewidziane w przepisach prawa podatkowego prawa i obowiązki każdej z łączących się osób lub spółek. jęcie:
 - **1)** innej osoby prawnej (osób prawnych);
 - **2)** osobowej spółki handlowej (osobowych spółek handlowych).
 
@@ -3310,6 +3434,9 @@ Art. 307–323. (pominięte)
 2. Przepis 1 stosuje się odpowiednio do odpowiedzialności Skarbu Państwa lub gminy, powiatu albo województwa z tytułu oprocentowania nadpłat oraz oprocentowania zwrotu różnicy podatku od towarów i usług.
 
 **Art. 96.** Odsetki za zwłokę oraz oprocentowanie, o których mowa w art. 95, naliczane są nadal:
+
+- **1)** po upływie 14 dni od dnia doręczenia spółce decyzji określającej wysokość zobowiązania podatkowego lub wydania decyzji w sprawie zwrotu zaliczek naliczonego podatku od towarów i usług;
+- **2)** począwszy od dnia otrzymania przez organ podatkowy wniosku o zwrot nadpłaty lub o zwrot różnicy podatku od towarów i usług.
 
 **Art. 97.**
 
@@ -3442,7 +3569,7 @@ Art. 307–323. (pominięte)
 - **3)** dniem wszczęcia postępowania egzekucyjnego w przypadku, o którym mowa w 3;
 - **4)** dniem odstąpienia od czynności zmierzających do zastosowania środków egzekucyjnych, zgodnie z przepisami o postępowaniu egzekucyjnym w administracji w przypadku, o którym mowa w 3a.
 
-3. W razie wystawienia tytułu wykonawczego na podstawie deklaracji, na zasadach przewidzianych w przepisach o postępowaniu egzekucyjnym w administracji, przed orzeczeniem o odpowiedzialności osoby trzeciej nie wymaga się uprzedniego wydania decyzji, o której mowa w 2 pkt 2. kowe podatnika lub płatnika z tytułu zobowiązań podatkowych powstałych w sposób przewidziany w art. 21 1 pkt 1 nie wymaga się uprzedniego wydania decyzji określającej wysokość zobowiązania podatkowego i decyzji, o której mowa w art. 53a.
+3. W razie wystawienia tytułu wykonawczego na podstawie deklaracji, na zasadach przewidzianych w przepisach o postępowaniu egzekucyjnym w administracji, przed orzeczeniem o odpowiedzialności osoby trzeciej nie wymaga się uprzedniego wydania decyzji, o której mowa w 2 pkt 2. o postępowaniu egzekucyjnym w administracji, przed orzeczeniem o odpowiedzialności osoby trzeciej za zaległości podatkowe podatnika lub płatnika z tytułu zobowiązań podatkowych powstałych w sposób przewidziany w art. 21 1 pkt 1 nie wymaga się uprzedniego wydania decyzji określającej wysokość zobowiązania podatkowego i decyzji, o której mowa w art. 53a.
 
 4. Egzekucja zobowiązania wynikającego z decyzji o odpowiedzialności podatkowej osoby trzeciej może być wszczęta dopiero wówczas, gdy egzekucja z majątku podatnika okazała się w całości lub w części bezskuteczna, odstąpiono od czynności zmierzających do zastosowania środków egzekucyjnych albo nie przystąpiono do egzekucji administracyjnej w wyniku uprawdopodobnienia przez organ egzekucyjny braku możliwości uzyskania w toku egzekucji administracyjnej kwoty przewyższającej koszty egzekucyjne.
 
@@ -3605,7 +3732,7 @@ Art. 307–323. (pominięte)
 - **1)** wynika z transakcji innej niż określona w art. 19 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców lub
 - **2)** została dokonana przelewem na rachunek inny niż zawarty na dzień zlecenia przelewu w wykazie podmiotów, o którym mowa w art. 96b ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, a podatnik złożył przy pierwszej zapłacie należności przelewem na ten rachunek zawiadomienie o zapłacie należności na ten rachunek do naczelnika urzędu skarbowego właściwego dla podatnika, który dokonał zapłaty należności, w terminie 7 dni od dnia zlecenia przelewu, lub
 - **3)** została dokonana przelewem na rachunek banku lub rachunek spółdzielczej kasy oszczędnościowo-kredytowej:
-    - **a)** służący do dokonywania rozliczeń z tytułu nabywanych przez ten bank lub tę kasę wierzytelności pieniężnych lub towarów lub usługodawcy, lub
+    - **a)** służący do dokonywania rozliczeń z tytułu nabywanych przez ten bank lub tę kasę wierzytelności pieniężnych lub dostawę towarów lub świadczenie usług, potwierdzone fakturą, i przekazania jej w całości albo części dostawcy towarów lub usługodawcy, lub
     - **c)** prowadzony przez ten bank lub tę kasę w ramach gospodarki własnej, niebędący rachunkiem rozliczeniowym jeżeli odpowiednio bank, spółdzielcza kasa oszczędnościowo-kredytowa lub podmiot będący wystawcą faktury, wraz z informacją o numerze rachunku do zapłaty, przekazali podatnikowi informację, że rachunek wskazany do zapłaty jest rachunkiem, o którym mowa w lit. a, b lub c, lub
 
 - **4)** została dokonana z zastosowaniem mechanizmu podzielonej płatności, o którym mowa w art. 108a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, lub
@@ -3638,7 +3765,7 @@ Art. 307–323. (pominięte)
 
 2. Zakres odpowiedzialności fundacji rodzinnej jest ograniczony do wartości majątku wniesionego przez fundatora do fundacji rodzinnej.
 
-3. Przepisy 1 i 2 stosuje się odpowiednio do fundacji rodzinnej w organizacji.
+3. Przepisy 1 i 2 stosuje się odpowiednio do fundacji rodzinnej w organizacji. darzowego, w którym powstała zaległość podatkowa, upłynęło 5 lat, a w przypadku, o którym mowa:
 
 - **1)** w art. 117b 1 jeżeli od końca roku kalendarzowego, w którym miała miejsce dostawa towarów, upłynęły 3 lata;
 - **2)** w art. 117c jeżeli od końca roku kalendarzowego, w którym upływa 6-miesięczny okres od dnia zarejestrowania podatnika jako podatnika VAT czynnego, upłynęły 3 lata.
@@ -3679,7 +3806,7 @@ Art. 307–323. (pominięte)
 - **2)** do podmiotu, który uzyskał opinię zabezpieczającą w zakresie objętym opinią, do dnia doręczenia uchylenia lub zmiany opinii zabezpieczającej;
 - **3)** (uchylony)
 - **4)** do podatku od towarów i usług oraz do opłat i niepodatkowych należności budżetowych;
-- **5)** (uchylony)
+- **5)** (uchylony) zumieniem;
 - **7)** do podmiotu, który jest stroną zawartego porozumienia inwestycyjnego, w części dotyczącej art. 20zt pkt 2 w zakresie objętym tym porozumieniem.
 
 2. (uchylony)
@@ -3721,7 +3848,7 @@ Art. 307–323. (pominięte)
 - **4)** odpowiedzialności płatnika za podatek niepobrany lub pobrany a niewpłacony, oraz odpowiedzialności podatnika za podatek niepobrany przez płatnika,
 - **5)** o zakresie odpowiedzialności lub uprawnień spadkobiercy może być wydana decyzja z zastosowaniem art. 119a.
 
-2. W przypadku podatków, do których ustalania lub określania uprawnieni są wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa, Szef Krajowej Administracji Skarbowej na wniosek właściwego organu podatkowego może wyłącznie przejąć postępowanie podatkowe. -skarbowej przepisów art. 201 3 i art. 205 2 nie stosuje się.
+2. W przypadku podatków, do których ustalania lub określania uprawnieni są wójt, burmistrz (prezydent miasta), starosta lub marszałek województwa, Szef Krajowej Administracji Skarbowej na wniosek właściwego organu podatkowego może wyłącznie przejąć postępowanie podatkowe. ją zawiesza i jednocześnie wszczyna postępowanie podatkowe. Do zawieszonej kontroli podatkowej lub kontroli celno-skarbowej przepisów art. 201 3 i art. 205 2 nie stosuje się.
 
 4. W postanowieniu, o którym mowa w 1, Szef Krajowej Administracji Skarbowej wskazuje, w jakim zakresie przejmuje postępowanie podatkowe, kontrolę podatkową lub kontrolę celno-skarbową.
 
@@ -3749,7 +3876,7 @@ Art. 307–323. (pominięte)
 
 1. Szef Krajowej Administracji Skarbowej może, w toku postępowania, zasięgnąć opinii Rady co do zasadności zastosowania art. 119a.
 
-2. Na wniosek strony zgłoszony w odwołaniu od decyzji wydanej w sprawie, o której mowa w art. 119g 1, Szef Krajowej Administracji Skarbowej zasięga opinii Rady, chyba że wcześniej opinia została wydana. Decyzja w sprawie, o której mowa w art. 119g 1, wydana w pierwszej instancji zawiera pouczenie o prawie złożenia wniosku o zasięgnięcie opinii Rady.
+2. Na wniosek strony zgłoszony w odwołaniu od decyzji wydanej w sprawie, o której mowa w art. 119g 1, Szef Krajowej Administracji Skarbowej zasięga opinii Rady, chyba że wcześniej opinia została wydana. Decyzja w sprawie, o której mowa w art. 119g 1, wydana w pierwszej instancji zawiera pouczenie o prawie złożenia wniosku o zasięgnięcie opinii Rady. o opinię Szef Krajowej Administracji Skarbowej niezwłocznie informuje stronę.
 
 3a. W przypadku, o którym mowa w 3 zdanie pierwsze, w postępowaniu przed Radą czynności, o których mowa w rozdziale 10 działu IV, wykonuje Szef Krajowej Administracji Skarbowej.
 
@@ -3791,7 +3918,7 @@ Art. 307–323. (pominięte)
 
 **Art. 119k.**
 
-1. W razie stwierdzenia, że w sprawie nie zachodzą przesłanki zastosowania art. 119a, Szef Krajowej Administracji Skarbowej umarza postępowanie lub przekazuje, w drodze postanowienia, sprawę właściwemu organowi podatkowemu. Czynności dokonane przed przekazaniem sprawy pozostają w mocy. wemu organowi podatkowemu. Czynności dokonane przed przekazaniem sprawy pozostają w mocy.
+1. W razie stwierdzenia, że w sprawie nie zachodzą przesłanki zastosowania art. 119a, Szef Krajowej Administracji Skarbowej umarza postępowanie lub przekazuje, w drodze postanowienia, sprawę właściwemu organowi podatkowemu. Czynności dokonane przed przekazaniem sprawy pozostają w mocy. organ odwoławczy uchyla w całości decyzję organu pierwszej instancji i umarza postępowanie lub przekazuje sprawę właściwemu organowi podatkowemu. Czynności dokonane przed przekazaniem sprawy pozostają w mocy.
 
 2. Wydanie decyzji ostatecznej z zastosowaniem art. 119a stanowi w przejętym zakresie zakończenie kontroli podatkowej lub kontroli celno-skarbowej.
 
@@ -3838,7 +3965,7 @@ Art. 307–323. (pominięte)
 
 3. Podmiot wskazujący członka Rady ocenia spełnianie przez niego przesłanek określonych w 2 pkt 1 i 6. Osoby, o których mowa w 1 pkt 3, minister właściwy do spraw finansów publicznych powołuje po zasięgnięciu przedstawionej na piśmie opinii podmiotów zatrudniających te osoby.
 
-4. Przed powołaniem w skład Rady osoba powoływana składa oświadczenie o spełnieniu przesłanek, o których mowa w 2 pkt 2–5. właściwego do spraw finansów publicznych ogłoszenie o przyjmowaniu zgłoszeń kandydatów na członków Rady. Ogłoszenie zawiera w szczególności termin składania zgłoszeń niekrótszy niż 30 dni od dnia zamieszczenia ogłoszenia, sposób i miejsce składania zgłoszeń.
+4. Przed powołaniem w skład Rady osoba powoływana składa oświadczenie o spełnieniu przesłanek, o których mowa w 2 pkt 2–5. mowa w 1 pkt 3, zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych ogłoszenie o przyjmowaniu zgłoszeń kandydatów na członków Rady. Ogłoszenie zawiera w szczególności termin składania zgłoszeń niekrótszy niż 30 dni od dnia zamieszczenia ogłoszenia, sposób i miejsce składania zgłoszeń.
 
 **Art. 119p.**
 
@@ -3881,7 +4008,7 @@ Art. 307–323. (pominięte)
 
 6. Do zadań sekretarza Rady należy organizacja posiedzeń Rady, w szczególności zapewnienie obsługi finansowej związanej z funkcjonowaniem Rady oraz sprawowanie obsługi administracyjno-biurowej Rady.
 
-7. Sekretarz może uczestniczyć w posiedzeniach Rady bez prawa głosu. wego do spraw finansów publicznych.
+7. Sekretarz może uczestniczyć w posiedzeniach Rady bez prawa głosu. niezwłocznie zamieszczane w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
 
 **Art. 119u.** Do wyłączenia członków Rady w zakresie wydawania opinii w poszczególnych sprawach stosuje się odpowiednio przepisy art. 130 1 i 2.
 
@@ -3946,6 +4073,37 @@ Art. 307–323. (pominięte)
 
 **Art. 119z.** Złożenie wniosku o wydanie opinii zabezpieczającej nie stanowi przeszkody do prowadzenia czynności sprawdzających, kontroli podatkowej, postępowania podatkowego lub kontroli celno-skarbowej. Art. 119za. Opinia zabezpieczająca zawiera w szczególności:
 
+- **1)** wyczerpujący opis czynności, której dotyczył wniosek;
+- **2)** ocenę, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności nie ma zastosowania przepis art. 119a;
+- **3)** pouczenie o prawie wniesienia skargi do sądu administracyjnego. Art. 119zb. 1. Wniosek o wydanie opinii zabezpieczającej załatwia się bez zbędnej zwłoki, niepóźniej niż w terminie 6 miesięcy od dnia otrzymania wniosku przez Szefa Krajowej Administracji Skarbowej.
+
+2. Do terminu określonego w 1 nie wlicza się terminów i okresów, o których mowa w art. 139 4.
+
+3. W przypadkach uzasadnionych złożonością sprawy, w szczególności w razie zasięgnięcia opinii biegłego, termin, o którym mowa w 1, może być przedłużany, niewięcej jednak niż o 9 miesięcy. Art. 119zc. 1. Wniosek o wydanie opinii zabezpieczającej podlega opłacie w wysokości 20 000 zł, którą należy wpłacić w terminie 7 dni od dnia złożenia wniosku. Opłata od wspólnego wniosku zainteresowanych ulega zwiększeniu o 5000 zł od piątego i każdego kolejnego zainteresowanego.
+
+2. Opłata podlega zwrotowi w przypadku:
+
+- **1)** wycofania wniosku w terminie 6 miesięcy od dnia jego złożenia w połowie;
+- **2)** uiszczenia jej w kwocie wyższej niż należna w odpowiedniej części.
+
+3. W przypadku, o którym mowa w 2, zwrot opłaty następuje niepóźniej niż w terminie 7 dni od dnia zakończenia postępowania w sprawie wydania opinii zabezpieczającej.
+
+4. Koszty postępowania, o których mowa w art. 265 1 pkt 1 i 3, obciążają wnioskodawcę. odmowę wydania opinii zabezpieczającej, jeżeli jest ona sprzeczna z orzecznictwem Trybunału Konstytucyjnego lub Trybunału Sprawiedliwości Unii Europejskiej.
+
+2. (uchylony) Art. 119zda. 1. Na podstawie treści opinii zabezpieczającej lub odmowy wydania opinii zabezpieczającej sporządza się informację, którą niezwłocznie zamieszcza się w Biuletynie Informacji Publicznej na stronie podmiotowej urzędu obsługującego ministra właściwego do spraw finansów publicznych.
+
+2. Informacja, o której mowa w 1, zawiera w szczególności zwięzły opis poddanej pod opinię czynności oraz wyjaśnienie powodów podjętego rozstrzygnięcia. Informacja nie może zawierać danych identyfikujących lub pozwalających na zidentyfikowanie wnioskodawcy lub innych podmiotów wskazanych w treści aktu. Art. 119zdb. 1. Szef Krajowej Administracji Skarbowej zasięga opinii organu właściwego w sprawie porozumienia, jeżeli:
+
+- **1)** przedstawione we wniosku o wydanie opinii zabezpieczającej okoliczności świadczą, że do wskazanej we wniosku korzyści podatkowej wynikającej z czynności może mieć zastosowanie zawarte porozumienie inwestycyjne w zakresie, o którym mowa w art. 20zt pkt 2, albo w zakresie tej korzyści podatkowej organ właściwy w sprawie porozumienia odmówił zawarcia tego porozumienia, lub
+- **2)** wnioskodawca jest stroną postępowania w przedmiocie zawarcia porozumienia inwestycyjnego w zakresie czynności opisanej we wniosku.
+
+2. Jeżeli z opinii organu właściwego w sprawie porozumienia wynika, że istnieją przeszkody do rozpatrzenia wniosku o wydanie opinii zabezpieczającej, Szef Krajowej Administracji Skarbowej odmawia wszczęcia postępowania w sprawie wydania opinii zabezpieczającej.
+
+3. Do zasięgnięcia opinii organu właściwego w sprawie porozumienia przepisy art. 209 1–4 i 6 stosuje się odpowiednio. Art. 119ze. Jeżeli postępowanie w sprawie wydania opinii zabezpieczającej stało się bezprzedmiotowe, w szczególności w razie:
+
+- **1)** wycofania wniosku o jej wydanie,
+- **2)** wydania decyzji z zastosowaniem art. 119a w zakresie objętym wnioskiem o wydanie opinii przepisy art. 208 oraz art. 210–212 stosuje się odpowiednio. Art. 119zea. Minister właściwy do spraw finansów publicznych może określić, w drodze rozporządzenia, wzory wniosków, o których mowa w art. 119x 1 i art. 119w 2, które zawierają dane określone w tych przepisach oraz oświadczenie wskazane w art. 14b 4 oraz umożliwiają wskazanie danych, o których mowa w art. 14r 2 oraz w art. 119w 3, a także sposób uiszczenia opłaty, o której mowa w art. 119zc, mając na względzie konieczność ujednolicenia formy składanych wniosków oraz zapewnienia sprawnej obsługi wnioskodawców. Art. 119zf. W sprawach nieuregulowanych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 14b 4 i 5, art. 14d 2 i 3, art. 14e 1 pkt 2 i 2–4, art. 14f 3, art. 14i 2, 4 i 5, art. 14r 2 i 3, art. 120, art. 125, art. 126, art. 129, art. 130, art. 135, art. 140, art. 143, art. 165 3, 3b i 9, art. 165a, art. 168, art. 169 1–2 i 4, art. 170, art. 171, art. 187 3, art. 189 3, art. 197 1 i 3, art. 213–215 oraz przepisy działu IV rozdziałów 3a, 5, 6, 7, 9, 10, 14, 16 i 23.
+
 #### Rozdział 5 Cofnięcie skutków unikania opodatkowania
 
 #### Rozdział 6 Opinia zabezpieczająca w sprawie opodatkowania wyrównawczego
@@ -3959,6 +4117,8 @@ Art. 307–323. (pominięte)
 #### Rozdział 3 Blokada rachunku podmiotu kwalifikowanego
 
 #### Rozdział 4 Kontrola
+
+#### Rozdział 5 Kary pieniężne
 
 ### DZIAŁ IIIC Przeciwdziałanie nadużyciom w zakresie operacji transgranicznych
 
@@ -3982,13 +4142,11 @@ Art. 307–323. (pominięte)
 
 - **1)** w postępowaniu uczestniczą strony o spornych interesach lub wynik postępowania ma bezpośredni wpływ na interesy innych osób;
 - **2)** przepisy prawa wymagają od strony wykazania określonych faktów;
-- **3)** sprzeciwia się temu ważny interes publiczny, w tym istotny interes państwa.
-
-**Art. 123.**
-
-1. Organy podatkowe obowiązane są zapewnić stronom czynny udział w każdym stadium postępowania, a przed wydaniem decyzji umożliwić im wypowiedzenie się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
+- **3)** sprzeciwia się temu ważny interes publiczny, w tym istotny interes państwa. a przed wydaniem decyzji umożliwić im wypowiedzenie się co do zebranych dowodów i materiałów oraz zgłoszonych żądań.
 
 2. Organ podatkowy może odstąpić od zasady przewidzianej w 1, jeżeli w wyniku postępowania wszczętego na wniosek strony ma zostać wydana decyzja w całości uwzględniająca wniosek strony, oraz w przypadkach, o których mowa w art. 200 2 pkt 2.
+
+**Art. 124.** Organy podatkowe powinny wyjaśniać stronom zasadność przesłanek, którymi kierują się przy załatwianiu sprawy, aby w miarę możliwości doprowadzić do wykonania przez strony decyzji bez stosowania środków przymusu.
 
 **Art. 125.**
 
@@ -4027,11 +4185,11 @@ Art. 307–323. (pominięte)
 - **7)** zaistniały okoliczności, w związku z którymi wszczęto przeciw nim postępowanie służbowe, dyscyplinarne lub karne;
 - **8)** stroną jest osoba pozostająca wobec nich w stosunku nadrzędności służbowej.
 
-2. Przyczyny wyłączenia od załatwienia sprawy trwają także po ustaniu małżeństwa, przysposobienia, opieki lub kurateli.
+2. Przyczyny wyłączenia od załatwienia sprawy trwają także po ustaniu małżeństwa, przysposobienia, opieki lub kurateli. albo z urzędu wyłączyć go od udziału w postępowaniu, jeżeli zostanie uprawdopodobnione istnienie okoliczności niewymienionych w 1, które mogą wywołać wątpliwości co do bezstronności pracownika lub funkcjonariusza.
 
-3. Bezpośredni przełożony pracownika lub funkcjonariusza jest obowiązany na jego żądanie lub na żądanie strony albo z urzędu wyłączyć go od udziału w postępowaniu, jeżeli zostanie uprawdopodobnione istnienie okoliczności niewymienionych w 1, które mogą wywołać wątpliwości co do bezstronności pracownika lub funkcjonariusza.
+4. Jeżeli nastąpi wyłączenie pracownika lub funkcjonariusza, odpowiednio naczelnik urzędu skarbowego, naczelnik urzędu celno-skarbowego, wójt, burmistrz (prezydent miasta), starosta albo marszałek województwa, dyrektor izby administracji skarbowej, dyrektor Krajowej Informacji Skarbowej, Szef Krajowej Administracji Skarbowej wyznaczają innego pracownika lub funkcjonariusza do prowadzenia sprawy.
 
-4. Jeżeli nastąpi wyłączenie pracownika lub funkcjonariusza, odpowiednio naczelnik urzędu skarbowego, naczelnik urzędu celno-skarbowego, wójt, burmistrz (prezydent miasta), starosta albo marszałek województwa, dyrektor izby administracji skarbowej, dyrektor Krajowej Informacji Skarbowej, Szef Krajowej Administracji Skarbowej wyznaczają innego pracownika lub funkcjonariusza do prowadzenia sprawy. załatwić sprawy z braku pełnego składu orzekającego, Prezes Rady Ministrów, w drodze postanowienia, wyznacza do załatwienia sprawy inne samorządowe kolegium odwoławcze.
+5. W przypadku wyłączenia członka samorządowego kolegium odwoławczego jego prezes wyznacza osobę uprawnioną do zastąpienia osoby wyłączonej. Jeżeli samorządowe kolegium odwoławcze na skutek wyłączenia jego członków nie może załatwić sprawy z braku pełnego składu orzekającego, Prezes Rady Ministrów, w drodze postanowienia, wyznacza do załatwienia sprawy inne samorządowe kolegium odwoławcze.
 
 **Art. 131.**
 
@@ -4068,15 +4226,13 @@ Art. 307–323. (pominięte)
 
 3. W przypadku wyłączenia organu, o którym mowa w 1, samorządowe kolegium odwoławcze wyznacza, w drodze postanowienia, organ właściwy do załatwienia sprawy.
 
-**Art. 132a.** Przyczyny wyłączenia od załatwienia sprawy trwają także po ustaniu małżeństwa, przysposobienia, opieki lub kurateli.
-
-#### Rozdział 3 Strona
+**Art. 132a.** Przyczyny wyłączenia od załatwienia sprawy trwają także po ustaniu małżeństwa, przysposobienia, opieki lub kurateli. Strona
 
 **Art. 133.**
 
 1. Stroną w postępowaniu podatkowym jest podatnik, płatnik, inkasent lub ich następca prawny, a także osoba trzecia, o której mowa w art. 110–117c, która z uwagi na swój interes prawny żąda czynności organu podatkowego, do której czynność organu podatkowego się odnosi lub której interesu prawnego działanie organu podatkowego dotyczy.
 
-2. Stroną w postępowaniu podatkowym może być również osoba fizyczna, osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej inna niż wymieniona w 1, jeżeli zgodnie z przepisami prawa podatkowego przed cych z tego prawa.
+2. Stroną w postępowaniu podatkowym może być również osoba fizyczna, osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej inna niż wymieniona w 1, jeżeli zgodnie z przepisami prawa podatkowego przed powstaniem obowiązku podatkowego ciążą na niej szczególne obowiązki lub zamierza skorzystać z uprawnień wynikających z tego prawa.
 
 2a. Stroną w postępowaniu podatkowym w sprawach dotyczących zwrotu podatku od towarów i usług może być wspólnik spółki wymienionej w art. 115 1, uprawniony na podstawie przepisów o podatku od towarów i usług do otrzymania zwrotu podatku.
 
@@ -4114,9 +4270,7 @@ Art. 307–323. (pominięte)
 
 2. (uchylony)
 
-3. Jeżeli osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej nie może prowadzić swoich spraw wskutek braku powołanych do tego organów, organ podatkowy składa do sądu wniosek o ustanowienie kuratora.
-
-#### Rozdział 3a Pełnomocnictwo
+3. Jeżeli osoba prawna lub jednostka organizacyjna niemająca osobowości prawnej nie może prowadzić swoich spraw wskutek braku powołanych do tego organów, organ podatkowy składa do sądu wniosek o ustanowienie kuratora. Pełnomocnictwo
 
 **Art. 138a.**
 
@@ -4127,6 +4281,8 @@ Art. 307–323. (pominięte)
 3. (uchylony)
 
 4. Adwokat, radca prawny i doradca podatkowy mogą sami uwierzytelnić odpis udzielonego im pełnomocnictwa oraz odpisy innych dokumentów wykazujących ich umocowanie. Organ podatkowy może w razie wątpliwości zażądać urzędowego poświadczenia podpisu strony.
+
+5. (uchylony)
 
 **Art. 138b.**
 
@@ -4160,8 +4316,6 @@ Art. 307–323. (pominięte)
 
 6. W przypadku, o którym mowa w art. 138c 3, pełnomocnictwo ogólne, zawiadomienie o jego zmianie, odwołaniu lub wypowiedzeniu zgłasza osoba sprawująca opiekę nad osobą, która nie może się podpisać, a w przypadku zgłoszenia pełnomocnictwa ustnie do protokołu organ podatkowy.
 
-7. (uchylony)
-
 8. Organ, na wniosek którego sąd wyznaczył kuratora, niezwłocznie informuje Szefa Krajowej Administracji Skarbowej o treści postanowienia sądu o ustanowieniu kuratora.
 
 9. (uchylony)
@@ -4170,7 +4324,9 @@ Art. 307–323. (pominięte)
 
 1. Pełnomocnictwo szczególne upoważnia do działania we wskazanej sprawie podatkowej lub innej wskazanej sprawie należącej do właściwości organu podatkowego.
 
-2. Pełnomocnictwo szczególne może być udzielone na piśmie lub zgłoszone ustnie do protokołu. pisach wydanych na podstawie art. 138j 1 pkt 2, w oryginale lub jego notarialnie poświadczony odpis.
+2. Pełnomocnictwo szczególne może być udzielone na piśmie lub zgłoszone ustnie do protokołu.
+
+3. Pełnomocnictwo szczególne udzielone na piśmie oraz zawiadomienie o jego zmianie, odwołaniu lub wypowiedzeniu w przypadku, gdy zostały utrwalone w postaci papierowej, składa się do akt sprawy według wzoru określonego w przepisach wydanych na podstawie art. 138j 1 pkt 2, w oryginale lub jego notarialnie poświadczony odpis.
 
 4. Pełnomocnik może okazać oryginał lub notarialnie poświadczony odpis pełnomocnictwa szczególnego oraz zawiadomienie o jego zmianie, odwołaniu lub wypowiedzeniu w celu sporządzenia przez organ podatkowy jego urzędowego odpisu i dołączenia do akt sprawy.
 
@@ -4212,15 +4368,17 @@ Art. 307–323. (pominięte)
 
 1. Centralny Rejestr jest prowadzony przez Szefa Krajowej Administracji Skarbowej.
 
-2. Dostęp do Centralnego Rejestru mają organy podatkowe.
-
-3. Minister właściwy do spraw finansów publicznych może, w drodze rozporządzenia, upoważnić organ Krajowej Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej w zakresie prowadzenia Centralnego Rejestru, mając na celu zapewnienie sprawnego funkcjonowania tego rejestru.
+2. Dostęp do Centralnego Rejestru mają organy podatkowe. Administracji Skarbowej do wykonywania zadań Szefa Krajowej Administracji Skarbowej w zakresie prowadzenia Centralnego Rejestru, mając na celu zapewnienie sprawnego funkcjonowania tego rejestru.
 
 **Art. 138l.**
 
 1. W sprawie niecierpiącej zwłoki organ podatkowy wyznacza dla osoby nieobecnej tymczasowego pełnomocnika szczególnego, upoważnionego do działania do czasu wyznaczenia przez sąd kuratora dla osoby nieobecnej.
 
-2. Tymczasowym pełnomocnikiem szczególnym może być w pierwszej kolejności wyznaczony przez organ podatkowy członek rodziny osoby nieobecnej, jeżeli wyrazi na to zgodę, a w przypadku braku takiej zgody adwokat, radca prawny lub doradca podatkowy wyznaczony w trybie art. 138n 1 lub 2. niemożności ustalenia adresu siedziby, miejsca prowadzenia działalności lub miejsca zamieszkania osób upoważnionych do reprezentowania jej spraw, organ podatkowy wyznacza dla tej osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej tymczasowego pełnomocnika szczególnego upoważnionego do działania do czasu wyznaczenia kuratora przez sąd.
+2. Tymczasowym pełnomocnikiem szczególnym może być w pierwszej kolejności wyznaczony przez organ podatkowy członek rodziny osoby nieobecnej, jeżeli wyrazi na to zgodę, a w przypadku braku takiej zgody adwokat, radca prawny lub doradca podatkowy wyznaczony w trybie art. 138n 1 lub 2.
+
+**Art. 138m.**
+
+1. W przypadku niemożności wszczęcia postępowania lub prowadzenia postępowania wobec osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej z powodu braku powołanych do tego organów lub niemożności ustalenia adresu siedziby, miejsca prowadzenia działalności lub miejsca zamieszkania osób upoważnionych do reprezentowania jej spraw, organ podatkowy wyznacza dla tej osoby prawnej lub jednostki organizacyjnej niemającej osobowości prawnej tymczasowego pełnomocnika szczególnego upoważnionego do działania do czasu wyznaczenia kuratora przez sąd.
 
 2. Tymczasowym pełnomocnikiem szczególnym jest adwokat, radca prawny lub doradca podatkowy wyznaczony w trybie art. 138n 1 lub 2.
 
@@ -4250,17 +4408,13 @@ Art. 307–323. (pominięte)
 
 1. O każdym przypadku niezałatwienia sprawy we właściwym terminie organ podatkowy obowiązany jest zawiadomić stronę, podając przyczyny niedotrzymania terminu i wskazując nowy termin załatwienia sprawy.
 
-2. Ten sam obowiązek ciąży na organie podatkowym również w przypadku, gdy niedotrzymanie terminu nastąpiło z przyczyn niezależnych od organu.
-
-**Art. 141.**
-
-1. Na niezałatwienie sprawy we właściwym terminie lub terminie ustalonym na podstawie art. 140 stronie służy ponaglenie do:
+2. Ten sam obowiązek ciąży na organie podatkowym również w przypadku, gdy niedotrzymanie terminu nastąpiło z przyczyn niezależnych od organu. służy ponaglenie do:
 
 - **1)** organu podatkowego wyższego stopnia;
 - **2)** (uchylony)
 - **3)** Szefa Krajowej Administracji Skarbowej, jeżeli sprawa nie została załatwiona przez dyrektora Krajowej Informacji Skarbowej albo dyrektora izby administracji skarbowej.
 
-2. Organ podatkowy wymieniony w 1, uznając ponaglenie za uzasadnione, wyznacza dodatkowy termin załatwienia sprawy oraz zarządza wyjaśnienie przyczyn i ustalenie osób winnych niezałatwienia sprawy w terminie, a w razie
+2. Organ podatkowy wymieniony w 1, uznając ponaglenie za uzasadnione, wyznacza dodatkowy termin załatwienia sprawy oraz zarządza wyjaśnienie przyczyn i ustalenie osób winnych niezałatwienia sprawy w terminie, a w razie potrzeby podejmuje środki zapobiegające naruszaniu terminów załatwiania spraw w przyszłości. Organ stwierdza jednocześnie, czy niezałatwienie sprawy w terminie miało miejsce z rażącym naruszeniem prawa.
 
 **Art. 142.** Pracownik organu podatkowego, który z nieuzasadnionych przyczyn nie załatwił sprawy w terminie lub nie dopełnił obowiązku wynikającego z art. 140 albo nie załatwił sprawy w dodatkowym terminie ustalonym zgodnie z art. 141 2, podlega odpowiedzialności porządkowej lub dyscyplinarnej albo innej odpowiedzialności przewidzianej przepisami prawa.
 
@@ -4295,11 +4449,9 @@ Art. 307–323. (pominięte)
 1c. W przypadku braku możliwości doręczenia w sposób, o którym mowa w 1a i 1b pkt 1, organ podatkowy doręcza pisma:
 
 - **1)** przesyłką rejestrowaną, o której mowa w art. 3 pkt 23 ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, albo
-- **2)** za pokwitowaniem przez pracowników urzędu obsługującego ten organ, funkcjonariuszy lub upoważnionych pracowników innego organu podatkowego lub przez organy lub osoby uprawnione na podstawie odrębnych przepisów.
+- **2)** za pokwitowaniem przez pracowników urzędu obsługującego ten organ, funkcjonariuszy lub upoważnionych pracowników innego organu podatkowego lub przez organy lub osoby uprawnione na podstawie odrębnych przepisów. która podlega natychmiastowemu wykonaniu z mocy ustawy, organ może doręczyć decyzję w sposób określony w 1c. Przepisów 1a i 1b pkt 1 nie stosuje się.
 
-1d. W przypadku doręczenia decyzji, której organ podatkowy nadał rygor natychmiastowej wykonalności, albo decyzji, która podlega natychmiastowemu wykonaniu z mocy ustawy, organ może doręczyć decyzję w sposób określony w 1c. Przepisów 1a i 1b pkt 1 nie stosuje się.
-
-2. (uchylony) 2a. (uchylony) 2b. (uchylony) 2c. (uchylony)
+2. (uchylony) 2a. (uchylony) 2b. (uchylony) 2c. (uchylony) 2d. (uchylony)
 
 3. (uchylony)
 
@@ -4343,17 +4495,15 @@ Art. 307–323. (pominięte)
 
 2a. Pełnomocnikowi mającemu miejsce zamieszkania za granicą, który nie wskazuje adresu do doręczeń w kraju, pisma doręcza się za pomocą środków komunikacji elektronicznej na wskazany adres elektroniczny.
 
-3. W razie niewyznaczenia pełnomocnika do doręczeń, o którym mowa w art. 138g, organ podatkowy doręcza pisma jednemu z pełnomocników.
-
-**Art. 146.**
-
-1. W toku postępowania strona oraz jej przedstawiciel lub pełnomocnik mają obowiązek zawiadomić organ podatkowy o zmianie adresu, pod którym dokonuje się doręczeń.
+3. W razie niewyznaczenia pełnomocnika do doręczeń, o którym mowa w art. 138g, organ podatkowy doręcza pisma jednemu z pełnomocników. podatkowy o zmianie adresu, pod którym dokonuje się doręczeń.
 
 2. W razie niedopełnienia obowiązku przewidzianego w 1, w przypadku doręczania pisma za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe, pismo uważa się za doręczone pod dotychczasowym adresem z upływem ostatniego dnia okresu, o którym mowa w art. 150 1 pkt 1, a pismo pozostawia się w aktach sprawy.
 
 **Art. 146a.**
 
 1. Pełnomocnik ogólny ma obowiązek zawiadomić o zmianie adresu, pod którym dokonuje się doręczeń. Zawiadomienie o zmianie pełnomocnictwa w zakresie adresu jest składane do Centralnego Rejestru.
+
+2. W razie niedopełnienia przez pełnomocnika ogólnego obowiązku przewidzianego w 1, pismo uważa się za doręczone pod dotychczasowym adresem. Przepis art. 146 2 stosuje się odpowiednio.
 
 **Art. 147.** (uchylony)
 
@@ -4388,17 +4538,11 @@ Art. 307–323. (pominięte)
 
 4. W przypadku niepodjęcia pisma, doręczenie uważa się za dokonane z upływem ostatniego dnia okresu, o którym mowa w 1, a pismo pozostawia się w aktach sprawy.
 
-**Art. 150a.** Na wniosek strony doręczenie może być dokonane na wskazany przez nią adres skrytki pocztowej. W tym przypadku pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe składa się w placówce pocztowej tego operatora. Przepisy art. 150 2–4 stosuje się odpowiednio, z tym że zawiadomienie o pozostawieniu pisma w placówce pocztowej, wraz z informacją o możliwości jego odbioru, umieszcza się w skrytce pocztowej adresata.
-
-**Art. 151.**
-
-1. Osobom prawnym oraz jednostkom organizacyjnym niemającym osobowości prawnej pisma doręcza się w lokalu ich siedziby lub w miejscu prowadzenia działalności osobie upoważnionej do odbioru korespondencji lub prokurentowi. Przepisy art. 146, art. 148 2 pkt 1 oraz art. 150 i art. 150a stosuje się odpowiednio.
-
-2. W razie niemożności doręczenia pisma w lokalu siedziby pisma doręcza się za pokwitowaniem zarządcy budynku lub dozorcy, gdy osoby te podjęły się oddania pisma adresatowi. Zawiadomienie o doręczeniu pisma zarządcy budynku lub dozorcy umieszcza się w oddawczej skrzynce pocztowej, na drzwiach lokalu siedziby adresata lub w widocznym miejscu przy wejściu na posesję, na której mieści się lokal tej siedziby.
+**Art. 150a.** Na wniosek strony doręczenie może być dokonane na wskazany przez nią adres skrytki pocztowej. W tym przypadku pismo przesłane za pośrednictwem operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe składa się w placówce pocztowej tego operatora. Przepisy art. 150 2–4 stosuje się odpowiednio, z tym że zawiadomienie o pozostawieniu pisma w placówce pocztowej, wraz z informacją o możliwości jego odbioru, umieszcza się w skrytce pocztowej adresata. w lokalu ich siedziby lub w miejscu prowadzenia działalności osobie upoważnionej do odbioru korespondencji lub prokurentowi. Przepisy art. 146, art. 148 2 pkt 1 oraz art. 150 i art. 150a stosuje się odpowiednio. 2. W razie niemożności doręczenia pisma w lokalu siedziby pisma doręcza się za pokwitowaniem zarządcy budynku lub dozorcy, gdy osoby te podjęły się oddania pisma adresatowi. Zawiadomienie o doręczeniu pisma zarządcy budynku lub dozorcy umieszcza się w oddawczej skrzynce pocztowej, na drzwiach lokalu siedziby adresata lub w widocznym miejscu przy wejściu na posesję, na której mieści się lokal tej siedziby.
 
 **Art. 151a.**
 
-1. Jeżeli podany przez osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej adres jej siedziby nie istnieje, został wykreślony z rejestru lub jest niezgodny z odpowiednim rejestrem i nie można ustalić miejsca reprezentacja ma charakter łączny z innymi osobami.
+1. Jeżeli podany przez osobę prawną lub jednostkę organizacyjną niemającą osobowości prawnej adres jej siedziby nie istnieje, został wykreślony z rejestru lub jest niezgodny z odpowiednim rejestrem i nie można ustalić miejsca prowadzenia działalności, pismo doręcza się osobie fizycznej upoważnionej do reprezentowania adresata, także wtedy gdy reprezentacja ma charakter łączny z innymi osobami.
 
 2. W razie niemożności ustalenia adresu osoby fizycznej upoważnionej do reprezentowania adresata, pismo pozostawia się w aktach sprawy ze skutkiem doręczenia.
 
@@ -4434,13 +4578,11 @@ Art. 307–323. (pominięte)
 
 6. Pismo będące przedmiotem wniosku o doręczenie przekazuje się obcej władzy przez operatora pocztowego w rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe.
 
-7. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, wyznacza organ Krajowej Administracji Skarbowej do przekazywania obcym władzom wniosków o doręczenie, mając na względzie konieczność zapewnienia sprawnego doręczania pism.
-
-**Art. 154b.**
-
-1. Wniosek o doręczenie pisma pochodzący od obcej władzy organ wyznaczony zgodnie z art. 154a 7 przekazuje naczelnikowi urzędu skarbowego właściwemu ze względu na miejsce zamieszkania lub siedzibę podmiotu, którego dotyczy wniosek. Naczelnik urzędu skarbowego doręcza pismo stosując odpowiednio przepisy art. 144–154.
+7. Minister właściwy do spraw finansów publicznych, w drodze rozporządzenia, wyznacza organ Krajowej Administracji Skarbowej do przekazywania obcym władzom wniosków o doręczenie, mając na względzie konieczność zapewnienia sprawnego doręczania pism. przekazuje naczelnikowi urzędu skarbowego właściwemu ze względu na miejsce zamieszkania lub siedzibę podmiotu, którego dotyczy wniosek. Naczelnik urzędu skarbowego doręcza pismo stosując odpowiednio przepisy art. 144–154.
 
 2. Organ wyznaczony zgodnie z art. 154a 7 niezwłocznie informuje obcą władzę, za pomocą środków komunikacji elektronicznej, przy użyciu standardowego formularza, według wzoru określonego w załączniku nr 3 do rozporządzenia Komisji (UE) nr 1156/2012 z dnia 6 grudnia 2012 r. ustanawiającego szczegółowe zasady wykonywania niektórych przepisów dyrektywy Rady 2011/16/UE w sprawie współpracy administracyjnej w dziedzinie opodatkowania, o działaniach podjętych na podstawie wniosku o doręczenie, w szczególności o dacie doręczenia pisma.
+
+**Art. 154c.** Pisma obcych władz są doręczane z zachowaniem zasady wzajemności.
 
 #### Rozdział 6 Wezwania
 
@@ -4482,13 +4624,14 @@ Art. 307–323. (pominięte)
 - **2)** imię i nazwisko osoby wzywanej;
 - **3)** w jakiej sprawie i w jakim charakterze oraz w jakim celu osoba ta zostaje wezwana;
 - **4)** czy osoba wezwana powinna stawić się osobiście lub przez pełnomocnika, czy też może złożyć wyjaśnienie lub zeznanie na piśmie;
-- **4a)** (uchylony)
 - **5)** termin, do którego żądanie powinno być spełnione, albo dzień, godzinę i miejsce zgłoszenia się osoby wzywanej lub jej pełnomocnika;
 - **6)** skutki prawne niezastosowania się do wezwania.
 
 1a. W przypadku wzywania strony na przesłuchanie w wezwaniu należy również poinformować o prawie odmowy wyrażenia zgody na przesłuchanie i o związanej z tym możliwości niestawienia się na wezwanie.
 
 1b. Wezwanie zawiera również informacje, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679, chyba że wezwany posiada te informacje, a ich zakres lub treść nie uległy zmianie.
+
+2. Wezwanie powinno być podpisane przez pracownika organu podatkowego, z podaniem jego imienia, nazwiska i stanowiska służbowego.
 
 **Art. 160.**
 
@@ -4540,13 +4683,14 @@ Art. 307–323. (pominięte)
 
 - **1)** ustalenia zobowiązań podatkowych, które zgodnie z odrębnymi przepisami ustalane są corocznie, jeżeli stan faktyczny, na podstawie którego ustalono wysokość zobowiązania podatkowego za poprzedni okres, nie uległ zmianie;
 - **2)** umorzenia zaległości podatkowych w przypadkach, o których mowa w art. 67d 1;
-- **3)** nadania decyzji rygoru natychmiastowej wykonalności;
 - **4)** zabezpieczenia;
 - **5)** zaliczenia wpłaty, nadpłaty lub zwrotu podatku;
 - **6)** wstrzymania wykonania decyzji;
 - **7)** wygaśnięcia decyzji.
 
 6. (uchylony)
+
+7. Organ podatkowy nie wydaje postanowienia o wszczęciu postępowania w przypadku złożenia:
 
 - **1)** zeznania podatkowego przez podatników podatku od spadków i darowizn;
 - **2)** informacji przez podatników podatku od nieruchomości, podatku rolnego i podatku leśnego;
@@ -4582,11 +4726,12 @@ Art. 307–323. (pominięte)
 
 - **1)** dowody, na których podstawie ustalono istotne dla sprawy okoliczności faktyczne, okazały się fałszywe;
 - **2)** protokół kontroli został sporządzony w wyniku przestępstwa;
-- **3)** po sporządzeniu protokołu kontroli z poprzedniej kontroli wyszły na jaw istotne dla sprawy nowe okoliczności faktyczne lub nowe dowody nieznane organowi podatkowemu w chwili przeprowadzania kontroli, w tym wskazujące na wystąpienie nadużycia prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług;
-- **4)** w protokole kontroli zostały uwzględnione ustalenia wynikające z decyzji lub orzeczenia sądu, które następnie zostały uchylone, zmienione, wygaszone lub stwierdzono ich nieważność, mogące mieć wpływ na dokonaną ocenę prawną sprawy będącej przedmiotem kontroli;
+- **3)** po sporządzeniu protokołu kontroli z poprzedniej kontroli wyszły na jaw istotne dla sprawy nowe okoliczności faktyczne lub nowe dowody nieznane organowi podatkowemu w chwili przeprowadzania kontroli, w tym wskazujące na wystąpienie nadużycia prawa, o którym mowa w art. 5 ust. 5 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług; uchylone, zmienione, wygaszone lub stwierdzono ich nieważność, mogące mieć wpływ na dokonaną ocenę prawną sprawy będącej przedmiotem kontroli;
 - **5)** przed poprzednią kontrolą została opublikowana interpretacja ogólna lub zostały zamieszczone objaśnienia podatkowe, których przedmiotem jest stosowanie właściwej stawki podatku od towarów i usług w odniesieniu do dostawy danego towaru lub świadczenia danej usługi.
 
-3. W przypadku, o którym mowa w 1, protokół z powtórnej kontroli zawiera szczegółowy opis ustaleń dokonanych w trakcie poprzedniej kontroli wraz z oceną prawną sprawy dokonaną w trakcie powtórnej kontroli. których można dokonać innej oceny prawnej sprawy niż dokonana w protokole poprzedniej kontroli.
+3. W przypadku, o którym mowa w 1, protokół z powtórnej kontroli zawiera szczegółowy opis ustaleń dokonanych w trakcie poprzedniej kontroli wraz z oceną prawną sprawy dokonaną w trakcie powtórnej kontroli.
+
+4. Przepis 1 stosuje się odpowiednio do okresów rozliczeniowych innych niż okres objęty powtórną kontrolą, niedłużej jednak niż do dnia opublikowania interpretacji ogólnej lub zamieszczenia objaśnień podatkowych, z uwzględnieniem których można dokonać innej oceny prawnej sprawy niż dokonana w protokole poprzedniej kontroli.
 
 5. Przepisu 1 nie stosuje się do okresów rozliczeniowych następujących po okresie, w którym w ramach powtórnej kontroli podatkowej stwierdzono, że poprzednie ustalenie prawidłowości stosowania stawki podatku od towarów i usług w odniesieniu do danego towaru lub danej usługi potwierdzonej w protokole kontroli było nieprawidłowe.
 
@@ -4628,9 +4773,7 @@ Art. 307–323. (pominięte)
 
 1. Jeżeli podanie nie spełnia wymogów określonych przepisami prawa, organ podatkowy wzywa wnoszącego podanie do usunięcia braków w terminie 7 dni, z pouczeniem, że niewypełnienie tego warunku spowoduje pozostawienie podania bez rozpatrzenia.
 
-1a. Jeżeli podanie nie zawiera adresu, organ pozostawia je bez rozpatrzenia. W tym przypadku nie dokonuje się wezwania, o którym mowa w 1, oraz nie wydaje postanowienia, o którym mowa w 4.
-
-1b. W przypadku wniesienia podania w formie innej niż wskazana w art. 168 1 pozostawia się je bez rozpatrzenia, bez obowiązku zawiadamiania o tym wnoszącego.
+1a. Jeżeli podanie nie zawiera adresu, organ pozostawia je bez rozpatrzenia. W tym przypadku nie dokonuje się wezwania, o którym mowa w 1, oraz nie wydaje postanowienia, o którym mowa w 4. bez obowiązku zawiadamiania o tym wnoszącego.
 
 2. Przepis 1 stosuje się również, jeżeli strona nie wniosła opłat, które zgodnie z odrębnymi przepisami powinny zostać uiszczone z góry.
 
@@ -4639,6 +4782,8 @@ Art. 307–323. (pominięte)
 - **1)** za niezwłocznym rozpatrzeniem podania przemawia interes publiczny lub ważny interes strony;
 - **2)** wniesienie podania stanowi czynność, dla której jest ustanowiony termin zawity;
 - **3)** podanie wniosła osoba zamieszkała za granicą.
+
+4. Organ podatkowy wydaje postanowienie o pozostawieniu podania bez rozpatrzenia, na które przysługuje zażalenie.
 
 **Art. 170.**
 
@@ -4674,11 +4819,7 @@ Art. 307–323. (pominięte)
 
 5. Minister właściwy do spraw finansów publicznych określa, w drodze rozporządzenia, rodzaje spraw, w których obowiązek prowadzenia metryki sprawy jest wyłączony ze względu na nieproporcjonalność nakładu środków koniecznych do prowadzenia metryki w stosunku do prostego i powtarzalnego charakteru tych spraw.
 
-6. Przepisy 4 i 5 stosuje się odpowiednio do postępowań uregulowanych w odrębnych przepisach, do których mają zastosowanie przepisy niniejszego działu.
-
-**Art. 172.**
-
-1. Organ podatkowy sporządza zwięzły protokół z każdej czynności postępowania mającej istotne znaczenie dla rozstrzygnięcia sprawy, chyba że czynność została w inny sposób utrwalona na piśmie.
+6. Przepisy 4 i 5 stosuje się odpowiednio do postępowań uregulowanych w odrębnych przepisach, do których mają zastosowanie przepisy niniejszego działu. nie dla rozstrzygnięcia sprawy, chyba że czynność została w inny sposób utrwalona na piśmie.
 
 2. W szczególności sporządza się protokół:
 
@@ -4686,7 +4827,11 @@ Art. 307–323. (pominięte)
 - **2)** przesłuchania strony, świadka i biegłego;
 - **3)** oględzin i ekspertyz dokonywanych przy udziale pracownika organu podatkowego;
 - **4)** ustnego ogłoszenia postanowienia;
-- **5)** rozprawy. obecne osoby.
+- **5)** rozprawy.
+
+**Art. 173.**
+
+1. Protokół sporządza się tak, aby z jego treści wynikało, kto, kiedy, gdzie i jakich czynności dokonał, kto i w jakim charakterze był przy nich obecny, co i w jaki sposób w wyniku tych czynności ustalono i jakie uwagi zgłosiły obecne osoby.
 
 2. Protokół odczytuje się wszystkim osobom obecnym, biorącym udział w czynności urzędowej, które powinny następnie protokół podpisać. Odmowę lub brak podpisu którejkolwiek osoby należy omówić w protokóle.
 
@@ -4726,9 +4871,7 @@ Art. 307–323. (pominięte)
 
 3. Na postanowienie, o którym mowa w 2, służy zażalenie.
 
-**Art. 179a.** Przepis art. 178 1 nie narusza prawa osoby, której dane dotyczą, do skorzystania z uprawnień wynikających z art. 15 rozporządzenia 2016/679.
-
-#### Rozdział 11 Dowody
+**Art. 179a.** Przepis art. 178 1 nie narusza prawa osoby, której dane dotyczą, do skorzystania z uprawnień wynikających z art. 15 rozporządzenia 2016/679. Dowody
 
 **Art. 180.**
 
@@ -4737,6 +4880,8 @@ Art. 307–323. (pominięte)
 2. Jeżeli przepis prawa nie wymaga urzędowego potwierdzenia określonych faktów lub stanu prawnego w drodze zaświadczenia, organ podatkowy odbiera od strony, na jej wniosek, oświadczenie złożone pod rygorem odpowiedzialności karnej za fałszywe zeznania; przepis art. 196 3 stosuje się odpowiednio.
 
 3. Jeżeli zachodzi uzasadnione przypuszczenie, że strona będąca osobą fizyczną nie ujawniła wszystkich obrotów lub przychodów mających znaczenie dla określenia lub ustalenia wysokości zobowiązania podatkowego, organ podatkowy może zwrócić się do strony o złożenie oświadczenia o stanie majątkowym na określony dzień. Oświadczenie to składane jest pod rygorem odpowiedzialności karnej za fałszywe zeznania. Organ podatkowy, zwracając się o złożenie oświadczenia, uprzedza stronę o odpowiedzialności karnej za fałszywe zeznania.
+
+4. Przepis 3 stosuje się odpowiednio do osób fizycznych będących wspólnikami spółki nieposiadającej osobowości prawnej będącej stroną postępowania.
 
 **Art. 181.** Dowodami w postępowaniu podatkowym mogą być w szczególności księgi podatkowe, deklaracje złożone przez stronę, zeznania świadków, opinie biegłych, materiały i informacje zebrane w wyniku oględzin, informacje podatkowe oraz inne dokumenty zgromadzone w toku działalności analitycznej Krajowej Administracji Skarbowej, czynności sprawdzających, kontroli podatkowej lub kontroli celno-skarbowej oraz materiały zgromadzone w toku postępowania karnego albo postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe.
 
@@ -4764,13 +4909,35 @@ Art. 307–323. (pominięte)
 
 3a. Podmioty prowadzące rachunki zbiorcze w rozumieniu przepisów ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. ), na sporządzone na piśmie żądanie upoważnionego organu podatkowego są obowiązane do sporządzania informacji o wysokości dochodów (przychodów) przekazanych na rzecz podatników uprawnionych z papierów wartościowych zapisanych na takich rachunkach oraz o kwocie pobranego podatku. Przepis 1 w części dotyczącej wystąpienia z żądaniem stosuje się odpowiednio.
 
-4. Żądanie udzielenia informacji, o którym mowa w 1, następuje w drodze postanowienia.
-
 5. Udzielenie informacji następuje nieodpłatnie.
 
 6. (uchylony)
 
 **Art. 183.** Z żądaniem sporządzenia i przekazania informacji, o których mowa w art. 182, upoważniony organ podatkowy może wystąpić po uprzednim wezwaniu do udzielenia informacji z tego zakresu albo do upoważnienia tego organu do wystąpienia do instytucji finansowych o przekazanie tych informacji, a strona w wyznaczonym terminie:
+
+- **1)** nie udzieliła informacji;
+- **2)** nie upoważniła tego organu podatkowego do wystąpienia do instytucji finansowych o przekazanie informacji, lub
+- **3)** udzieliła informacji, które wymagają uzupełnienia lub porównania z informacjami pochodzącymi z instytucji finansowej.
+
+**Art. 184.**
+
+1. Upoważniony organ podatkowy, występując z żądaniem, o którym mowa w art. 182, powinien zwracać szczególną uwagę na zasadę szczególnego zaufania pomiędzy instytucjami finansowymi a ich klientami.
+
+1a. Jeżeli umowa z bankiem lub inną instytucją finansową została zawarta przez podatnika wspólnie z innymi podmiotami, bank nie przekazuje informacji dotyczących podmiotów, których nie dotyczy żądanie upoważnionego organu podatkowego.
+
+2. W żądaniu określa się zakres informacji, okres, którego informacje mają dotyczyć, oraz termin ich przekazania.
+
+2a. Żądanie oznacza się klauzulą: „Tajemnica skarbowa”, a jego przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone”.
+
+3. Żądanie zawiera ponadto:
+
+- **1)** wskazanie przesłanek uzasadniających konieczność uzyskania informacji objętych żądaniem;
+- **2)** dowody potwierdzające, że strona:
+    - **a)** odmówiła udzielenia informacji lub
+    - **b)** nie wyraziła zgody na udzielenie upoważnionemu organowi podatkowemu upoważnienia do zażądania tych informacji, lub
+    - **c)** w terminie określonym przez upoważniony organ podatkowy nie udzieliła informacji albo upoważnienia.
+
+4. (uchylony)
 
 **Art. 185.** Instytucje finansowe wymienione w art. 182 odmawiają udzielenia informacji, jeżeli żądanie upoważnionego organu podatkowego nie spełnia wymogów określonych w art. 184 2 i 3.
 
@@ -4798,9 +4965,7 @@ Art. 307–323. (pominięte)
 
 1. Strona powinna być zawiadomiona o miejscu i terminie przeprowadzenia dowodu z zeznań świadków, opinii biegłych lub oględzin przynajmniej na 7 dni przed terminem.
 
-2. Strona ma prawo brać udział w przeprowadzaniu dowodu, może zadawać pytania świadkom i biegłym oraz składać wyjaśnienia.
-
-**Art. 191.** Organ podatkowy ocenia na podstawie całego zebranego materiału dowodowego, czy dana okoliczność została udowodniona.
+2. Strona ma prawo brać udział w przeprowadzaniu dowodu, może zadawać pytania świadkom i biegłym oraz składać wyjaśnienia. została udowodniona.
 
 **Art. 192.** Okoliczność faktyczna może być uznana za udowodnioną, jeżeli strona miała możliwość wypowiedzenia się co do przeprowadzonych dowodów.
 
@@ -4813,6 +4978,8 @@ Art. 307–323. (pominięte)
 3. Za niewadliwe uważa się księgi podatkowe prowadzone zgodnie z zasadami wynikającymi z odrębnych przepisów.
 
 4. Organ podatkowy nie uznaje za dowód w rozumieniu przepisu 1 ksiąg podatkowych, które są prowadzone nierzetelnie lub w sposób wadliwy.
+
+5. Organ podatkowy uznaje jednak za dowód księgi podatkowe, które prowadzone są w sposób wadliwy, jeżeli wady nie mają istotnego znaczenia dla sprawy.
 
 6. Jeżeli organ podatkowy stwierdzi, że księgi podatkowe są prowadzone nierzetelnie lub w sposób wadliwy, to w protokóle badania ksiąg określa, za jaki okres i w jakiej części nie uznaje ksiąg za dowód tego, co wynika z zawartych w nich zapisów.
 
@@ -4844,15 +5011,19 @@ Art. 307–323. (pominięte)
 
 **Art. 194a.**
 
-1. Jeżeli dokument znajduje się w aktach organu lub jednostki, o których mowa w art. 194 1 i 2, wystarczy przedstawić urzędowo poświadczony przez ten organ lub jednostkę odpis lub wyciąg z dokumentu. Organ podatkowy zażąda udzielenia odpisu lub wyciągu, jeżeli strona sama uzyskać ich nie może. Gdy organ podatkowy uzna za konieczne przejrzenie oryginału dokumentu, może wystąpić o jego dostarczenie.
-
-2. Zamiast oryginału dokumentu strona może złożyć odpis dokumentu, jeżeli jego zgodność z oryginałem została poświadczona przez notariusza albo przez występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym lub doradcą podatkowym. Zdanie pierwsze nie narusza przepisów rozdziału 7b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, art. 26b oraz rozdziału 6a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych w zakresie, w jakim te przepisy przewidują złożenie dokumentów drogą elektroniczną.
+1. Jeżeli dokument znajduje się w aktach organu lub jednostki, o których mowa w art. 194 1 i 2, wystarczy przedstawić urzędowo poświadczony przez ten organ lub jednostkę odpis lub wyciąg z dokumentu. Organ podatkowy zażąda udzielenia odpisu lub wyciągu, jeżeli strona sama uzyskać ich nie może. Gdy organ podatkowy uzna za konieczne przejrzenie oryginału dokumentu, może wystąpić o jego dostarczenie. poświadczona przez notariusza albo przez występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym lub doradcą podatkowym. Zdanie pierwsze nie narusza przepisów rozdziału 7b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych, art. 26b oraz rozdziału 6a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych w zakresie, w jakim te przepisy przewidują złożenie dokumentów drogą elektroniczną.
 
 2a. Jeżeli odpis dokumentu został sporządzony w postaci elektronicznej, poświadczenia jego zgodności z oryginałem, o którym mowa w 2, dokonuje się przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego lub podpisu osobistego.
 
-3. Zawarte w odpisie dokumentu poświadczenie zgodności z oryginałem przez występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym lub doradcą podatkowym ma charakter dokumentu urzędowego. mentu, o którym mowa w 2, przedłożenia oryginału tego dokumentu.
+3. Zawarte w odpisie dokumentu poświadczenie zgodności z oryginałem przez występującego w sprawie pełnomocnika strony będącego adwokatem, radcą prawnym lub doradcą podatkowym ma charakter dokumentu urzędowego.
+
+4. Jeżeli jest to uzasadnione okolicznościami sprawy, organ podatkowy zażąda od strony, składającej odpis dokumentu, o którym mowa w 2, przedłożenia oryginału tego dokumentu.
 
 **Art. 195.** Świadkami nie mogą być:
+
+- **1)** osoby niezdolne do postrzegania lub komunikowania swych spostrzeżeń;
+- **2)** osoby obowiązane do zachowania w tajemnicy informacji niejawnych na okoliczności objęte tajemnicą, jeżeli nie zostały, w trybie określonym obowiązującymi przepisami, zwolnione od obowiązku zachowania tej tajemnicy;
+- **3)** duchowni prawnie uznanych wyznań co do faktów objętych tajemnicą spowiedzi.
 
 **Art. 196.**
 
@@ -4886,11 +5057,7 @@ Art. 307–323. (pominięte)
 
 2. Jeżeli pod pozorem dokonania czynności prawnej dokonano innej czynności prawnej, skutki podatkowe wywodzi się z tej ukrytej czynności prawnej.
 
-3. Jeżeli z dowodów zgromadzonych w toku postępowania, w szczególności zeznań strony, chyba że strona odmawia składania zeznań, wynikają wątpliwości co do istnienia lub nieistnienia stosunku prawnego lub prawa, z którym związane są skutki podatkowe, organ podatkowy występuje do sądu powszechnego o ustalenie istnienia lub nieistnienia tego stosunku prawnego lub prawa.
-
-**Art. 200.**
-
-1. Przed wydaniem decyzji organ podatkowy wyznacza stronie siedmiodniowy termin do wypowiedzenia się w sprawie zebranego materiału dowodowego.
+3. Jeżeli z dowodów zgromadzonych w toku postępowania, w szczególności zeznań strony, chyba że strona odmawia składania zeznań, wynikają wątpliwości co do istnienia lub nieistnienia stosunku prawnego lub prawa, z którym związane są skutki podatkowe, organ podatkowy występuje do sądu powszechnego o ustalenie istnienia lub nieistnienia tego stosunku prawnego lub prawa. w sprawie zebranego materiału dowodowego.
 
 2. Przepisu 1 nie stosuje się:
 
@@ -4898,7 +5065,9 @@ Art. 307–323. (pominięte)
 - **2)** w sprawach zabezpieczenia i zastawu skarbowego;
 - **3)** w przypadku przewidzianym w art. 165 7, jeżeli decyzja ma zostać wydana wyłącznie na podstawie danych zawartych w złożonym zeznaniu, złożonej informacji lub deklaracji.
 
-3. Przed wydaniem decyzji z zastosowaniem art. 119a lub środków ograniczających umowne korzyści Szef Krajowej Administracji Skarbowej wyznacza stronie czternastodniowy termin do wypowiedzenia się w sprawie zebranego materiału dowodowego, przedstawiając ocenę prawną sprawy, w tym kwotę korzyści podatkowej, i pouczając o prawie skorygowania deklaracji. cofnięcia skutków unikania opodatkowania, organ podatkowy ponownie doręcza wskazane zawiadomienie, uwzględniając zmienioną ocenę prawną.
+3. Przed wydaniem decyzji z zastosowaniem art. 119a lub środków ograniczających umowne korzyści Szef Krajowej Administracji Skarbowej wyznacza stronie czternastodniowy termin do wypowiedzenia się w sprawie zebranego materiału dowodowego, przedstawiając ocenę prawną sprawy, w tym kwotę korzyści podatkowej, i pouczając o prawie skorygowania deklaracji.
+
+4. Jeżeli po doręczeniu zawiadomienia, o którym mowa w 3, organ podatkowy zmienił ocenę prawną sprawy lub wysokość korzyści podatkowej, a strona nie skorzystała skutecznie z uprawnienia określonego w art. 81b 1a w zakresie cofnięcia skutków unikania opodatkowania, organ podatkowy ponownie doręcza wskazane zawiadomienie, uwzględniając zmienioną ocenę prawną.
 
 5. Przepisu 3 nie stosuje się, jeżeli w wyniku doręczenia zawiadomienia stronie nie przysługiwałoby uprawnienie wskazane w art. 81b 1a.
 
@@ -4940,8 +5109,7 @@ Art. 307–323. (pominięte)
 1. Organ podatkowy zawiesza postępowanie:
 
 - **1)** w razie śmierci strony, jeżeli postępowanie nie podlega umorzeniu jako bezprzedmiotowe;
-- **1a)** w razie zaprzestania pełnienia funkcji przez zarządcę sukcesyjnego albo wygaśnięcia zarządu sukcesyjnego, jeżeli postępowanie toczyło się z udziałem zarządcy sukcesyjnego;
-- **2)** gdy rozpatrzenie sprawy i wydanie decyzji jest uzależnione od rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd;
+- **1a)** w razie zaprzestania pełnienia funkcji przez zarządcę sukcesyjnego albo wygaśnięcia zarządu sukcesyjnego, jeżeli postępowanie toczyło się z udziałem zarządcy sukcesyjnego; lub sąd;
 - **3)** w razie śmierci przedstawiciela ustawowego strony;
 - **4)** w razie utraty przez stronę lub jej ustawowego przedstawiciela zdolności do czynności prawnych;
 - **5)** (uchylony)
@@ -4949,7 +5117,7 @@ Art. 307–323. (pominięte)
 - **7)** w razie wniesienia skargi do sądu administracyjnego na decyzję uchylającą w całości decyzję organu pierwszej instancji i przekazującą sprawę do ponownego rozpatrzenia przez ten organ lub stwierdzającą nieważność decyzji;
 - **8)** w razie wystąpienia o opinię Rady.
 
-1a. Organ podatkowy zawiesza postępowanie w sprawie dotyczącej odpowiedzialności osoby trzeciej do dnia, w którym decyzja, o której mowa w art. 108 2 pkt 2, stanie się ostateczna, z zastrzeżeniem art. 108 3 oraz art. 115 4. pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, albo prawomocne orzeczenie sądu powszechnego w sprawie, w której została wydana taka decyzja, oraz prawomocne orzeczenie sądu powszechnego zapadłe w wyniku skierowania przez okręgowego inspektora pracy powództwa o ustalenie istnienia lub treści stosunku pracy, o którym mowa w art. 33a ust. 3 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, jest rozstrzygnięciem zagadnienia wstępnego w rozumieniu 1 pkt 2.
+1a. Organ podatkowy zawiesza postępowanie w sprawie dotyczącej odpowiedzialności osoby trzeciej do dnia, w którym decyzja, o której mowa w art. 108 2 pkt 2, stanie się ostateczna, z zastrzeżeniem art. 108 3 oraz art. 115 4. 1aa. Ostateczna decyzja w sprawie stwierdzenia istnienia stosunku pracy, o której mowa w art. 11 ust. 1 pkt 7a ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, albo prawomocne orzeczenie sądu powszechnego w sprawie, w której została wydana taka decyzja, oraz prawomocne orzeczenie sądu powszechnego zapadłe w wyniku skierowania przez okręgowego inspektora pracy powództwa o ustalenie istnienia lub treści stosunku pracy, o którym mowa w art. 33a ust. 3 ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy, jest rozstrzygnięciem zagadnienia wstępnego w rozumieniu 1 pkt 2.
 
 1b. Organ podatkowy może zawiesić postępowanie:
 
@@ -4970,9 +5138,7 @@ Art. 307–323. (pominięte)
 1d. Zawieszenie postępowania na podstawie 1c może nastąpić pod warunkiem, że:
 
 - **1)** zgodę na zawieszenie postępowania wyrazi strona w przypadku zawieszania postępowania z urzędu;
-- **2)** zawieszeniu postępowania nie sprzeciwiają się strony, które nie wystąpiły z wnioskiem o jego zawieszenie w przypadku zawieszania postępowania na wniosek.
-
-2. Postanowienie w sprawie zawieszenia postępowania organ podatkowy doręcza stronie lub jej spadkobiercom, z zastrzeżeniem 2a.
+- **2)** zawieszeniu postępowania nie sprzeciwiają się strony, które nie wystąpiły z wnioskiem o jego zawieszenie w przypadku zawieszania postępowania na wniosek. strzeżeniem 2a.
 
 2a. W przypadku, o którym mowa w 1 pkt 1, 1a, 3 i 4, postanowienie w sprawie zawieszenia postępowania pozostawia się w aktach sprawy do czasu ustalenia spadkobierców, kuratora, zarządcy sukcesyjnego lub przedstawiciela strony.
 
@@ -4980,7 +5146,9 @@ Art. 307–323. (pominięte)
 
 4. W przypadkach, o których mowa w 1b, zawieszenie postępowania może następować wielokrotnie, z tym że okres łącznego zawieszenia postępowania nie może przekraczać 3 lat.
 
-5. Jeżeli w okresie 3 lat od daty zawieszenia postępowania wszczętego na żądanie strony nie ustąpią przyczyny uzasadniające zawieszenie postępowania, o których mowa w 1 pkt 1, 1a, 3 i 4, organ podatkowy może wydać decyzję o umorzeniu postępowania, o ile nie sprzeciwiają się temu pozostałe strony oraz nie zagraża to interesowi publicznemu. powania, innym niż wymienione w 1 pkt 1, 1a, 3 i 4, siedmiodniowy termin na wniesienie sprzeciwu, licząc od dnia doręczenia pisma o możliwości wniesienia sprzeciwu w sprawie wydania decyzji o umorzeniu postępowania, o której mowa w 5.
+5. Jeżeli w okresie 3 lat od daty zawieszenia postępowania wszczętego na żądanie strony nie ustąpią przyczyny uzasadniające zawieszenie postępowania, o których mowa w 1 pkt 1, 1a, 3 i 4, organ podatkowy może wydać decyzję o umorzeniu postępowania, o ile nie sprzeciwiają się temu pozostałe strony oraz nie zagraża to interesowi publicznemu.
+
+6. Organ podatkowy, przed wydaniem decyzji o umorzeniu postępowania, wyznacza pozostałym stronom postępowania, innym niż wymienione w 1 pkt 1, 1a, 3 i 4, siedmiodniowy termin na wniesienie sprzeciwu, licząc od dnia doręczenia pisma o możliwości wniesienia sprzeciwu w sprawie wydania decyzji o umorzeniu postępowania, o której mowa w 5.
 
 7. Organ podatkowy nie wydaje decyzji o umorzeniu postępowania w przypadku wniesienia sprzeciwu w terminie, o którym mowa w 6, przez pozostałe strony postępowania, inne niż wymienione w 1 pkt 1, 1a, 3 i 4, albo jedną z tych stron.
 
@@ -5017,10 +5185,6 @@ Art. 307–323. (pominięte)
 
 2. Na postanowienie o odmowie podjęcia zawieszonego postępowania służy stronie zażalenie.
 
-**Art. 205a.**
-
-1. Organ podatkowy podejmuje postępowanie z urzędu, gdy ustanie przyczyna zawieszenia, w szczególności:
-
 - **1)** w razie śmierci strony po zgłoszeniu się lub po ustaleniu spadkobierców zmarłego albo zarządcy sukcesyjnego w sprawach objętych zarządem sukcesyjnym albo po ustanowieniu, w trybie określonym odrębnymi przepisami, kuratora spadku;
 - **1a)** w razie wygaśnięcia zarządu sukcesyjnego po zgłoszeniu się lub po ustaleniu spadkobierców zmarłego;
 - **1b)** w razie zaprzestania pełnienia funkcji przez zarządcę sukcesyjnego, z którego udziałem toczyło się postępowanie po zgłoszeniu się lub po ustaleniu kolejnego zarządcy sukcesyjnego;
@@ -5028,7 +5192,7 @@ Art. 307–323. (pominięte)
 - **3)** w razie braku przedstawiciela ustawowego po jego ustanowieniu;
 - **4)** gdy rozstrzygnięcie sprawy jest uzależnione od rozstrzygnięcia zagadnienia wstępnego przez inny organ lub sąd w dniu powzięcia przez organ podatkowy wiadomości o uprawomocnieniu się orzeczenia kończącego to postępowanie.
 
-2. Jeżeli w ciągu roku od dnia wydania postanowienia o zawieszeniu postępowania nie zgłoszą się lub nie zostaną ustaleni spadkobiercy zmarłej strony albo postępowanie nie zostanie podjęte z udziałem zarządcy sukcesyjnego, organ
+2. Jeżeli w ciągu roku od dnia wydania postanowienia o zawieszeniu postępowania nie zgłoszą się lub nie zostaną ustaleni spadkobiercy zmarłej strony albo postępowanie nie zostanie podjęte z udziałem zarządcy sukcesyjnego, organ podatkowy może zwrócić się do sądu o ustanowienie kuratora spadku, chyba że kurator taki już wcześniej został ustanowiony.
 
 **Art. 206.** Zawieszenie postępowania wstrzymuje bieg terminów przewidzianych w niniejszym dziale.
 
@@ -5071,9 +5235,7 @@ Art. 307–323. (pominięte)
 - **5)** rozstrzygnięcie;
 - **6)** uzasadnienie faktyczne i prawne;
 - **7)** pouczenie o trybie odwoławczym jeżeli od decyzji służy odwołanie;
-- **8)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego.
-
-1a. Decyzja w sprawie ustalenia zobowiązania podatkowego w podatku od nieruchomości, podatku rolnym lub podatku leśnym, w tym w formie łącznego zobowiązania pieniężnego, sporządzana z wykorzystaniem systemu teleinformatycznego, może zamiast podpisu własnoręcznego osoby upoważnionej do jej wydania, zawierać podpis mechanicznie odtwarzany tej osoby lub nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do jej wydania.
+- **8)** podpis osoby upoważnionej, z podaniem jej imienia i nazwiska oraz stanowiska służbowego. leśnym, w tym w formie łącznego zobowiązania pieniężnego, sporządzana z wykorzystaniem systemu teleinformatycznego, może zamiast podpisu własnoręcznego osoby upoważnionej do jej wydania, zawierać podpis mechanicznie odtwarzany tej osoby lub nadruk imienia i nazwiska wraz ze stanowiskiem służbowym osoby upoważnionej do jej wydania.
 
 2. Decyzja, w stosunku do której może zostać wniesiona skarga do sądu administracyjnego, zawiera pouczenie o możliwości wniesienia skargi.
 
@@ -5082,6 +5244,8 @@ Art. 307–323. (pominięte)
 2b. W decyzji wydanej z zastosowaniem art. 119a lub środków ograniczających umowne korzyści organ podatkowy wskazuje także wysokość zobowiązania podatkowego, nadpłaty, zwrotu podatku, straty podatkowej, niepobranego lub pobranego a niewpłaconego przez płatnika podatku ustaloną albo określoną w związku z zastosowaniem tych przepisów lub tych środków.
 
 2c. Decyzja organu podatkowego w sprawie, w której Rada wydała negatywną opinię, zawiera ustosunkowanie się do tej opinii.
+
+3. Przepisy prawa podatkowego mogą określać także inne składniki, które powinna zawierać decyzja.
 
 4. Uzasadnienie faktyczne decyzji zawiera w szczególności wskazanie faktów, które organ uznał za udowodnione, dowodów, którym dał wiarę, oraz przyczyn, dla których innym dowodom odmówił wiarygodności, uzasadnienie prawne zaś zawiera wyjaśnienie podstawy prawnej decyzji z przytoczeniem przepisów prawa.
 
@@ -5121,10 +5285,6 @@ Art. 307–323. (pominięte)
 
 2. Postanowienia dotyczą poszczególnych kwestii wynikających w toku postępowania podatkowego, lecz nie rozstrzygają o istocie sprawy, chyba że przepisy niniejszej ustawy stanowią inaczej.
 
-**Art. 217.**
-
-1. Postanowienie zawiera:
-
 - **1)** oznaczenie organu podatkowego;
 - **2)** datę jego wydania;
 - **3)** oznaczenie strony albo innych osób biorących udział w postępowaniu;
@@ -5135,7 +5295,9 @@ Art. 307–323. (pominięte)
 
 2. Postanowienie zawiera uzasadnienie faktyczne i prawne, jeżeli służy na nie zażalenie lub skarga do sądu administracyjnego oraz gdy wydane zostało na skutek zażalenia na postanowienie.
 
-**Art. 218.** Postanowienie, od którego służy zażalenie lub skarga do sądu administracyjnego, doręcza się na piśmie. wień, na które przysługuje zażalenie, oraz postanowień, o których mowa w art. 228 1, stosuje się również art. 240–249 oraz art. 252, z tym że zamiast decyzji, o których mowa w art. 243 3, art. 245 1 i art. 248 3, wydaje się postanowienie.
+**Art. 218.** Postanowienie, od którego służy zażalenie lub skarga do sądu administracyjnego, doręcza się na piśmie.
+
+**Art. 219.** Do postanowień stosuje się odpowiednio przepisy art. 208, 210 2a i 3–5 oraz art. 211–215, a do postanowień, na które przysługuje zażalenie, oraz postanowień, o których mowa w art. 228 1, stosuje się również art. 240–249 oraz art. 252, z tym że zamiast decyzji, o których mowa w art. 243 3, art. 245 1 i art. 248 3, wydaje się postanowienie.
 
 #### Rozdział 15 Odwołania
 
@@ -5176,13 +5338,7 @@ Art. 307–323. (pominięte)
 
 **Art. 224c.** (uchylony)
 
-**Art. 225.** (uchylony)
-
-**Art. 226.**
-
-1. Jeżeli organ podatkowy, który wydał decyzję, uzna, że odwołanie wniesione przez stronę zasługuje na uwzględnienie w całości, wyda nową decyzję, którą uchyli lub zmieni zaskarżoną decyzję.
-
-2. Od nowej decyzji służy stronie odwołanie.
+**Art. 225.** (uchylony) uwzględnienie w całości, wyda nową decyzję, którą uchyli lub zmieni zaskarżoną decyzję. 2. Od nowej decyzji służy stronie odwołanie.
 
 **Art. 227.**
 
@@ -5198,7 +5354,9 @@ Art. 307–323. (pominięte)
 - **2)** uchybienie terminowi do wniesienia odwołania;
 - **3)** pozostawienie odwołania bez rozpatrzenia, jeżeli nie spełnia warunków wynikających z art. 222.
 
-2. Postanowienia w sprawach wymienionych w 1 są ostateczne. uzupełnienia dowodów i materiałów w sprawie albo zlecić przeprowadzenie tego postępowania organowi, który wydał decyzję.
+2. Postanowienia w sprawach wymienionych w 1 są ostateczne.
+
+**Art. 229.** Organ odwoławczy może przeprowadzić, na żądanie strony lub z urzędu, dodatkowe postępowanie w celu uzupełnienia dowodów i materiałów w sprawie albo zlecić przeprowadzenie tego postępowania organowi, który wydał decyzję.
 
 **Art. 230.** (uchylony)
 
@@ -5229,9 +5387,7 @@ Art. 307–323. (pominięte)
 
 **Art. 234a.** Organ odwoławczy zwraca akta sprawy organowi pierwszej instancji niewcześniej niż po upływie terminu do wniesienia skargi do sądu administracyjnego.
 
-**Art. 235.** W sprawach nieuregulowanych w art. 220–234 w postępowaniu przed organami odwoławczymi mają odpowiednie zastosowanie przepisy o postępowaniu przed organami pierwszej instancji.
-
-#### Rozdział 16 Zażalenia
+**Art. 235.** W sprawach nieuregulowanych w art. 220–234 w postępowaniu przed organami odwoławczymi mają odpowiednie zastosowanie przepisy o postępowaniu przed organami pierwszej instancji. Zażalenia
 
 **Art. 236.**
 
@@ -5246,7 +5402,9 @@ Art. 307–323. (pominięte)
 
 **Art. 238.** (uchylony)
 
-**Art. 239.** W sprawach nieuregulowanych w niniejszym rozdziale do zażaleń mają odpowiednie zastosowanie przepisy dotyczące odwołań. Wykonanie decyzji
+**Art. 239.** W sprawach nieuregulowanych w niniejszym rozdziale do zażaleń mają odpowiednie zastosowanie przepisy dotyczące odwołań.
+
+#### Rozdział 16a Wykonanie decyzji
 
 **Art. 239a.** Decyzja nieostateczna, nakładająca na stronę obowiązek podlegający wykonaniu w trybie przepisów o postępowaniu egzekucyjnym w administracji, nie podlega wykonaniu, chyba że decyzji nadano rygor natychmiastowej wykonalności.
 
@@ -5282,9 +5440,7 @@ Art. 307–323. (pominięte)
 1. Organ podatkowy pierwszej instancji wstrzymuje wykonanie decyzji ostatecznej w razie wniesienia skargi do sądu administracyjnego do momentu uprawomocnienia się orzeczenia sądu administracyjnego:
 
 - **1)** na wniosek po przyjęciu zabezpieczenia wykonania zobowiązania wynikającego z decyzji wraz z odsetkami za zwłokę, o którym mowa w art. 33d 2 do wysokości zabezpieczenia i na czas jego trwania lub
-- **2)** z urzędu po prawomocnym wpisie hipoteki przymusowej lub wpisie zastawu skarbowego korzystających z pierwszeństwa zaspokojenia, które zabezpieczają wykonanie zobowiązania wynikającego z decyzji wraz z odsetkami za zwłokę do wysokości odpowiadającej wartości przedmiotu hipoteki przymusowej lub zastawu skarbowego.
-
-2. Wniosek, o którym mowa w 1 pkt 1, podlega załatwieniu bez zbędnej zwłoki, niepóźniej niż w terminie 14 dni. Niezałatwienie wniosku w tym terminie powoduje wstrzymanie wykonania decyzji do czasu doręczenia postanowienia w sprawie przyjęcia zabezpieczenia, chyba że przyczyny niezałatwienia wniosku w terminie zostały spowodowane przez stronę.
+- **2)** z urzędu po prawomocnym wpisie hipoteki przymusowej lub wpisie zastawu skarbowego korzystających z pierwszeństwa zaspokojenia, które zabezpieczają wykonanie zobowiązania wynikającego z decyzji wraz z odsetkami za zwłokę do wysokości odpowiadającej wartości przedmiotu hipoteki przymusowej lub zastawu skarbowego. Niezałatwienie wniosku w tym terminie powoduje wstrzymanie wykonania decyzji do czasu doręczenia postanowienia w sprawie przyjęcia zabezpieczenia, chyba że przyczyny niezałatwienia wniosku w terminie zostały spowodowane przez stronę.
 
 3. W sprawach nieuregulowanych w 1 przepisy art. 33d–33g stosuje się odpowiednio.
 
@@ -5296,7 +5452,9 @@ Art. 307–323. (pominięte)
 
 **Art. 239i.** Ustanowienie hipoteki przymusowej lub zastawu skarbowego nie stanowi wykonania decyzji.
 
-**Art. 239j.** Przepisy niniejszego rozdziału stosuje się odpowiednio do wykonania postanowień. Wznowienie postępowania
+**Art. 239j.** Przepisy niniejszego rozdziału stosuje się odpowiednio do wykonania postanowień.
+
+#### Rozdział 17 Wznowienie postępowania
 
 **Art. 240.**
 
@@ -5326,8 +5484,7 @@ Art. 307–323. (pominięte)
 
 2. Wznowienie postępowania z przyczyny wymienionej w art. 240 1:
 
-- **1)** pkt 4 następuje tylko na żądanie strony wniesione w terminie miesiąca od dnia powzięcia wiadomości o wydaniu decyzji;
-- **2)** pkt 8 lub 11 następuje tylko na żądanie strony wniesione w terminie miesiąca odpowiednio od dnia wejścia w życie orzeczenia Trybunału Konstytucyjnego lub publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej;
+- **1)** pkt 4 następuje tylko na żądanie strony wniesione w terminie miesiąca od dnia powzięcia wiadomości o wydaniu decyzji; orzeczenia Trybunału Konstytucyjnego lub publikacji sentencji orzeczenia Trybunału Sprawiedliwości Unii Europejskiej w Dzienniku Urzędowym Unii Europejskiej;
 - **3)** pkt 9 następuje tylko na żądanie strony;
 - **4)** pkt 12 następuje tylko na żądanie strony wniesione w terminie miesiąca od dnia doręczenia postanowienia określonego w art. 119j 2.
 
@@ -5337,7 +5494,9 @@ Art. 307–323. (pominięte)
 
 1. W razie dopuszczalności wznowienia postępowania organ podatkowy wydaje postanowienie o wznowieniu postępowania.
 
-1a. (uchylony) wienia oraz co do rozstrzygnięcia istoty sprawy.
+1a. (uchylony)
+
+2. Postanowienie stanowi podstawę do przeprowadzenia przez właściwy organ postępowania co do przesłanek wznowienia oraz co do rozstrzygnięcia istoty sprawy.
 
 3. Odmowa wznowienia postępowania następuje w drodze decyzji.
 
@@ -5367,9 +5526,7 @@ Art. 307–323. (pominięte)
 
 1. Organ podatkowy właściwy w sprawie wznowienia postępowania wstrzyma z urzędu lub na żądanie strony wykonanie decyzji, jeżeli okoliczności sprawy wskazują na prawdopodobieństwo uchylenia decyzji w wyniku wznowienia postępowania.
 
-2. Na postanowienie w sprawie wstrzymania wykonania decyzji służy stronie zażalenie, chyba że postanowienie zostało wydane przez Szefa Krajowej Administracji Skarbowej, dyrektora izby administracji skarbowej, naczelnika urzędu celno-skarbowego lub samorządowe kolegium odwoławcze.
-
-#### Rozdział 18 Stwierdzenie nieważności decyzji
+2. Na postanowienie w sprawie wstrzymania wykonania decyzji służy stronie zażalenie, chyba że postanowienie zostało wydane przez Szefa Krajowej Administracji Skarbowej, dyrektora izby administracji skarbowej, naczelnika urzędu celno-skarbowego lub samorządowe kolegium odwoławcze. Stwierdzenie nieważności decyzji
 
 **Art. 247.**
 
@@ -5383,6 +5540,8 @@ Art. 307–323. (pominięte)
 - **6)** była niewykonalna w dniu jej wydania i jej niewykonalność ma charakter trwały;
 - **7)** zawiera wadę powodującą jej nieważność na mocy wyraźnie wskazanego przepisu prawa;
 - **8)** w razie jej wykonania wywołałaby czyn zagrożony karą.
+
+2. Organ podatkowy odmawia stwierdzenia nieważności decyzji, jeżeli wydanie nowej decyzji orzekającej co do istoty sprawy nie mogłoby nastąpić z uwagi na upływ terminów przewidzianych w art. 68, art. 70 lub art. 118.
 
 3. Odmawiając stwierdzenia nieważności decyzji w przypadku wymienionym w 2, organ podatkowy w rozstrzygnięciu stwierdza, że decyzja zawiera wady określone w 1, oraz wskazuje okoliczności uniemożliwiające stwierdzenie nieważności decyzji.
 
@@ -5426,9 +5585,7 @@ Art. 307–323. (pominięte)
 
 2. (uchylony)
 
-3. Uprawnienie, o którym mowa w 1, nie przysługuje samorządowemu kolegium odwoławczemu.
-
-4. W przypadkach wymienionych w 1 właściwy organ wydaje decyzję w sprawie uchylenia lub zmiany dotychczasowej decyzji.
+3. Uprawnienie, o którym mowa w 1, nie przysługuje samorządowemu kolegium odwoławczemu. wej decyzji.
 
 **Art. 253a.**
 
@@ -5439,6 +5596,13 @@ Art. 307–323. (pominięte)
 3. Organ nie może wydać decyzji na niekorzyść strony.
 
 **Art. 253b.** Przepisów art. 253 i art. 253a nie stosuje się do decyzji:
+
+- **1)** ustalającej albo określającej wysokość zobowiązania podatkowego;
+- **2)** o odpowiedzialności podatkowej płatników lub inkasentów;
+- **3)** o odpowiedzialności podatkowej osób trzecich;
+- **4)** określającej wysokość należnych odsetek za zwłokę;
+- **5)** o odpowiedzialności spadkobiercy;
+- **6)** określającej wysokość zwrotu podatku.
 
 **Art. 254.**
 
@@ -5474,9 +5638,7 @@ Art. 307–323. (pominięte)
 - **4)** strona nie dopełniła określonych w przepisach prawa podatkowego warunków uprawniających do skorzystania z ryczałtowych form opodatkowania;
 - **5)** (uchylony)
 - **6)** stan faktyczny będący podstawą osiągnięcia korzyści podatkowej w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja, nie jest analogiczny do stanu faktycznego określonego w decyzji określającej warunki cofnięcia skutków unikania opodatkowania;
-- **7)** nastąpiła zmiana stanu prawnego mogąca mieć wpływ na ocenę zasadności zastosowania art. 119a lub zmianę sposobu lub metody wyliczenia korzyści podatkowej osiąganej w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja.
-
-1a. Organ podatkowy drugiej instancji, który stwierdził wygaśnięcie własnej decyzji, stwierdza także wygaśnięcie decyzji organu pierwszej instancji.
+- **7)** nastąpiła zmiana stanu prawnego mogąca mieć wpływ na ocenę zasadności zastosowania art. 119a lub zmianę sposobu lub metody wyliczenia korzyści podatkowej osiąganej w okresach rozliczeniowych następujących po okresie rozliczeniowym, którego dotyczyła decyzja. decyzji organu pierwszej instancji.
 
 2. Organ podatkowy stwierdza wygaśnięcie decyzji w drodze decyzji.
 
@@ -5486,7 +5648,9 @@ Art. 307–323. (pominięte)
 
 **Art. 259a.** Decyzja stwierdzająca nadpłatę podatku wygasa z dniem doręczenia decyzji określającej wysokość zobowiązania podatkowego, w zakresie tego samego podatku oraz za ten sam rok podatkowy lub inny okres rozliczeniowy, wydanej w wyniku postępowania wszczętego z urzędu.
 
-**Art. 259b.** Jeżeli zainteresowany cofnięciem skutków unikania opodatkowania nie skorzystał z uprawnień określonych w art. 119zfk 1 lub 2 w zakresie korzyści podatkowej, o której mowa w art. 119zfa 3, decyzja określająca warunki cofnięcia skutków unikania opodatkowania wygasa z mocy prawa. Odpowiedzialność odszkodowawcza
+**Art. 259b.** Jeżeli zainteresowany cofnięciem skutków unikania opodatkowania nie skorzystał z uprawnień określonych w art. 119zfk 1 lub 2 w zakresie korzyści podatkowej, o której mowa w art. 119zfa 3, decyzja określająca warunki cofnięcia skutków unikania opodatkowania wygasa z mocy prawa.
+
+#### Rozdział 21 Odpowiedzialność odszkodowawcza
 
 **Art. 260.** Do odpowiedzialności odszkodowawczej stosuje się przepisy prawa cywilnego.
 
@@ -5516,8 +5680,6 @@ Art. 307–323. (pominięte)
 
 5. Karę porządkową nakłada się w formie postanowienia, na które służy zażalenie.
 
-5a. Termin płatności kary porządkowej wynosi 7 dni od dnia doręczenia postanowienia, o którym mowa w 5.
-
 6. Organ podatkowy, który nałożył karę porządkową, może, na wniosek ukaranego, złożony w terminie 7 dni od dnia doręczenia postanowienia o nałożeniu kary porządkowej, uznać za usprawiedliwione niestawiennictwo lub niewykonanie innych obowiązków, o których mowa w 1, i uchylić postanowienie nakładające karę.
 
 **Art. 262a.**
@@ -5533,6 +5695,8 @@ Art. 307–323. (pominięte)
 2. Na postanowienie o odmowie uchylenia kary przysługuje zażalenie.
 
 3. Ukaranie karą porządkową nie wyklucza możliwości zastosowania wobec opornego świadka lub biegłego środków przymusu przewidzianych w przepisach szczególnych.
+
+4. Przepisy art. 68 1 i art. 70 stosuje się odpowiednio do kar porządkowych.
 
 #### Rozdział 23 Koszty postępowania
 
@@ -5563,8 +5727,7 @@ Art. 307–323. (pominięte)
 
 1. Stronę obciążają koszty:
 
-- **1)** które zostały poniesione w jej interesie albo na jej żądanie, a nie wynikają z ustawowego obowiązku organów prowadzących postępowanie;
-- **1a)** stawiennictwa uczestników postępowania na rozprawę, która nie odbyła się w wyniku nieusprawiedliwionego niestawiennictwa strony, która złożyła wniosek o przeprowadzenie rozprawy;
+- **1)** które zostały poniesione w jej interesie albo na jej żądanie, a nie wynikają z ustawowego obowiązku organów prowadzących postępowanie; wiennictwa strony, która złożyła wniosek o przeprowadzenie rozprawy;
 - **1b)** tłumaczenia na język polski dokumentacji przedłożonej przez stronę;
 - **2)** (uchylony)
 - **3)** sporządzania odpisów lub kopii, o których mowa w art. 178;
@@ -5577,6 +5740,10 @@ Art. 307–323. (pominięte)
 1a. Koszty ustanowienia i działania adwokata, radcy prawnego lub doradcy podatkowego ustanowionego tymczasowym pełnomocnikiem szczególnym ponosi Skarb Państwa.
 
 2. W uzasadnionych przypadkach organ podatkowy może zażądać od strony złożenia zaliczki w określonej wysokości na pokrycie kosztów postępowania.
+
+**Art. 268.**
+
+1. Osobę, która przez niewykonanie obowiązków, o których mowa w art. 262 1, spowodowała dodatkowe koszty postępowania, można obciążyć tymi kosztami.
 
 2. Jeżeli dodatkowe koszty spowodowało kilka osób, odpowiadają one solidarnie.
 
@@ -5610,7 +5777,20 @@ Art. 307–323. (pominięte)
 
 **Art. 272.** Organy podatkowe pierwszej instancji, z zastrzeżeniem art. 272a, dokonują czynności sprawdzających, mających na celu:
 
+- **1)** sprawdzenie terminowości:
+    - **a)** składania deklaracji,
+    - **b)** wpłacania podatków, w tym również pobieranych przez płatników oraz inkasentów;
+
+- **2)** stwierdzenie formalnej poprawności dokumentów wymienionych w pkt 1;
+- **3)** ustalenie stanu faktycznego w zakresie niezbędnym do stwierdzenia zgodności z przedstawionymi dokumentami;
+- **4)** weryfikację poniesionych przez podatnika wydatków i uzyskanych przychodów (dochodów) opodatkowanych lub przychodów (dochodów) nieopodatkowanych w zakresie niezbędnym do ujawnienia podstawy opodatkowania z tytułu przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych;
+- **6)** weryfikację danych i dokumentów przedstawionych przez podmioty dokonujące zgłoszenia rejestracyjnego zgodnie z art. 16 ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym oraz zgłoszenia rejestracyjnego uproszczonego zgodnie z art. 16b tej ustawy;
+- **7)** sprawdzenie spełnienia warunków uprawniających do opodatkowania ryczałtem od dochodów spółek oraz rzetelności i terminowości składania oświadczenia podatnikowi przez jej udziałowca albo akcjonariusza, o których mowa w rozdziale 6b ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
+- **8)** sprawdzenie terminowości składania informacji o wysokości kwalifikowanych nakładów inwestycyjnych zgodnie z przepisami ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin (Dz. U. z 2026 r. poz. 454), stwierdzenie formalnej poprawności tych informacji oraz weryfikację danych w nich zawartych.
+
 **Art. 272a.** Szef Krajowej Administracji Skarbowej lub organ podatkowy upoważniony przez ministra właściwego do spraw finansów publicznych w zakresie wymiany z państwami członkowskimi Unii Europejskiej informacji o podatku od towarów i usług, dokonuje czynności sprawdzających odnoszących się do dokumentów składanych do tego organu.
+
+**Art. 273.** (uchylony)
 
 **Art. 274.**
 
@@ -5644,11 +5824,7 @@ Art. 307–323. (pominięte)
 
 1. Jeżeli przeprowadzenie czynności sprawdzających zasadność zwrotu podatku wymaga przedłużenia terminu zwrotu podatku wynikającego z odrębnych przepisów, organ podatkowy może postanowić o przedłużeniu tego terminu do czasu zakończenia czynności sprawdzających.
 
-2. Na postanowienie, o którym mowa w 1, służy zażalenie.
-
-**Art. 274c.**
-
-1. Organ podatkowy, w związku z postępowaniem podatkowym lub kontrolą podatkową, może zażądać od kontrahentów podatnika wykonujących działalność gospodarczą:
+2. Na postanowienie, o którym mowa w 1, służy zażalenie. od kontrahentów podatnika wykonujących działalność gospodarczą:
 
 - **1)** przedstawienia dokumentów, w zakresie objętym postępowaniem lub kontrolą u podatnika, w celu sprawdzenia ich prawidłowości i rzetelności;
 - **2)** przekazania, za pomocą środków komunikacji elektronicznej lub na informatycznym nośniku danych, wyciągu z ksiąg podatkowych i dowodów księgowych zapisanego w postaci elektronicznej odpowiadającej strukturze logicznej, o której mowa w art. 193a 2, jeżeli kontrahent podatnika prowadzi księgi podatkowe przy użyciu programów komputerowych.
@@ -5659,7 +5835,11 @@ Art. 307–323. (pominięte)
 
 1c. Przepisy 1–1b stosuje się także do podmiotów prowadzących działalność gospodarczą uczestniczących w dostawie tego samego towaru lub świadczeniu tej samej usługi będących zarówno dostawcami, jak i nabywcami biorącymi udział pośrednio lub bezpośrednio w dostawie towaru lub świadczeniu usługi. W takim przypadku żądanie, o którym mowa w 1, może dotyczyć wyłącznie dokumentów związanych z tą dostawą towaru lub tym świadczeniem usługi.
 
-2. Jeżeli miejsce zamieszkania, siedziba lub miejsce wykonywania działalności kontrahenta podatnika znajdują się poza obszarem działania organu prowadzącego postępowanie lub kontrolę, czynności sprawdzających, o których mowa w 1, na zlecenie tego organu może także dokonać organ właściwy miejscowo. dania przez podatnika, w określonym czasie, wymaga przepis prawa.
+2. Jeżeli miejsce zamieszkania, siedziba lub miejsce wykonywania działalności kontrahenta podatnika znajdują się poza obszarem działania organu prowadzącego postępowanie lub kontrolę, czynności sprawdzających, o których mowa w 1, na zlecenie tego organu może także dokonać organ właściwy miejscowo.
+
+**Art. 275.**
+
+1. Jeżeli ze złożonej deklaracji wynika, że podatnik skorzystał z przysługujących mu ulg podatkowych, organ podatkowy może zwrócić się do niego o okazanie dokumentów lub o złożenie fotokopii dokumentów, których posiadania przez podatnika, w określonym czasie, wymaga przepis prawa.
 
 2. Banki, na żądanie naczelnika urzędu skarbowego lub naczelnika urzędu celno-skarbowego, są obowiązane do sporządzania i przekazywania informacji o zdarzeniach stanowiących podstawę do skorzystania przez podatnika z ulg podatkowych, jeżeli zostały wykazane w deklaracji złożonej przez podatnika.
 
@@ -5687,9 +5867,7 @@ Art. 307–323. (pominięte)
 
 **Art. 279.** (uchylony)
 
-**Art. 280.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy art. 143, art. 193a oraz rozdziałów 1–3a, 5, 6, 9, z wyłączeniem art. 171a, rozdziałów 10, 14, 16, 22 i 23 działu IV.
-
-### DZIAŁ VI Kontrola podatkowa
+**Art. 280.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy art. 143, art. 193a oraz rozdziałów 1–3a, 5, 6, 9, z wyłączeniem art. 171a, rozdziałów 10, 14, 16, 22 i 23 działu IV. Kontrola podatkowa
 
 **Art. 281.**
 
@@ -5712,6 +5890,10 @@ Art. 307–323. (pominięte)
 - **1)** sprawie stwierdzenia nieważności, stwierdzenia wygaśnięcia, uchylenia lub zmiany decyzji ostatecznej lub wznowienia postępowania w sprawie zakończonej decyzją ostateczną;
 - **2)** związku z uchyleniem lub stwierdzeniem nieważności decyzji przez sąd administracyjny;
 - **3)** sprawie stwierdzenia nadpłaty.
+
+**Art. 282b.**
+
+1. Organy podatkowe zawiadamiają kontrolowanego o zamiarze wszczęcia kontroli podatkowej, z zastrzeżeniem art. 282c.
 
 2. Kontrolę wszczyna się niewcześniej niż po upływie 7 dni i niepóźniej niż przed upływem 30 dni od dnia doręczenia zawiadomienia o zamiarze wszczęcia kontroli. Jeżeli kontrola nie zostanie wszczęta w terminie 30 dni od dnia doręczenia zawiadomienia, wszczęcie kontroli wymaga ponownego zawiadomienia.
 
@@ -5736,8 +5918,7 @@ Art. 307–323. (pominięte)
 
 - **1)** kontrola:
     - **a)** dotyczy zasadności zwrotu różnicy podatku lub zwrotu podatku naliczonego w rozumieniu przepisów o podatku od towarów i usług,
-    - **b)** ma być wszczęta na żądanie organu prowadzącego postępowanie przygotowawcze o przestępstwo lub przestępstwo skarbowe,
-    - **c)** dotyczy opodatkowania przychodów nieznajdujących pokrycia w ujawnionych źródłach lub pochodzących ze źródeł nieujawnionych,
+    - **b)** ma być wszczęta na żądanie organu prowadzącego postępowanie przygotowawcze o przestępstwo lub przestępstwo skarbowe, nieujawnionych,
     - **d)** dotyczy niezgłoszonej do opodatkowania działalności gospodarczej,
     - **e)** ma być podjęta w oparciu o informacje uzyskane na podstawie przepisów o przeciwdziałaniu praniu pieniędzy oraz finansowaniu terroryzmu,
     - **f)** zostaje wszczęta w trybie, o którym mowa w art. 284a 1,
@@ -5746,7 +5927,7 @@ Art. 307–323. (pominięte)
     - **i)** ma charakter doraźny dotyczący sprawdzenia zachowania warunków zawieszenia działalności gospodarczej,
     - **j)** dotyczy zasadności zwrotu podatku w rozumieniu przepisów rozdziału 7b ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych oraz rozdziału 6a ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych;
 
-- **2)** organ podatkowy posiada informacje, z których wynika, że kontrolowany: z 2026 r. poz. 522) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek
+- **2)** organ podatkowy posiada informacje, z których wynika, że kontrolowany: z 2026 r. poz. 522) lub wykroczenia polegającego na utrudnianiu kontroli; w przypadku osoby prawnej ten warunek odnosi się do każdego członka zarządu lub osoby zarządzającej, a w przypadku spółek niemających osobowości prawnej do każdego wspólnika,
     - **a)** został prawomocnie skazany w Rzeczypospolitej Polskiej za popełnienie przestępstwa skarbowego, przestępstwa przeciwko obrotowi gospodarczemu, przestępstwa z ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U.
     - **b)** jest zobowiązanym w postępowaniu egzekucyjnym w administracji,
     - **c)** nie ma miejsca zamieszkania lub adresu siedziby albo doręczanie pism na podane adresy było bezskuteczne lub utrudnione.
@@ -5775,9 +5956,7 @@ Art. 307–323. (pominięte)
 - **6)** datę rozpoczęcia i przewidywany termin zakończenia kontroli;
 - **7)** podpis osoby udzielającej upoważnienia, z podaniem zajmowanego stanowiska lub funkcji;
 - **8)** pouczenie o prawach i obowiązkach kontrolowanego wynikających z przepisów niniejszego działu;
-- **9)** wskazanie informacji, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679.
-
-3. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór imiennego upoważnienia do przeprowadzenia kontroli podatkowej, uwzględniając elementy upoważnienia określone w 2.
+- **9)** wskazanie informacji, o których mowa w art. 13 ust. 1 i 2 rozporządzenia 2016/679. nia do przeprowadzenia kontroli podatkowej, uwzględniając elementy upoważnienia określone w 2.
 
 4. Upoważnienie, które nie spełnia wymagań, o których mowa w 2, nie stanowi podstawy do przeprowadzenia kontroli.
 
@@ -5791,7 +5970,7 @@ Art. 307–323. (pominięte)
 
 2a. Jeżeli kontrolowanym jest zakład podmiotu zagranicznego, upoważnienie doręcza się oraz okazuje się legitymację służbową osobie faktycznie kierującej, nadzorującej lub reprezentującej działalność prowadzoną na terytorium Rzeczypospolitej Polskiej.
 
-3. W razie niemożności wszczęcia kontroli w trybie wskazanym w 1–2a z powodu nieobecności kontrolowanego, reprezentanta kontrolowanego lub pełnomocnika, kontrolujący wzywa kontrolowanego, reprezentanta kontrolowanego lub
+3. W razie niemożności wszczęcia kontroli w trybie wskazanym w 1–2a z powodu nieobecności kontrolowanego, reprezentanta kontrolowanego lub pełnomocnika, kontrolujący wzywa kontrolowanego, reprezentanta kontrolowanego lub pełnomocnika do stawienia się w siedzibie organu podatkowego następnego dnia po upływie 7 dni od dnia doręczenia wezwania.
 
 4. W przypadku niestawienia się osoby wzywanej, w terminie, o którym mowa w 3, kontrolę uznaje się za wszczętą w dniu upływu tego terminu. W tym przypadku upoważnienie do kontroli doręcza się niezwłocznie, gdy ta osoba stawi się w miejscu prowadzenia kontroli.
 
@@ -5821,7 +6000,7 @@ Art. 307–323. (pominięte)
 
 5c. Przepisów 5–5b nie stosuje się do kontrolowanego przedsiębiorcy.
 
-6. Postanowienie o zawieszeniu kontroli oraz postanowienie o umorzeniu kontroli pozostawia się w aktach sprawy. Art. 284aa. W przypadku gdy kontrolowana spółka cywilna, jawna, partnerska, komandytowa albo komandytowo-akcyjna została rozwiązana w trakcie kontroli podatkowej, kontrola podatkowa jest prowadzona wobec byłych wspólników tej spółki przez organ podatkowy, który wszczął kontrolę podatkową wobec spółki. Art. 284ab. 1. W przypadku kontroli podatkowej w zakresie funkcjonowania podatkowej grupy kapitałowej, kontrolowanym jest każda spółka wchodząca w skład tej grupy w okresie objętym kontrolą podatkową.
+6. Postanowienie o zawieszeniu kontroli oraz postanowienie o umorzeniu kontroli pozostawia się w aktach sprawy. -akcyjna została rozwiązana w trakcie kontroli podatkowej, kontrola podatkowa jest prowadzona wobec byłych wspólników tej spółki przez organ podatkowy, który wszczął kontrolę podatkową wobec spółki. Art. 284ab. 1. W przypadku kontroli podatkowej w zakresie funkcjonowania podatkowej grupy kapitałowej, kontrolowanym jest każda spółka wchodząca w skład tej grupy w okresie objętym kontrolą podatkową.
 
 2. W przypadku gdy podatkowa grupa kapitałowa utraciła status podatnika, prowadzi się jedną kontrolę podatkową wobec spółek wchodzących w skład tej grupy. Upoważnienie do kontroli podatkowej doręcza się spółkom wchodzącym w skład podatkowej grupy kapitałowej przed utratą statusu podatnika.
 
@@ -5835,7 +6014,9 @@ Art. 307–323. (pominięte)
 
 **Art. 284b.**
 
-1. Kontrola powinna zostać zakończona bez zbędnej zwłoki, jednak niepóźniej niż w terminie wskazanym w upoważnieniu, o którym mowa w art. 283. kontroli i wskazując nowy termin jej zakończenia.
+1. Kontrola powinna zostać zakończona bez zbędnej zwłoki, jednak niepóźniej niż w terminie wskazanym w upoważnieniu, o którym mowa w art. 283.
+
+2. O każdym przypadku niezakończenia kontroli w terminie wskazanym w upoważnieniu, o którym mowa w art. 283, kontrolujący obowiązany jest zawiadomić na piśmie kontrolowanego, podając przyczyny przedłużenia terminu zakończenia kontroli i wskazując nowy termin jej zakończenia.
 
 3. Dokumenty dotyczące czynności kontrolnych dokonanych po upływie tego terminu nie stanowią dowodu w postępowaniu podatkowym, chyba że został wskazany nowy termin zakończenia kontroli.
 
@@ -5865,8 +6046,7 @@ Art. 307–323. (pominięte)
 
 - **1)** wstępu na grunt oraz do budynków, lokali lub innych pomieszczeń kontrolowanego;
 - **2)** wstępu do lokali mieszkalnych w przypadku, o którym mowa w art. 276 1;
-- **3)** żądania okazania majątku podlegającego kontroli oraz do dokonania jego oględzin;
-- **4)** żądania udostępniania akt, ksiąg i wszelkiego rodzaju dokumentów związanych z przedmiotem kontroli oraz do sporządzania z nich odpisów, kopii, wyciągów, notatek, wydruków i udokumentowanego pobierania danych w postaci elektronicznej;
+- **3)** żądania okazania majątku podlegającego kontroli oraz do dokonania jego oględzin; rządzania z nich odpisów, kopii, wyciągów, notatek, wydruków i udokumentowanego pobierania danych w postaci elektronicznej;
 - **5)** zbierania innych niezbędnych materiałów w zakresie objętym kontrolą;
 - **6)** zabezpieczania zebranych dowodów;
 - **7)** legitymowania osób w celu ustalenia ich tożsamości, jeżeli jest to niezbędne dla potrzeb kontroli;
@@ -5881,7 +6061,11 @@ Art. 307–323. (pominięte)
     - **a)** w razie powzięcia uzasadnionego podejrzenia, że są one nierzetelne, lub
     - **b)** gdy podatnik nie zapewnia kontrolującym warunków umożliwiających wykonywanie czynności kontrolnych związanych z badaniem tej dokumentacji, a w szczególności nie udostępnia kontrolującym samodzielnego pomieszczenia i miejsca do przechowywania dokumentów.
 
-3. Przeglądanie akt postępowania przygotowawczego i sądowego, akt spraw sądowych, a także dokumentów zawierających informacje niejawne lub stanowiące tajemnicę zawodową oraz sporządzanie z nich odpisów i notatek następuje z zachowaniem właściwych przepisów. przeprowadzenie czynności kontrolnych, albo zwrócić się o ich asystę, gdy zachodzi uzasadnione przypuszczenie, że na taki opór natrafi. Jeżeli opór stawia żołnierz czynnej służby wojskowej, kontrolujący wzywa do pomocy właściwy organ wojskowy, chyba że zwłoka grozi udaremnieniem czynności kontrolnych, a na miejscu nie ma organu wojskowego.
+3. Przeglądanie akt postępowania przygotowawczego i sądowego, akt spraw sądowych, a także dokumentów zawierających informacje niejawne lub stanowiące tajemnicę zawodową oraz sporządzanie z nich odpisów i notatek następuje z zachowaniem właściwych przepisów.
+
+**Art. 286a.**
+
+1. Kontrolujący może w razie uzasadnionej potrzeby wezwać, w pilnych przypadkach także ustnie, pomocy organu Policji, Straży Granicznej lub straży miejskiej (gminnej), jeżeli trafi na opór uniemożliwiający lub utrudniający przeprowadzenie czynności kontrolnych, albo zwrócić się o ich asystę, gdy zachodzi uzasadnione przypuszczenie, że na taki opór natrafi. Jeżeli opór stawia żołnierz czynnej służby wojskowej, kontrolujący wzywa do pomocy właściwy organ wojskowy, chyba że zwłoka grozi udaremnieniem czynności kontrolnych, a na miejscu nie ma organu wojskowego.
 
 2. Organy wymienione w 1 nie mogą odmówić udzielenia pomocy lub asysty.
 
@@ -5901,9 +6085,7 @@ Art. 307–323. (pominięte)
 
 3. Kontrolowany ma obowiązek w wyznaczonym terminie udzielać wszelkich wyjaśnień dotyczących przedmiotu kontroli, dostarczać kontrolującemu żądane dokumenty oraz zapewnić kontrolującemu warunki do pracy, a w tym w miarę możliwości udostępnić samodzielne pomieszczenie i miejsce do przechowywania dokumentów.
 
-4. Reprezentant kontrolowanego, pracownik oraz osoba współdziałająca z kontrolowanym są obowiązani udzielić wyjaśnień dotyczących przedmiotu kontroli, w zakresie wynikającym z wykonywanych czynności lub zadań.
-
-5. Kontrolujący są uprawnieni do wstępu na teren jednostki kontrolowanej oraz poruszania się po tym terenie na podstawie legitymacji służbowej bez potrzeby uzyskiwania przepustki oraz nie podlegają rewizji osobistej przewidzianej w regulaminie wewnętrznym tej jednostki; podlegają natomiast przepisom o bezpieczeństwie i higienie pracy obowiązującym w kontrolowanej jednostce.
+4. Reprezentant kontrolowanego, pracownik oraz osoba współdziałająca z kontrolowanym są obowiązani udzielić wyjaśnień dotyczących przedmiotu kontroli, w zakresie wynikającym z wykonywanych czynności lub zadań. podstawie legitymacji służbowej bez potrzeby uzyskiwania przepustki oraz nie podlegają rewizji osobistej przewidzianej w regulaminie wewnętrznym tej jednostki; podlegają natomiast przepisom o bezpieczeństwie i higienie pracy obowiązującym w kontrolowanej jednostce.
 
 **Art. 288.**
 
@@ -5916,7 +6098,9 @@ Art. 307–323. (pominięte)
 
 - **2)** dokonania oględzin oraz przeszukania lokali mieszkalnych, innych pomieszczeń lub rzeczy, jeżeli powzięto informację o prowadzeniu niezgłoszonej do opodatkowania działalności gospodarczej albo w przypadku gdy są tam przechowywane przedmioty, księgi podatkowe, akta lub inne dokumenty mogące mieć wpływ na ustalenie istnienia obowiązku podatkowego lub określenie wysokości zobowiązania podatkowego.
 
-2. Czynności wymienione w 1 pkt 2 przeprowadzają upoważnieni pracownicy organu podatkowego po uzyskaniu, na wniosek organu podatkowego, zgody prokuratora rejonowego. Przed przystąpieniem do tych czynności kontrolowanemu okazuje się postanowienie prokuratora o wyrażeniu na nie zgody. Przepisy Kodeksu postępowania karnego o przeszukaniu odnoszące się do Policji mają także zastosowanie do kontrolujących. Sporządza się protokół tych czynności, który wymaga zatwierdzenia przez prokuratora. W razie odmowy zatwierdzenia protokołu materiały i informacje zebrane w toku czynności nie stanowią dowodu w postępowaniu podatkowym. stosuje się odpowiednio.
+2. Czynności wymienione w 1 pkt 2 przeprowadzają upoważnieni pracownicy organu podatkowego po uzyskaniu, na wniosek organu podatkowego, zgody prokuratora rejonowego. Przed przystąpieniem do tych czynności kontrolowanemu okazuje się postanowienie prokuratora o wyrażeniu na nie zgody. Przepisy Kodeksu postępowania karnego o przeszukaniu odnoszące się do Policji mają także zastosowanie do kontrolujących. Sporządza się protokół tych czynności, który wymaga zatwierdzenia przez prokuratora. W razie odmowy zatwierdzenia protokołu materiały i informacje zebrane w toku czynności nie stanowią dowodu w postępowaniu podatkowym.
+
+3. Czynności wymienione w 1 pkt 1 dokonywane są za zgodą kontrolowanego. W razie braku takiej zgody przepis 2 stosuje się odpowiednio.
 
 4. W przypadku gdy nieruchomości lub ich części albo rzeczy znajdują się w posiadaniu osób trzecich, osoby te są obowiązane je udostępnić, w celu przeszukania lub oględzin, na żądanie organu podatkowego. Przepisy 2 i 3 stosuje się odpowiednio.
 
@@ -5946,8 +6130,6 @@ Art. 307–323. (pominięte)
 
 3. (uchylony)
 
-4. Załącznik do protokołu kontroli stanowią protokoły czynności, o których mowa w art. 289 1.
-
 5. W protokole kontroli mogą być zawarte również ustalenia dotyczące badania ksiąg w zakresie przewidzianym w art. 193. W tym przypadku nie sporządza się odrębnego protokołu badania ksiąg, o którym mowa w art. 193 6.
 
 6. Protokół jest sporządzany w dwóch egzemplarzach. Jeden egzemplarz protokołu kontrolujący doręcza kontrolowanemu, z wyłączeniem załączonych do protokołu kontroli fotokopii, odpisów i wydruków z akt, ksiąg oraz innych, dokumentów udostępnionych przez kontrolowanego, które zostały zwrócone przez kontrolującego, czyniąc o tym wzmiankę w protokole kontroli.
@@ -5962,7 +6144,17 @@ Art. 307–323. (pominięte)
 
 3. Do protokołu z czynności kontrolnych stosuje się odpowiednio przepisy dotyczące protokołu kontroli, z wyłączeniem art. 290 2 pkt 6a i 8.
 
-**Art. 290c.** Po otrzymaniu akt kontroli na podstawie art. 119gb 2 lub art. 119k 1 i 1a naczelnik urzędu skarbowego podejmuje z urzędu zawieszoną kontrolę podatkową. 2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym. 3. W przypadku niezłożenia wyjaśnień lub zastrzeżeń w terminie określonym w 1, przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli. 4. Kontrola zostaje zakończona w dniu doręczenia protokołu kontroli.
+**Art. 290c.** Po otrzymaniu akt kontroli na podstawie art. 119gb 2 lub art. 119k 1 i 1a naczelnik urzędu skarbowego podejmuje z urzędu zawieszoną kontrolę podatkową.
+
+**Art. 291.**
+
+1. Kontrolowany, który nie zgadza się z ustaleniami protokołu, może w terminie 14 dni od dnia jego doręczenia przedstawić zastrzeżenia lub wyjaśnienia, wskazując równocześnie stosowne wnioski dowodowe.
+
+2. Kontrolujący jest obowiązany rozpatrzyć zastrzeżenia, o których mowa w 1, i w terminie 14 dni od dnia ich otrzymania zawiadomić kontrolowanego o sposobie ich załatwienia, wskazując w szczególności, które zastrzeżenia nie zostały uwzględnione, wraz z uzasadnieniem faktycznym i prawnym.
+
+3. W przypadku niezłożenia wyjaśnień lub zastrzeżeń w terminie określonym w 1, przyjmuje się, że kontrolowany nie kwestionuje ustaleń kontroli.
+
+4. Kontrola zostaje zakończona w dniu doręczenia protokołu kontroli.
 
 **Art. 291a.**
 
@@ -5982,9 +6174,7 @@ Art. 307–323. (pominięte)
 
 2. Jeżeli pełnomocnik jest nieobecny w miejscu prowadzenia kontroli, podczas gdy jest obecny kontrolowany, pisma doręcza się kontrolowanemu, a czynności kontrolnych dokonuje się w obecności kontrolowanego.
 
-**Art. 292.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy art. 102, art. 135, art. 138, art. 139 4, art. 140 2, art. 141 i art. 142, przepisy rozdziałów 1, 2, 3a, 5, 6, 9, z wyłączeniem art. 171a, rozdziałów 10, 11, z wyłączeniem art. 182–185, oraz rozdziałów 12, 14, 16, 22 i 23 działu IV.
-
-### DZIAŁ VII Tajemnica skarbowa
+**Art. 292.** W sprawach nieuregulowanych w niniejszym dziale stosuje się odpowiednio przepisy art. 102, art. 135, art. 138, art. 139 4, art. 140 2, art. 141 i art. 142, przepisy rozdziałów 1, 2, 3a, 5, 6, 9, z wyłączeniem art. 171a, rozdziałów 10, 11, z wyłączeniem art. 182–185, oraz rozdziałów 12, 14, 16, 22 i 23 działu IV. Tajemnica skarbowa
 
 **Art. 293.**
 
@@ -5997,7 +6187,8 @@ Art. 307–323. (pominięte)
 - **3)** aktach postępowania podatkowego, kontroli podatkowej, kontroli celno-skarbowej oraz aktach postępowania w sprawach o przestępstwa skarbowe lub wykroczenia skarbowe;
 - **4)** dokumentacji rachunkowej organu podatkowego;
 - **5)** informacjach uzyskanych przez organy Krajowej Administracji Skarbowej z banków oraz z innych źródeł niż wymienione w 1 lub w pkt 1;
-- **6)** informacjach uzyskanych w toku procedur rozstrzygania sporów dotyczących podwójnego opodatkowania oraz w toku postępowania w sprawie wydania uprzednich porozumień cenowych, o których mowa w ustawie z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych; rozdziale 6 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami;
+- **6)** informacjach uzyskanych w toku procedur rozstrzygania sporów dotyczących podwójnego opodatkowania oraz w toku postępowania w sprawie wydania uprzednich porozumień cenowych, o których mowa w ustawie z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych;
+- **7)** aktach dokumentujących kontrolę, o której mowa w dziale III rozdziale 9, w dziale IIIA rozdziale 5 oraz dziale VB rozdziale 6 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami;
 - **8)** informacjach o wynikach analizy ryzyka, o której mowa w art. 119zn 1, oraz innych informacjach i dokumentach, o których mowa w dziale IIIB;
 - **9)** informacjach i dokumentach, o których mowa w dziale III w rozdziale 11a;
 - **10)** aktach postępowania w sprawie wydania opinii zabezpieczającej oraz aktach postępowania określonego w dziale IIIA w rozdziale 5;
@@ -6022,7 +6213,6 @@ Art. 307–323. (pominięte)
 - **1a)** funkcjonariusze;
 - **1b)** pracownicy Krajowej Informacji Skarbowej;
 - **2)** wójt, burmistrz (prezydent miasta), starosta, marszałek województwa oraz pracownicy urzędów ich obsługujących;
-- **3)** członkowie samorządowych kolegiów odwoławczych, a także pracownicy biur tych kolegiów;
 - **4)** minister właściwy do spraw finansów publicznych oraz pracownicy urzędu obsługującego tego ministra;
 - **4a)** Szef Krajowej Administracji Skarbowej;
 - **5)** osoby odbywające staż, praktykę zawodową lub studencką w urzędzie obsługującym ministra właściwego do spraw finansów publicznych lub w innych organach podatkowych;
@@ -6034,9 +6224,14 @@ Art. 307–323. (pominięte)
 
 3. Zachowanie tajemnicy skarbowej obowiązuje również po ustaniu zatrudnienia, zakończeniu stażu lub praktyki lub po ustaniu członkostwa w Radzie GLOBE i Radzie.
 
+4. Do przestrzegania tajemnicy skarbowej obowiązane są również inne osoby, którym udostępniono informacje objęte tajemnicą skarbową, chyba że na ich ujawnienie zezwala przepis prawa.
+
 5. Przepisu 4 nie stosuje się do osób, których dotyczą informacje objęte tajemnicą skarbową.
 
 **Art. 295.** W toku postępowania podatkowego dostęp do informacji pochodzących z banku lub innej instytucji finansowej, a także do informacji uzyskanych z banku lub innej instytucji finansowej mających siedzibę na terytorium państw członkowskich Unii Europejskiej, przysługuje:
+
+- **1)** funkcjonariuszowi lub pracownikowi załatwiającym sprawę, ich przełożonym, naczelnikowi urzędu skarbowego, naczelnikowi urzędu celno-skarbowego, dyrektorowi izby administracji skarbowej oraz Szefowi Krajowej Administracji Skarbowej;
+- **2)** pracownikowi załatwiającemu sprawę, jego przełożonemu oraz organom, o których mowa w art. 5 i art. 9 ustawy z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, właściwym w zakresie wymiany informacji podatkowych.
 
 **Art. 295a.**
 
@@ -6052,9 +6247,7 @@ Art. 307–323. (pominięte)
 
 **Art. 295d.**
 
-1. Dostęp do informacji przekazanych przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierających tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85), przysługuje Szefowi Krajowej Administracji Skarbowej oraz pracownikom i funkcjonariuszom Krajowej Administracji Skarbowej upoważnionym przez Szefa Krajowej Administracji Skarbowej do realizacji zadań związanych z przeprowadzaniem audytu podatkowego i ich przełożonym oraz organom podatkowym, które wydają opinie przed zawarciem porozumienia podatkowego, o którym mowa w art. 20zb.
-
-1a. Dostęp do informacji przekazanych przez inwestora w toku zawierania, zmiany lub wypowiadania porozumienia inwestycyjnego, zawierających tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, przysługuje ministrowi właściwemu do spraw finansów publicznych oraz pracownikom upoważnionym przez ten organ do realizacji zadań związanych z zawarciem, zmianą oraz wypowiedzeniem porozumienia inwestycyjnego.
+1. Dostęp do informacji przekazanych przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierających tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2026 r. poz. 85), przysługuje Szefowi Krajowej Administracji Skarbowej oraz pracownikom i funkcjonariuszom Krajowej Administracji Skarbowej upoważnionym przez Szefa Krajowej Administracji Skarbowej do realizacji zadań związanych z przeprowadzaniem audytu podatkowego i ich przełożonym oraz organom podatkowym, które wydają opinie przed zawarciem porozumienia podatkowego, o którym mowa w art. 20zb. inwestycyjnego, zawierających tajemnicę przedsiębiorstwa w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji, przysługuje ministrowi właściwemu do spraw finansów publicznych oraz pracownikom upoważnionym przez ten organ do realizacji zadań związanych z zawarciem, zmianą oraz wypowiedzeniem porozumienia inwestycyjnego.
 
 2. Przepisów 1 i 1a nie stosuje się, jeżeli przedsiębiorca nie wykazał, że przekazane przez niego Szefowi Krajowej Administracji Skarbowej albo ministrowi właściwemu do spraw finansów publicznych informacje i ich zakres stanowią tajemnicę przedsiębiorstwa. W tym przypadku organ podatkowy wydaje postanowienie o odmowie uznania tych informacji, w podanym przez przedsiębiorcę zakresie za stanowiące tajemnicę przedsiębiorstwa.
 
@@ -6064,7 +6257,8 @@ Art. 307–323. (pominięte)
 
 - **1)** pochodzące z banków lub spółdzielczych kas oszczędnościowo-kredytowych oraz z innych instytucji finansowych,
 - **2)** określone w ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, uzyskane od obcych państw, pochodzące z banków i innych instytucji finansowych, od raportujących operatorów platform w rozumieniu art. 75a ust. 1 pkt 14 tej ustawy oraz od raportujących dostawców usług w zakresie kryptoaktywów w rozumieniu art. 88e ust. 1 pkt 15 tej ustawy,
-- **3)** uzyskane w postępowaniu w sprawie wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych, przechowuje się w pomieszczeniach zabezpieczonych zgodnie z przepisami o ochronie informacji niejawnych.
+- **3)** uzyskane w postępowaniu w sprawie wydania uprzedniego porozumienia cenowego, o którym mowa w dziale III ustawy z dnia 16 października 2019 r. o rozstrzyganiu sporów dotyczących podwójnego opodatkowania oraz zawieraniu uprzednich porozumień cenowych,
+- **4)** przekazane przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierające tajemnicę przedsiębiorstwa przechowuje się w pomieszczeniach zabezpieczonych zgodnie z przepisami o ochronie informacji niejawnych.
 
 2. Informacje, o których mowa w 1, po ich wykorzystaniu są wyłączane z akt sprawy i przechowywane z zachowaniem zasad określonych dla informacji niejawnych o klauzuli „zastrzeżone”. Adnotacji o wyłączeniu dokonuje się w aktach sprawy.
 
@@ -6086,12 +6280,12 @@ Art. 307–323. (pominięte)
     - **a)** w przypadkach określonych w dziale IV Kodeksu postępowania administracyjnego,
     - **b)** w związku z udziałem prokuratora w postępowaniu przed sądem administracyjnym;
 
-- **6)** (uchylony)
 - **7)** Agencji Bezpieczeństwa Wewnętrznego, Służbie Kontrwywiadu Wojskowego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Centralnemu Biuru Antykorupcyjnemu, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służbie Więziennej, Służbie Ochrony Państwa i ich posiadającym sporządzone na piśmie upoważnienie funkcjonariuszom lub żołnierzom w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
 - **8)** Centralnemu Biuru Antykorupcyjnemu w zakresie niezbędnym do realizacji zadań określonych w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym;
 - **8a)** Agencji Bezpieczeństwa Wewnętrznego w zakresie niezbędnym do realizacji zadań określonych w art. 5 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu;
 - **9)** Inspektorowi Nadzoru Wewnętrznego w zakresie niezbędnym do realizacji zadań określonych w art. 11a ust. 3 pkt 7 ustawy z dnia 21 czerwca 1996 r. o szczególnych formach sprawowania nadzoru przez ministra właściwego do spraw wewnętrznych (Dz. U. z 2025 r. poz. 529);
-- **9a)** (uchylony) 2006 r. o nadzorze nad rynkiem finansowym;
+- **9a)** (uchylony)
+- **10)** Przewodniczącemu Komisji Nadzoru Finansowego w zakresie i na zasadach określonych w ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
 - **11)** Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w związku z prowadzonym: poz. 1773),
     - **a)** postępowaniem wyjaśniającym, postępowaniem antymonopolowym, postępowaniem w sprawie o uznanie postanowień wzorca umowy za niedozwolone i postępowaniem w sprawie praktyk naruszających zbiorowe interesy konsumentów, o których mowa w art. 47 ust. 1 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2025 r. poz. 1714),
     - **b)** postępowaniem w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową i postępowaniem wyjaśniającym, prowadzonych na podstawie przepisów ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. z 2023 r.
@@ -6106,15 +6300,15 @@ Art. 307–323. (pominięte)
 
 4. Naczelnicy urzędów skarbowych oraz naczelnicy urzędów celno-skarbowych udostępniają Najwyższej Izbie Kontroli, w związku z toczącym się postępowaniem kontrolnym, akta, o których mowa w 1, po wyłączeniu z nich informacji wymienionych w art. 182, chyba że informacje takie zostały uprzednio udzielone Najwyższej Izbie Kontroli na podstawie odrębnych przepisów.
 
-5. Naczelnicy urzędów skarbowych udostępniają Państwowej Komisji Wyborczej, w związku z badaniem sprawozdania komitetu wyborczego, informacji, o której mowa w art. 34 ust. 1, lub sprawozdania, o którym mowa w art. 38 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2023 r. poz. 1215), akta, o których mowa w 1.
-
-6. Naczelnicy urzędów celno-skarbowych udostępniają Krajowemu ośrodkowi bilansowania i zarządzania emisjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2026 r. poz. 526), Mazowieckiemu Wojewódzkiemu Inspektorowi Ochrony Środowiska oraz Głównemu Inspektorowi Ochrony Środowiska informacje i dane z akt, o których mowa w 1, w zakresie niezbędnym do realizacji ich zadań ustawowych, o których mowa w rozdziale 9b tej ustawy.
+5. Naczelnicy urzędów skarbowych udostępniają Państwowej Komisji Wyborczej, w związku z badaniem sprawozdania komitetu wyborczego, informacji, o której mowa w art. 34 ust. 1, lub sprawozdania, o którym mowa w art. 38 ustawy z dnia 27 czerwca 1997 r. o partiach politycznych (Dz. U. z 2023 r. poz. 1215), akta, o których mowa w 1. sjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji (Dz. U. z 2026 r. poz. 526), Mazowieckiemu Wojewódzkiemu Inspektorowi Ochrony Środowiska oraz Głównemu Inspektorowi Ochrony Środowiska informacje i dane z akt, o których mowa w 1, w zakresie niezbędnym do realizacji ich zadań ustawowych, o których mowa w rozdziale 9b tej ustawy.
 
 **Art. 297a.**
 
 1. Informacje podatkowe, o których mowa w ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, uzyskane od państw członkowskich Unii Europejskiej lub akta zawierające takie informacje są udostępniane organom wymienionym w art. 297 oraz innym niż wymienione w tym przepisie organom podatkowym, gdy toczące się przed tym organem postępowanie lub czynności wykonywane przez ten organ są związane z prawidłowym określaniem podstaw opodatkowania i wysokości zobowiązania podatkowego lub wymiarem innych należności, których dochodzenie, zgodnie z przepisami o postępowaniu egzekucyjnym w administracji, jest możliwe na wniosek obcego państwa oraz na potrzeby ceł i przeciwdziałania praniu pieniędzy i finansowaniu terroryzmu oraz na potrzeby stosowania art. 215 Traktatu o Funkcjonowaniu Unii Europejskiej.
 
 2. Udostępnianie informacji podatkowych, o których mowa w ustawie z dnia 9 marca 2017 r. o wymianie informacji podatkowych z innymi państwami, uzyskanych od państw niebędących państwami członkowskimi Unii Europejskiej lub akt zawierających takie informacje następuje na zasadach określonych w 1 oraz z uwzględnieniem umów o unikaniu podwójnego opodatkowania, innych ratyfikowanych umów międzynarodowych, których stroną jest Rzeczpospolita Polska, oraz innych umów międzynarodowych, których stroną jest Unia Europejska.
+
+3. Udostępnienie informacji dla celów innych niż wymienione w 1 i 2 wymaga uzyskania zgody obcego państwa, od którego otrzymano informacje.
 
 4. Akta i dokumenty zawierające informacje, o których mowa w 1 i 2, oznacza się klauzulą: „Tajemnica skarbowa”, a ich przekazanie następuje w trybie przewidzianym dla dokumentów zawierających informacje niejawne o klauzuli „zastrzeżone”.
 
@@ -6138,19 +6332,23 @@ Art. 307–323. (pominięte)
 
 - **1)** Centralnemu Biuru Antykorupcyjnemu w zakresie niezbędnym do realizacji zadań określonych w art. 2 ust. 1 ustawy z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym,
 - **2)** Agencji Bezpieczeństwa Wewnętrznego w zakresie niezbędnym do realizacji zadań określonych w art. 5 ust. 1 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu,
-- **3)** ministrowi właściwemu do spraw wewnętrznych w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, 3a) ministrowi właściwemu do spraw informatyzacji w zakresie niezbędnym do zapewnienia funkcjonowania usług dostępnych w e-Urzędzie Skarbowym udostępnianych przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019),
+- **3)** ministrowi właściwemu do spraw wewnętrznych w zakresie niezbędnym do realizacji zadań określonych w ustawie z dnia 13 kwietnia 2022 r. o szczególnych rozwiązaniach w zakresie przeciwdziałania wspieraniu agresji na Ukrainę oraz służących ochronie bezpieczeństwa narodowego, dostępnych w e-Urzędzie Skarbowym udostępnianych przy użyciu aplikacji mObywatel w rozumieniu ustawy z dnia 26 maja 2023 r. o aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717 oraz z 2025 r. poz. 1019),
 - **4)** Policji w zakresie niezbędnym do realizacji zadań określonych w art. 1 ust. 2 pkt 4 ustawy z dnia 6 kwietnia 1990 r. o Policji,
 - **5)** Straży Granicznej w zakresie niezbędnym do realizacji zadań określonych w art. 1 ust. 2 pkt 4 ustawy z dnia 12 października 1990 r. o Straży Granicznej,
 - **6)** ministrowi właściwemu do spraw zagranicznych w zakresie niezbędnym do podejmowania środków ograniczających w związku z działaniami destabilizującymi sytuację w Ukrainie,
 - **7)** prokuratorowi w zakresie niezbędnym do realizacji zadań określonych w art. 3 1 pkt 1 i 8 ustawy z dnia 28 stycznia 2016 r. Prawo o prokuraturze (Dz. U. z 2024 r. poz. 390, z 2025 r. poz. 304 i 1178 oraz z 2026 r. poz. 26 i 370),
 - **8)** Przewodniczącemu Komisji Nadzoru Finansowego w zakresie niezbędnym do realizacji zadań określonych w art. 4 ust. 1 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym,
-- **9)** Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie i na zasadach określonych w rozdziale 8a ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27)
+- **9)** Ubezpieczeniowemu Funduszowi Gwarancyjnemu w zakresie i na zasadach określonych w rozdziale 8a ustawy z dnia 20 maja 2021 r. o ochronie praw nabywcy lokalu mieszkalnego lub domu jednorodzinnego oraz Deweloperskim Funduszu Gwarancyjnym (Dz. U. z 2024 r. poz. 695, z 2025 r. poz. 758, 1077, 1167 i 1669 oraz z 2026 r. poz. 27) dane niezawarte w aktach spraw podatkowych inne niż określone w art. 297c, jeżeli znajdują się w Centralnym Rejestrze Danych Podatkowych.
 
 2. Dane, o których mowa w 1, mogą być udostępniane również za pośrednictwem systemu teleinformatycznego.
 
 **Art. 297f.** Informacje przekazane przez podatnika w ramach realizacji współdziałania, o którym mowa w dziale IIB, zawierające tajemnicę przedsiębiorstwa uznaną przez Szefa Krajowej Administracji Skarbowej, są udostępniane wyłącznie organom wymienionym w art. 297 1 pkt 1, 2a, 3 i 7–9 na zasadach określonych w tym przepisie.
 
 **Art. 297g.** Informacje przekazane przez inwestora w toku zawierania, zmiany lub wypowiadania porozumienia inwestycyjnego, zawierające tajemnicę przedsiębiorstwa uznaną przez ministra właściwego do spraw finansów publicznych, są udostępniane wyłącznie:
+
+- **1)** organom wymienionym w art. 297 1 pkt 1, 2a, 3 i 7–9 na zasadach określonych w tych przepisach;
+- **2)** Dyrektorowi Krajowej Informacji Skarbowej w zakresie, w jakim jest to niezbędne do wydania przez ministra właściwego do spraw finansów publicznych opinii, o której mowa w art. 14b 5f pkt 1, i stanowiska, o którym mowa w art. 14u 9 pkt 1;
+- **3)** wójtowi, burmistrzowi (prezydentowi miasta), staroście lub marszałkowi województwa w zakresie określonym w art. 20zu 5.
 
 **Art. 297h.**
 
@@ -6163,9 +6361,23 @@ Art. 307–323. (pominięte)
 
 **Art. 298.** Akta niezawierające informacji, o których mowa w art. 182, organy podatkowe udostępniają:
 
-**Art. 298a.**
-
-1. Organy podatkowe inne niż organy Krajowej Administracji Skarbowej udostępniają ministrowi właściwemu do spraw informatyzacji dane objęte tajemnicą skarbową w zakresie niezbędnym do udostępnienia przez tego ministra usługi online polegającej na obsłudze elektronicznych transakcji płatniczych.
+- **1)** ministrowi właściwemu do spraw finansów publicznych;
+- **1a)** Szefowi Krajowej Administracji Skarbowej;
+- **2)** innym organom podatkowym;
+- **3a)** (uchylony)
+- **4)** Najwyższej Izbie Kontroli w zakresie i na zasadach określonych w przepisach o Najwyższej Izbie Kontroli;
+- **5)** sądowi, prokuratorowi, a także upoważnionym na piśmie przez prokuratora funkcjonariuszom Policji, Agencji Bezpieczeństwa Wewnętrznego, Straży Granicznej lub Centralnego Biura Antykorupcyjnego w związku z toczącym się postępowaniem;
+- **5a)** Agencji Bezpieczeństwa Wewnętrznego, Służbie Kontrwywiadu Wojskowego, Agencji Wywiadu, Służbie Wywiadu Wojskowego, Centralnemu Biuru Antykorupcyjnemu, Policji, Żandarmerii Wojskowej, Straży Granicznej, Służbie Więziennej, Służbie Ochrony Państwa i ich posiadającym sporządzone na piśmie upoważnienie funkcjonariuszom lub żołnierzom w zakresie niezbędnym do przeprowadzenia postępowania sprawdzającego na podstawie przepisów o ochronie informacji niejawnych;
+- **5b)** Centralnemu Biuru Antykorupcyjnemu, Biuru Nadzoru Wewnętrznego, Policji, Żandarmerii Wojskowej, Straży Granicznej i ich posiadającym sporządzone na piśmie upoważnienie funkcjonariuszom lub żołnierzom, jeżeli jest to konieczne dla skutecznego zapobieżenia przestępstwom lub ich wykrycia, ustalenia sprawców i uzyskania dowodów albo ujawnienia mienia zagrożonego przepadkiem;
+- **6)** biegłym powołanym w toku postępowania podatkowego lub kontroli podatkowej w zakresie określonym przez organ podatkowy;
+- **6a)** wojewodzie i Szefowi Urzędu do Spraw Cudzoziemców w zakresie prowadzonych postępowań dotyczących legalizacji pobytu cudzoziemców na terytorium Rzeczypospolitej Polskiej; 6aa) wojewodzie w zakresie kontroli celno-skarbowych przestrzegania przepisów wydanych na podstawie art. 46 ust. 4 pkt 2 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2025 r. poz. 1675 oraz z 2026 r. poz. 26); 6ab) ministrowi właściwemu do spraw zagranicznych oraz konsulowi w zakresie niezbędnym do przeprowadzenia postępowania w sprawie wydania, cofnięcia lub unieważnienia wizy;
+- **6b)** Prokuratorii Generalnej Rzeczypospolitej Polskiej w związku z prowadzonym postępowaniem oraz wydawaniem opinii prawnej;
+- **6c)** organom nadzoru górniczego w celu weryfikacji pomiaru urobku rudy miedzi, wydobytego gazu ziemnego oraz wydobytej ropy naftowej w rozumieniu przepisów ustawy z dnia 2 marca 2012 r. o podatku od wydobycia niektórych kopalin (Dz. U. z 2026 r. poz. 454);
+- **6d)** Przewodniczącemu Komisji Nadzoru Finansowego w zakresie niezbędnym do przeprowadzenia postępowania wyjaśniającego na podstawie ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym;
+- **6e)** organom właściwym w sprawach o naruszenie dyscypliny finansów publicznych w zakresie niezbędnym do przeprowadzenia czynności sprawdzających i postępowania na podstawie przepisów o odpowiedzialności za naruszenie dyscypliny finansów publicznych;
+- **6f)** Prezesowi Urzędu Ochrony Konkurencji i Konsumentów w związku z toczącym się postępowaniem prowadzonym na podstawie przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, przepisów ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych oraz przepisów ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi;
+- **6f)** (uchylony) 6g) Europejskiemu Urzędowi ds. Zwalczania Nadużyć Finansowych (OLAF) w związku z toczącym się dochodzeniem administracyjnym prowadzonym przez ten Urząd lub przed wszczęciem dochodzenia;
+- **7)** innym organom w przypadkach i na zasadach określonych w odrębnych ustawach oraz ratyfikowanych umowach międzynarodowych, których stroną jest Rzeczpospolita Polska, a także w porozumieniach zawartych na podstawie tych umów. wemu do spraw informatyzacji dane objęte tajemnicą skarbową w zakresie niezbędnym do udostępnienia przez tego ministra usługi online polegającej na obsłudze elektronicznych transakcji płatniczych.
 
 2. Dane, o których mowa w 1, są udostępniane za pośrednictwem systemu teleinformatycznego.
 
@@ -6183,6 +6395,7 @@ Art. 307–323. (pominięte)
 - **4)** jednostkom organizacyjnym Kasy Rolniczego Ubezpieczenia Społecznego;
 - **5)** jednostkom organizacyjnym Zakładu Ubezpieczeń Społecznych;
 - **6)** ministrowi właściwemu do spraw wewnętrznych w celu realizacji zadań określonych w przepisach o nabywaniu nieruchomości przez cudzoziemców;
+- **7)** Szefowi Krajowego Centrum Informacji Kryminalnych w celu realizacji jego zadań ustawowych;
 - **8)** komornikom sądowym w związku z wykonywaniem zadań, o których mowa w art. 3 ust. 3 pkt 1–3, oraz czynności, o których mowa w art. 3 ust. 4 pkt 1a ustawy z dnia 22 marca 2018 r. o komornikach sądowych (Dz. U. z 2024 r. poz. 1458, z 2025 r. poz. 1018 i 1172 oraz z 2026 r. poz. 26), oraz administracyjnym organom egzekucyjnym w związku z toczącym się postępowaniem egzekucyjnym lub zabezpieczającym;
 - **8a)** upoważnionemu przez wójta, burmistrza (prezydenta miasta), starostę albo marszałka województwa kierownikowi jednostki organizacyjnej jednostki samorządu terytorialnego niemającej osobowości prawnej oraz upoważnionemu pracownikowi tej jednostki, do wykonywania w jego imieniu praw i obowiązków wierzyciela na podstawie przepisów o postępowaniu egzekucyjnym w administracji, w zakresie niezbędnym do wszczęcia i prowadzenia postępowania egzekucyjnego lub zabezpieczającego;
 - **8b)** upoważnionemu przez organ egzekucyjny kierownikowi jednostki organizacyjnej gminy niemającej osobowości prawnej oraz upoważnionemu pracownikowi tej jednostki, do działania w jego imieniu jako organ egzekucyjny na podstawie przepisów o postępowaniu egzekucyjnym w administracji, w zakresie niezbędnym do wszczęcia i prowadzenia postępowania egzekucyjnego lub zabezpieczającego;
@@ -6194,13 +6407,13 @@ Art. 307–323. (pominięte)
 - **13)** organizacjom pożytku publicznego w zakresie i na zasadach określonych w ustawach podatkowych;
 - **14)** akredytowanym agencjom płatniczym realizującym zadania w ramach Wspólnej Polityki Rolnej;
 - **14a)** ministrowi właściwemu do spraw zdrowia w celu realizacji zadań ustawowych związanych z zapewnieniem dostępu do świadczeń opieki zdrowotnej finansowanych ze środków publicznych, w szczególności w zakresie produktów leczniczych, środków spożywczych specjalnego przeznaczenia żywieniowego oraz wyrobów medycznych;
-- **15)** organom Państwowej Inspekcji Farmaceutycznej w celu realizacji jej zadań ustawowych;
-- **15a)** organom Państwowej Inspekcji Pracy w zakresie niezbędnym do realizacji jej zadań ustawowych, o których mowa w art. 10 ust. 1 pkt 1, 3, 4, 9a, 14, 14b, 15, 15b–15d ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. );
+- **15)** organom Państwowej Inspekcji Farmaceutycznej w celu realizacji jej zadań ustawowych; w art. 10 ust. 1 pkt 1, 3, 4, 9a, 14, 14b, 15, 15b–15d ustawy z dnia 13 kwietnia 2007 r. o Państwowej Inspekcji Pracy (Dz. U. z 2024 r. poz. 1712, z późn. zm. );
 - **16)** Prezesowi Urzędu Regulacji Energetyki w celu realizacji jego zadań ustawowych;
 - **16a)** Prezesowi Urzędu Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych w zakresie realizacji zadań, o których mowa w art. 50 oraz art. 64 ustawy z dnia 7 kwietnia 2022 r. o wyrobach medycznych (Dz. U. z 2024 r. poz. 1620);
 - **17)** organom Inspekcji Jakości Handlowej Artykułów Rolno-Spożywczych w związku z kontrolami przeprowadzanymi na podstawie art. 17c ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980) oraz w zakresie prowadzonych postępowań w sprawie wymierzenia kar pieniężnych na podstawie art. 40a ust. 1–3a tej ustawy;
 - **18)** wojewodom w zakresie prowadzonych postępowań w sprawach zezwoleń na pracę;
 - **19)** starostom w zakresie prowadzonych postępowań o wydanie zezwolenia na pracę sezonową lub wpis oświadczenia o powierzeniu pracy cudzoziemcowi do ewidencji oświadczeń o powierzeniu pracy cudzoziemcowi, o której mowa w art. 73 ust. 2 ustawy z dnia 20 marca 2025 r. o warunkach dopuszczalności powierzania pracy cudzoziemcom na terytorium Rzeczypospolitej Polskiej (Dz. U. poz. 621 i 1794 oraz z 2026 r. poz. 203 i 473);
+- **20)** ministrowi właściwemu do spraw pracy w zakresie prowadzonych postępowań w sprawach zezwoleń na pracę i oświadczeń o powierzeniu pracy cudzoziemcowi;
 - **21)** Krajowemu ośrodkowi bilansowania i zarządzania emisjami, o którym mowa w art. 3 ust. 1 ustawy z dnia 17 lipca 2009 r. o systemie zarządzania emisjami gazów cieplarnianych i innych substancji, Mazowieckiemu Wojewódzkiemu Inspektorowi Ochrony Środowiska oraz Głównemu Inspektorowi Ochrony Środowiska w zakresie niezbędnym do realizacji ich zadań ustawowych, o których mowa w rozdziale 9b tej ustawy.
 
 4. Informacje o numerach rachunków bankowych posiadanych przez podatników mogą być udostępniane:
@@ -6221,9 +6434,7 @@ Art. 307–323. (pominięte)
 
 - **1)** rodzaje informacji udostępnianych nieodpłatnie komornikom sądowym za pośrednictwem konta w e-Urzędzie Skarbowym, uwzględniając poziom automatyzacji procesu udostępniania tych informacji;
 - **2)** wysokość opłaty uiszczanej za udostępnienie informacji komornikom sądowym, uwzględniając formę udostępnienia informacji i ponoszone przez organy podatkowe koszty związane z ich udostępnieniem;
-- **3)** tryb pobierania przez organy podatkowe inne niż organy Krajowej Administracji Skarbowej opłaty uiszczanej za udostępnienie informacji komornikom sądowym oraz sposób uiszczania tej opłaty, uwzględniając organizację czynności związanych z poborem opłaty i formę jej zapłaty.
-
-**Art. 299a.** Akta, o których mowa w art. 298, i dokumenty zawierające informacje, o których mowa w art. 299, przekazywane organom i osobom wymienionym w art. 298 pkt 4–7 oraz art. 299 2–4 oznacza się klauzulą „Tajemnica skarbowa”.
+- **3)** tryb pobierania przez organy podatkowe inne niż organy Krajowej Administracji Skarbowej opłaty uiszczanej za udostępnienie informacji komornikom sądowym oraz sposób uiszczania tej opłaty, uwzględniając organizację czynności związanych z poborem opłaty i formę jej zapłaty. kazywane organom i osobom wymienionym w art. 298 pkt 4–7 oraz art. 299 2–4 oznacza się klauzulą „Tajemnica skarbowa”.
 
 **Art. 299b.**
 
@@ -6233,7 +6444,9 @@ Art. 307–323. (pominięte)
 
 3. Wyrażenie zgody, o której mowa w 1, następuje na piśmie, na uzasadniony wniosek naczelnika urzędu skarbowego, naczelnika urzędu celno-skarbowego lub dyrektora izby administracji skarbowej.
 
-**Art. 299c.** Organy podatkowe udostępniają informacje zawarte w aktach spraw podatkowych, z wyłączeniem informacji określonych w art. 182, organom, które na podstawie odrębnych ustaw są obowiązane do przyjęcia zaświadczenia albo oświadczenia o wysokości dochodów (przychodów) lub zaświadczenia albo oświadczenia o niezaleganiu w podatkach, w zakresie niezbędnym do weryfikacji treści oświadczenia. udostępniania informacji wynikających z akt spraw podatkowych.
+**Art. 299c.** Organy podatkowe udostępniają informacje zawarte w aktach spraw podatkowych, z wyłączeniem informacji określonych w art. 182, organom, które na podstawie odrębnych ustaw są obowiązane do przyjęcia zaświadczenia albo oświadczenia o wysokości dochodów (przychodów) lub zaświadczenia albo oświadczenia o niezaleganiu w podatkach, w zakresie niezbędnym do weryfikacji treści oświadczenia.
+
+**Art. 299d.** Do informacji, o których mowa w art. 293 2 pkt 1 i 5, stosuje się przepisy niniejszego działu dotyczące udostępniania informacji wynikających z akt spraw podatkowych.
 
 **Art. 299e.**
 
@@ -6256,9 +6469,7 @@ Art. 307–323. (pominięte)
 
 5. (uchylony)
 
-6. Informacja o ustaleniu prawdopodobieństwa wystąpienia opóźnień jest przekazywana w terminie do 20. dnia drugiego miesiąca następującego po miesiącu, za który ustalono to prawdopodobieństwo.
-
-7. Szef Krajowej Administracji Skarbowej przekazuje Prezesowi Urzędu Ochrony Konkurencji i Konsumentów, na jego wniosek:
+6. Informacja o ustaleniu prawdopodobieństwa wystąpienia opóźnień jest przekazywana w terminie do 20. dnia drugiego miesiąca następującego po miesiącu, za który ustalono to prawdopodobieństwo. jego wniosek:
 
 - **1)** dane wynikające z ewidencji, o której mowa w art. 109 ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przekazane przez podmiot wskazany we wniosku, w okresie niedłuższym niż 24 miesiące poprzedzające miesiąc jego otrzymania;
 - **2)** dane wynikające z ewidencji, o której mowa w art. 109 ust. 3 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, przesłane przez podmiot wskazany we wniosku w okresie niedłuższym niż 24 miesiące poprzedzające miesiąc jego otrzymania, dotyczące faktur, co do których nie zidentyfikowano zapłaty w danych wynikających z informacji i zestawień, o których mowa w art. 119zq, przez ten podmiot.
@@ -6269,7 +6480,7 @@ Art. 307–323. (pominięte)
 
 **Art. 299g.**
 
-1. Szef Krajowej Administracji Skarbowej udostępnia Prezesowi Urzędu Ochrony Konkurencji i Konsumentów nieodpłatnie, w drodze teletransmisji bez konieczności składania każdorazowo pisemnych wniosków o udostępnienie, Systemu e-Faktur, oraz faktury VAT RR i faktury VAT RR KOREKTA, o których mowa w art. 116 ust. 3b i 3c tej ustawy, wystawione przy użyciu Krajowego Systemu e-Faktur oraz inne dane wynikające z Krajowego Systemu e-Faktur w celu realizacji zadań wynikających z:
+1. Szef Krajowej Administracji Skarbowej udostępnia Prezesowi Urzędu Ochrony Konkurencji i Konsumentów nieodpłatnie, w drodze teletransmisji bez konieczności składania każdorazowo pisemnych wniosków o udostępnienie, faktury ustrukturyzowane, o których mowa w art. 2 pkt 32a ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, faktury, o których mowa w art. 106nda ust. 1, art. 106nf ust. 1 i art. 106nh ust. 1 tej ustawy, po przesłaniu ich do Krajowego Systemu e-Faktur, oraz faktury VAT RR i faktury VAT RR KOREKTA, o których mowa w art. 116 ust. 3b i 3c tej ustawy, wystawione przy użyciu Krajowego Systemu e-Faktur oraz inne dane wynikające z Krajowego Systemu e-Faktur w celu realizacji zadań wynikających z:
 
 - **1)** ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów;
 - **2)** ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi;
@@ -6288,9 +6499,7 @@ Art. 307–323. (pominięte)
 
 - **49)** 1. Szef Krajowej Administracji Skarbowej udostępnia nieodpłatnie organom właściwym do spraw cyberbezpieczeństwa oraz Zespołowi Reagowania na Incydenty Bezpieczeństwa Komputerowego działającemu na poziomie krajowym, prowadzonemu przez Naukową i Akademicką Sieć Komputerową Państwowy Instytut Badawczy, w drodze teletransmisji, bez konieczności składania każdorazowo pisemnych wniosków o udostępnienie, dane w zakresie niezbędnym do dokonania przez te podmioty weryfikacji wielkości przedsiębiorstwa zgodnie z art. 5 ust. 1 i 2 ustawy z dnia 5 lipca 2018 r. o krajowym systemie cyberbezpieczeństwa (Dz. U. z 2026 r. poz. 20 i 252).
 
-2. Dane, o których mowa w 1, obejmują roczne zatrudnienie, a także roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz z operacji finansowych.
-
-3. Sposób udostępniania danych, o których mowa w 1, określają porozumienia zawarte między Szefem Krajowej Administracji Skarbowej a podmiotami, o których mowa w 1.
+2. Dane, o których mowa w 1, obejmują roczne zatrudnienie, a także roczny obrót netto ze sprzedaży towarów, wyrobów i usług oraz z operacji finansowych. Administracji Skarbowej a podmiotami, o których mowa w 1.
 
 **Art. 299j.**
 
@@ -6305,6 +6514,8 @@ Art. 307–323. (pominięte)
 **Art. 301.** Przepisy art. 297–299 nie naruszają uprawnień strony przewidzianych w art. 178 i art. 179.
 
 **Art. 302.** (uchylony)
+
+**Art. 303.** (uchylony)
 
 **Art. 304.** (uchylony)
 
@@ -6336,10 +6547,6 @@ Art. 307–323. (pominięte)
 
 2. Jeżeli sprawca czynu określonego w 1 działa nieumyślnie, podlega grzywnie.
 
-**Art. 305r.**
-
-1. Kto, nie będąc do tego uprawnionym, ujawnia lub wykorzystuje:
-
 - **1)** algorytmy, o których mowa w art. 119zn 3,
 - **2)** informacje o wskaźniku ryzyka,
 - **3)** informacje i zestawienia, o których mowa w art. 119zp 1, art. 119zq i art. 119zs 1,
@@ -6355,7 +6562,9 @@ Art. 307–323. (pominięte)
 
 3. Jeżeli sprawca czynu określonego w 1 lub 2 działa nieumyślnie, podlega karze pozbawienia wolności do lat 2.
 
-4. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie następuje na wniosek pokrzywdzonego. Zaświadczenia
+4. Jeżeli pokrzywdzonym nie jest Skarb Państwa, ściganie następuje na wniosek pokrzywdzonego.
+
+### DZIAŁ VIIIA Zaświadczenia
 
 **Art. 306a.**
 
@@ -6389,9 +6598,7 @@ Art. 307–323. (pominięte)
 - **1)** posiadanych przez niego ewidencji, rejestrów lub innych danych;
 - **2)** przedstawionych przez zainteresowanego do wglądu dokumentów urzędowych;
 - **3)** rejestrów publicznych posiadanych przez inne podmioty publiczne, do których organ ma dostęp w drodze elektronicznej na zasadach określonych w przepisach ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne;
-- **4)** informacji otrzymanych od innego podmiotu publicznego na zasadach określonych w przepisach ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne.
-
-2. Organ podatkowy żądający od strony zaświadczenia albo oświadczenia w celu potwierdzenia faktów albo stanu prawnego jest obowiązany wskazać przepis prawa wymagający urzędowego potwierdzenia tych faktów lub stanu prawnego w drodze zaświadczenia albo oświadczenia.
+- **4)** informacji otrzymanych od innego podmiotu publicznego na zasadach określonych w przepisach ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne. prawnego jest obowiązany wskazać przepis prawa wymagający urzędowego potwierdzenia tych faktów lub stanu prawnego w drodze zaświadczenia albo oświadczenia.
 
 3. Jeżeli strona lub inny uczestnik postępowania nie może uzyskać w postaci elektronicznej zaświadczenia wymaganego na potwierdzenie faktów lub stanu prawnego lub innego dokumentu wydanego przez podmiot publiczny w rozumieniu ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne, jak również potwierdzenia uiszczenia opłat i kosztów postępowania, strona lub inny uczestnik postępowania może złożyć elektroniczną kopię takiego dokumentu, po uwierzytelnieniu jej przez wnoszącego, przy użyciu kwalifikowanego podpisu elektronicznego, podpisu zaufanego albo podpisu osobistego.
 
@@ -6403,7 +6610,7 @@ Art. 307–323. (pominięte)
 
 1. Zaświadczenie o niezaleganiu w podatkach lub stwierdzające stan zaległości wydaje się na podstawie dokumentacji danego organu podatkowego oraz informacji otrzymanych od innych organów podatkowych.
 
-2. Przed wydaniem zaświadczeń, o których mowa w 1, ustala się, czy w stosunku do wnioskodawcy nie jest prowadzone postępowanie mające na celu ustalenie lub określenie wysokości jego zobowiązań podatkowych. Jeżeli takie
+2. Przed wydaniem zaświadczeń, o których mowa w 1, ustala się, czy w stosunku do wnioskodawcy nie jest prowadzone postępowanie mające na celu ustalenie lub określenie wysokości jego zobowiązań podatkowych. Jeżeli takie postępowanie jest prowadzone i zgromadzony materiał dowodowy pozwala na jego zakończenie, powinna być niezwłocznie wydana decyzja ustalająca lub określająca wysokość zobowiązań podatkowych, w celu wykazania ich w zaświadczeniu.
 
 3. Nie można odmówić wydania zaświadczenia, jeżeli nie jest możliwe doręczenie decyzji kończącej postępowanie podatkowe, o którym mowa w 2, przed upływem terminu określonego w art. 306a 5. Wydając zaświadczenie, organ podaje informację o prowadzonym postępowaniu lub jego zakończeniu.
 
@@ -6439,17 +6646,15 @@ Art. 307–323. (pominięte)
 
 2. W zaświadczeniu, o którym mowa w 1, organ podatkowy określa wysokość zaległości podatkowych zbywającego na dzień wydania zaświadczenia.
 
-3. Przepisy 1–2 stosuje się odpowiednio do należności wymienionych w art. 107 2 pkt 2–4, objętych zakresem odpowiedzialności nabywcy.
-
-**Art. 306h.**
-
-1. Organy podatkowe, za zgodą podatnika, wydają zaświadczenie o wysokości zaległości podatkowych podatnika na żądanie:
+3. Przepisy 1–2 stosuje się odpowiednio do należności wymienionych w art. 107 2 pkt 2–4, objętych zakresem odpowiedzialności nabywcy. podatnika na żądanie:
 
 - **1)** jednostek organizacyjnych, które na podstawie ustaw regulujących zasady ich funkcjonowania uprawnione są do udzielania kredytów (pożyczek);
 - **2)** kontrahentów podatników prowadzących działalność gospodarczą oraz dzierżawców i użytkowników nieruchomości w zakresie opodatkowania dzierżawionej lub użytkowanej nieruchomości;
 - **3)** małżonka podatnika, z zastrzeżeniem 2, a także rozwiedzionego małżonka w zakresie zaległości powstałych w czasie trwania wspólności majątkowej oraz innych osób wymienionych w art. 111;
 - **4)** wspólnika spółek wymienionych w art. 115 1;
-- **5)** podmiotu certyfikującego, o którym mowa w art. 14 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych (Dz. U. poz. 1235 oraz z 2026 r. poz. 421), w zakresie niezbędnym do udzielenia certyfikacji niepodlegania wykluczeniu z postępowania o udzielenie zamówienia, w tym w procedurze certyfikacji, w okresie prowadzenia stałego nadzoru nad aktualnością ważności udzielonej certyfikacji oraz na potrzeby przeprowadzenia aktualizacji jej ważności. niu z podatnikiem we wspólności majątkowej pod rygorem odpowiedzialności karnej za fałszywe zeznania.
+- **5)** podmiotu certyfikującego, o którym mowa w art. 14 ust. 1 ustawy z dnia 5 sierpnia 2025 r. o certyfikacji wykonawców zamówień publicznych (Dz. U. poz. 1235 oraz z 2026 r. poz. 421), w zakresie niezbędnym do udzielenia certyfikacji niepodlegania wykluczeniu z postępowania o udzielenie zamówienia, w tym w procedurze certyfikacji, w okresie prowadzenia stałego nadzoru nad aktualnością ważności udzielonej certyfikacji oraz na potrzeby przeprowadzenia aktualizacji jej ważności.
+
+2. Zgoda podatnika nie jest wymagana, jeżeli z żądaniem wydania zaświadczenia, o którym mowa w 1, występuje małżonek podatnika pozostający z nim we wspólności majątkowej. Małżonek podatnika składa oświadczenie o pozostawaniu z podatnikiem we wspólności majątkowej pod rygorem odpowiedzialności karnej za fałszywe zeznania.
 
 3. Organy podatkowe wydają zaświadczenie o wysokości zaległości podatkowych rozwiązanej spółki cywilnej na żądanie byłego wspólnika tej spółki.
 
@@ -6469,9 +6674,17 @@ Art. 307–323. (pominięte)
 
 **Art. 306j.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia:
 
+- **1)** tryb wydawania zaświadczeń, uwzględniając w szczególności odpowiednią organizację czynności związanych z wydawaniem zaświadczeń oraz możliwość doręczania zaświadczeń w postaci elektronicznej;
+- **2)** właściwość miejscową i rzeczową organów podatkowych do wydawania zaświadczeń, uwzględniając rodzaj zobowiązania podatkowego; świadczenia, datę złożenia wniosku lub wyrażenia zgody na wydanie zaświadczenia, sposób załatwienia wniosku, treść wydanego zaświadczenia oraz dane identyfikujące wnioskodawcę, biorąc pod uwagę uproszczenie i usprawnienie procesu wydawania zaświadczeń;
+- **4)** wzór ewidencji przekazanych lub otrzymanych informacji w sprawach zaświadczeń oraz szczegółowy sposób jej prowadzenia, uwzględniając w szczególności dane identyfikujące osobę, której dotyczy zaświadczenie, treść przekazanych lub otrzymanych informacji, dane identyfikujące osobę lub organ przekazujący informacje;
+- **5)** wzory zaświadczeń, uwzględniając w szczególności zakres danych wykazywanych w zaświadczeniu oraz dane identyfikujące wnioskodawcę i organ wydający zaświadczenie;
+- **6)** wzór oświadczenia, o którym mowa w art. 306h 2, uwzględniając dane identyfikujące małżonków.
+
 **Art. 306k.** W sprawach nieuregulowanych w art. 306a–306ia oraz art. 306l stosuje się odpowiednio przepisy rozdziałów 1–6, 8 i 9, z wyłączeniem art. 171a, rozdziałów 10–12, 14, 16 oraz 23 działu IV. Art. 306ka. W przypadku gdy zaświadczenia są generowane automatycznie w e-Urzędzie Skarbowym, przepisy niniejszego działu stosuje się odpowiednio.
 
 **Art. 306l.** Organ podatkowy na wniosek podatnika wydaje zaświadczenie o jego miejscu zamieszkania lub siedzibie dla celów podatkowych na terytorium Rzeczypospolitej Polskiej (certyfikat rezydencji).
+
+**Art. 306m.** (uchylony)
 
 **Art. 306n.** Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, wzór zaświadczenia, o którym mowa w art. 306l, uwzględniając zakres danych wykazywanych w zaświadczeniu oraz dane identyfikujące wnioskodawcę i organ wydający zaświadczenie.
 
@@ -6503,7 +6716,8 @@ Art. 307–323. (pominięte)
 
 **Art. 328.** Wierzytelności wobec Skarbu Państwa lub państwowych jednostek budżetowych, które stały się wymagalne do dnia ogłoszenia niniejszej ustawy, mogą podlegać potrąceniu na zasadach przewidzianych w ustawie o zobowiązaniach podatkowych, jeżeli wniosek o dokonanie potrącenia zostanie złożony przed dniem wejścia w życie niniejszej ustawy.
 
-**Art. 329.** Terminy przewidziane w:
+- **1)** art. 69 2 stosuje się również do zdarzeń, które nastąpiły przed dniem wejścia w życie niniejszej ustawy;
+- **2)** art. 80 1 pkt 1 stosuje się również, jeżeli płatnik, w ciągu miesiąca poprzedzającego dzień wejścia w życie niniejszej ustawy, pobrał podatek nienależnie lub w wysokości większej od należnej.
 
 **Art. 330.** Zwrot nadpłat powstałych przed dniem wejścia w życie niniejszej ustawy dokonywany jest na podstawie przepisów ustawy o zobowiązaniach podatkowych.
 
@@ -6515,7 +6729,15 @@ Art. 307–323. (pominięte)
 
 **Art. 332.** Do odpowiedzialności osób trzecich, o których mowa w ustawie o zobowiązaniach podatkowych, z tytułu zaległości podatkowych powstałych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy ustawy o zobowiązaniach podatkowych.
 
-**Art. 333.** Osoby prawne, o których mowa w art. 117, ponoszą również odpowiedzialność za zaległości podatkowe powstałe przed dniem wejścia w życie niniejszej ustawy. wania przez podatkową komisję odwoławczą pozostają w mocy. 2. Wnioski w sprawie wznowienia postępowania zakończonego decyzją ostateczną wydaną przez podatkową komisję odwoławczą, a także wnioski w sprawie uchylenia, zmiany lub stwierdzenia nieważności takiej decyzji rozpatrywane są przez izbę skarbową, przy której działała ta komisja. 3. Wnioski w sprawach, o których mowa w 2, złożone przed dniem 1 stycznia 1998 r., rozpatrywane są na podstawie dotychczasowych przepisów Kodeksu postępowania administracyjnego.
+**Art. 333.** Osoby prawne, o których mowa w art. 117, ponoszą również odpowiedzialność za zaległości podatkowe powstałe przed dniem wejścia w życie niniejszej ustawy.
+
+**Art. 334.**
+
+1. Odwołania od decyzji urzędu skarbowego, wniesione do podatkowej komisji odwoławczej przed dniem 1 stycznia 1998 r., przekazuje się do dalszego prowadzenia właściwym izbom skarbowym. Czynności podjęte w toku postępowania przez podatkową komisję odwoławczą pozostają w mocy.
+
+2. Wnioski w sprawie wznowienia postępowania zakończonego decyzją ostateczną wydaną przez podatkową komisję odwoławczą, a także wnioski w sprawie uchylenia, zmiany lub stwierdzenia nieważności takiej decyzji rozpatrywane są przez izbę skarbową, przy której działała ta komisja.
+
+3. Wnioski w sprawach, o których mowa w 2, złożone przed dniem 1 stycznia 1998 r., rozpatrywane są na podstawie dotychczasowych przepisów Kodeksu postępowania administracyjnego.
 
 **Art. 335.** Odwołania od decyzji wydanych na podstawie przepisów ustawy o zobowiązaniach podatkowych, wniesione przed dniem 1 stycznia 1998 r., podlegają rozpatrzeniu na podstawie przepisów tej ustawy oraz dotychczasowych przepisów Kodeksu postępowania administracyjnego.
 
@@ -6541,9 +6763,7 @@ Art. 307–323. (pominięte)
 
 2. Wniosek, o którym mowa w 1, składany jest w terminie 14 dni od dnia otrzymania żądania i wymaga uzasadnienia.
 
-3. Urząd skarbowy w terminie 30 dni od dnia otrzymania wniosku postanawia ostatecznie o zakresie żądanych informacji i terminie ich przekazania.
-
-#### Rozdział 3 Przepisy końcowe
+3. Urząd skarbowy w terminie 30 dni od dnia otrzymania wniosku postanawia ostatecznie o zakresie żądanych informacji i terminie ich przekazania. Przepisy końcowe
 
 **Art. 343.**
 

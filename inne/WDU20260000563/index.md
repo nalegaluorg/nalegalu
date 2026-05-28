@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# 1. Na podstawie 16 ust. 1 ustawy z dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. z 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 lipca 1999 szczególnych zasadach, warunkach trybie mianowania wyższe stopnie wojskowe żołnierzy podczas okresie (Dz. U.
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 22 kwietnia 2026 sprawie ogłoszenia jednolitego tekstu ustawy szczególnych zasadach, warunkach trybie mianowania wyższe stopnie wojskowe żołnierzy podczas okresie*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 27 kwietnia 2026 OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ 22 kwietnia 2026 sprawie ogłoszenia jednolitego tekstu szczególnych zasadach, warunkach trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących walkach wolność niepodległość Polski podczas II wojny światowej
 
 | Pole | Wartość |
 |---|---|
@@ -27,55 +25,64 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-28 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000563) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/563/text.pdf) |
 
-poz. 804), z uwzględnieniem stanu prawnego dzień 21 kwietnia 2026 oraz zmian wprowadzonych:
-1) ustawą z dnia 14 marca 2014 zmianie ustawy kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496);
-2) ustawą z dnia 11 marca 2022 obronie Ojczyzny (Dz. U. poz. 655).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
-1) 14 ustawy z dnia 14 marca 2014 zmianie ustawy kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496), który stanowi: „Art. 14. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem 1 21 zakresie dotyczącym:
-1) 24a ust. 1 1, który wchodzi życie po upływie 6 miesięcy od dnia ogłoszenia;
-2) 24a ust. 3 1, który wchodzi życie po upływie 12 miesięcy od dnia ogłoszenia.”;
-2) 824 ustawy z dnia 11 marca 2022 obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „Art. 824. Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia, z wyjątkiem:
-1) 288 ust. 777 ust. 4, które wchodzą życie z dniem następującym po dniu ogłoszenia;
-2) 439 ust. 1 4, który wchodzi życie z dniem 1 stycznia 2023 r.”.
+1. Na podstawie 16 ust. 1 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst 24 lipca 1999 szczególnych zasadach, warunkach trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących walkach wolność niepodległość Polski podczas II wojny światowej (Dz. U.
+poz. 804), uwzględnieniem stanu prawnego na dzień 21 kwietnia 2026 oraz zmian wprowadzonych:
+1) ustawą 14 marca 2014 zmianie kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496);
+2) ustawą 11 marca 2022 obronie Ojczyzny (Dz. U. poz. 655).
+2. Podany załączniku do niniejszego obwieszczenia tekst jednolity nie obejmuje:
+1) 14 14 marca 2014 zmianie kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego oraz niektórych innych ustaw (Dz. U. poz. 496), który stanowi: „Art. 14. Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, wyjątkiem 1 21 zakresie dotyczącym:
+1) 24a ust. 1 1, który wchodzi życie po upływie 6 miesięcy od ogłoszenia;
+2) 24a ust. 3 1, który wchodzi życie po upływie 12 miesięcy od ogłoszenia.”;
+2) 824 11 marca 2022 obronie Ojczyzny (Dz. U. poz. 655), który stanowi: „Art. 824. Ustawa wchodzi życie po upływie 30 dni od ogłoszenia, wyjątkiem:
+1) 288 ust. 777 ust. 4, które wchodzą życie dniem następującym po dniu ogłoszenia;
+2) 439 ust. 1 4, który wchodzi życie dniem 1 stycznia 2023 r.”.
 Marszałek Sejmu: W. Czarzasty
-USTAWA z dnia 24 lipca 1999 szczególnych zasadach, warunkach trybie mianowania wyższe stopnie wojskowe żołnierzy podczas okresie W celu szczególnego wyróżnienia obrońców Ojczyzny zadośćuczynienia za wieloletnie przemilczanie ich zasług, za doznane okresie represje prześladowania oraz za cierpienia związane z przymusowym oddaleniem od Ojczyzny Sejm Rzeczypospolitej Polskiej uchwala, co następuje:
+USTAWA 24 lipca 1999 szczególnych zasadach, warunkach trybie mianowania na wyższe stopnie wojskowe żołnierzy uczestniczących walkach wolność niepodległość Polski podczas II wojny światowej W celu szczególnego wyróżnienia obrońców Ojczyzny zadośćuczynienia za wieloletnie przemilczanie ich zasług, za doznane represje prześladowania oraz za cierpienia związane przymusowym oddaleniem od Ojczyzny Sejm Rzeczypospolitej Polskiej uchwala, co następuje:
 
 **Art. 1.**
 
-1. Żołnierzy podczas okresie mianuje się z okazji 60 rocznicy wybuchu wyższe stopnie wojskowe.
+1. Żołnierzy uczestniczących walkach wolność niepodległość Polski podczas II wojny światowej okresie mianuje się okazji 60 rocznicy wybuchu II wojny światowej na wyższe stopnie wojskowe.
 
-2. Żołnierzem rozumieniu ustawy jest osoba wchodząca skład:
+2. Żołnierzem rozumieniu jest osoba wchodząca skład:
 
-- **1)** Sił Zbrojnych Rzeczypospolitej Polskiej działających kraju za granicą, podległych Rządowi Rzeczypospolitej Polskiej Kraju Uchodźstwie;
+- **1)** Sił Zbrojnych Rzeczypospolitej Polskiej działających kraju za granicą, podległych Rządowi Rzeczypospolitej Polskiej Kraju na Uchodźstwie;
 - **2)** 1 Armii Wojska Polskiego oraz innych polskich formacji wojskowych przy armiach sojuszniczych.
 
 **Art. 2.**
 
-1. Żołnierzy, których 1, mianuje się pierwszy stopień oficerski podporucznika lub kolejne stopnie oficerskie do stopnia pułkownika włącznie, z tym że:
+1. Żołnierzy, których 1, mianuje się na pierwszy stopień oficerski podporucznika lub kolejne stopnie oficerskie do stopnia pułkownika włącznie, tym że:
 
-- **1)** chorążych, podoficerów szeregowych mianuje się pierwszy stopień oficerski podporucznika;
+- **1)** chorążych, podoficerów szeregowych mianuje się na pierwszy stopień oficerski podporucznika;
 - **2)** oficerów mianuje się jeden stopień;
-- **3)** oficerów, którzy okresie nie byli mianowani wyższe stopnie wojskowe mianuje się dwa stopnie.
+- **3)** oficerów, którzy nie byli mianowani na wyższe stopnie wojskowe mianuje się dwa stopnie.
 
 2. Mianowaniu nie podlegają:
 
-- **1)** żołnierze, którzy okresie byli już co najmniej dwukrotnie mianowani stopnie oficerskie za dokonane czyny świadczące szczególnym męstwie lub za wyjątkowe zasługi;
-- **2)** osoby wymienione 21 ust. ustawy z dnia 24 stycznia 1991 kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego (Dz. U. z 2022 poz. 2039 oraz z 2026 poz. 26).
+- **1)** żołnierze, którzy byli już co najmniej dwukrotnie mianowani na stopnie oficerskie za dokonane czyny świadczące szczególnym męstwie lub za wyjątkowe zasługi;
+- **2)** osoby wymienione 21 ust. 24 stycznia 1991 kombatantach oraz niektórych osobach będących ofiarami represji wojennych okresu powojennego (Dz. U. 2022 poz. 2039 oraz 2026 poz. 26).
 
 **Art. 3.**
 
-1. Mianowanie żołnierza następuje wniosek:
+1. Mianowanie żołnierza następuje na wniosek:
 
 - **1)** władz naczelnych związków stowarzyszeń kombatanckich odniesieniu do własnych członków;
-- **2)** szefów wojskowych centrów rekrutacji właściwych ze względu miejsce stałego pobytu żołnierza lub jego czasowego pobytu trwającego ponad trzy miesiące odniesieniu do żołnierzy nienależących do żadnej organizacji kombatanckiej;
+- **2)** szefów wojskowych centrów rekrutacji właściwych ze względu na miejsce stałego pobytu żołnierza lub jego czasowego pobytu trwającego ponad trzy miesiące odniesieniu do żołnierzy nienależących do żadnej organizacji kombatanckiej;
 - **3)** attachés wojskowych polskich przedstawicielstw dyplomatycznych odniesieniu do osób mających obywatelstwo polskie zamieszkujących za granicą;
-- **4)** zainteresowanego przypadku gdy podmioty wymienione 1–3 nie wystąpiły z takim wnioskiem; tym przypadku wnioski składa się za ich pośrednictwem.
+- **4)** zainteresowanego przypadku gdy podmioty wymienione 1–3 nie wystąpiły takim wnioskiem; tym przypadku wnioski składa się za ich pośrednictwem.
 
 2. Wnioski mianowanie żołnierza składa się do do Spraw Kombatantów Osób Represjonowanych, który po sprawdzeniu, czy odpowiadają one warunkom określonym ustawie, przedstawia je Ministrowi Obrony Narodowej.
 
-3. Jeżeli wniosek nie zawiera niezbędnych danych, które mogą mieć wpływ mianowanie odpowiedni stopień wojskowy, wzywa się wnioskodawcę do uzupełnienia wniosku terminie 3 miesięcy pod rygorem zwrotu wniosku lub rozpatrzenia go z uwzględnieniem wyłącznie danych nim zawartych.
+3. Jeżeli wniosek nie zawiera niezbędnych danych, które mogą mieć wpływ na mianowanie na odpowiedni stopień wojskowy, wzywa się wnioskodawcę do uzupełnienia wniosku terminie 3 miesięcy pod rygorem zwrotu wniosku lub rozpatrzenia go uwzględnieniem wyłącznie danych nim zawartych.
 
-4. Wzór wniosku mianowanie żołnierza stanowi załącznik do ustawy.
+4. Wzór wniosku mianowanie żołnierza stanowi załącznik do ustawy. (Dz. U. 2025 poz. 825, 1014 1080 oraz 2026 poz. 26 426).
 
-**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia . ..................................................................... (organ sporządzający wniosek) WNIOSEK O MIANOWANIE żołnierza stopień wojskowy ...................................................... 1. Imię nazwisko, imię ojca 2. PESEL 3. Data miejsce urodzenia 4. Adres zamieszkania WSzW WKU właściwe dla miejsca zamieszkania 5. Stopień wojskowy
+**Art. 5.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia . ..................................................................... (organ sporządzający wniosek) WNIOSEK O MIANOWANIE żołnierza na stopień wojskowy ...................................................... 1. Imię nazwisko, imię ojca 2. PESEL 3. Data miejsce urodzenia 4. Adres zamieszkania WSzW WKU właściwe dla miejsca zamieszkania 5. Stopień wojskowy
+
+- **a)** aktualny nr rozkazu data nadania kogo nadany jakiego tytułu nadany
+- **b)** poprzedni nr rozkazu data nadania kogo nadany jakiego tytułu nadany
+
+6. Okresy służby nazwa formacji zbrojnej Data ...............................
+
+7. Adnotacje do Spraw Kombatantów Osób Represjonowanych Data ............................... Wypełnia się wyłącznie przypadku wniosku mianowanie na kolejny stopień oficerski.
+
 

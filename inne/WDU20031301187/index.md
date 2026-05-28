@@ -8,12 +8,10 @@ pos: 1187
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zmianie ustawy o organizmach genetycznie zmodyfikowanych oraz ustawy o warunkach zdrowotnych żywności i żywienia
-
-*USTAWA z dnia 21 maja 2003 r.*
+# Ustawa z dnia 21 maja 2003 r. o zmianie ustawy o organizmach genetycznie zmodyfikowanych oraz ustawy o warunkach zdrowotnych żywności i żywienia
 
 | Pole | Wartość |
 |---|---|
@@ -24,22 +22,254 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2003-05-21 |
 | Data wydania | 2003-07-24 |
+| Wejście w życie | 2003-08-08 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20031301187) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2003/1187/text.pdf) |
 
 **Art. 1.** W ustawie z dnia 22 czerwca 2001 r. o organizmach genetycznie zmodyfikowanych (Dz. U. Nr 76, poz. 811 oraz z 2002 r. Nr 25, poz. 253 i Nr 41, poz. 365) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz.U. Nr 63, poz. 634, Nr 128, poz. 1408, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1362 oraz z 2003 r. 52, poz. 450 i Nr 122, poz. 1144) art. 3 ust. 1 uchyla się pkt 27.
+- **1)** w art. 3: pkt 1 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 3.** Organizmy genetycznie zmodyfikowane (GMO), o których mowa art. 6 ust. 2 ustawy wymienionej art. 1, mogą być dopuszczone do obrotu nie dłużej niż do dnia 31 grudnia 2004 r., a przypadku zezwolenia na zamierzone uwolnienie GMO do środowiska celach innych niż wprowadzenie do obrotu - nie dłużej niż do dnia 31 grudnia 2008 r.
+- **1)** organizmie – rozumie się przez to każdą jednostkę biologiczną, komórkową lub niekomórkową, zdolną do replikacji i przenoszenia materiału genetycznego, łącznie z wirusami i wiroidami, ” , pkt 3–6 otrzymują brzmienie: „
+    - **b)**
+
+- **3)** zamkniętym użyciu GMO – rozumie się przez to każde działanie polegające na modyfikacji genetycznej organizmów lub hodowaniu, przechowywaniu, transportowaniu, niszczeniu, usuwaniu lub wykorzystywaniu GMO w jakikolwiek inny sposób, podczas którego są stosowane zabezpieczenia, w szczególności w postaci zamkniętej instalacji, pomieszczenia lub innej fizycznej bariery, w celu efektywnego ograniczenia kontaktu GMO z ludźmi i środowiskiem,
+- **4)** zamierzonym uwolnieniu GMO do środowiska – rozumie się przez to każde działanie polegające na zamierzonym wprowadzeniu do środowiska GMO albo ich kombinacji, bez zabezpieczeń mających na celu ograniczenie kontaktu GMO z ludźmi i środowiskiem,
+- **5)** wprowadzeniu do obrotu – rozumie się przez to zamierzone uwolnienie do środowiska polegające na dostarczeniu lub udostępnieniu osobom trzecim, odpłatnie lub nieodpłatnie, produktu GMO, w tym wprowadzenie na rynek w wyniku produkcji lub dopuszczenie do obrotu na polskim obszarze celnym w ramach obrotu handlowego; wprowadzenie do obrotu nie dotyczy udostępnienia osobom trzecim produktu GMO, który ma być wykorzystany w działaniach zamkniętego użycia,
+- **6)** produkcie GMO – rozumie się przez to GMO lub każdy wyrób składający się z GMO lub zawierający GMO lub kombinację GMO, który jest wprowadzany do obrotu lub wywożony za granicę bądź przewożony tranzytem przez terytorium Rzeczypospolitej Polskiej, ” , uchyla się pkt 18, w pkt 19 kropkę zastępuje się przecinkiem i dodaje pkt 20 w brzmieniu: „
+    - **c)**
+    - **d)**
+
+- **20)** laboratorium referencyjnym – rozumie się przez to laboratorium odwoławcze, uprawnione przez ministra właściwego do spraw środowiska do wydawania opinii w sprawach GMO i stosujące w zakresie oznaczeń wiarygodne metody badań potwierdzone w systemie badań międzylaboratoryjnych. ” ;
+- **2)** w art. 5: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Za wydanie zgód i zezwoleń, o których mowa w rozdziałach 3–6, pobiera się opłatę skarbową, z zastrzeżeniem ust. 3. ” , dodaje się ust. 3 w brzmieniu: „
+
+- **b)**
+
+3. Z opłaty skarbowej zwalniane jest wydanie zgód, o których mowa w rozdziałach 3 i 4, dla jednostek naukowych, o których mowa w art. 3 pkt 4 ustawy z dnia 12 stycznia 1991 r. o Komitecie Badań Naukowych (Dz. U. z 2001 r. Nr 33, poz. 389 oraz z 2003 r. Nr 39, poz. 335). ” ;
+
+- **3)** po art. 10 dodaje się art. 10a w brzmieniu: „
+
+**Art. 10a.**
+
+1. Minister sporządza projekt Krajowej strategii bezpieczeństwa biologicznego oraz wynikającego z niej programu działań.
+
+2. Krajową strategię bezpieczeństwa biologicznego wraz z programem działań zatwierdza Rada Ministrów, w drodze uchwały.
+
+3. Właściwi ministrowie w zakresie określonym strategią, o której mowa w ust. 1, wdrażają zasady bezpieczeństwa biologicznego wraz z wynikającym z niej programem działań w stosunku do działów gospodarki będących w zakresie działania tych ministrów. ” ;
+
+- **4)** w art. 11: w ust. 4: – pkt 1 otrzymuje brzmienie: „ 1) Państwowa Inspekcja Sanitarna, ” , – pkt 9 otrzymuje brzmienie: „ 9) Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych. ” , ust. 5 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+5. Organy, o których mowa w ust. 4, przeprowadzają kontrolę z urzędu lub na wniosek ministra. ” ;
+
+- **5)** w art. 12 po ust. 5 dodaje się ust. 5a-5f w brzmieniu: „
+
+5a. Członkom Komisji, o których mowa w ust. 2, przysługuje wynagrodzenie za udział w posiedzeniu w wysokości:
+
+- **1)** przewodniczącemu Komisji – 35%,
+- **2)** zastępcom przewodniczącego i sekretarzowi Komisji – 32%,
+- **3)** pozostałym członkom Komisji – 22% kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
+
+5b. Wynagrodzenie, o którym mowa w ust. 5a, nie przysługuje członkom Komisji będącym pracownikami administracji rządowej, jeżeli uczestniczą w posiedzeniach, które odbywają się w godzinach pracy.
+
+5c. Łączna wysokość wydatków na wynagrodzenia członków Komisji w danym roku nie może przekroczyć 26-krotności kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
+
+5d. Komisja może spośród swoich członków wyznaczyć recenzenta lub zespół recenzentów w celu opracowania recenzji do wniosków o wydanie zgód i zezwoleń, o których mowa w art. 10 pkt 1 i 2, jeżeli zakres przedmiotowy wniosku jest różny od zakresu przedmiotowego wniosków wcześniej rozpatrzonych przez Komisję.
+
+5e. Każdemu z recenzentów, o których mowa w ust. 5d, wykonującemu prace indywidualnie lub w zespole, przysługuje wynagrodzenie w wysokości 40% kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej.
+
+5f. Łączna roczna wysokość wydatków na recenzje, o których mowa w ust. 5d, nie może przekroczyć 130-krotności kwoty 800 zł waloryzowanej corocznie o prognozowany średnioroczny wskaźnik cen towarów i usług konsumpcyjnych ogółem określony w ustawie budżetowej. ” ;
+
+- **6)** w art. 14 ust. 2 otrzymuje brzmienie: „
+
+2. W sprawach dostępu do informacji w zakresie GMO stosuje się odpowiednio przepisy o dostępie do informacji o środowisku. ” ;
+
+- **7)** po art. 14 dodaje się art. 14a w brzmieniu: „
+
+**Art. 14a.** Udostępnieniu podlegają informacje:
+
+- **1)** dotyczące ogólnej charakterystyki GMO,
+- **2)** dotyczące nazwiska i adresu lub nazwy i siedziby użytkownika GMO,
+- **3)** dotyczące miejsca zamkniętego użycia GMO lub zamierzonego uwolnienia GMO do środowiska,
+- **4)** dotyczące miejsca, zakresu i charakteru wprowadzenia produktu GMO do obrotu,
+- **5)** inne niż wymienione w pkt 1–4 mające znaczenie dla zapewnienia bezpieczeństwa oraz ochrony zdrowia ludzi i środowiska. ” ;
+- **8)** art. 15 otrzymuje brzmienie: „
+
+**Art. 15.**
+
+1. W celu przeprowadzania badań produktów GMO i wydawania opinii w odniesieniu do GMO mogą być utworzone laboratoria referencyjne.
+
+2. Zezwolenie na prowadzenie laboratorium referencyjnego wydaje minister na wniosek zainteresowanego podmiotu.
+
+3. Wniosek, o którym mowa w ust. 2, zawiera:
+
+- **1)** oznaczenie podmiotu ubiegającego się o zezwolenie, w tym jego siedzibę i adres,
+- **2)** numer w rejestrze właściwym dla wnioskującego podmiotu,
+- **3)** określenie wnioskowanego zakresu zezwolenia,
+- **4)** informacje o pracownikach zatrudnionych w podmiocie, ze szczególnym uwzględnieniem ich kwalifikacji,
+- **5)** informacje o doświadczeniu w zakresie przeprowadzania badań GMO,
+- **6)** informacje dotyczące procedur reklamacyjnych oraz odwoławczych w zakresie prowadzonej działalności,
+- **7)** informacje o gotowości rozpoczęcia przeprowadzania badań i wydawania opinii,
+- **8)** specyfikacje świadczonych usług.
+
+4. Do wniosku, o którym mowa w ust. 2, dołącza się certyfikat akredytacji udzielony na podstawie przepisów ustawy z dnia 30 sierpnia 2002 r. o systemie oceny zgodności (Dz. U. Nr 166, poz. 1360 oraz z 2003 r. Nr 80, poz. 718).
+
+5. Termin wydania opinii dla produktów GMO o krótkim terminie przydatności do spożycia wynosi 3 dni od dnia dostarczenia materiału do badań, natomiast dla pozostałych produktów termin ten nie może przekroczyć 7 dni od dnia dostarczenia materiału do badań.
+
+6. Do zadań laboratoriów referencyjnych, o których mowa w ust. 1, należy:
+
+- **1)** wykonywanie analiz i badań oraz wydawanie opinii w zakresie GMO,
+- **2)** wykonywanie analiz i badań oraz wydawanie opinii w zakresie GMO w przypadku zaistnienia rozbieżności, kwestionowania lub potrzeby potwierdzenia wyników uzyskanych na podstawie analiz i badań wykonanych przez inne laboratoria, w tym przez laboratoria należące do organów, o których mowa w art. 11 ust. 4 pkt 1, 2, 4–6, 8 i 9,
+- **3)** przygotowywanie metodyk służących wykrywaniu GMO, ze szczególnym uwzględnieniem: opracowania listy fragmentów DNA najczęściej wykorzystywanych do genetycznych modyfikacji roślin, zwierząt i mikroorganizmów, opracowania starterów (primerów) do reakcji łańcuchowej polimerazy (PCR) specyficznie rozpoznających sekwencje DNA najczęściej wykorzystywane do genetycznych modyfikacji roślin, zwierząt oraz mikroorganizmów, opracowania warunków reakcji łańcuchowej polimerazy (PCR), pozwalającej na specyficzne i niezawodne powielanie fragmentów DNA pochodzących z transgenów, opracowania niestandardowych metod wykrywania transgenów w produktach GMO, przeprowadzania analiz potwierdzających obecność elementów materiału genetycznego w środowisku, z zastosowaniem technik sprzężonych LMCS-spektrometrii masowej i chromatografii cieczowej oraz ELISA, opracowania szczegółowej instrukcji w celu przeprowadzenia analiz wymienionych w lit. a)-e), standaryzacji warunków przeprowadzania analiz, o których mowa w lit. a)-e),
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+
+- **4)** posiadanie wzorców fragmentów DNA dla techniki PCR, które pozwolą na identyfikację rodzajów wprowadzonej modyfikacji genetycznej,
+- **5)** organizowanie badań porównawczych w odniesieniu do poszczególnych metod analiz,
+- **6)** ujednolicanie poszczególnych metod analiz,
+- **7)** ujednolicanie metod i procedur badawczych,
+- **8)** wdrażanie nowych metod badań,
+- **9)** przekazywanie ministrowi informacji dotyczących metod analiz i badań porównawczych stosowanych przez laboratoria referencyjne państw członkowskich Unii Europejskiej,
+- **10)** szkolenie pracowników laboratoriów organów, o których mowa w pkt 2, w zakresie nowych metod analiz i badań,
+- **11)** współpraca z laboratoriami referencyjnymi innych państw.
+
+7. W przypadku:
+
+- **1)** nieprzestrzegania terminu wydawania opinii,
+- **2)** niewykonywania zadań określonych w ust. 6 pkt 1–8,
+- **3)** stwierdzenia naruszenia wymagań lub zakresu akredytacji, o których mowa w ustawie z dnia 30 sierpnia 2002 r. o systemie oceny zgodności minister cofa zezwolenie, o którym mowa w ust. 2.
+
+8. Minister ogłasza, w drodze obwieszczenia w Dzienniku Urzędowym, wykaz laboratoriów referencyjnych, a także innych laboratoriów wykonujących zadania z zakresu kontroli GMO, z wyszczególnieniem zakresu badań wykonywanych przez te laboratoria. ” ;
+
+- **9)** po art. 21 dodaje się art. 21a w brzmieniu: „
+
+**Art. 21a.**
+
+1. W przypadku działań zamkniętego użycia GMO zaliczonych do I i II kategorii, zgodę można wydać na wniosek złożony przez użytkownika GMO reprezentującego kilka jednostek funkcjonujących w ramach jego struktur, prowadzących ten sam typ badań i rodzaj działalności w zakresie GMO.
+
+2. Wniosek, o którym mowa w ust. 1, musi spełniać wymagania określone w art. 21, a informacje w nim przedstawione muszą zawierać opis typu badań i rodzaju działalności w zakresie GMO, dokonywanych przez użytkownika GMO. ” ;
+
+- **10)** w art. 24 po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. W przypadku, o którym mowa w art. 29, termin wydania zgody na zamknięte użycie GMO, o którym mowa w ust. 1, przedłuża się o okres konsultacji, nie więcej jednak niż o 30 dni. ” ;
+
+- **11)** w art. 25 ust. 1 otrzymuje brzmienie: „
+
+1. Jeżeli przemawia za tym szczególnie ważny interes społeczny związany z potrzebą ochrony zdrowia ludzi i środowiska, a w szczególności z zagrożeniem pogorszenia stanu środowiska, w zgodzie na zamknięte użycie GMO, zaliczane do III i IV kategorii, ustanawiane jest zabezpieczenie roszczeń z tytułu możliwości wyrządzenia szkody. ” ;
+
+- **12)** w art. 34 ust. 3 otrzymuje brzmienie: „
+
+3. Rejestr jest jawny; przepisy art. 14 ust. 2 i art. 14a stosuje się odpowiednio. ” ;
+
+- **13)** w art. 36: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Zamierzone uwolnienie GMO do środowiska w celach innych niż wprowadzenie do obrotu wymaga zgody ministra, wydawanej na wniosek zainteresowanego. Przepisy art. 23, art. 24 ust. 1 i 1a oraz art. 25–30 stosuje się odpowiednio, chyba że przepisy niniejszego rozdziału stanowią inaczej. ” , dodaje się ust. 4 w brzmieniu: „
+
+- **b)**
+
+4. Do wniosku dołącza się streszczenie dokumentów, o których mowa w ust. 2 i 3. ” ;
+
+- **14)** po art. 36 dodaje się art. 36a w brzmieniu: „
+
+**Art. 36a.** Minister przesyła do Komisji Europejskiej streszczenie, o którym mowa w art. 36 ust. 4, w terminie 30 dni od dnia jego otrzymania. ” ;
+
+- **15)** po art. 39 dodaje się art. 39a w brzmieniu: „
+
+**Art. 39a.**
+
+1. Minister powiadamia Komisję Europejską o wydanych zgodach na zamierzone uwolnienie GMO do środowiska.
+
+2. Przepis ust. 1 stosuje się odpowiednio w przypadku odmowy udzielenia zgody na zamierzone uwolnienie GMO do środowiska.
+
+3. Minister przekazuje Komisji Europejskiej wyniki zamierzonych uwolnień GMO do środowiska, o których mowa w art. 38 ust. 2. ” ;
+
+- **16)** w art. 40 ust. 3 otrzymuje brzmienie: „
+
+3. Rejestr jest jawny; przepisy art. 14 ust. 2 i art. 14a stosuje się odpowiednio. ” ;
+
+- **17)** w art. 41 w ust. 1 zdanie pierwsze otrzymuje brzmienie: „ Wprowadzenie do obrotu na terytorium Rzeczypospolitej Polskiej produktów GMO wymaga zezwolenia ministra, wydawanego na wniosek zainteresowanego użytkownika GMO, z zastrzeżeniem art. 42 ust. 2 i 3. ” ;
+- **18)** w art. 42 ust. 2 otrzymuje brzmienie: „
+
+2. Wprowadzenie do obrotu produktu GMO, produktu zawierającego GMO lub wyprodukowanego przy użyciu produktu lub produktów GMO, określonych w rejestrze produktów GMO jako dopuszczone do obrotu, nie wymaga odrębnego zezwolenia. W przypadku wprowadzenia takich produktów na polski obszar celny, do zgłoszenia celnego należy dołączyć odpowiedni wypis z Rejestru Produktów GMO. ” ;
+
+- **19)** po art. 44 dodaje się art. 44a w brzmieniu: „
+
+**Art. 44a.**
+
+1. Ponowienie przez tego samego użytkownika wprowadzenia do obrotu produktu GMO wymaga ponownego zezwolenia na jego wprowadzenie.
+
+2. O planowanym ponowieniu wprowadzenia do obrotu produktu GMO, o którym mowa w ust. 1, użytkownik GMO powiadamia ministra w terminie 9 miesięcy przed wygaśnięciem pierwotnego zezwolenia, udzielonego na podstawie art. 41 ust. 1.
+
+3. Powiadomienie, o którym mowa w ust. 2, powinno zawierać:
+
+- **1)** kopię pierwotnego zezwolenia na wprowadzenie do obrotu produktu GMO,
+- **2)** raport o wynikach monitorowania, o którym mowa w art. 45,
+- **3)** nowe informacje dotyczące zagrożenia dla zdrowia ludzi lub środowiska, związane z wprowadzeniem produktu GMO do obrotu, które stały się dostępne użytkownikowi,
+- **4)** tam, gdzie to właściwe, propozycję zmiany lub uzupełnienie warunków zawartych w zezwoleniu pierwotnym, a w szczególności warunków dotyczących monitorowania i czasowego ograniczenia zezwolenia.
+
+4. Po otrzymaniu powiadomienia minister potwierdza datę otrzymania powiadomienia oraz przekazuje egzemplarz powiadomienia do Komisji Europejskiej wraz z raportem oceniającym.
+
+5. Raport oceniający, o którym mowa w ust. 4, zawiera uzasadnienie pozostawania w obrocie produktu GMO oraz warunki, na jakich ma odbywać się obrót tym produktem, lub w przypadku wycofania produktu GMO z obrotu – uzasadnienie tej decyzji.
+
+6. Do czasu uzyskania ponownego zezwolenia na wprowadzenie produktu GMO do obrotu użytkownik GMO może kontynuować jego wprowadzanie na warunkach określonych w pierwotnym zezwoleniu. ” ;
+
+- **20)** w art. 45: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Użytkownik GMO ma obowiązek monitorowania:
+
+- **1)** obrotu produktami GMO, na których wprowadzenie do obrotu uzyskał zezwolenie,
+- **2)** zagrożeń wynikających z obrotu, o którym mowa w pkt 1. ” , dodaje się ust. 5 w brzmieniu: „
+    - **b)**
+
+5. Minister określi, w drodze rozporządzenia, wytyczne dotyczące monitorowania, o którym mowa w ust. 1, mając na względzie zapewnienie bezpiecznego obrotu produktem GMO oraz wymagania obowiązujące w Unii Europejskiej. ” ;
+
+- **21)** po art. 47 dodaje się art. 47a w brzmieniu: „
+
+**Art. 47a.**
+
+1. Użytkownik GMO, który uzyskał zezwolenie na wprowadzenie do obrotu produktu GMO, jest obowiązany do pobierania i przechowywania próbek kontrolnych i udostępniania ich na każde żądanie ministra lub organów kontrolnych.
+
+2. Minister określi, w drodze rozporządzenia, wielkość próbek, o których mowa w ust. 1, a także sposób ich pobierania oraz przechowywania, mając na względzie zapewnienie bezpiecznego obrotu produktami GMO. ” ;
+
+- **22)** w art. 50 ust. 3 otrzymuje brzmienie: „
+
+3. Rejestr jest jawny; przepisy art. 14 ust. 2 i art. 14a stosuje się odpowiednio. ” ;
+
+- **23)** w art. 56 ust. 3 otrzymuje brzmienie: „
+
+3. Rejestr jest jawny; przepisy art. 14 ust. 2 i art. 14a stosuje się odpowiednio. ” ;
+
+- **24)** użyte w ustawie w różnych przypadkach wyrazy „polski obszar celny” zastępuje się użytymi w odpowiednich przypadkach wyrazami „terytorium Rzeczypospolitej Polskiej”.
+
+**Art. 2.** W ustawie z dnia 11 maja 2001 r. o warunkach zdrowotnych żywności i żywienia (Dz. U. Nr 63, poz. 634 i Nr 128, poz. 1408, z 2002 r. Nr 135, poz. 1145 i Nr 166, poz. 1362 oraz z 2003 r. Nr 52, poz. 450 i Nr 122, poz. 1144) w art. 3 w ust. 1 uchyla się pkt 27.
+
+**Art. 3.** Organizmy genetycznie zmodyfikowane (GMO), o których mowa w art. 6 ust. 2 ustawy wymienionej w art. 1, mogą być dopuszczone do obrotu nie dłużej niż do dnia 31 grudnia 2004 r., a w przypadku zezwolenia na zamierzone uwolnienie GMO do środowiska w celach innych niż wprowadzenie do obrotu – nie dłużej niż do dnia 31 grudnia 2008 r.
 
 **Art. 4.**
 
-1. Podmioty, które uzyskały zezwolenie na przeprowadzanie badań i wydawanie opinii zakresie GMO na podstawie dotychczasowych przepisów, prowadzą działalność dotychczasowym zakresie, na warunkach określonych ustawie wymienionej art. 1 brzmieniu nadanym niniejszą ustawą.
+1. Podmioty, które uzyskały zezwolenie na przeprowadzanie badań i wydawanie opinii w zakresie GMO na podstawie dotychczasowych przepisów, prowadzą działalność w dotychczasowym zakresie, na warunkach określonych w ustawie wymienionej w art. 1 w brzmieniu nadanym niniejszą ustawą.
 
-2. Podmioty, które uzyskały zezwolenie, o którym mowa ust. 1, są obowiązane, okresie dwóch lat od dnia wejścia życie niniejszej ustawy, uzyskać zezwolenie na utworzenie laboratorium referencyjnego.
+2. Podmioty, które uzyskały zezwolenie, o którym mowa w ust. 1, są obowiązane, w okresie dwóch lat od dnia wejścia w życie niniejszej ustawy, uzyskać zezwolenie na utworzenie laboratorium referencyjnego.
 
-3. W przypadku nieuzyskania zezwolenia na utworzenie laboratorium referencyjnego, terminie określonym ust. 2, zezwolenie na prowadzenie badań i wyArt. 5. Przepisy art. 42 ust. 2 ustawy, o której mowa art. 1, stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa Unii Europejskiej.
+3. W przypadku nieuzyskania zezwolenia na utworzenie laboratorium referencyjnego, w terminie określonym w ust. 2, zezwolenie na prowadzenie badań i wydawanie opinii w zakresie GMO, wydane na podstawie dotychczasowych przepisów, wygasa.
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+**Art. 5.** Przepisy art. 42 ust. 2 ustawy, o której mowa w art. 1, stosuje się do dnia uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 1 pkt 8 w zakresie dotyczącym art. 15 ust. 4, który wchodzi w życie po upływie 2 lat od dnia ogłoszenia;
+- **2)** art. 1 pkt 14, 15, 24 oraz pkt 19 w zakresie art. 44a ust. 4 i 5, które wchodzą w życie z dniem uzyskania przez Rzeczpospolitą Polską członkostwa w Unii Europejskiej.
+
 

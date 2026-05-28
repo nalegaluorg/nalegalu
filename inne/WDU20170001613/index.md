@@ -8,10 +8,10 @@ pos: 1613
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 29 sierpnia 2017 ROZPORZĄDZENIE MINISTRA EDUKACJI NARODOWEJ dnia 11 sierpnia 2017 zmieniające rozporządzenie sprawie szczegółowego zakresu danych gromadzonych bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych Na podstawie art. 115 1 dnia 15 kwietnia 2011 systemie informacji oświatowej (Dz. U. 2016 poz. 1927 1984 oraz 2017 poz. 60, 777, 949 1428) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Edukacji Narodowej dnia 9 sierpnia 2012 sprawie szczegółowego zakresu danych gromadzonych bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych (Dz. U. poz. 957 oraz 2014 poz. 1149) wprowadza następujące zmiany:
+# Rozporządzenie Ministra Edukacji Narodowejz dnia 11 sierpnia 2017 r. zmieniające rozporządzenie w sprawie szczegółowego zakresu danych gromadzonych w bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych
 
 | Pole | Wartość |
 |---|---|
@@ -22,54 +22,169 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-08-11 |
 | Data wydania | 2017-08-29 |
+| Wejście w życie | 2017-09-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001613) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1613/text.pdf) |
 
-1) § 1:
-a) 2 otrzymuje brzmienie: „2) ustawie systemie oświaty należy przez to rozumieć ustawę dnia 7 1991 systemie oświaty (Dz. U. 2016 poz. 1943, późn. zm. );”, po 2 dodaje 2a brzmieniu: „2a) ustawie Prawo oświatowe należy przez to rozumieć ustawę dnia 14 grudnia 2016 Prawo oświatowe (Dz. U. 2017 poz. 59 949);”,
-c) 3 „(Dz. U. 2006 Nr 97, poz. 674, późn. zm. )ˮ wyrazami „(Dz. U. 2017 poz. 1189);”,
-d) 4 „(Dz. U. 2012 poz. 591)” wyrazami „(Dz. U. 2016 poz. 1068 oraz 2017 poz. 60)”;
-2) uchyla § 2–4;
-3) § 6:
-a) 1: uchyla f, j oraz k, piąte, szóste siódme „z upośledzeniem umysłowym” wyrazami „z niepełnosprawnością intelektualną”, uchyla trzynaste czternaste, n szóste „dzieci upośledzeniem umysłowym niepełnosprawnościami sprzężonymi” wyrazami „dzieci młodzież niepełnosprawnościami sprzężonymi, których jedną niepełnosprawności jest niepełnosprawność intelektualna”, p siódme „z upośledzeniem umysłowym niepełnosprawnościami sprzężonymi” wyrazami „z niepełnosprawnościami sprzężonymi, których jedną niepełnosprawności jest niepełnosprawność intelektualna”, t: we wprowadzeniu wyliczenia skreśla „i gimnazjów”, drugie otrzymuje brzmienie: „– uczniów klas V–VIII szkoły podstawowej, zamieszkałych odległości od 4 km 5 km od szkoły,”, 2: c otrzymuje brzmienie: „c) indywidualnie nauczanych, tym uczniów posiadających orzeczenie wydane uwagi na stan zdrowia znacznie utrudniający uczęszczanie szkoły, wyszczególnieniem liczby uczniów posiadających orzeczenie potrzebie kształcenia specjalnego,”, f średnik przecinkiem dodaje g brzmieniu: „g) według formy odbywania dokształcania teoretycznego;”,
-c) 3: po c dodaje ca brzmieniu: „ca) socjoterapeutycznych,”, po d dodaje da brzmieniu: „da) rozwijających umiejętności uczenia się,”, e otrzymuje brzmienie: „e) specjalistycznych: korekcyjno-kompensacyjnych, logopedycznych, rozwijających kompetencje emocjonalno-społeczne, innych charakterze terapeutycznym,”, n „art. 94a 4 4b systemie oświaty” wyrazami „art. 165 7 9 Prawo oświatowe”, „art. 94a 4c systemie oświaty” wyrazami „art. 165 10 Prawo oświatowe”, p „art. 94a 5 systemie oświaty” wyrazami „art. 165 15 Prawo oświatowe”,
-c) 6: a szóste siódme „z upośledzeniem umysłowym” wyrazami „z niepełnosprawnością intelektualną”, h w: dziewiątym wyraz „gimnazjum” wyrazami „szkoły podstawowej”, dziesiątym „szkoły ponadgimnazjalnej” wyrazami „szkoły ponadpodstawowej”, piętnastym „art. 16 10 2 a systemie oświaty” wyrazami „art. 37 2 2 a Prawo oświatowe”,
-d) 7 f „(Dz. U. poz. 1650 oraz 2014 poz. 463 1004)” wyrazami „(Dz. U.
-2016 poz. 1990, 1948 2066 oraz 2017 poz. 60, 858 1543)”,
-e) 12 skreśla „lub motorowerową”;
-5) § 9:
-a) 4: a: pierwsze „art. 7 1a–1d systemie oświaty” wyrazami „art. 15 1–6 Prawo oświatowe”, po drugie dodaje od trzeciego ósmego brzmieniu: „– zatrudnienia na podstawie art. 16 Prawo oświatowe, zatrudnienia na podstawie Karty Nauczyciela, wyjątkiem zatrudnienia na podstawie art. 10 9 Karty Nauczyciela, zatrudnienia na podstawie dnia 26 czerwca 1974 Kodeks pracy (Dz. U. 2016 poz. 1666, 2138 2255 oraz 2017 poz. 60 962), zatrudnienia na podstawie dnia 16 1982 pracownikach urzędów państwowych (Dz. U. 2016 poz. 1511, 2074 2261), zatrudnienia na podstawie dnia 21 listopada 2008 służbie cywilnej (Dz. U. 2016 poz. 1345, 1605, 1807, 1948 2260 oraz 2017 poz. 379), zatrudnienia na podstawie art. 62 2 Prawo oświatowe,”, b otrzymuje brzmienie: „b) umowa pracę na czas nieokreślony, wyszczególnieniem: zatrudnienia na podstawie art. 15 1–6 Prawo oświatowe, zatrudnienia na podstawie art. 10 9 Karty Nauczyciela, zatrudnienia na podstawie art. 16 Prawo oświatowe, zatrudnienia na podstawie Karty Nauczyciela, wyjątkiem zatrudnienia na podstawie art. 10 9 Karty Nauczyciela, zatrudnienia na podstawie dnia 26 czerwca 1974 Kodeks pracy, zatrudnienia na podstawie dnia 16 1982 pracownikach urzędów państwowych,
-c) placówkach doskonalenia nauczycieli, poradniach psychologiczno-pedagogicznych, bibliotekach pedagogicznych, kolegiach pracowników służb społecznych, liceach ogólnokształcących, technikach, branżowych szkołach I stopnia, branżowych szkołach II stopnia, szkołach policealnych, placówkach oświatowo-wychowawczych oraz placówkach zapewniających opiekę wychowanie uczniom okresie pobierania nauki poza miejscem stałego zamieszkania,
-d) placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego oraz ośrodkach dokształcania doskonalenia zawodowego;”,
-d) 19 c oraz d otrzymują brzmienie: „c) wszystkich typach szkół placówek oświatowych oraz kolegiach pracowników służb społecznych,
-d) przedszkolach specjalnych, oddziałach specjalnych przedszkolach ogólnodostępnych, szkołach specjalnych oddziałach specjalnych szkołach ogólnodostępnych;”,
-e) 20 a otrzymuje brzmienie: „a) niepełnosprawnością intelektualną,”,
-f) 21: oraz j „upośledzonych umysłowo” wyrazami „z niepełnosprawnością intelektualną”, uchyla k oraz p, po p średnik przecinkiem dodaje q–y brzmieniu: „q) teoretycznych przedmiotów zawodowych szkołach prowadzących kształcenie zawodowe,
-r) przedmiotów uzupełniających liceach ogólnokształcących technikach,
-s) przyrody jako przedmiotu uzupełniającego liceach ogólnokształcących technikach,
-t) historii społeczeństwa jako przedmiotu uzupełniającego liceach ogólnokształcących technikach,
-u) wychowawcy szkolnych schroniskach młodzieżowych,
-v) pedagoga przedszkolach, szkołach placówkach,
-w) terapeuty przedszkolach, szkołach placówkach,
-x) zajęć rewalidacyjnych,
-y) zajęć resocjalizacyjnych lub socjoterapeutycznych;”;
-6) § 12 1 f „art. 7 1a systemie oświaty” wyrazami „art. 15 2 Prawo oświatowe”;
-7) § 14 1:
-a) a wyraz „ponadgimnazjalnej” wyrazem „ponadpodstawowej”, b „art. 16 5a 2 systemie oświaty, brzmieniu obowiązującym dnia 31 sierpnia 2012 r.” wyrazami „art. 36 12 16 2 Prawo oświatowe”,
-c) uchyla c,
-d) d otrzymuje brzmienie: „d) przez realizację przygotowania zawodowego u pracodawcy, którym mowa art. 36 9 2 Prawo oświatowe,”,
-e) e „upośledzeniem umysłowym” wyrazami „niepełnosprawnością intelektualną”,
-9) § 17 1 4 „2013–2016” wyrazami „2013–2017”;
-10) § 18 1 „2012–2016” wyrazami „2012–2017”;
-11) uchyla odnośnik nr 3.
-§ 2. W roku szkolnym 2017/2018 zbiór danych, którym mowa § 11 1 rozporządzenia zmienianego § 1, zawiera także dane liczbie nauczycieli, którymi danym roku kalendarzowym rozwiązano lub planowane jest rozwiązanie stosunku pracy przyczyn określonych art. 225 dnia 14 grudnia 2016 Przepisy wprowadzające ustawę Prawo oświatowe (Dz. U. 2017 poz. 60 949).
-§ 3. 1. Przepisy § 6 1 t wprowadzenie wyliczenia drugie oraz § 9 18 b rozporządzenia zmienianego § 1, brzmieniu dotychczasowym, stosuje dotychczasowego gimnazjum oraz klas dotychczasowego gimnazjum prowadzonych szkołach innego typu, czasu zakończenia kształcenia tych szkołach klasach.
-2. Przepisy § 7 6 h dziesiąte, § 9 18 b c oraz § 14 1 a rozporządzenia zmienianego § 1, brzmieniu dotychczasowym, stosuje odpowiednio do:
-1) klas dotychczasowej zasadniczej szkoły zawodowej prowadzonych branżowych szkołach I stopnia,
-2) dotychczasowego trzyletniego liceum ogólnokształcącego,
-3) dotychczasowego czteroletniego technikum,
-4) klas dotychczasowego trzyletniego liceum ogólnokształcącego prowadzonych czteroletnich liceach ogólnokształcących,
-5) klas dotychczasowego czteroletniego technikum prowadzonych pięcioletnich technikach czasu zakończenia kształcenia tych szkołach klasach.
-3. Przepisy § 9 21 r–t rozporządzenia zmienianego § 1, brzmieniu nadanym niniejszym rozporządzeniem, stosuje klas szkół, których mowa 2, czasu zakończenia kształcenia tych szkołach klasach.
-§ 4. Rozporządzenie wchodzi życie dniem 1 2017 Minister Edukacji Narodowej: wz. M. Kopeć
+Treść rozporządzenia
+Na podstawie art. 115 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2016 r. poz. 1927 i 1984 oraz z 2017 r. poz. 60, 777, 949 i 1428) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Edukacji Narodowej z dnia 9 sierpnia 2012 r. w sprawie szczegółowego zakresu danych gromadzonych w bazach danych oświatowych, zakresu danych identyfikujących podmioty prowadzące bazy danych oświatowych, terminów przekazywania danych między bazami danych oświatowych oraz wzorów wydruków zestawień zbiorczych (Dz. U. poz. 957 oraz z 2014 r. poz. 1149) wprowadza się następujące zmiany:
+1)
+w § 1:
+a)
+pkt 2 otrzymuje brzmienie:
+„
+2)
+ustawie o systemie oświaty – należy przez to rozumieć ustawę z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2016 r. poz. 1943, z późn. zm.);
+” ,
+b)
+po pkt 2 dodaje się pkt 2a w brzmieniu:
+„
+2a)
+ustawie – Prawo oświatowe – należy przez to rozumieć ustawę z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59 i 949);
+” ,
+c)
+w pkt 3 wyrazy „(Dz. U. z 2006 r. Nr 97, poz. 674, z późn. zm.3))ˮ zastępuje się wyrazami „(Dz. U. z 2017 r. poz. 1189);”,
+d)
+w pkt 4 wyrazy „(Dz. U. z 2012 r. poz. 591)” zastępuje się wyrazami „(Dz. U. z 2016 r. poz. 1068 oraz z 2017 r. poz. 60)”;
+2)
+uchyla się § 2–4;
+3)
+w § 6:
+a)
+w pkt 1:
+– uchyla się lit. f, j oraz k,
+– w lit. l: – – wprowadzenie do wyliczenia otrzymuje brzmienie: „ specjalnych potrzeb edukacyjnych, wynikających z orzeczeń, o których mowa w art. 127 ust. 10 ustawy – Prawo oświatowe: ” , – – w tiret piąte, tiret szóste i tiret siódme wyrazy „z upośledzeniem umysłowym” zastępuje się wyrazami „z niepełnosprawnością intelektualną”, – – uchyla się tiret trzynaste i tiret czternaste, – w lit. n w tiret szóste wyrazy „dzieci z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi” zastępuje się wyrazami „dzieci i młodzież z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna”, – w lit. p w tiret siódme wyrazy „z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi” zastępuje się wyrazami „z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna”, – w lit. t: – – we wprowadzeniu do wyliczenia skreśla się wyrazy „i gimnazjów”, – – tiret drugie otrzymuje brzmienie: „ – uczniów klas V-VIII szkoły podstawowej, zamieszkałych w odległości od 4 km do 5 km od szkoły, ” ,
+b)
+w pkt 2:
+– lit. c otrzymuje brzmienie: „ c) indywidualnie nauczanych, w tym uczniów posiadających orzeczenie wydane z uwagi na stan zdrowia znacznie utrudniający uczęszczanie do szkoły, z wyszczególnieniem liczby uczniów posiadających orzeczenie o potrzebie kształcenia specjalnego, ” ,
+– w lit. f średnik zastępuje się przecinkiem i dodaje się lit. g w brzmieniu: „ g) według formy odbywania dokształcania teoretycznego; ” ,
+c)
+w pkt 3:
+– po lit. c dodaje się lit. ca w brzmieniu: „ ca) socjoterapeutycznych, ” ,
+– po lit. d dodaje się lit. da w brzmieniu: „ da) rozwijających umiejętności uczenia się, ” ,
+– lit. e otrzymuje brzmienie: „ e) specjalistycznych: – korekcyjno-kompensacyjnych, – logopedycznych, – rozwijających kompetencje emocjonalno-społeczne, – innych o charakterze terapeutycznym, ” ,
+– w lit. n wyrazy „art. 94a ust. 4 i 4b ustawy o systemie oświaty” zastępuje się wyrazami „art. 165 ust. 7 i 9 ustawy – Prawo oświatowe”,
+– w lit. o wyrazy „art. 94a ust. 4c ustawy o systemie oświaty” zastępuje się wyrazami „art. 165 ust. 10 ustawy – Prawo oświatowe”,
+– w lit. p wyrazy „art. 94a ust. 5 ustawy o systemie oświaty” zastępuje się wyrazami „art. 165 ust. 15 ustawy – Prawo oświatowe”,
+d)
+w pkt 5 uchyla się lit. d, h oraz i;
+4)
+w § 7:
+a)
+w pkt 4 we wprowadzeniu do wyliczenia wyrazy „art. 14a ust. 4 oraz art. 17 ust. 3 i 3a ustawy o systemie oświaty” zastępuje się wyrazami „art. 32 ust. 6 oraz art. 39 ust. 3 i 4 ustawy – Prawo oświatowe”,
+b)
+w pkt 5 w lit. b:
+– w tiret trzecie skreśla się wyrazy „, w tym psychoterapii”,
+– po tiret siedemnaste dodaje się tiret osiemnaste w brzmieniu: „ – psychoterapii, ” ,
+c)
+w pkt 6:
+– w lit. a w tiret szóste i tiret siódme wyrazy „z upośledzeniem umysłowym” zastępuje się wyrazami „z niepełnosprawnością intelektualną”,
+– w lit. h w: – – tiret dziewiątym wyraz „gimnazjum” zastępuje się wyrazami „szkoły podstawowej”, – – tiret dziesiątym wyrazy „szkoły ponadgimnazjalnej” zastępuje się wyrazami „szkoły ponadpodstawowej”, – – tiret piętnastym wyrazy „art. 16 ust. 10 pkt 2 lit. a ustawy o systemie oświaty” zastępuje się wyrazami „art. 37 ust. 2 pkt 2 lit. a ustawy – Prawo oświatowe”,
+d)
+w pkt 7 w lit. f wyrazy „(Dz. U. poz. 1650 oraz z 2014 r. poz. 463 i 1004)” zastępuje się wyrazami „(Dz. U. z 2016 r. poz. 1990, 1948 i 2066 oraz z 2017 r. poz. 60, 858 i 1543)”,
+e)
+w pkt 12 skreśla się wyrazy „lub motorowerową”;
+5)
+w § 9:
+a)
+w pkt 4:
+– w lit. a: – – w tiret pierwsze wyrazy „art. 7 ust. 1a-1d ustawy o systemie oświaty” zastępuje się wyrazami „art. 15 ust. 1–6 ustawy – Prawo oświatowe”, – – po tiret drugie dodaje się tiret od trzeciego do ósmego w brzmieniu: „ – zatrudnienia na podstawie art. 16 ustawy – Prawo oświatowe, – zatrudnienia na podstawie Karty Nauczyciela, z wyjątkiem zatrudnienia na podstawie art. 10 ust. 9 Karty Nauczyciela, – zatrudnienia na podstawie ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2016 r. poz. 1666, 2138 i 2255 oraz z 2017 r. poz. 60 i 962), – zatrudnienia na podstawie ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych (Dz. U. z 2016 r. poz. 1511, 2074 i 2261), – zatrudnienia na podstawie ustawy z dnia 21 listopada 2008 r. o służbie cywilnej (Dz. U. z 2016 r. poz. 1345, 1605, 1807, 1948 i 2260 oraz z 2017 r. poz. 379), – zatrudnienia na podstawie art. 62 ust. 2 ustawy – Prawo oświatowe, ” , – lit. b otrzymuje brzmienie: „ b) umowa o pracę na czas nieokreślony, z wyszczególnieniem: – zatrudnienia na podstawie art. 15 ust. 1–6 ustawy – Prawo oświatowe, – zatrudnienia na podstawie art. 10 ust. 9 Karty Nauczyciela, – zatrudnienia na podstawie art. 16 ustawy – Prawo oświatowe, – zatrudnienia na podstawie Karty Nauczyciela, z wyjątkiem zatrudnienia na podstawie art. 10 ust. 9 Karty Nauczyciela, – zatrudnienia na podstawie ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, – zatrudnienia na podstawie ustawy z dnia 16 września 1982 r. o pracownikach urzędów państwowych, – zatrudnienia na podstawie ustawy z dnia 21 listopada 2008 r. o służbie cywilnej, – zatrudnienia na podstawie art. 62 ust. 2 ustawy – Prawo oświatowe, ” ,
+b)
+w pkt 12 w lit. f wyrazy „art. 7 ust. 1a-1d ustawy o systemie oświaty” zastępuje się wyrazami „art. 15 ust. 1–6 ustawy – Prawo oświatowe”,
+c)
+pkt 18 otrzymuje brzmienie:
+„
+18)
+kwalifikacje do zajmowania stanowiska nauczyciela w:
+a)
+przedszkolach i klasach I-III szkół podstawowych,
+b)
+klasach IV-VIII szkół podstawowych,
+c)
+placówkach doskonalenia nauczycieli, poradniach psychologiczno-pedagogicznych, bibliotekach pedagogicznych, kolegiach pracowników służb społecznych, liceach ogólnokształcących, technikach, branżowych szkołach I stopnia, branżowych szkołach II stopnia, szkołach policealnych, placówkach oświatowo-wychowawczych oraz placówkach zapewniających opiekę i wychowanie uczniom w okresie pobierania nauki poza miejscem stałego zamieszkania,
+d)
+placówkach kształcenia ustawicznego, placówkach kształcenia praktycznego oraz ośrodkach dokształcania i doskonalenia zawodowego;
+” ,
+d)
+w pkt 19 lit. c oraz d otrzymują brzmienie:
+„
+c)
+wszystkich typach szkół i placówek oświatowych oraz kolegiach pracowników służb społecznych,
+d)
+przedszkolach specjalnych, oddziałach specjalnych w przedszkolach ogólnodostępnych, szkołach specjalnych i oddziałach specjalnych w szkołach ogólnodostępnych;
+” ,
+e)
+w pkt 20 lit. a otrzymuje brzmienie:
+„
+a)
+z niepełnosprawnością intelektualną,
+” ,
+f)
+w pkt 21:
+– w lit. i oraz j wyrazy „upośledzonych umysłowo” zastępuje się wyrazami „z niepełnosprawnością intelektualną”,
+– uchyla się lit. k oraz p,
+– po lit. p średnik zastępuje się przecinkiem i dodaje się lit. q-y w brzmieniu: „ q) teoretycznych przedmiotów zawodowych w szkołach prowadzących kształcenie zawodowe, r) przedmiotów uzupełniających w liceach ogólnokształcących i technikach, s) przyrody jako przedmiotu uzupełniającego w liceach ogólnokształcących i technikach, t) historii i społeczeństwa jako przedmiotu uzupełniającego w liceach ogólnokształcących i technikach, u) wychowawcy w szkolnych schroniskach młodzieżowych, v) pedagoga w przedszkolach, szkołach i placówkach, w) terapeuty w przedszkolach, szkołach i placówkach, x) zajęć rewalidacyjnych, y) zajęć resocjalizacyjnych lub socjoterapeutycznych; ” ;
+6)
+w § 12 w pkt 1 w lit. f wyrazy „art. 7 ust. 1a ustawy o systemie oświaty” zastępuje się wyrazami „art. 15 ust. 2 ustawy – Prawo oświatowe”;
+7)
+w § 14 w pkt 1:
+a)
+w lit. a wyraz „ponadgimnazjalnej” zastępuje się wyrazem „ponadpodstawowej”,
+b)
+w lit. b wyrazy „art. 16 ust. 5a pkt 2 ustawy o systemie oświaty, w brzmieniu obowiązującym do dnia 31 sierpnia 2012 r.” zastępuje się wyrazami „art. 36 ust. 12 i ust. 16 pkt 2 ustawy – Prawo oświatowe”,
+c)
+uchyla się lit. c,
+d)
+lit. d otrzymuje brzmienie:
+„
+d)
+przez realizację przygotowania zawodowego u pracodawcy, o którym mowa w art. 36 ust. 9 pkt 2 ustawy – Prawo oświatowe,
+” ,
+e)
+w lit. e wyrazy „upośledzeniem umysłowym” zastępuje się wyrazami „niepełnosprawnością intelektualną”,
+f)
+w lit. f wyrazy „młodzież z upośledzeniem umysłowym z niepełnosprawnościami sprzężonymi” zastępuje się wyrazami „dzieci i młodzież z niepełnosprawnościami sprzężonymi, z których jedną z niepełnosprawności jest niepełnosprawność intelektualna”,
+g)
+lit. h otrzymuje brzmienie:
+„
+h)
+przez uczęszczanie do szkoły wyższej, zgodnie z art. 36 ust. 12 ustawy – Prawo oświatowe,
+” ;
+8)
+w § 15 w ust. 1 w pkt 11:
+a)
+w lit. a wyrazy „art. 58 ust. 3 ustawy o systemie oświaty” zastępuje się wyrazami „art. 88 ust. 4 ustawy – Prawo oświatowe”,
+b)
+w lit. b wyrazy „art. 82 ust. 1 i 1a ustawy o systemie oświaty” zastępuje się wyrazami „art. 168 ust. 1 i 2 ustawy – Prawo oświatowe”;
+9)
+w § 17 w ust. 1 i 4 wyrazy „2013–2016” zastępuje się wyrazami „2013–2017”;
+10)
+w § 18 w pkt 1 wyrazy „2012–2016” zastępuje się wyrazami „2012–2017”;
+11)
+uchyla się odnośnik nr 3.
+§ 2.
+W roku szkolnym 2017/2018 zbiór danych, o którym mowa w § 11 pkt 1 rozporządzenia zmienianego w § 1, zawiera także dane o liczbie nauczycieli, z którymi w danym roku kalendarzowym rozwiązano lub planowane jest rozwiązanie stosunku pracy z przyczyn określonych w art. 225 ustawy z dnia 14 grudnia 2016 r. – Przepisy wprowadzające ustawę – Prawo oświatowe (Dz. U. z 2017 r. poz. 60 i 949).
+§ 3.
+1.
+Przepisy § 6 pkt 1 lit. t wprowadzenie do wyliczenia i tiret drugie oraz § 9 pkt 18 lit. b rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, stosuje się do dotychczasowego gimnazjum oraz klas dotychczasowego gimnazjum prowadzonych w szkołach innego typu, do czasu zakończenia kształcenia w tych szkołach i klasach.
+2.
+Przepisy § 7 pkt 6 lit. h tiret dziesiąte, § 9 pkt 18 lit. b i c oraz § 14 pkt 1 lit. a rozporządzenia zmienianego w § 1, w brzmieniu dotychczasowym, stosuje się odpowiednio do:
+1)
+klas dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia,
+2)
+dotychczasowego trzyletniego liceum ogólnokształcącego,
+3)
+dotychczasowego czteroletniego technikum,
+4)
+klas dotychczasowego trzyletniego liceum ogólnokształcącego prowadzonych w czteroletnich liceach ogólnokształcących,
+5)
+klas dotychczasowego czteroletniego technikum prowadzonych w pięcioletnich technikach
+do czasu zakończenia kształcenia w tych szkołach i klasach.
+3.
+Przepisy § 9 pkt 21 lit. r-t rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się do klas i szkół, o których mowa w ust. 2, do czasu zakończenia kształcenia w tych szkołach i klasach.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem 1 września 2017 r.
+1) Minister Edukacji Narodowej kieruje działem administracji rządowej – oświata i wychowanie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Edukacji Narodowej (Dz. U. poz. 1903). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2016 r. poz. 1954, 1985 i 2169 oraz z 2017 r. poz. 60, 949 i 1292.
 

@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie konsumenckim
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 10 października 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-10-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001362) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1362/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 26 września 2025 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o kredycie konsumenckim
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 12 maja 2011 r. o kredycie konsumenckim (Dz. U. z 2024 r. poz. 1497), z uwzględnieniem zmian wprowadzonych ustawą z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U.
 z 2025 r. poz. 146) oraz zmian wynikających z przepisów ogłoszonych przed dniem 15 września 2025 r.
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 71, art. 72 i art. 76 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146), które stanowią: „Art. 71. 1. Do:
@@ -135,6 +135,11 @@ Art. 60–65. (pominięte)
 
 **Art. 1.** Ustawa określa:
 
+- **1)** zasady i tryb zawierania umów o kredyt konsumencki;
+- **2)** obowiązki kredytodawcy i pośrednika kredytowego w zakresie informacji udzielanych przed zawarciem umowy o kredyt konsumencki oraz obowiązki konsumenta, kredytodawcy i pośrednika kredytowego w związku z zawartą umową o kredyt konsumencki;
+- **3)** (uchylony)
+- **4)** skutki uchybienia obowiązkom kredytodawcy.
+
 **Art. 2.**
 
 1. Ustawę stosuje się także do umów o kredyt konsumencki, który spółdzielcza kasa oszczędnościowo-kredytowa w zakresie swojej działalności udziela lub daje przyrzeczenie udzielenia swojemu członkowi.
@@ -184,6 +189,39 @@ Art. 60–65. (pominięte)
 4. Ustawę stosuje się do umów leasingu i najmu, jeżeli umowa odrębna od tych umów przewiduje obowiązek nabycia przedmiotu umowy, uzależniając go od żądania kredytodawcy.
 
 **Art. 5.** Użyte w ustawie określenia oznaczają:
+
+- **1)** konsument konsument w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny;
+- **2)** kredytodawca przedsiębiorca w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, który w zakresie swojej działalności gospodarczej lub zawodowej, udziela lub daje przyrzeczenie udzielenia konsumentowi kredytu;
+- **2a)** instytucja pożyczkowa kredytodawca inny niż: o usługach płatniczych (Dz. U. z 2025 r. poz. 611 i 1069) w zakresie, w jakim udziela kredytu płatniczego, o którym mowa w art. 74 ust. 3 tej ustawy;
+    - **a)** bank krajowy, bank zagraniczny, oddział banku zagranicznego, instytucja kredytowa lub oddział instytucji kredytowej w rozumieniu ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, z późn. zm. ),
+    - **b)** spółdzielcza kasa oszczędnościowo-kredytowa oraz Krajowa Spółdzielcza Kasa Oszczędnościowo-Kredytowa,
+    - **c)** podmiot, którego działalność polega na udzielaniu kredytów konsumenckich w postaci odroczenia zapłaty ceny lub wynagrodzenia na zakup oferowanych przez niego towarów i usług,
+    - **d)** krajowa instytucja płatnicza, mała instytucja płatnicza, krajowa instytucja pieniądza elektronicznego, unijna instytucja płatnicza lub unijna instytucja pieniądza elektronicznego, w rozumieniu ustawy z dnia 19 sierpnia 2011 r.
+
+- **3)** pośrednik kredytowy przedsiębiorca w rozumieniu przepisów ustawy z dnia 23 kwietnia 1964 r. Kodeks cywilny, inny niż kredytodawca, który w zakresie swojej działalności gospodarczej lub zawodowej uzyskuje korzyści majątkowe, w szczególności wynagrodzenie od konsumenta, dokonując czynności faktycznych lub prawnych związanych z przygotowaniem, oferowaniem lub zawieraniem umowy o kredyt;
+- **3a)** podmiot powiązany podmiot powiązany w rozumieniu przepisów rozporządzenia Komisji (WE) nr 1126/2008 z dnia 3 listopada 2008 r. przyjmującego określone międzynarodowe standardy rachunkowości zgodnie z rozporządzeniem (WE) nr 1606/2002 Parlamentu Europejskiego i Rady (Dz. Urz. UE L 320 z 29.11.2008, str. 1, z późn. zm. );
+- **4)** kredyt w rachunku oszczędnościowo-rozliczeniowym umowa o kredyt, który kredytodawca udostępnia konsumentowi umożliwiając dysponowanie środkami pieniężnymi w wysokości przekraczającej środki pieniężne zgromadzone na rachunku oszczędnościowo-rozliczeniowym konsumenta;
+- **5)** przekroczenie każde, inne niż kredyt w rachunku oszczędnościowo-rozliczeniowym, akceptowane przez kredytodawcę przekroczenie kwoty środków pieniężnych zgromadzonych na rachunku oszczędnościowo-rozliczeniowym lub kwoty udzielonego kredytu w rachunku oszczędnościowo-rozliczeniowym;
+- **6)** całkowity koszt kredytu wszelkie koszty, które konsument jest zobowiązany ponieść w związku z umową o kredyt, w szczególności:
+    - **a)** odsetki, opłaty, prowizje, podatki i marże jeżeli są znane kredytodawcy oraz
+    - **b)** koszty usług dodatkowych, w szczególności ubezpieczeń, w przypadku gdy ich poniesienie jest niezbędne do uzyskania kredytu lub do uzyskania go na oferowanych warunkach z wyjątkiem kosztów opłat notarialnych ponoszonych przez konsumenta;
+
+- **6a)** pozaodsetkowe koszty kredytu wszystkie koszty, które konsument ponosi w związku z umową o kredyt konsumencki, z wyłączeniem odsetek;
+- **7)** całkowita kwota kredytu maksymalna kwota wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt, a w przypadku umów, dla których nie przewidziano tej maksymalnej kwoty, suma wszystkich środków pieniężnych nieobejmujących kredytowanych kosztów kredytu, które kredytodawca udostępnia konsumentowi na podstawie umowy o kredyt;
+- **8)** całkowita kwota do zapłaty przez konsumenta suma całkowitego kosztu kredytu i całkowitej kwoty kredytu;
+- **9)** stopa referencyjna stopa oprocentowania służąca za podstawę ustalenia oprocentowania kredytu odnosząca się do minimalnego oprocentowania podstawowych operacji otwartego rynku prowadzonych przez Narodowy Bank Polski, ustalana przez Radę Polityki Pieniężnej, ogłaszana w Dzienniku Urzędowym Narodowego Banku Polskiego;
+- **10)** stopa oprocentowania kredytu stopa oprocentowania wyrażona jako stałe lub zmienne oprocentowanie stosowane do wypłaconej kwoty na podstawie umowy o kredyt w stosunku rocznym;
+- **11)** stała stopa oprocentowania kredytu stopa oprocentowania określona wyłącznie w umowie o kredyt, przy wykorzystaniu określonej stałej wartości procentowej wyrażonej na cały czas obowiązywania umowy lub w danych okresach obowiązywania umowy;
+- **12)** rzeczywista roczna stopa oprocentowania całkowity koszt kredytu ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu w stosunku rocznym;
+- **13)** umowa o kredyt konsumencki zawierana na odległość umowa o kredyt konsumencki zawierana z konsumentem bez jednoczesnej obecności obu stron, przy wykorzystaniu środków porozumiewania się na odległość, o której mowa w ustawie z dnia 2 marca 2000 r. o ochronie niektórych praw konsumentów oraz o odpowiedzialności za szkodę wyrządzoną przez produkt niebezpieczny (Dz. U. z 2012 r. poz. 1225) ;
+- **14)** umowa o kredyt wiązany umowa o kredyt, z którego jest wyłącznie finansowane nabycie towaru lub usługi na podstawie innej umowy, a obie te umowy są ze sobą powiązane, zgodnie z którymi:
+    - **a)** sprzedawca lub usługodawca udziela kredytu konsumentowi na nabycie towaru lub usługi od tego sprzedawcy lub usługodawcy, albo
+    - **b)** nabycie towaru lub usługi jest finansowane przez kredytodawcę, który współpracuje ze sprzedawcą lub usługodawcą w związku z przygotowaniem lub zawarciem umowy o kredyt, albo
+    - **c)** nabycie towaru lub usługi jest finansowane przez kredytodawcę, a towar lub usługa są szczegółowo określone w umowie o kredyt;
+
+- **15)** bazy danych zbiory danych prowadzone dla celów oceny zdolności kredytowej przez instytucje, o których mowa w art. 105 ust. 4 ustawy z dnia 29 sierpnia 1997 r. Prawo bankowe, oraz biura informacji gospodarczej, o których mowa w ustawie z dnia 9 kwietnia 2010 r. o udostępnianiu informacji gospodarczych i wymianie danych gospodarczych (Dz. U. z 2025 r. poz. 85);
+- **16)** ocena zdolności kredytowej ocena zdolności konsumenta do spłaty zaciągniętego kredytu wraz z odsetkami, w terminach określonych w umowie o kredyt konsumencki, dokonywana przez kredytodawcę;
+- **17)** trwały nośnik materiał lub urządzenie służące do przechowywania i odczytywania informacji przekazywanych konsumentowi w związku z umową o kredyt, przez czas odpowiedni do celów jakim informacje te służą oraz pozwalające na odtworzenie tych informacji w niezmienionej postaci.
 
 **Art. 6.** Wartość kwoty kredytu konsumenckiego udzielanego w walucie innej niż waluta polska, stanowi równowartość kwoty kredytu wyrażonej w walucie polskiej ustaloną przy zastosowaniu średniego kursu tej waluty ogłaszanego przez Narodowy Bank Polski z ostatniego dnia kwartału poprzedzającego dzień zawarcia umowy.
 
@@ -532,7 +570,17 @@ Art. 60–65. (pominięte)
 
 **Art. 32.** Umowa o kredyt konsumencki w rachunku oszczędnościowo-rozliczeniowym podlegający spłacie na żądanie lub w terminie do trzech miesięcy powinna zawierać co najmniej:
 
+- **1)** dane określone w art. 30 ust. 1 pkt 1–3, 5, 6 i 15;
+- **2)** limit kredytu;
+- **3)** całkowity koszt kredytu;
+- **4)** informację o możliwości żądania w dowolnym momencie spłaty pełnej kwoty kredytu przez konsumenta;
+- **5)** informację o opłatach stosowanych od chwili zawarcia umowy oraz warunkach ich zmiany.
+
 **Art. 33.** Umowa o kredyt konsumencki przewidująca odroczenie płatności lub zmianę sposobu spłaty w przypadku gdy konsument jest w zwłoce w związku ze spłatą zadłużenia wynikającego z umowy o kredyt, powinna zawierać co najmniej:
+
+- **1)** dane określone w art. 30 ust. 1 pkt 1–8, 11, 16 i 17;
+- **2)** opis towaru lub usługi;
+- **3)** cenę nabycia towaru lub usługi.
 
 **Art. 33a.** W przypadku gdy łączna wysokość opłat z tytułu zaległości w spłacie kredytu, o których mowa w art. 30 ust. 1 pkt 11, oraz odsetek za opóźnienie naliczonych konsumentowi przekracza kwotę odpowiadającą kwocie odsetek maksymalnych za opóźnienie, o których mowa w art. 481 § 2 Kodeksu cywilnego, obliczonych od kwoty zaległości w spłacie kredytu, należnych na dzień pobrania tych opłat lub odsetek, należy się tylko kwota opłat i odsetek odpowiadająca kwocie tych odsetek maksymalnych za opóźnienie.
 
@@ -574,9 +622,18 @@ Art. 60–65. (pominięte)
 
 **Art. 36b.** W przypadku odroczenia spłaty zadłużenia wynikającego z umowy o kredyt konsumencki w okresie 120 dni od dnia wypłaty tego kredytu:
 
+- **1)** całkowitą kwotę kredytu dla celów ustalenia maksymalnej wysokości pozaodsetkowych kosztów kredytu, o której mowa w art. 36a, stanowi kwota udzielonego i wypłaconego kredytu, którego spłata została następnie odroczona;
+- **2)** do pozaodsetkowych kosztów kredytu dolicza się wszystkie koszty i opłaty, które kredytobiorca jest obowiązany ponieść w związku z odroczeniem spłaty kredytu, naliczone w okresie 120 dni od dnia wypłaty kredytu.
+
 **Art. 36c.** W przypadku udzielenia przez kredytodawcę lub podmiot z nim powiązany konsumentowi, który nie dokonał pełnej spłaty kredytu, kolejnych kredytów w okresie 120 dni od dnia wypłaty pierwszego z kredytów:
 
+- **1)** całkowitą kwotę kredytu, dla celów ustalenia maksymalnej wysokości pozaodsetkowych kosztów kredytu, o której mowa w art. 36a, stanowi kwota pierwszego z kredytów;
+- **2)** pozaodsetkowe koszty kredytu obejmują sumę pozaodsetkowych kosztów wszystkich kredytów udzielonych w tym okresie.
+
 **Art. 36d.** Przepisów art. 36a–36c nie stosuje się do:
+
+- **1)** kredytu w rachunku oszczędnościowo-rozliczeniowym konsumenta, prowadzonym przez kredytodawcę, o którym mowa w art. 5 pkt 2a lit. a i b;
+- **2)** umowy o kartę kredytową, o której mowa w art. 2 pkt 34 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 2015/751 z dnia 29 kwietnia 2015 r. w sprawie opłat interchange w odniesieniu do transakcji płatniczych realizowanych w oparciu o kartę (Dz. Urz. UE L 123 z 19.05.2015, str. 1), o ile kredytodawca jest jednocześnie wydawcą karty kredytowej.
 
 **Art. 37.**
 
@@ -687,6 +744,9 @@ Art. 60–65. (pominięte)
 4. Prowizja, o której mowa w ust. 1–3, nie może być wyższa niż wysokość odsetek, które konsument byłby zobowiązany zapłacić w okresie między spłatą kredytu przed terminem, a uzgodnionym terminem zakończenia umowy, a także nie może być wyższa niż bezpośrednie koszty kredytodawcy związane z tą spłatą.
 
 **Art. 51.** Prowizja za spłatę kredytu przed terminem nie przysługuje kredytodawcy w przypadku umów:
+
+- **1)** kredytu w rachunku oszczędnościowo-rozliczeniowym;
+- **2)** w których spłata została dokonana zgodnie z umową ubezpieczenia zawartą w celu zabezpieczenia spłaty kredytu.
 
 **Art. 52.** Kredytodawca jest zobowiązany do rozliczenia z konsumentem kredytu w terminie 14 dni od dnia dokonania wcześniejszej spłaty kredytu w całości.
 
@@ -868,4 +928,36 @@ Art. 60–65. (pominięte)
 **Art. 67.** Traci moc ustawa z dnia 20 lipca 2001 r. o kredycie konsumenckim (Dz. U. poz. 1081, z późn. zm. ).
 
 **Art. 68.** Ustawa wchodzi w życie po upływie 6 miesięcy od dnia ogłoszenia . FORMULARZ INFORMACYJNY DOTYCZĄCY KREDYTU KONSUMENCKIEGO FORMULARZ INFORMACYJNY DOTYCZĄCY KREDYTU KONSUMENCKIEGO W RACHUNKU OSZCZĘDNOŚCIOWO-ROZLICZENIOWYM SPOSÓB OBLICZANIA RZECZYWISTEJ ROCZNEJ STOPY OPROCENTOWANIA 1. Rzeczywistą roczną stopę oprocentowania, stanowiącą całkowity koszt kredytu ponoszony przez konsumenta, wyrażony jako wartość procentowa całkowitej kwoty kredytu w stosunku rocznym, kredytodawca lub pośrednik kredytowy oblicza zgodnie z następującym wzorem matematycznym: ∑C (1+X) = ∑D (1+X) 2. Poszczególne litery i symbole użyte we wzorze oznaczają: X rzeczywistą roczną stopę oprocentowania, m numer kolejny ostatniej wypłaty raty kredytu, k numer kolejny wypłaty, zatem 1 ≤ k ≤ m, C kwotę wypłaty k, t okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej kolejnej wypłaty, zatem t = 0, m' numer kolejny ostatniej spłaty lub wnoszonych opłat, l numer kolejny spłaty lub wnoszonych opłat, D kwotę spłaty lub wnoszonych opłat, S okres, wyrażony w latach lub ułamkach lat, między dniem pierwszej wypłaty a dniem każdej spłaty lub wniesienia opłat. 3. W celu obliczenia rzeczywistej rocznej stopy oprocentowania przyjmuje się następujące założenia:
+
+- **1)** umowa o kredyt będzie obowiązywać przez czas, na który została zawarta, a kredytodawca i konsument wypełnią zobowiązania wynikające z umowy o kredyt w terminach określonych w tej umowie;
+- **2)** kwoty wypłacane i spłacane przez strony umowy o kredyt konsumencki nie muszą być równe ani nie muszą być płacone w równych odstępach czasu;
+- **3)** datą początkową będzie data pierwszej wypłaty raty kredytu;
+- **4)** odstępy czasu między datami używanymi w obliczeniach wyrażone będą w latach lub w ułamkach roku, przy czym rok liczy 365 dni, a w przypadku lat przestępnych 366 dni, 52 tygodnie lub dwanaście równych miesięcy. Przyjmuje się, że równy miesiąc ma 30,41666 dni (tj. 365/12), bez względu na to, czy przypada w roku przestępnym, czy nie ;
+- **5)** wynik obliczeń podaje się z dokładnością do co najmniej jednego miejsca po przecinku, przy czym jeżeli cyfra występująca po wybranym przez obliczającego miejscu po przecinku jest mniejsza niż 5, cyfrę tę pomija się, gdy zaś jest większa albo równa 5, cyfrę poprzedzającą zwiększa się o 1;
+- **6)** równanie to może być zapisane w postaci jednej sumy z wykorzystaniem koncepcji przepływów (A ), które mogą być dodatnie lub ujemne zapłacone lub otrzymane w okresach 1 do k, wyrażonych w latach: S = ∑ A (1+ X ) , gdzie: S oznacza bieżące saldo przepływów; jeżeli celem jest zachowanie równoważności przepływów, wartość ta będzie równa 0.
+
+4. W celu obliczania rzeczywistej rocznej stopy oprocentowania przyjmuje się następujące założenia dodatkowe:
+
+- **1)** jeżeli umowa o kredyt daje konsumentowi swobodę dokonywania wypłat, przyjmuje się, że całkowita kwota kredytu została wypłacona od razu i w całości;
+- **2)** jeżeli umowa o kredyt daje konsumentowi zasadniczo swobodę dokonywania wypłat, ale przewidując różne sposoby dokonywania tych wypłat, wprowadza ograniczenia kwotowe lub czasowe dotyczące kredytu, przyjmuje się, że kwota kredytu została wypłacona w najwcześniejszym przewidzianym w umowie terminie i zgodnie z tymi limitami wypłat;
+- **3)** jeżeli umowa o kredyt przewiduje różne sposoby dokonywania wypłat z zastosowaniem różnych opłat lub różnych stóp oprocentowania kredytu, przyjmuje się, że całkowita kwota kredytu jest wypłacana z zastosowaniem najwyższej możliwej opłaty i stopy oprocentowania kredytu, mających zastosowanie do najbardziej rozpowszechnionych mechanizmów dokonywania wypłat w danym rodzaju umowy o kredyt;
+- **4)** w przypadku kredytu w rachunku oszczędnościowo-rozliczeniowym przyjmuje się, że całkowita kwota kredytu została wypłacona w całości i na cały okres obowiązywania umowy o kredyt. Jeżeli okres, na jaki udzielono kredytu w rachunku oszczędnościowo-rozliczeniowym, nie jest znany, obliczenia rzeczywistej rocznej stopy oprocentowania dokonuje się przy założeniu, że czas trwania kredytu wynosi trzy miesiące;
+- **5)** w przypadku kredytu, innego niż w rachunku oszczędnościowo-rozliczeniowym, podlegającego pełnej spłacie w ciągu jakiegoś okresu lub po jego zakończeniu i w ramach którego, po dokonaniu spłaty, istnieje możliwość dokonania ponownej wypłaty, gdy umowa o kredyt ten zawarta została na czas nieokreślony, zakłada się, że:
+    - **a)** kredytu udziela się na okres jednego roku, począwszy od dnia pierwszej wypłaty, i płatność końcowa dokonana przez konsumenta pokrywa ewentualny kapitał pozostający do spłaty, ewentualne odsetki i inne opłaty,
+    - **b)** kapitał jest spłacany przez konsumenta w równych płatnościach miesięcznych, przy czym pierwsza płatność jest dokonywana po upływie miesiąca od daty pierwszej wypłaty. Jednakże w przypadkach gdy spłata kapitału musi nastąpić w całości, w jednej płatności, w ramach każdorazowego okresu płatności, zakłada się, że kolejne wypłaty i spłaty całego kapitału przez konsumenta następują w okresie jednego roku. Odsetki i inne opłaty stosuje się odpowiednio do tych wypłat i spłat kapitału oraz zgodnie z ustaleniami umowy o kredyt;
+
+- **6)** w przypadku umowy o kredyt inny niż kredyty, o których mowa w pkt 4 i 5:
+    - **a)** jeżeli nie można ustalić terminu lub kwoty spłaty kapitału, do której jest zobowiązany konsument, zakłada się, że spłaty dokonano w najwcześniejszym terminie przewidzianym w umowie o kredyt z zastosowaniem najniższej kwoty przewidzianej w umowie o kredyt,
+    - **b)** jeżeli data zawarcia umowy o kredyt nie jest znana, zakłada się, że dzień pierwszej wypłaty to dzień ustalony na podstawie najkrótszego odstępu czasu między tym dniem a dniem pierwszej płatności, do której jest zobowiązany konsument;
+
+- **7)** jeżeli na podstawie umowy o kredyt lub założeń określonych w pkt 4–6 nie można ustalić terminu lub kwoty płatności, do której jest zobowiązany konsument, zakłada się, że płatności dokonano zgodnie z terminami i warunkami wymaganymi przez kredytodawcę, a jeżeli te nie są znane, zakłada się, że:
+    - **a)** odsetki podlegają zapłacie wraz ze spłatą kapitału,
+    - **b)** opłata inna niż odsetki wyrażona w pojedynczej kwocie podlega zapłacie w dniu zawarcia umowy o kredyt,
+    - **c)** opłaty inne niż odsetki wyrażone jako szereg płatności podlegają zapłacie w regularnych odstępach czasu, począwszy od dnia pierwszej spłaty kapitału, przy czym w przypadku gdy kwoty takich płatności nie są znane, zakłada się, że kwoty te są jednakowe,
+    - **d)** płatność końcowa pokrywa ewentualny kapitał pozostający do spłaty, ewentualne odsetki i inne opłaty;
+
+- **8)** jeżeli maksymalny pułap kredytu nie został ustalony, przyjmuje się, że wynosi on w walucie polskiej równowartość 1500 euro ustaloną z zastosowaniem średniego kursu tej waluty ogłoszonego przez Narodowy Bank Polski z dnia obliczania rzeczywistej rocznej stopy oprocentowania;
+- **9)** jeżeli dla danego okresu lub dla danej kwoty oferuje się różne stopy oprocentowania kredytu i różną wysokość opłat, za stopę oprocentowania kredytu i opłaty w całym okresie obowiązywania umowy o kredyt przyjmuje się najwyższą stopę i najwyższe opłaty;
+- **10)** w przypadku umów o kredyt konsumencki, w których ustalono stałą stopę oprocentowania kredytu w odniesieniu do początkowego okresu, na koniec którego ustala się nową stopę oprocentowania, która następnie jest okresowo zmieniana zgodnie z uzgodnionym wskaźnikiem, rzeczywistą roczną stopę oprocentowania oblicza się na podstawie założenia, że po zakończeniu okresu, w którym obowiązuje stała stopa oprocentowania kredytu, stopa oprocentowania kredytu jest taka sama jak w chwili obliczania rzeczywistej rocznej stopy oprocentowania i opiera się na obowiązującej w tym czasie wartości uzgodnionego wskaźnika.
+
 

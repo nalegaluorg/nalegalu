@@ -8,10 +8,10 @@ pos: 332
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 9 lutego 2022 r.
+# Obwieszczenie Ministra Finansówz dnia 20 stycznia 2022 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Finansów w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock
 
 | Pole | Wartość |
 |---|---|
@@ -25,18 +25,54 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20220000332) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2022/332/text.pdf) |
 
-VAT-UE ❑ ❑          OBJAŚNIENIA OGÓLNE
-1. SKŁADAJĄCY Informację podsumowującą o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock składają podatnicy podatku od towarów i usług oraz osoby prawne niebędące podatnikami w rozumieniu art. 15 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług, zwanej dalej „ustawą”, zarejestrowani jako podatnicy VAT-UE, dokonujący wewnątrzwspólnotowej dostawy towarów, wewnątrzwspólnotowego nabycia towarów lub wewnątrzwspólnotowego świadczenia usług lub dokonujący przemieszczenia towarów w procedurze magazynu typu call-off stock na terytorium państwa członkowskiego inne niż terytorium kraju.
-2. TERMIN SKŁADANIA Informację podsumowującą składa się za pomocą środków komunikacji elektronicznej do 25. dnia miesiąca następującego po miesiącu, w którym powstał obowiązek podatkowy z tytułu transakcji, o których mowa w art. 100 ust. 1 pkt 1–4 ustawy, lub dokonano przemieszczenia towarów lub zmiany w zakresie procedury, o których mowa w art. 100 ust. 1 pkt 5 ustawy.
-OBJAŚNIENIA SZCZEGÓŁOWE
-1. W poz. 1 należy wpisać identyfikator podatkowy NIP podatnika nadany zgodnie z ustawą z dnia 13 października 1995 r. o zasadach ewidencji i identyfikacji podatników i płatników (Dz. U. z 2022 r.
-poz. 166), podany w potwierdzeniu dokonanym przez naczelnika urzędu skarbowego zgodnie z art. 97 ust. 9 ustawy.
-2. W poz. 6 wpisuje się urząd skarbowy właściwy ze względu na adres siedziby podatnika, jeżeli podatnik jest osobą prawną lub jednostką organizacyjną niemającą osobowości prawnej, lub urząd skarbowy właściwy ze względu na miejsce zamieszkania, jeżeli podatnik jest osobą fizyczną;
-w przypadku gdy podatnik nie posiada siedziby działalności gospodarczej lub stałego miejsca prowadzenia działalności gospodarczej na terytorium kraju, wpisuje się Drugi Urząd Skarbowy Warszawa-Śródmieście. W przypadku gdy podatnicy nieposiadający siedziby działalności gospodarczej na terytorium kraju posiadają na tym terytorium stałe miejsce prowadzenia działalności gospodarczej, właściwość organów podatkowych ustala się według tego stałego miejsca prowadzenia działalności.
-3. Dopuszczalny kod i nazwa kraju: AT Austria, BE Belgia, BG Bułgaria, DE Niemcy, DK Dania, EL Grecja, ES Hiszpania, FI Finlandia, FR Francja, GB Wielka Brytania, HR Chorwacja, IE Irlandia, IT Włochy, LU Luxemburg, NL Holandia, PT Portugalia, RO Rumunia, SE Szwecja, CY Cypr, CZ Czechy, EE Estonia, LT Litwa, LV Łotwa, MT Malta, SK Słowacja, SI Słowenia, HU Węgry, XI Irlandia Północna.
-4. W części C informacji (VAT-UE): − w kolumnie a należy wpisać kod kraju kontrahenta (nabywcy towaru), − w kolumnie b należy wpisać poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta (nabywcy towaru) nadany przez państwo członkowskie właściwe dla kontrahenta, − w kolumnie c należy wpisać łączną wartość dostaw dokonanych w miesiącu, za który składana jest informacja, dla poszczególnych kontrahentów, − w kolumnie d należy zaznaczyć  dla tych pozycji, w stosunku do których ma zastosowanie procedura uproszczona, zgodnie z art. 135–138 ustawy, i podmiot wypełniający informację jest w tej procedurze drugim w kolejności podatnikiem.
-5. W części D informacji (VAT-UE): − w kolumnie a należy wpisać kod kraju kontrahenta (dostawcy towaru), − w kolumnie b należy wpisać poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta (dostawcy towaru) nadany przez państwo członkowskie właściwe dla kontrahenta, − w kolumnie c należy wpisać łączną wartość nabyć dokonanych w miesiącu, za który składana jest informacja, dla poszczególnych kontrahentów, − w kolumnie d należy zaznaczyć  dla tych pozycji, w stosunku do których ma zastosowanie procedura uproszczona, zgodnie z art. 135–138 ustawy, i podmiot wypełniający informację jest w tej procedurze drugim w kolejności podatnikiem.
-6. W części E informacji (VAT-UE): − w kolumnie a należy wpisać kod kraju kontrahenta (usługobiorcy), − w kolumnie b należy wpisać poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta (usługobiorcy) nadany przez państwo członkowskie właściwe dla kontrahenta, − w kolumnie c należy wpisać łączną wartość usług, o których mowa w art. 100 ust. 1 pkt 4 ustawy, wykonywanych w miesiącu, za który składana jest informacja, dla poszczególnych kontrahentów.
-7. W części F informacji (VAT-UE): − w kolumnie a należy wpisać kod kraju kontrahenta (podatnika podatku od wartości dodanej, na rzecz którego towary zostały przemieszczone w procedurze magazynu typu call-off stock, uprawnionego do nabycia prawa do rozporządzania towarami jak właściciel zgodnie z zawartym wcześniej porozumieniem), − w kolumnie b należy wpisać poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta (podatnika podatku od wartości dodanej, na rzecz którego towary zostały przemieszczone w procedurze magazynu typu call-off stock, uprawnionego do nabycia prawa do rozporządzania towarami jak właściciel) nadany przez państwo członkowskie właściwe dla kontrahenta, a w przypadku gdy ma miejsce zastąpienie, o którym mowa w art. 13j ustawy, poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta zastępującego (podatnika podatku od wartości dodanej uprawnionego do nabycia prawa do rozporządzania towarami jak właściciel) nadany przez państwo członkowskie właściwe dla kontrahenta zastępującego, − w kolumnie c należy wpisać poprawny numer identyfikacyjny dla transakcji wewnątrzwspólnotowych kontrahenta zastąpionego (podatnika podatku od wartości dodanej, na rzecz którego towary zostały przemieszczone w procedurze magazynu typu call-off stock, który był uprawniony do nabycia prawa do rozporządzania towarami jak właściciel) nadany przez państwo członkowskie właściwe dla kontrahenta, w przypadku gdy ma miejsce zastąpienie, o którym mowa w art. 13j ustawy, − w kolumnie d należy zaznaczyć  dla tych pozycji, w stosunku do których ma miejsce powrotne przemieszczenie, o którym mowa w art. 13l ust. 2 ustawy.
-VAT-UEK ❑ ❑                  
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Finansów z dnia 26 czerwca 2020 r. w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock
+
+## Załącznik nr 1 — – VAT-UE: Informacja podsumowująca o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (wzór)
+
+## Załącznik nr 2 — – Objaśnienia do informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UE) (wzór)
+
+## Załącznik nr 3 — – VAT-UEK: Korekta informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (wzór)
+
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Finansów z dnia 26 czerwca 2020 r. w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (Dz. U. poz. 1138), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 stycznia 2021 r. zmieniającym rozporządzenie w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (Dz. U. poz. 196).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje odnośnika nr 2 oraz § 2 i § 3 rozporządzenia Ministra Finansów, Funduszy i Polityki Regionalnej z dnia 28 stycznia 2021 r. zmieniającego rozporządzenie w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (Dz. U. poz. 196), które stanowią: „ 2) Niniejsze rozporządzenie w zakresie swojej regulacji wdraża dyrektywę Rady (UE) 2020/1756 z dnia 20 listopada 2020 r. zmieniającą dyrektywę 2006/112/WE w sprawie wspólnego systemu podatku od wartości dodanej w zakresie identyfikacji podatników w Irlandii Północnej (Dz. Urz. UE L 396 z 25.11.2020, str. 1). ”
+„
+§ 2.
+
+## Załącznik nr 2 — do rozporządzenia zmienianego w § 1, w brzmieniu nadanym niniejszym rozporządzeniem, stosuje się począwszy od rozliczenia za styczeń 2021 r.
+
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 lutego 2021 r.
+” .
+Załącznik – Rozporządzenie Ministra Finansów z dnia 26 czerwca 2020 r. w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock
+Na podstawie art. 102 ust. 1 ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2021 r. poz. 685, z późn. zm.) zarządza się, co następuje:
+§ 1.
+Określa się:
+1)
+wzór informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock, stanowiący załącznik nr 1 do rozporządzenia, oraz objaśnienia do tej informacji, stanowiące załącznik nr 2 do rozporządzenia;
+2)
+wzór korekty informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock wraz z objaśnieniami, stanowiący załącznik nr 3 do rozporządzenia.
+§ 2.
+1.
+Wzory, o których mowa w § 1, stosuje się począwszy od rozliczenia za czerwiec 2020 r.
+2.
+W przypadku, o którym mowa w art. 12 ust. 2 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 1106 i 2123 oraz z 2021 r. poz. 694), wzory, o których mowa w § 1, stosuje się do rozliczenia za styczeń, luty, marzec, kwiecień lub maj 2020 r.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2020 r.
+1) Minister Finansów kieruje działem administracji rządowej – finanse publiczne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 października 2021 r. w sprawie szczegółowego zakresu działania Ministra Finansów (Dz. U. poz. 1947). 2) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 694, 802, 1163, 1243, 1598, 1626, 2076, 2105 i 2427 oraz z 2022 r. poz. 196. 3) Niniejsze rozporządzenie było poprzedzone rozporządzeniem Ministra Rozwoju i Finansów z dnia 27 grudnia 2016 r. w sprawie informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach (Dz. U. poz. 2268), które utraciło moc z dniem wejścia w życie niniejszego rozporządzenia zgodnie z art. 20 ustawy z dnia 28 maja 2020 r. o zmianie ustawy o podatku dochodowym od osób prawnych, ustawy o podatku od towarów i usług, ustawy o wymianie informacji podatkowych z innymi państwami oraz niektórych innych ustaw (Dz. U. poz. 1106).
+
+## Załącznik nr 1 — – VAT-UE: Informacja podsumowująca o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Objaśnienia do informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (VAT-UE) (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – VAT-UEK: Korekta informacji podsumowującej o dokonanych wewnątrzwspólnotowych transakcjach i przemieszczeniach towarów w procedurze magazynu typu call-off stock (wzór)
+
+patrz oryginał
 

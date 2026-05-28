@@ -24,7 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2007-02-16 |
 | Data wydania | 2007-03-23 |
-| Ostatnia zmiana | 2026-05-15 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20070520343) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2007/343/text.pdf) |
 
 Art. 68-70. (pominięte)
@@ -32,6 +32,13 @@ Art. 68-70. (pominięte)
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa zasady:
+
+- **1)** tworzenia, utrzymywania i finansowania zapasów ropy naftowej, produktów naftowych i gazu ziemnego;
+- **2)** przeprowadzania kontroli u podmiotów objętych obowiązkiem tworzenia i utrzymywania zapasów, o których mowa w pkt 1, a także u przedsiębiorców świadczących usługi magazynowania oraz którym zlecono tworzenie i utrzymywanie zapasów;
+- **3)** postępowania w sytuacjach zagrożenia bezpieczeństwa paliwowego państwa i bezpieczeństwa gazowego państwa oraz wypełniania zobowiązań międzynarodowych dotyczących zaopatrzenia rynku w ropę naftową, produkty naftowe i gaz ziemny, w tym:
+    - **a)** dysponowania zapasami, o których mowa w pkt 1,
+    - **b)** warunki zaopatrzenia w ropę naftową, produkty naftowe i gaz ziemny,
+    - **c)** zakres wprowadzanych ograniczeń w dostarczaniu, poborze i zużyciu produktów naftowych i gazu ziemnego.
 
 **Art. 2.**
 
@@ -177,6 +184,14 @@ Art. 68-70. (pominięte)
 17. W przypadku braku możliwości usunięcia awarii, o której mowa w ust. 15, w terminie 3 miesięcy, z przyczyn niezależnych od właściciela magazynu lub właściciela systemów przesyłowych, Prezes Agencji, w drodze decyzji, odpowiednio na wniosek właściciela magazynu lub właściciela systemów przesyłowych, wyraża zgodę na przedłużenie okresu na usunięcie awarii o kolejne 3 miesiące, jeżeli ustali, że przyczyny nieusunięcia awarii były niezależne od właściciela magazynu lub właściciela systemów przesyłowych, w szczególności w przypadku braku dostępności urządzeń niezbędnych do usunięcia tej awarii.
 
 **Art. 4.** Minister właściwy do spraw gospodarki surowcami energetycznymi corocznie, w terminie do dnia 15 marca, ogłasza, w drodze obwieszczenia, w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski”:
+
+- **1)** wielkości:
+    - **a)** średniego dziennego przywozu netto ekwiwalentu ropy naftowej,
+    - **b)** średniego dziennego zużycia krajowego brutto ekwiwalentu ropy naftowej,
+    - **c)** średniej dziennej produkcji netto gazu płynnego (LPG),
+    - **d)** średniego dziennego przywozu gazu płynnego (LPG) – w poprzednim roku kalendarzowym, na podstawie danych statystycznych przekazywanych lub zebranych w ramach badań statystyki publicznej określanych corocznie w programach badań statystycznych statystyki publicznej, oraz
+
+- **2)** wartości współczynników określających gęstość produktów naftowych służących do ich przeliczenia z jednostek objętościowych na jednostki wagowe, stosowanych w okresie od dnia 30 czerwca danego roku kalendarzowego do dnia 29 czerwca następnego roku kalendarzowego.
 
 **Art. 5.**
 
@@ -754,6 +769,15 @@ Art. 68-70. (pominięte)
 
 **Art. 21c.** [1. Zapasy agencyjne mogą być utrzymywane w postaci:
 
+- **1)** ropy naftowej;
+- **2)** paliw.] <1. Zapasy agencyjne są utrzymywane co najmniej w 75 % w postaci paliw, w pozostałej części zapasy te mogą być utrzymywane w postaci ropy naftowej.>
+
+2. W przypadku niewydania na okres całego danego roku kalendarzowego decyzji o nadaniu paliwom utrzymywanym w ramach zapasów agencyjnych statusu zapasów specjalnych, o której mowa w art. 21e ust. 1, Agencja poprzez zmianę struktury zapasów agencyjnych zapewnia, aby co najmniej jedna trzecia zapasów interwencyjnych była utrzymywana w postaci tych paliw, których suma dostaw krajowych brutto w poprzednim roku kalendarzowym, przeliczona na ekwiwalent ropy naftowej współczynnikiem 1,2 stanowiła 75 % zużycia krajowego brutto ekwiwalentu ropy naftowej. Każde z tych paliw powinno być utrzymywane w ilości odpowiadającej co najmniej jego 30-dniowemu średniemu dziennemu zużyciu krajowemu brutto ekwiwalentu ropy naftowej w poprzednim roku kalendarzowym.
+
+3. Szczegółową strukturę zapasów agencyjnych określa plan rzeczowy Funduszu Zapasów Agencyjnych.
+
+4. Utworzone i utrzymywane przez Agencję zapasy agencyjne stanowią majątek Skarbu Państwa, chyba że z umowy, o której mowa w art. 21d ust. 2, wynika, że zapasy te stanowią majątek przyjmującego zlecenie.
+
 **Art. 21d.**
 
 1. Prezes Agencji może zlecić, na podstawie umowy, magazynowanie zapasów agencyjnych przedsiębiorcom świadczącym usługi magazynowania ropy naftowej lub paliw. Przepisy art. 10 ust. 1a i 2 stosuje się odpowiednio.
@@ -1042,6 +1066,15 @@ Art. 68-70. (pominięte)
 
 **Art. 28b.** Środki Funduszu pochodzą z:
 
+- **1)** opłaty zapasowej, o której mowa w art. 21b ust. 1;
+- **2)** wpływów związanych z interwencyjnym uwolnieniem zapasów agencyjnych oraz z ich wymianą i zamianą;
+- **3)** odszkodowań z tytułu ubezpieczenia zapasów agencyjnych;
+- **4)** odsetek z tytułu oprocentowania środków Funduszu oraz odsetek od lokat okresowo wolnych środków Funduszu;
+- **5)** wpływów z kar, o których mowa w art. 63 ust. 1 pkt 1–5a, 7, 8, 18–18b i 20;
+- **6)** darowizn i zapisów;
+- **7)** pożyczek z budżetu państwa;
+- **8)** wpływów z innych tytułów.
+
 **Art. 28c.**
 
 1. Środki Funduszu przeznacza się na realizację zadań Agencji w zakresie zapasów interwencyjnych w szczególności na:
@@ -1073,6 +1106,9 @@ Art. 68-70. (pominięte)
 4. Projekt zmiany planu finansowego w zakresie kwot przychodów i kosztów funduszu jest sporządzany przez Prezesa Agencji i wymaga uzgodnienia z ministrem właściwym do spraw gospodarki surowcami energetycznymi.
 
 **Art. 28e.** Prezes Agencji składa ministrowi właściwemu do spraw gospodarki surowcami energetycznymi:
+
+- **1)** w terminie do końca miesiąca następującego po każdym kwartale – informację o realizacji planu finansowego Funduszu;
+- **2)** niepóźniej niż do końca marca po zakończeniu roku finansowego – roczne sprawozdanie z wykonania planu finansowego Funduszu.
 
 **Art. 28f.** Pożyczki, o których mowa w art. 28b pkt 7, mogą zostać zaciągnięte przez Prezesa Agencji po uzyskaniu zgody ministra właściwego do spraw gospodarki surowcami energetycznymi oraz ministra właściwego do spraw finansów publicznych, pod warunkiem ich spłaty do końca roku kalendarzowego, w którym zostały zaciągnięte.
 
@@ -1306,6 +1342,13 @@ Art. 68-70. (pominięte)
 
 **Art. 34.** W sytuacji, o której mowa w art. 32 ust. 1 pkt 2, minister właściwy do spraw gospodarki surowcami energetycznymi może:
 
+- **1)** w drodze rozporządzenia, zezwolić producentom lub handlowcom na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek na terytorium Rzeczypospolitej Polskiej lub jego części, określając wielkość obniżenia tych zapasów oraz termin ich odtworzenia, biorąc pod uwagę ustalenia organów organizacji międzynarodowych, wobec których Rzeczpospolita Polska ma wiążące zobowiązania lub uzgodnienia dokonane z takimi organizacjami;
+- **2)** w drodze decyzji:
+    - **a)** (uchylona)
+    - **b)** zezwolić na obniżenie ilości zapasów obowiązkowych ropy naftowej lub paliw przez ich wprowadzenie na rynek przez określonych producentów lub handlowców, określając wielkość obniżenia oraz termin odtworzenia tych zapasów, lub
+    - **c)** nakazać producentom lub handlowcom przedstawienie oferty sprzedaży określonej ilości ropy naftowej lub paliw z zapasów obowiązkowych ropy naftowej lub paliw, określając termin jej obowiązywania,
+    - **d)** obniżyć zapasy agencyjne przez ich wprowadzenie na rynek, określając wielkości obniżenia tych zapasów, sposób dokonania sprzedaży ropy naftowej lub paliw, podstawę ustalenia ceny sprzedaży ropy naftowej i paliw oraz termin odtworzenia tych zapasów, biorąc pod uwagę ustalenia organów organizacji międzynarodowych, wobec których Rzeczpospolita Polska ma wiążące zobowiązania lub uzgodnienia dokonane z takimi organizacjami.
+
 **Art. 34a.**
 
 1. W okresie obowiązywania obniżonych stawek podatku od towarów i usług określonych w przepisach wydanych na podstawie art. 146ej ustawy z dnia 11 marca 2004 r. o podatku od towarów i usług (Dz. U. z 2025 r. poz. 775, z późn. zm. ) dla paliw ciekłych w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw (Dz. U. z 2025 r. poz. 1529) obowiązuje cena maksymalna paliw ciekłych w rozumieniu art. 2 ust. 1 pkt 4 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw na stacji paliw. Podmioty dokonujące sprzedaży paliwa są obowiązane do stosowania ceny sprzedaży niewyższej niż cena maksymalna, o której mowa w zdaniu pierwszym.
@@ -1347,6 +1390,10 @@ Art. 68-70. (pominięte)
 **Art. 36.** W przypadku konieczności podjęcia działań, o których mowa w art. 33 ust. 1 lub w art. 34, minister właściwy do spraw gospodarki surowcami energetycznymi może, w drodze rozporządzenia, dopuścić do obrotu paliwa, które nie spełniają określonych w przepisach wymagań jakościowych, po uzyskaniu zgody Komisji Europejskiej, w trybie określonym w art. 6 ust. 2 ustawy z dnia 25 sierpnia 2006 r. o systemie monitorowania i kontrolowania jakości paliw, w odniesieniu do paliw, w zakresie których taka zgoda jest wymagana.
 
 **Art. 37.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia, szczegółowy sposób obniżania ilości zapasów obowiązkowych ropy naftowej lub paliw, w szczególności:
+
+- **1)** tryb postępowania przy wydawaniu decyzji, o których mowa w art. 33 ust. 1 pkt 3 oraz w art. 34 pkt 2 lit. b i c,
+- **2)** dane, które powinny być zawarte we wnioskach o wydanie decyzji, o których mowa w art. 33 ust. 1 pkt 3,
+- **3)** kategorie podmiotów o szczególnym znaczeniu dla funkcjonowania państwa lub gospodarki, ochrony życia, zdrowia lub bezpieczeństwa obywateli, mające prawo do pierwszeństwa zaopatrzenia w paliwa pochodzące z zapasów obowiązkowych ropy naftowej lub paliw oraz ich miejsce w systemie priorytetowego zaopatrzenia w ropę naftową i paliwa – biorąc pod uwagę konieczność zapewnienia sprawnego procesu podejmowania decyzji oraz konieczność zapewnienia priorytetowego zaopatrzenia w paliwa wymienionych podmiotów.
 
 **Art. 38.**
 
@@ -1428,6 +1475,11 @@ Art. 68-70. (pominięte)
 **Art. 45.** Do informacji zawartych w dokumentach, o których mowa w art. 31, oraz planach, o których mowa w art. 44 ust. 1 pkt 4, stosuje się odpowiednio przepisy ustawy z dnia 5 sierpnia 2010 r. o ochronie informacji niejawnych.
 
 **Art. 46.** Minister właściwy do spraw gospodarki surowcami energetycznymi określi, w drodze rozporządzenia:
+
+- **1)** organy uprawnione do wydawania odbiorcom upoważnień, o których mowa w art. 41 ust. 1 pkt 1,
+- **2)** wzory upoważnień do:
+    - **a)** zakupu określonej ilości paliw, o których mowa w art. 41 ust. 1 pkt 1,
+    - **b)** przeprowadzenia kontroli przestrzegania ograniczeń, o których mowa w art. 44 ust. 1 – uwzględniając konieczność zapewnienia sprawności wydawania tych upoważnień.
 
 **Art. 47.**
 

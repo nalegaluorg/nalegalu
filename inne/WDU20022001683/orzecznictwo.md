@@ -2,8 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o zmianie ustawy o podatkach i opłatach lokalnych oraz o zmianie niektórych innych ustaw.*
 
-Łącznie: **5** orzeczeń
-(pominięto 1 orzeczeń sądów rejonowych)
+Łącznie: **2** orzeczeń
 
 ## art. 1 (1)
 
@@ -24,15 +23,6 @@ Orzeczenia powołujące: *Ustawa z dnia 30 października 2002 r. o zmianie ustaw
 ## art. 7 (1)
 
 - 2003-10-29 | TK | [K 53/02](https://www.saos.org.pl/judgments/106353) | Wyrok ★
-
-## art. 9 (2)
-
-- 2012-08-09 | SN | [V CSK 371/11](https://www.saos.org.pl/judgments/98819) | Wyrok ★
-- 2016-05-25 | SO | [V ACa 748/15](https://www.saos.org.pl/judgments/482558) | Wyrok
-
-## art. 10 (1)
-
-- 2009-04-02 | SN | [IV CSK 505/08](https://www.saos.org.pl/judgments/89987) | Wyrok ★
 
 ## art. 11 (1)
 

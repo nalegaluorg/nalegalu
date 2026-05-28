@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ustalenia granicy od strony lądu portu morskiego w Pucku.
+# Lp. drogi (dojazdu) 1 W miastach, na terenach oraz magazynów 2 Na terenach wiejskich jednostek osadniczych
 
 | Pole | Wartość |
 |---|---|
@@ -21,14 +21,25 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1999-01-11 |
+| Wejście w życie | 1999-02-10 |
 | Ostatnia zmiana | 2014-12-31 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19990070065) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1999/65/text.pdf) |
 
-Na podstawie art. 45 ust. 1 ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz.U. Nr 32, poz. 131, z 1994 r. Nr 27, poz. 96, z 1995 r. Nr 7, poz. 31 i Nr 47, poz. 243, z 1996 r. Nr 34, poz. 145 oraz z 1997 r. Nr 111, poz. 726) zarządza się, co następuje: § 1.
-Granicę od strony lądu portu morskiego w Pucku ustala się, jak następuje: Poczynając od punktu A, zlokalizowanego na główce falochronu wschodniego basenu jachtowego, granica biegnie wzdłuż wschodniej krawędzi falochronu do punktu B, położonego w odległości 145 m od główki falochronu, stanowiącego styk falochronu z ustalona linią umocnienia brzegowego, dalej wzdłuż krawędzi ustalonej linii umocnienia brzegowego 11, 5 m w kierunku wschodnim, następnie po załamaniu w kierunku południowo-wschodnim 112 m do punktu C, stanowiącego zakończenie ustalonej linii umocnienia brzegowego. Dalej granica biegnie w kierunku południowo-zachodnim do punktu D, zlokalizowanego u wschodniego podnóża schodów zejściowych na plażę, następnie przez punkty E-F okalające schody po zachodniej ich stronie; w punkcie F granica skręca w kierunku zachodnim i biegnie północna stroną linii regulacyjnej ul. Kościuszki do punktu G, gdzie skręca w kierunku północnym wzdłuż granicy działek nr 179 i 178; dochodzi do ul.
-Żeglarzy w punkcie H; następnie północną stroną linii regulacyjnej tej ulicy granica dochodzi do punktu J - przy budynku gospodarczym; dalej po zachodniej stronie tego budynku granica biegnie przez Punkt K do punktu L, stanowiącego południowo-zachodni narożnik działki nr 197/1. Granica skręca w kierunku północnym i wzdłuż granicy z działką nr 114 dochodzi do punktu M; dalej biegnie w kierunku zachodnim wzdłuż granicy działek nr 197/1 i 114 do punktu N. W punkcie N skręca na północny zachód wzdłuż granicy działek nr 197/1 i 112/2 dochodzi do punktu O, stanowiącego styk z ustalona południową krawędzią rowu melioracyjnego, a następnie wzdłuż tego rowu w kierunku północnym do punktu P, zlokalizowanego na linii brzegowej granicy północno-zachodniej działki nr 197/1.
-§ 2.
-Linia przebiegu granicy, o której mowa w § 1, oznaczona jest na mapie w skali 1:500, która dostępna jest do wglądu w Urzędzie Miejskim w Pucku i w Urzędzie Morskim w Gdyni.
-§ 3.
-Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+4. W szczególnie uzasadnionych przypadkach, gdy wymagania usytuowania drogi nie dopuszcza stosowanie in nych uzgodnionych miejsco wo komendantem wojewódzkim
+13. 1. Przejazdy na inne tereny obu dowane powinny warun kom:
+1) przejazdu powinna co najmniej 4,2 m, a budownictwie jednorodzin nym 3,2 m,
+2) przejazdu powinna co najmniej 3,6 m, tym jezdni co najmniej 3m,
+3) przejazdami na jeden dziedziniec nie 150 m.
+2. W przejazdach, których jezdnie oddzielone od chodników lub jezdnia powinna co najmniej 3,6 m.
+3. przejazd jest wykorzystywany jako dla pieszych, powinien nim zapewnio ny chodnik o co najmniej 1 m.
+14. Wiadukty, estakady, inne podobne usytuowane ponad drogami powinny o co najmniej 4,5 m co najmniej 4,5 m.
+65 MINISTRA TRANSPORTU dnia 11 stycznia sprawie ustalenia granicy od strony Na podstawie art. 45 ust. 1 ustawy dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej do punktu B, 145 m od ki falochronu, styk falochronu ustalo umocnienia brzegowego, dalej dzi ustalonej linii umocnienia brzegowego 11,5 m kierunku wschodnim, po kie runku 112 m do punktu C, sta ustalonej linii umocnienia brzegowego. Dalej granica biegnie kierunku dniowo-zachodnim do punktu D, zlokalizowanego u wschodniego schodów na pla przez punkty E-F schody po zachodniej ich stronie; punkcie F granica kierunku zachodnim biegnie linii regulacyjnej ul. do punktu G, gdzie kierunku granicy nr 179 178; dochodzi do ul. Żeglarzy punkcie H; następnie linii regulacyjnej tej ulicy granica do chodzi do punktu J przy budynku gospodarczym;
+dalej po zachodniej stronie tego budynku granica bie gnie przez punkt K do punktu L, dniowo-zachodni nr 197/1. Granica 66 MINISTRA ZDROWIA dnia 15 stycznia sprawie ustalenia zakresu niezbędnych danych gromadzonych informatycznych Kas Chorych, a zakresu procedury Kasami Chorych a Nadzoru Kas Chorych.
+Na podstawie art. 167 ust. 8 pkt 4 ustawy dnia 61u tego 1997 r. o powszechnym ubezpieczeniu zdrowot nym (Dz. U. Nr 28, poz. 153 Nr 75, poz. 468 oraz 1998 r. Nr 117, poz. 756, Nr 137, poz. 887, Nr 144, poz. 929 Nr 162, poz. 1116) co je:
+1. Świadczeniodawcy gromadzą następujące da ne udzielonym zdro wotnym, zwanym dalej pacjenta, któremu udzielono
+a) nazwisko,
+b) (imiona),
+c) numer ewidencyjny PESEL, nadany,
+d) data urodzenia,
+e)
 

@@ -8,12 +8,10 @@ pos: 857
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o sporcie
-
-*USTAWA z dnia 25 czerwca 2010 r.*
+# Ustawa z dnia 25 czerwca 2010 r. o sporcie
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2010-06-25 |
 | Data wydania | 2010-07-15 |
+| Wejście w życie | 2010-10-16 |
 | Ostatnia zmiana | 2026-05-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20101270857) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2010/857/text.pdf) |
 
-Art. 53–75. (pominięte)
+1)
+sportu;
+2)
+wychowania fizycznego;
+3)
+rehabilitacji ruchowej.
+” .
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -36,8 +41,6 @@ Art. 53–75. (pominięte)
 **Art. 2.**
 
 1. Sportem są wszelkie formy aktywności fizycznej, które przez uczestnictwo doraźne lub zorganizowane wpływają na wypracowanie lub poprawienie kondycji fizycznej i psychicznej, rozwój stosunków społecznych lub osiągnięcie wyników sportowych na wszelkich poziomach.
-
-1a. Za sport uważa się również współzawodnictwo oparte na aktywności intelektualnej, którego celem jest osiągnięcie wyniku sportowego.
 
 2. Sport wraz z wychowaniem fizycznym i rehabilitacją ruchową składają się na kulturę fizyczną.
 
@@ -53,19 +56,13 @@ Art. 53–75. (pominięte)
 
 1. Szczególnym rodzajem klubu sportowego jest uczniowski klub sportowy.
 
-2. Uczniowski klub sportowy działa na zasadach przewidzianych w przepisach ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2020 r. poz.
-
-- **2261)** , z wyłączeniem przepisów dotyczących rejestracji.
+2. Uczniowski klub sportowy działa na zasadach przewidzianych w przepisach ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach (Dz. U. z 2001 r. Nr 79, poz. 855, z 2003 r. Nr 96, poz. 874, z 2004 r. Nr 102, poz. 1055 oraz z 2007 r. Nr 112, poz. 766), z wyłączeniem przepisów dotyczących rejestracji.
 
 3. Członkami uczniowskiego klubu sportowego mogą być w szczególności uczniowie, rodzice i nauczyciele.
 
-4. Uczniowski klub sportowy podlega wpisowi do ewidencji prowadzonej przez starostę właściwego ze względu na siedzibę klubu. Wpisu i wykreślenia wpisu z ewidencji dokonuje się na podstawie wniosku. Wpis, odmowa wpisu do ewidencji i wykreślenie wpisu z ewidencji następuje w drodze decyzji.
+4. Uczniowski klub sportowy podlega wpisowi do ewidencji prowadzonej przez starostę właściwego ze względu na siedzibę klubu. Wpisu do ewidencji dokonuje się na podstawie wniosku. Wpis i odmowa wpisu do ewidencji następuje w drodze decyzji.
 
-4a. Do wpisu do ewidencji uczniowskich klubów sportowych stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2025 r. poz. 1691).
-
-4b. Sprawę wpisu uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie strony występującej z wnioskiem o wpis, jeżeli w terminie 30 dni od daty doręczenia wniosku właściwemu terytorialnie staroście, organ ten nie wyda decyzji o wpisie, albo decyzji o odmowie wpisu.
-
-5. Do wniosku o wpis do ewidencji, o którym mowa w ust. 4, dołącza się:
+5. Do wniosku, o którym mowa w ust. 4, dołącza się:
 
 - **1)** statut;
 - **2)** listę założycieli, zawierającą ich imiona i nazwiska, daty i miejsca urodzenia, miejsca zamieszkania oraz własnoręczne podpisy;
@@ -76,20 +73,6 @@ Art. 53–75. (pominięte)
 7. Przepisy ust. 2 i 4–6 stosuje się odpowiednio do innych niż uczniowskie klubów sportowych działających w formie stowarzyszenia, których statuty nie przewidują prowadzenia działalności gospodarczej.
 
 8. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, sposób prowadzenia ewidencji uczniowskich klubów sportowych i klubów sportowych, o których mowa w ust. 7, oraz dane podlegające wpisowi do ewidencji, biorąc pod uwagę konieczność zapewnienia jednolitego sposobu prowadzenia ewidencji.
-
-**Art. 4a.**
-
-1. Uczniowski klub sportowy oraz klub sportowy, o którym mowa w art. 4 ust. 7, może zostać wpisany do Krajowego Rejestru Sądowego.
-
-2. Złożenie wniosku o wpis uczniowskiego klubu sportowego oraz klubu sportowego, o którym mowa w art. 4 ust. 7, do Krajowego Rejestru Sądowego wymaga zgody wyrażonej w trybie przewidzianym dla zmiany statutu podmiotu zamierzającego złożyć wniosek o ten wpis.
-
-3. Zmiana statutu uczniowskiego klubu sportowego oraz klubu sportowego, o którym mowa w art. 4 ust. 7, dokonana w związku z wyrażeniem zgody, o której mowa w ust. 2, nie wymaga zatwierdzenia przez starostę.
-
-4. Sąd rejestrowy przesyła niezwłocznie właściwemu staroście odpis postanowienia o wpisie do Krajowego Rejestru Sądowego uczniowskiego klubu sportowego lub klubu sportowego, o którym mowa w art. 4 ust. 7.
-
-5. Właściwy starosta z urzędu wykreśla uczniowski klub sportowy lub klub sportowy, o którym mowa w art. 4 ust. 7, z ewidencji, o której mowa w art. 4 ust. 4, zaznaczając, że przyczyną wykreślenia jest wpis podmiotu do Krajowego Rejestru Sądowego.
-
-6. Uczniowski klub sportowy oraz klub sportowy, o którym mowa w art. 4 ust. 7, po uzyskaniu wpisu do Krajowego Rejestru Sądowego, zachowuje wszystkie dotychczasowe prawa i obowiązki i może podejmować działalność gospodarczą w zakresie przewidzianym w statucie.
 
 **Art. 5.** Klub sportowy może ustanawiać i finansować okresowe stypendia sportowe dla zawodników.
 
@@ -103,11 +86,11 @@ Art. 53–75. (pominięte)
 
 **Art. 7.**
 
-1. W celu organizowania i prowadzenia współzawodnictwa w danym sporcie związek sportowy może zostać przekształcony w polski związek sportowy.
+1. W celu organizowania i prowadzenia współzawodnictwa w danym sporcie może być utworzony polski związek sportowy.
 
-2. Przekształcenie związku sportowego w polski związek sportowy wymaga uzyskania zgody ministra właściwego do spraw kultury fizycznej.
+2. Utworzenie polskiego związku sportowego przez związek sportowy wymaga uzyskania zgody ministra właściwego do spraw kultury fizycznej.
 
-3. W sprawach nieuregulowanych w ustawie do polskiego związku sportowego stosuje się odpowiednio przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach.
+3. W sprawach nieuregulowanych w niniejszej ustawie do polskiego związku sportowego stosuje się przepisy ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach.
 
 **Art. 8.**
 
@@ -119,139 +102,75 @@ Art. 53–75. (pominięte)
 
 1. Kadencja władz polskiego związku sportowego nie może być dłuższa niż 4 lata.
 
-2. Funkcję prezesa zarządu polskiego związku sportowego można pełnić niedłużej niż przez 2 następujące po sobie kadencje.
+2. Funkcję prezesa zarządu polskiego związku sportowego można pełnić nie dłużej niż przez 2 następujące po sobie kadencje.
 
 3. Członek zarządu polskiego związku sportowego nie może:
 
-- **1)** łączyć tej funkcji z funkcją w innych władzach tego związku, z wyjątkiem pełnienia funkcji delegata na walne zgromadzenie członków albo delegatów polskiego związku sportowego zwołane dla wyboru władz tego związku;
-- **2)** być osobą prowadzącą działalność gospodarczą związaną z realizacją przez ten związek jego zadań statutowych;
-- **2a)** posiadać w spółkach prawa handlowego prowadzących działalność gospodarczą związaną z realizacją przez ten związek jego zadań statutowych akcji lub udziałów;
-- **2b)** być wspólnikiem spółki osobowej prawa handlowego prowadzącej działalność gospodarczą związaną z realizacją przez ten związek jego zadań statutowych;
-- **3)** być osobą, która była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe ścigane z oskarżenia publicznego;
-- **4)** łączyć tej funkcji z pracą na rzecz ministerstwa zapewniającego obsługę ministra właściwego do spraw kultury fizycznej w ramach stosunku pracy albo na podstawie umowy cywilnoprawnej;
-- **5)** łączyć tej funkcji z funkcją trenera kadry narodowej lub funkcją pełnioną w sztabie szkoleniowym kadry narodowej w tym samym sporcie;
-- **6)** być członkiem organu, prokurentem lub pełnomocnikiem podmiotu świadczącego na rzecz polskiego związku sportowego usługi, dostawy lub roboty budowlane, w tym usługi sponsoringu finansowego lub rzeczowego;
-- **7)** być osobą najbliższą, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. z 2025 r. poz. 383, 1818 i 1872), dla osoby prowadzącej działalność gospodarczą polegającą na świadczeniu na rzecz polskiego związku sportowego usług, dostaw lub robót budowlanych, w tym usług sponsoringu finansowego lub rzeczowego;
-- **8)** być osobą najbliższą, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, dla osoby:
-    - **a)** posiadającej w spółkach prawa handlowego akcje lub udziały,
-    - **b)** będącej wspólnikiem spółki osobowej prawa handlowego,
-    - **c)** będącej członkiem organu, prokurentem lub pełnomocnikiem w innym podmiocie prowadzącym działalność gospodarczą – jeżeli działalność gospodarcza prowadzona przez te podmioty polega na świadczeniu na rzecz polskiego związku sportowego usług, dostaw lub robót budowlanych, w tym usług sponsoringu finansowego lub rzeczowego;
+- **1)** łączyć tej funkcji z funkcją w innych władzach tego związku;
+- **2)** być osobą prowadzącą działalność gospodarczą związaną bezpośrednio z realizacją przez ten związek jego zadań statutowych;
+- **3)** być osobą, która była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe ścigane z oskarżenia publicznego.
 
-- **9)** być osobą, która była pracownikiem, funkcjonariuszem lub żołnierzem organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu (Dz. U. z 2023 r. poz. 102), w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r.;
-- **10)** być osobą, która była karana dyscyplinarnie za doping w sporcie w wymiarze jednostkowym większym niż 24 miesiące dyskwalifikacji.
-
-3a. Członek organu kontroli wewnętrznej polskiego związku sportowego nie może być osobą, która była pracownikiem, funkcjonariuszem lub żołnierzem organów bezpieczeństwa państwa, o których mowa w art. 5 ustawy z dnia 18 grudnia 1998 r. o Instytucie Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu, w okresie od dnia 22 lipca 1944 r. do dnia 31 lipca 1990 r.
-
-4. Jeżeli osoba obejmująca funkcję członka zarządu polskiego związku sportowego w dniu wyboru:
-
-- **1)** prowadzi działalność gospodarczą, o której mowa w ust. 3 pkt 2,
-- **2)** posiada akcje lub udziały, o których mowa w ust. 3 pkt 2a,
-- **3)** jest wspólnikiem spółki osobowej prawa handlowego, o której mowa w ust. 3 pkt 2b,
-- **4)** wykonuje pracę na rzecz ministerstwa zapewniającego obsługę ministra właściwego do spraw kultury fizycznej,
-- **5)** pełni funkcję trenera kadry narodowej lub funkcję w sztabie szkoleniowym kadry narodowej w tym samym sporcie,
-- **6)** jest członkiem organu, prokurentem lub pełnomocnikiem podmiotu świadczącego na rzecz polskiego związku sportowego usługi, dostawy lub roboty budowlane, w tym usługi sponsoringu finansowego lub rzeczowego – jest obowiązana w terminie 30 dni od dnia objęcia funkcji zaprzestać prowadzenia działalności gospodarczej, zbyć akcje lub udziały, wystąpić ze spółki, rozwiązać umowę lub zrezygnować z pełnionych funkcji.
-
-4a. Jeżeli osoba obejmująca funkcję członka zarządu polskiego związku sportowego w dniu wyboru jest osobą najbliższą, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, dla osoby, o której mowa w ust. 3 pkt 7 i 8, jest obowiązana w terminie 30 dni od dnia objęcia funkcji zrezygnować z tej funkcji, chyba że jej osoba najbliższa odpowiednio zaprzestanie prowadzenia działalności gospodarczej, zbędzie akcje lub udziały, wystąpi ze spółki lub rozwiąże umowę albo przestanie być członkiem organu, prokurentem lub pełnomocnikiem.
-
-5. W przypadku niewypełnienia obowiązków, o których mowa w ust. 4 lub 4a, walne zgromadzenie członków albo delegatów polskiego związku sportowego odwołuje członka zarządu polskiego związku sportowego niezwłocznie, niepóźniej jednak niż przed upływem 3 miesięcy od bezskutecznego upływu terminu, o którym mowa w ust. 4 lub 4a.
-
-5a. Członek zarządu i członek organu kontroli wewnętrznej polskiego związku sportowego są obowiązani powstrzymać się od wszelkiej działalności sprzecznej z interesami polskiego związku sportowego.
-
-5b. W przypadku sprzeczności interesów polskiego związku sportowego z interesami członka zarządu, interesami jego osoby najbliższej, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub interesami osób, z którymi jest powiązany osobiście, członek zarządu wstrzymuje się od głosu w rozstrzyganiu takich spraw.
-
-5c. W przypadku sprzeczności interesów polskiego związku sportowego z interesami członka organu kontroli wewnętrznej, interesami jego osoby najbliższej, w rozumieniu art. 115 § 11 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, lub interesami osób, z którymi jest powiązany osobiście, członek organu kontroli wewnętrznej wstrzymuje się od głosu w rozstrzyganiu takich spraw.
-
-6. Roczne sprawozdanie finansowe polskiego związku sportowego podlega badaniu przez biegłego rewidenta.
-
-7. Walne zgromadzenie członków albo delegatów polskiego związku sportowego corocznie rozpatruje i zatwierdza sporządzone przez zarząd sprawozdanie z działalności polskiego związku sportowego oraz roczne sprawozdanie finansowe, po jego zbadaniu przez biegłego rewidenta.
-
-8. Po rozpatrzeniu i zatwierdzeniu przez walne zgromadzenia członków albo delegatów polskiego związku sportowego sporządzonego przez zarząd sprawozdania z działalności polskiego związku sportowego oraz rocznego sprawozdania finansowego po jego zbadaniu przez biegłego rewidenta polski związek sportowy ma obowiązek przesłać w nieprzekraczalnym terminie 30 dni do ministra właściwego do spraw kultury fizycznej celem publikacji w Biuletynie Informacji Publicznej.
+4. Walne zgromadzenie członków albo delegatów polskiego związku sportowego corocznie rozpatruje sporządzone przez zarząd sprawozdanie z działalności zarządu oraz sprawozdanie finansowe, ocenione przez biegłego rewidenta. Walne zgromadzenie członków albo delegatów tego związku uchwala regulamin dyscyplinarny.
 
 **Art. 10.** Osoba fizyczna lub osoba prawna będąca członkiem lub posiadająca udziały albo akcje w klubie sportowym będącym członkiem polskiego związku sportowego nie może być członkiem lub posiadać udziałów albo akcji lub być członkiem organów lub władz innego klubu sportowego uczestniczącego we współzawodnictwie sportowym w tym samym sporcie.
 
 **Art. 11.**
 
-1. Wniosek o wyrażenie zgody na przekształcenie związku sportowego w polski związek sportowy składa się do ministra właściwego do spraw kultury fizycznej.
+1. Wniosek o wyrażenie zgody na utworzenie polskiego związku sportowego składa się do ministra właściwego do spraw kultury fizycznej.
 
 2. Do wniosku, o którym mowa w ust. 1, wnioskodawca dołącza:
 
 - **1)** projekt statutu polskiego związku sportowego;
-- **2)** (uchylony)
+- **2)** aktualny na dzień składania wniosku odpis z Krajowego Rejestru Sądowego wnioskodawcy;
 - **3)** szczegółowy opis sportu, w którym zamierza organizować i prowadzić współzawodnictwo, wraz z dokładną informacją o warunkach jego uprawiania oraz regułach i systemie współzawodnictwa w tym sporcie;
-- **4)** zaświadczenie o przynależności do międzynarodowej federacji sportowej działającej w sporcie olimpijskim lub paralimpijskim lub innej uznanej przez Międzynarodowy Komitet Olimpijski albo ujętej w wykazie, o którym mowa w ust. 2a.
+- **4)** zaświadczenie o przynależności do międzynarodowej federacji sportowej działającej w sporcie olimpijskim lub paraolimpijskim lub innej uznanej przez Międzynarodowy Komitet Olimpijski.
 
-2a. Minister właściwy do spraw kultury fizycznej w sportach, w których nie działają międzynarodowe federacje sportowe uznane przez Międzynarodowy Komitet Olimpijski, kierując się wysoką popularnością i poziomem rozwoju danego sportu, a także zasięgiem działania międzynarodowych federacji sportowych oraz ich udziałem w systemie walki z dopingiem w sporcie, może określić, w drodze rozporządzenia, wykaz międzynarodowych federacji sportowych, do których przynależność stwarza możliwość uzyskania zgody ministra właściwego do spraw kultury fizycznej na przekształcenie związku sportowego w polski związek sportowy.
-
-2b. Minister właściwy do spraw kultury fizycznej wykreśla z wykazu, o którym mowa w ust. 2a, międzynarodową federację sportową, w przypadku gdy Międzynarodowy Komitet Olimpijski uznał inną międzynarodową federację sportową działającą w tym samym sporcie lub gdy międzynarodowa federacja sportowa przestała spełniać kryteria, o których mowa w ust. 2a. W przypadku wykreślenia międzynarodowej federacji sportowej z wykazu, o którym mowa w ust. 2a, art. 12b stosuje się.
-
-3. Minister właściwy do spraw kultury fizycznej odmawia wyrażenia zgody na przekształcenie związku sportowego w polski związek sportowy, jeżeli wnioskodawca nie przedłoży dokumentów, o których mowa w ust. 2, albo jeżeli postanowienia projektu statutu są niezgodne z przepisami prawa, w szczególności naruszają wymagania określone w ustawie.
+3. Minister właściwy do spraw kultury fizycznej odmawia wyrażenia zgody na utworzenie polskiego związku sportowego, jeżeli wnioskodawca nie przedłoży dokumentów, o których mowa w ust. 2, albo jeżeli postanowienia projektu statutu są niezgodne z przepisami prawa, w szczególności naruszają wymagania określone w ustawie.
 
 4. Polski związek sportowy działa w jednym sporcie, chyba że minister właściwy do spraw kultury fizycznej wyrazi zgodę na działanie polskiego związku sportowego w więcej niż jednym sporcie.
 
 5. Minister właściwy do spraw kultury fizycznej prowadzi wykaz polskich związków sportowych. Wykaz jest ogłaszany na stronie internetowej urzędu obsługującego ministra właściwego do spraw kultury fizycznej.
 
-6. Minister właściwy do spraw kultury fizycznej może wyrazić zgodę na przekształcenie związku sportowego w polski związek sportowy w przypadku, gdy wniosek nie zawiera zaświadczenia, o którym mowa w ust. 2 pkt 4, jeżeli dotyczy on sportu osób niepełnosprawnych.
+6. Minister właściwy do spraw kultury fizycznej może wyrazić zgodę na utworzenie polskiego związku sportowego w przypadku, gdy wniosek nie zawiera zaświadczenia, o którym mowa w ust. 2 pkt 4, jeżeli dotyczy on sportu osób niepełnosprawnych.
 
-7. Wyrażenie zgody oraz odmowa wyrażenia zgody na przekształcenie związku sportowego w polski związek sportowy następuje w drodze decyzji.
+7. Wyrażenie zgody oraz odmowa wyrażenia zgody na utworzenie polskiego związku sportowego następuje w drodze decyzji.
 
 **Art. 12.**
 
 1. Polski związek sportowy podlega wpisowi do Krajowego Rejestru Sądowego.
 
-2. Wnioskodawca, o którym mowa w art. 11, staje się polskim związkiem sportowym i uzyskuje osobowość prawną z chwilą wpisu do Krajowego Rejestru Sądowego.
+2. Polski związek sportowy uzyskuje osobowość prawną z chwilą wpisu do Krajowego Rejestru Sądowego.
 
-3. Do wniosku o wpis polskiego związku sportowego do Krajowego Rejestru Sądowego należy dołączyć zgodę ministra właściwego do spraw kultury fizycznej na przekształcenie związku sportowego w polski związek sportowy.
-
-4. Właściwy sąd rejestrowy z urzędu wykreśla przekształcony związek sportowy z Krajowego Rejestru Sądowego, zaznaczając, że przyczyną wykreślenia jest przekształcenie związku sportowego w polski związek sportowy na podstawie art. 7.
-
-**Art. 12a.**
-
-1. Polski związek sportowy jest obowiązany należeć do właściwej międzynarodowej federacji sportowej działającej w sporcie olimpijskim lub paralimpijskim lub innej uznanej przez Międzynarodowy Komitet Olimpijski albo ujętej w wykazie, o którym mowa w art. 11 ust. 2a.
-
-2. Obowiązek, o którym mowa w ust. 1, nie dotyczy polskiego związku sportowego działającego w sporcie osób niepełnosprawnych, który uzyskał zgodę, o której mowa w art. 11 ust. 6.
-
-**Art. 12b.**
-
-1. Polski związek sportowy, który nie należy do właściwej międzynarodowej federacji sportowej działającej w sporcie olimpijskim lub paralimpijskim lub innej uznanej przez Międzynarodowy Komitet Olimpijski albo ujętej w wykazie, o którym mowa w art. 11 ust. 2a, staje się związkiem sportowym działającym w formie związku stowarzyszeń z dniem, w którym decyzja, o której mowa w ust. 2, stała się prawomocna.
-
-2. Stwierdzenie braku przynależności do właściwej międzynarodowej federacji sportowej działającej w sporcie olimpijskim lub paralimpijskim lub innej uznanej przez Międzynarodowy Komitet Olimpijski albo ujętej w wykazie, o którym mowa w art. 11 ust. 2a, następuje w drodze decyzji ministra właściwego do spraw kultury fizycznej.
-
-3. O wydaniu decyzji, o której mowa w ust. 2, oraz o dniu, w którym ta decyzja stała się prawomocna, minister właściwy do spraw kultury fizycznej zawiadamia właściwy sąd rejestrowy.
-
-4. Polskie związki sportowe, które na podstawie ust. 1 stały się związkami sportowymi działającymi w formie związku stowarzyszeń, dostosowują swoją działalność do zmienionej formy, w szczególności statuty oraz regulaminy w terminie 6 miesięcy od dnia, w którym decyzja, o której mowa w ust. 2, stała się prawomocna.
+3. Do wniosku o wpis polskiego związku sportowego do Krajowego Rejestru Sądowego należy dołączyć zgodę ministra właściwego do spraw kultury fizycznej na utworzenie polskiego związku sportowego.
 
 **Art. 13.**
 
 1. Polski związek sportowy ma wyłączne prawo do:
 
 - **1)** organizowania i prowadzenia współzawodnictwa sportowego o tytuł Mistrza Polski oraz o Puchar Polski w danym sporcie;
-- **2)** ustanawiania i realizacji reguł sportowych, organizacyjnych i dyscyplinarnych we współzawodnictwie sportowym organizowanym przez związek, z wyjątkiem reguł dyscyplinarnych dotyczących dopingu w sporcie;
-- **3)** powołania kadry narodowej oraz przygotowania jej do igrzysk olimpijskich, igrzysk paralimpijskich, igrzysk głuchych, mistrzostw świata lub mistrzostw Europy;
+- **2)** ustanawiania i realizacji reguł sportowych, organizacyjnych i dyscyplinarnych we współzawodnictwie sportowym organizowanym przez związek;
+- **3)** powołania kadry narodowej oraz przygotowania jej do igrzysk olimpijskich, igrzysk paraolimpijskich, igrzysk głuchych, mistrzostw świata lub mistrzostw Europy;
 - **4)** reprezentowania tego sportu w międzynarodowych organizacjach sportowych.
 
-2. Polski związek sportowy, Polski Komitet Olimpijski i Polski Komitet Paralimpijski umieszczają, odpowiednio, na stroju reprezentacji kraju, na stroju reprezentacji olimpijskiej oraz na stroju reprezentacji paralimpijskiej godło Rzeczypospolitej Polskiej, chyba że przepisy międzynarodowej organizacji sportowej działającej w danym sporcie, do której należy polski związek sportowy, przepisy Międzynarodowego Komitetu Olimpijskiego lub przepisy Międzynarodowego Komitetu Paralimpijskiego stanowią inaczej.
+2. Polski związek sportowy ma prawo używania w stroju reprezentacji kraju wizerunku orła ustalonego dla godła na podstawie przepisów ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych (Dz. U. z 2005 r. Nr 235, poz. 2000, z 2006 r. Nr 220, poz. 1600, z 2009 r. Nr 168, poz. 1323 oraz z 2010 r. Nr 18, poz. 96).
 
-3. (uchylony)
-
-4. Polski związek sportowy, Polski Komitet Olimpijski i Polski Komitet Paralimpijski mają prawo do wykorzystania do swoich celów gospodarczych przedmiotów będących odwzorowaniem, odpowiednio, stroju reprezentacji kraju, stroju reprezentacji olimpijskiej lub stroju reprezentacji paralimpijskiej, w zakresie wyznaczonym przez przepisy polskiego związku sportowego, przepisy międzynarodowej organizacji sportowej działającej w danym sporcie, do której należy polski związek sportowy, przepisy Międzynarodowego Komitetu Olimpijskiego lub przepisy Międzynarodowego Komitetu Paralimpijskiego.
-
-5. Polski związek sportowy uznaje i respektuje reguły, o których mowa w art. 5 ust. 1 pkt 2 ustawy z dnia 21 kwietnia 2017 r. o zwalczaniu dopingu w sporcie (Dz. U. z 2022 r. poz. 1258). Polska Agencja Antydopingowa ma wyłączne prawo do realizacji tych reguł.
+3. Polski Komitet Olimpijski ma prawo używania w stroju reprezentacji olimpijskiej wizerunku orła ustalonego dla godła na podstawie przepisów ustawy z dnia 31 stycznia 1980 r. o godle, barwach i hymnie Rzeczypospolitej Polskiej oraz o pieczęciach państwowych.
 
 **Art. 14.**
 
-1. Członek kadry narodowej udostępnia, na zasadach wyłączności, swój wizerunek w stroju reprezentacji kraju polskiemu związkowi sportowemu, który jest uprawniony do wykorzystania tego wizerunku do swoich celów gospodarczych w zakresie wyznaczonym przez przepisy tego związku lub międzynarodowej organizacji sportowej działającej w danym sporcie.
+1. Członek kadry narodowej udostępnia, na zasadach wyłączności, swój wizerunek w stroju reprezentacji kraju polskiemu związkowi sportowemu, który jest uprawniony do wykorzystania tego wizerunku do swoich celów gospodarczych w zakresie wyznaczonym przez regulaminy tego związku lub międzynarodowej organizacji sportowej działającej w danym sporcie.
 
-2. Członek reprezentacji olimpijskiej udostępnia, na zasadach wyłączności, z chwilą powołania do reprezentacji olimpijskiej, swój wizerunek w stroju reprezentacji olimpijskiej Polskiemu Komitetowi Olimpijskiemu, który jest uprawniony do wykorzystania tego wizerunku do swoich celów gospodarczych w zakresie wyznaczonym przez swoje przepisy lub przepisy Międzynarodowego Komitetu Olimpijskiego.
+2. Członek reprezentacji olimpijskiej udostępnia, na zasadach wyłączności, z chwilą powołania do reprezentacji olimpijskiej, swój wizerunek w stroju reprezentacji olimpijskiej Polskiemu Komitetowi Olimpijskiemu, który jest uprawniony do wykorzystania tego wizerunku do swoich celów gospodarczych w zakresie wyznaczonym przez swoje regulaminy lub regulaminy Międzynarodowego Komitetu Olimpijskiego.
 
-3. Zawodnik przed zakwalifikowaniem do kadry narodowej lub reprezentacji olimpijskiej wyraża zgodę na rozpowszechnianie swojego wizerunku w stroju reprezentacji kraju w rozumieniu art. 81 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2025 r. poz. 24).
+3. Zawodnik przed zakwalifikowaniem do kadry narodowej lub reprezentacji olimpijskiej wyraża zgodę na rozpowszechnianie swojego wizerunku w stroju reprezentacji kraju w rozumieniu art. 81 ust. 1 ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. z 2006 r. Nr 90, poz. 631, z późn. zm.).
 
 **Art. 15.**
 
 1. W sporcie, w którym współzawodnictwo sportowe jest organizowane w formie rozgrywek ligowych, polski związek sportowy może utworzyć ligę zawodową.
 
-2. W przypadku gdy ponad połowa klubów sportowych biorących udział w rozgrywkach ligowych w najwyższej klasie rozgrywkowej w danym sporcie działa w formie spółek akcyjnych, polski związek sportowy jest obowiązany utworzyć ligę zawodową.
+2. W przypadku gdy ponad połowa klubów sportowych biorących udział w rozgrywkach ligowych działa w formie spółek akcyjnych, polski związek sportowy jest obowiązany utworzyć ligę zawodową.
 
-3. W skład ligi zawodowej w grach zespołowych wchodzą wyłącznie kluby sportowe działające jako spółki akcyjne lub spółki z ograniczoną odpowiedzialnością.
+3. W skład ligi zawodowej w grach zespołowych wchodzą wyłącznie kluby sportowe działające jako spółki akcyjne.
 
 4. Liga zawodowa jest zarządzana przez osobę prawną działającą w formie spółki kapitałowej.
 
@@ -259,36 +178,71 @@ Art. 53–75. (pominięte)
 
 6. Zawarcie umowy, o której mowa w ust. 5, następuje po uzyskaniu zgody ministra właściwego do spraw kultury fizycznej. Minister właściwy do spraw kultury fizycznej odmawia wyrażenia zgody na zawarcie umowy w przypadku stwierdzenia niezgodności jej postanowień z przepisami prawa. Wyrażenie zgody oraz odmowa wyrażenia zgody na zawarcie umowy następuje w drodze decyzji.
 
-7. Do postępowania w sprawie wyrażenia zgody na zawarcie umowy, o której mowa w ust. 5, stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-8. Sprawę wyrażenia zgody na zawarcie umowy, o której mowa w ust. 5, uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie stron, jeżeli w terminie 30 dni od daty doręczenia wniosku minister właściwy do spraw kultury fizycznej nie wyda decyzji albo postanowienia, o których mowa w art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
 #### Rozdział 4 Nadzór nad polskim związkiem sportowym
 
 **Art. 16.**
 
 1. Nadzór nad działalnością polskich związków sportowych sprawuje minister właściwy do spraw kultury fizycznej.
 
-2. Nadzorem ministra właściwego do spraw kultury fizycznej nie są objęte decyzje dyscyplinarne i regulaminowe władz polskich związków sportowych związane z przebiegiem współzawodnictwa sportowego.
+2. Nadzorem ministra właściwego do spraw kultury fizycznej nie są objęte decyzje dyscyplinarne i regulaminowe władz polskich związków sportowych związane z organizacją i przebiegiem współzawodnictwa sportowego.
 
 3. Minister właściwy do spraw kultury fizycznej ma prawo:
 
 - **1)** żądać udostępnienia odpisów uchwał władz polskiego związku sportowego oraz udzielenia pisemnych wyjaśnień dotyczących działalności polskiego związku sportowego;
 - **2)** dokonywać kontroli polskiego związku sportowego.
 
-3a. Kontrolę, o której mowa w ust. 3 pkt 2, przeprowadza się na zasadach i w trybie określonych w przepisach o kontroli w administracji rządowej.
+4. Zakresem kontroli, o której mowa w ust. 3 pkt 2, jest objęta działalność polskiego związku sportowego pod względem zgodności z przepisami prawa oraz postanowieniami statutu.
 
-4. Zakresem kontroli, o której mowa w ust. 3 pkt 2, jest objęta działalność polskiego związku sportowego pod względem zgodności z przepisami prawa, postanowieniami statutu oraz postanowieniami regulaminów tego związku.
+5. W zakresie wykorzystania środków publicznych kontrola prowadzona jest pod względem legalności, celowości, gospodarności i rzetelności.
 
-5. (uchylony)
+**Art. 17.**
 
-**Art. 17.** (uchylony)
+1. Minister właściwy do spraw kultury fizycznej zawiadamia polski związek sportowy o kontroli najpóźniej w dniu rozpoczęcia czynności kontrolnych.
 
-**Art. 18.** (uchylony)
+2. W zawiadomieniu, o którym mowa w ust. 1, minister właściwy do spraw kultury fizycznej lub osoba przez niego upoważniona może wystąpić o przygotowanie wskazanych dokumentów, zestawień i wyjaśnień.
 
-**Art. 19.** (uchylony)
+3. Zawiadomienie, o którym mowa w ust. 1, zawiera:
 
-**Art. 20.** (uchylony)
+- **1)** wskazanie podstawy prawnej do przeprowadzenia kontroli;
+- **2)** nazwę polskiego związku sportowego objętego kontrolą;
+- **3)** przedmiot zakres oraz miejsce przeprowadzenia kontroli wraz z terminem jej rozpoczęcia i zakończenia;
+- **4)** imię i nazwisko osoby upoważnionej do przeprowadzenia kontroli.
+
+4. Czynności kontrolne są wykonywane po okazaniu upoważnienia do przeprowadzenia kontroli.
+
+5. Upoważnienie do przeprowadzenia kontroli wydaje minister właściwy do spraw kultury fizycznej lub osoba przez niego upoważniona.
+
+**Art. 18.**
+
+1. Osoba przeprowadzająca kontrolę może dokonać oględzin obiektów lub innych składników majątkowych albo przebiegu określonych czynności.
+
+2. Oględzin dokonuje się w obecności przedstawiciela polskiego związku sportowego lub osoby przez niego upoważnionej.
+
+3. Z przebiegu i wyniku oględzin sporządza się niezwłocznie protokół, który podpisuje osoba przeprowadzająca kontrolę i osoba obecna przy oględzinach. W przypadku odmowy podpisania protokołu przez osobę obecną przy oględzinach zamieszcza się w nim wzmiankę o odmowie jego podpisania.
+
+**Art. 19.**
+
+1. Osoba przeprowadzająca kontrolę dokonuje ustaleń stanu faktycznego na podstawie dowodów zebranych w toku kontroli.
+
+2. Dowodami są w szczególności dokumenty, protokół oględzin, opinie biegłych oraz pisemne wyjaśnienia i oświadczenia.
+
+3. Osoba przeprowadzająca kontrolę może żądać sporządzenia na koszt kontrolowanego niezbędnych do kontroli odpisów lub wyciągów z dokumentów.
+
+4. Zgodność odpisów lub wyciągów z oryginalnymi dokumentami potwierdza prezes polskiego związku sportowego lub osoba do tego upoważniona.
+
+5. Osoba przeprowadzająca kontrolę może żądać od prezesa polskiego związku sportowego udzielenia, w wyznaczonym przez nią terminie, ustnych i pisemnych wyjaśnień w sprawach objętych kontrolą.
+
+**Art. 20.**
+
+1. Ustalenia kontroli przedstawia się w protokole kontroli, który zawiera opis stanu faktycznego stwierdzonego w toku kontroli, w tym ustalonych nieprawidłowości, z uwzględnieniem przyczyn powstania, zakresu i skutków tych nieprawidłowości oraz osób za nie odpowiedzialnych.
+
+2. Protokół kontroli podpisuje osoba przeprowadzająca kontrolę oraz prezes polskiego związku sportowego lub osoba przez niego upoważniona. W przypadku odmowy podpisania protokołu kontroli zamieszcza się w nim wzmiankę o odmowie jego podpisania.
+
+3. Ocenę kontrolowanej działalności, wynikającą z ustaleń opisanych w protokole kontroli, a w razie stwierdzenia nieprawidłowości także uwagi i wnioski pokontrolne w sprawie ich usunięcia, zamieszcza się w wystąpieniu pokontrolnym, przekazywanym prezesowi polskiego związku sportowego.
+
+4. Wystąpienie pokontrolne podpisuje minister właściwy do spraw kultury fizycznej lub osoba przez niego upoważniona.
+
+5. Do ocen, uwag i wniosków zawartych w wystąpieniu pokontrolnym prezesowi polskiego związku sportowego przysługuje prawo zgłoszenia umotywowanych zastrzeżeń na piśmie, do ministra właściwego do spraw kultury fizycznej, w terminie 14 dni od dnia jego otrzymania. W przypadku wpłynięcia zastrzeżeń minister właściwy do spraw kultury fizycznej powołuje komisję w składzie trzyosobowym, która rozpatruje zastrzeżenia w terminie 14 dni od dnia otrzymania zastrzeżeń. Przewodniczący komisji powiadamia niezwłocznie prezesa polskiego związku sportowego o przyjęciu lub oddaleniu zastrzeżeń.
 
 **Art. 21.**
 
@@ -296,19 +250,16 @@ Art. 53–75. (pominięte)
 
 2. Minister właściwy do spraw kultury fizycznej odmawia zatwierdzenia, w drodze decyzji, statutu polskiego związku sportowego lub jego zmiany w przypadku stwierdzenia niezgodności ich postanowień z przepisami prawa.
 
-3. Do postępowania w sprawie zatwierdzenia statutu polskiego związku sportowego oraz jego zmiany stosuje się przepisy działu II rozdziału 14 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
-4. Sprawę zatwierdzenia statutu polskiego związku sportowego oraz jego zmiany uznaje się za załatwioną milcząco w sposób w całości uwzględniający żądanie polskiego związku sportowego, jeżeli w terminie 30 dni od daty doręczenia wniosku minister właściwy do spraw kultury fizycznej nie wyda decyzji albo postanowienia, o których mowa w art. 122a § 2 pkt 1 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego.
-
 **Art. 22.**
 
-1. Jeżeli działalność władz polskiego związku sportowego narusza prawo, postanowienia statutu lub postanowienia regulaminów tego związku, minister właściwy do spraw kultury fizycznej, w zależności od stopnia stwierdzonych nieprawidłowości, jest uprawniony do:
+1. Jeżeli działalność władz polskiego związku sportowego narusza prawo lub postanowienia statutu, minister właściwy do spraw kultury fizycznej, w zależności od stopnia stwierdzonych nieprawidłowości, jest uprawniony do:
 
 - **1)** udzielenia władzom polskiego związku sportowego upomnienia i zażądania od nich podjęcia działań mających na celu zapewnienie stanu zgodnego z prawem;
-- **2)** uchylenia decyzji władz polskiego związku sportowego;
-- **3)** wystąpienia do sądu rejestrowego z wnioskiem o zastosowanie środka, o którym mowa w art. 23 ust. 1.
+- **2)** wstrzymania wykonania decyzji władz polskiego związku sportowego i wezwania ich do jej zmiany lub uchylenia w określonym terminie;
+- **3)** uchylenia decyzji władz polskiego związku sportowego, o której mowa w pkt 2, w przypadku niespełnienia przez związek żądania jej zmiany lub uchylenia;
+- **4)** wystąpienia do sądu rejestrowego z wnioskiem o zastosowanie środka, o którym mowa w art. 23 ust. 1.
 
-2. Czynności, o których mowa w ust. 1 pkt 1 i 2, minister właściwy do spraw kultury fizycznej dokonuje w drodze decyzji.
+2. Czynności, o których mowa w ust. 1 pkt 1–3, minister właściwy do spraw kultury fizycznej dokonuje w drodze decyzji.
 
 **Art. 23.**
 
@@ -341,11 +292,11 @@ Art. 53–75. (pominięte)
 
 **Art. 26.**
 
-1. Polski Komitet Paralimpijski, działający w formie stowarzyszenia lub związku stowarzyszeń, organizuje narodowy ruch paralimpijski osób niepełnosprawnych.
+1. Polski Komitet Paraolimpijski, działający w formie stowarzyszenia lub związku stowarzyszeń, organizuje narodowy ruch paraolimpijski osób niepełnosprawnych.
 
-2. Polski Komitet Paralimpijski jest wyłącznie uprawniony do wykorzystywania symboliki paralimpijskiej oraz nazw Igrzyska Paralimpijskie i Komitet Paralimpijski.
+2. Polski Komitet Paraolimpijski jest wyłącznie uprawniony do wykorzystywania symboliki paraolimpijskiej oraz nazw Igrzyska Paraolimpijskie i Komitet Paraolimpijski.
 
-3. Do Polskiego Komitetu Paralimpijskiego stosuje się odpowiednio przepisy art. 24 ust. 2 i art. 25 ust. 1 i 2.
+3. Do Polskiego Komitetu Paraolimpijskiego stosuje się odpowiednio przepisy art. 24 ust. 2 i art. 25 ust. 1 i 2.
 
 #### Rozdział 6 Wspieranie sportu przez organy władzy publicznej
 
@@ -359,7 +310,7 @@ Art. 53–75. (pominięte)
 
 **Art. 28.**
 
-1. Klub sportowy, działający na obszarze danej jednostki samorządu terytorialnego, niedziałający w celu osiągnięcia zysku, może otrzymywać dotację celową z budżetu tej jednostki na podstawie uchwały, o której mowa w art. 27 ust. 2, z zastosowaniem przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2025 r. poz. 1483, 1844 i 1846) w zakresie udzielania dotacji celowych dla podmiotów niezaliczanych do sektora finansów publicznych i niedziałających w celu osiągnięcia zysku.
+1. Klub sportowy, działający na obszarze danej jednostki samorządu terytorialnego, niedziałający w celu osiągnięcia zysku, może otrzymywać dotację celową z budżetu tej jednostki, z zastosowaniem przepisów ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. Nr 157, poz. 1240 oraz z 2010 r. Nr 28, poz. 146, Nr 96, poz. 620 i Nr 123, poz. 835) w zakresie udzielania dotacji celowych dla podmiotów niezaliczanych do sektora finansów publicznych i niedziałających w celu osiągnięcia zysku.
 
 2. Dotacja, o której mowa w ust. 1, ma służyć realizacji celu publicznego, o którym mowa w art. 27 ust. 2, i może być przeznaczona w szczególności na:
 
@@ -367,34 +318,23 @@ Art. 53–75. (pominięte)
 - **2)** zakup sprzętu sportowego,
 - **3)** pokrycie kosztów organizowania zawodów sportowych lub uczestnictwa w tych zawodach,
 - **4)** pokrycie kosztów korzystania z obiektów sportowych dla celów szkolenia sportowego,
-- **5)** sfinansowanie stypendiów sportowych i wynagrodzenia kadry szkoleniowej – jeżeli wpłynie to na poprawę warunków uprawiania sportu przez członków klubu sportowego, który otrzyma dotację, lub zwiększy dostępność społeczności lokalnej do działalności sportowej prowadzonej przez ten klub.
+- **5)** sfinansowanie stypendiów sportowych i wynagrodzenia kadry szkoleniowej jeżeli wpłynie to na poprawę warunków uprawiania sportu przez członków klubu sportowego, który otrzyma dotację, lub zwiększy dostępność społeczności lokalnej do działalności sportowej prowadzonej przez ten klub.
 
 **Art. 29.**
 
 1. Minister właściwy do spraw kultury fizycznej może dofinansowywać uprawianie lub organizowanie sportu oraz jego promocję.
 
-1a. W ramach zadań, o których mowa w ust. 1, minister właściwy do spraw kultury fizycznej może udzielić instytucji gospodarki budżetowej pod nazwą Centralny Ośrodek Sportu, dla której jest organem założycielskim, dotacji celowej z budżetu państwa z części, której dysponentem jest minister właściwy do spraw kultury fizycznej, na realizację zadań publicznych związanych z zapewnieniem warunków organizacyjnych, ekonomicznych i technicznych do szkolenia sportowego w zakresie:
-
-- **1)** bieżącego utrzymania obiektów budowlanych i zarządzania nimi;
-- **2)** przygotowania kadry narodowej do udziału w igrzyskach olimpijskich, igrzyskach paralimpijskich, igrzyskach głuchych, mistrzostwach świata lub mistrzostwach Europy.
-
-1b. Działalność Centralnego Ośrodka Sportu, o której mowa w ust. 1a, nie stanowi działalności gospodarczej w rozumieniu przepisów ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2025 r. poz. 1480, 1795 i 1826).
-
-2. Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego i nauki mogą wspierać, w tym finansowo, rozwój sportu odpowiednio w środowisku szkolnym i akademickim.
+2. Minister właściwy do spraw oświaty i wychowania oraz minister właściwy do spraw szkolnictwa wyższego mogą wspierać, w tym finansowo, rozwój sportu odpowiednio w środowisku szkolnym i akademickim.
 
 3. Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych mogą wspierać, w tym finansowo, rozwój sportu w jednostkach organizacyjnych służb podległych tym ministrom lub nadzorowanych przez nich.
 
-4. Z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia, są finansowane koszty opieki medycznej nad zawodnikami zakwalifikowanymi do kadry narodowej w sportach olimpijskich, paralimpijskich i igrzysk głuchych.
+4. Z budżetu państwa, z części, której dysponentem jest minister właściwy do spraw zdrowia, są finansowane koszty opieki medycznej nad zawodnikami zakwalifikowanymi do kadry narodowej w sportach olimpijskich i paraolimpijskich.
 
 5. Koszty wydania orzeczenia lekarskiego, o którym mowa w art. 37 ust. 1, w tym koszty badań niezbędnych do wydania tego orzeczenia, w stosunku do zawodników, którzy nie ukończyli 23 lat i nie otrzymują wynagrodzenia w związku z uprawianiem sportu, są finansowane ze środków publicznych na zasadach określonych przepisami o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
 
 6. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, zakres i sposób realizowania opieki medycznej, o której mowa w ust. 4, uwzględniając specyfikę współzawodnictwa sportowego oraz potrzebę ochrony zdrowia zawodników.
 
-7. Minister właściwy do spraw kultury fizycznej, w zakresie dofinansowania zadań związanych z przygotowywaniem kadry narodowej do udziału w igrzyskach olimpijskich, igrzyskach paralimpijskich, igrzyskach głuchych, mistrzostwach świata lub mistrzostwach Europy, może zlecać polskim związkom sportowym, Instytutowi Sportu – Państwowemu Instytutowi Badawczemu, Polskiemu Komitetowi Olimpijskiemu i Polskiemu Komitetowi Paralimpijskiemu realizację zadań publicznych z pominięciem otwartego konkursu ofert, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2025 r. poz. 1338). Przepisy art. 47 i art. 151 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio.
-
-8. Minister właściwy do spraw kultury fizycznej, w zakresie działań związanych z dofinansowaniem sportu, może zlecić podmiotom wskazanym w ogłoszeniu o naborze wniosków realizację zadań publicznych z pominięciem otwartego konkursu ofert, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie. Przepisy art. 47 i art. 151 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio.
-
-**Art. 29a.** Minister właściwy do spraw kultury fizycznej może zlecić Fundacji Rozwoju Systemu Edukacji, będącej fundacją Skarbu Państwa, realizację zadań w zakresie kultury fizycznej w ramach programów Unii Europejskiej dotyczących kształcenia, szkolenia, młodzieży i sportu. Na realizację tych zadań Fundacja Rozwoju Systemu Edukacji otrzymuje dotację celową z części budżetu państwa, której dysponentem jest minister właściwy do spraw kultury fizycznej.
+7. Minister właściwy do spraw kultury fizycznej, w zakresie dofinansowania zadań związanych z przygotowywaniem kadry narodowej do udziału w igrzyskach olimpijskich, igrzyskach paraolimpijskich, igrzyskach głuchych, mistrzostwach świata lub mistrzostwach Europy, może zlecać polskim związkom sportowym, Polskiemu Komitetowi Olimpijskiemu i Polskiemu Komitetowi Paraolimpijskiemu realizację zadań publicznych z pominięciem otwartego konkursu ofert, o którym mowa w art. 11 ust. 2 ustawy z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.). Przepisy art. 47 i art. 151 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio.
 
 **Art. 30.**
 
@@ -406,7 +346,7 @@ Art. 53–75. (pominięte)
 
 - **1)** strategii rozwoju gmin, powiatów i województw w zakresie kultury fizycznej;
 - **2)** projektu budżetu w części dotyczącej kultury fizycznej;
-- **3)** programów rozwoju bazy sportowej na danym terenie, w tym w szczególności miejscowych planów zagospodarowania przestrzennego w zakresie dotyczącym terenów usług sportu i rekreacji;
+- **3)** programów rozwoju bazy sportowej na danym terenie, w tym w szczególności miejscowych planów zagospodarowania przestrzennego w zakresie dotyczącym terenów wykorzystywanych na cele kultury fizycznej;
 - **4)** projektów uchwał, o których mowa w art. 27 ust. 2.
 
 4. Członkowie rad sportu wykonują swoje funkcje społecznie.
@@ -419,47 +359,9 @@ Art. 53–75. (pominięte)
 
 3. Organ stanowiący jednostki samorządu terytorialnego określa, w drodze uchwały, szczegółowe zasady, tryb przyznawania i pozbawiania oraz rodzaje i wysokość stypendiów sportowych, nagród i wyróżnień, o których mowa w ust. 1 i 2, biorąc pod uwagę znaczenie danego sportu dla tej jednostki samorządu terytorialnego oraz osiągnięty wynik sportowy.
 
-4. Do stypendiów sportowych, o których mowa w ust. 1, przyznanych kobietom, które stały się niezdolne do uprawiania sportu wskutek ciąży lub urodzenia dziecka, przepisy art. 32 ust. 6 i 6a stosuje się odpowiednio.
-
 **Art. 32.**
 
-1. Minister właściwy do spraw kultury fizycznej może przyznać członkowi kadry narodowej stypendium sportowe za osiągnięte wyniki sportowe we współzawodnictwie międzynarodowym na okres do 24 miesięcy. Stypendium może otrzymać członek kadry narodowej, który zobowiąże się w formie pisemnej do realizacji programu przygotowań do igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych albo programu przygotowań do mistrzostw świata lub mistrzostw Europy, opracowanego przez właściwy polski związek sportowy, oraz do udziału w tych zawodach.
-
-1a. Minister właściwy do spraw kultury fizycznej przyznaje, wstrzymuje lub pozbawia stypendium sportowego z własnej inicjatywy lub na wniosek polskiego związku sportowego.
-
-1b. Podstawę ustalenia wysokości stypendium sportowego stanowi kwota minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, przy czym wysokość stypendium nie może przekroczyć 5,5-krotności tej kwoty.
-
-1c. Stypendium sportowe może uzyskać członek kadry narodowej na najwyższym poziomie współzawodnictwa w jednej z następujących kategorii wiekowych:
-
-- **1)** seniorów;
-- **2)** młodzieżowców;
-- **3)** juniorów.
-
-1d. W przypadku podziału na podgrupy w kategorii wiekowej, o której mowa w ust. 1c pkt 3, stypendium sportowe przyznaje się za wynik osiągnięty w najwyższej wiekowo podgrupie.
-
-1e. W tym samym okresie można pobierać tylko jedno stypendium sportowe, o którym mowa w ust. 1 oraz art. 32a ust. 1.
-
-1f. Stypendium sportowe może być przyznane członkowi kadry narodowej, który uczestniczył we współzawodnictwie sportowym objętym programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych, jeżeli:
-
-- **1)** w igrzyskach olimpijskich, igrzyskach paralimpijskich lub igrzyskach głuchych zajął miejsce od pierwszego do ósmego;
-- **2)** w mistrzostwach świata, w kategorii seniorów, zajął miejsce od pierwszego do ósmego;
-- **3)** w mistrzostwach Europy, w kategorii seniorów, zajął miejsce od pierwszego do ósmego;
-- **4)** uzyskał kwalifikację olimpijską, paralimpijską lub do igrzysk głuchych;
-- **5)** w mistrzostwach świata, w kategorii młodzieżowców, zajął miejsce od pierwszego do szóstego;
-- **6)** w mistrzostwach Europy, w kategorii młodzieżowców, zajął miejsce od pierwszego do szóstego;
-- **7)** w mistrzostwach świata, w kategorii juniorów, zajął miejsce od pierwszego do trzeciego;
-- **8)** w mistrzostwach Europy, w kategorii juniorów, zajął miejsce od pierwszego do trzeciego.
-
-1g. Stypendium sportowe może być przyznane członkowi kadry narodowej, który uczestniczył we współzawodnictwie sportowym nieobjętym programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych, jeżeli:
-
-- **1)** w mistrzostwach świata, w kategorii seniorów, zajął miejsce od pierwszego do trzeciego;
-- **2)** w mistrzostwach Europy, w kategorii seniorów, zajął miejsce od pierwszego do trzeciego.
-
-1h. (uchylony) 1i. Członek kadry narodowej może otrzymać stypendium sportowe, jeżeli w zawodach, o których mowa w ust. 1f pkt 2–8 lub ust. 1g, brało udział co najmniej 8 państw w danej konkurencji, przy czym w konkurencjach indywidualnych brało udział co najmniej 12 osób, a w konkurencjach zespołowych co najmniej 8 drużyn, osad lub załóg.
-
-1j. Jeżeli z regulaminu zawodów wynika udział mniejszej liczby osób, drużyn, osad lub załóg w związku z systemem kwalifikacji do danej konkurencji, niż wymaga tego ust. 1i, nie stosuje się przepisu ust. 1i.
-
-1k. W przypadku rozgrywania mistrzostw Europy w formule otwartych zawodów przy ocenie spełnienia warunków, o których mowa w ust. 1i, uwzględnia się wyłącznie osoby, drużyny, osady lub załogi z krajowych federacji zrzeszonych w europejskich federacjach sportowych.
+1. Minister właściwy do spraw kultury fizycznej może przyznać członkowi kadry narodowej okresowe stypendium sportowe za osiągnięte wyniki sportowe we współzawodnictwie międzynarodowym. Stypendium może otrzymać członek kadry narodowej, który zobowiąże się w formie pisemnej do realizacji programu przygotowań do igrzysk olimpijskich, igrzysk paraolimpijskich lub igrzysk głuchych albo programu przygotowań do mistrzostw świata lub mistrzostw Europy, opracowanego przez właściwy polski związek sportowy, oraz do udziału w tych zawodach.
 
 2. Stypendia sportowe są finansowane ze środków budżetu państwa, z części, której dysponentem jest minister właściwy do spraw kultury fizycznej.
 
@@ -473,66 +375,15 @@ Art. 53–75. (pominięte)
 
 5. Przyznanie, wstrzymanie oraz pozbawienie stypendium sportowego następuje w drodze decyzji.
 
-6. Członkini kadry narodowej, która stała się niezdolna do uprawiania sportu wskutek ciąży lub urodzenia dziecka, wypłaca się stypendium sportowe przez okres:
+6. Członkini kadry narodowej, która stała się niezdolna do uprawiania sportu wskutek ciąży lub urodzenia dziecka, wypłaca się stypendium sportowe w pełnej wysokości przez okres ciąży i połowę stypendium przez okres 6 miesięcy po urodzeniu dziecka.
 
-- **1)** ciąży – w pełnej wysokości;
-- **2)** roku po urodzeniu dziecka lub zgonu tego dziecka po upływie 8. tygodnia życia – w wysokości równej 81,5 % przyznanego stypendium sportowego;
-- **3)** 12 tygodni w przypadku poronienia, urodzenia martwego dziecka lub zgonu dziecka przed upływem 8. tygodni życia – w wysokości równej 81,5 % przyznanego stypendium sportowego.
-
-6a. Członkini kadry narodowej uzyskuje prawo do wydłużenia okresu pobierania stypendium sportowego w przypadku:
-
-- **1)** urodzenia dziecka przed ukończeniem 28. tygodnia ciąży lub z masą urodzeniową niewiększą niż 1000 g – w wymiarze dodatkowego tygodnia wypłaty stypendium sportowego za każdy tydzień pobytu dziecka w szpitalu do upływu 15. tygodnia po porodzie;
-- **2)** urodzenia dziecka po ukończeniu 28. tygodnia ciąży i przed ukończeniem 37. tygodnia ciąży i masą urodzeniową większą niż 1000 g ‒ w wymiarze dodatkowego tygodnia wypłaty stypendium sportowego za każdy tydzień pobytu dziecka w szpitalu do upływu 8. tygodnia po porodzie;
-- **3)** urodzenia dziecka po ukończeniu 37. tygodnia ciąży i jego pobytu w szpitalu, pod warunkiem że pobyt dziecka w szpitalu po porodzie będzie wynosił co najmniej 2 kolejne dni w okresie od 5. do 28. dnia po porodzie ‒ w wymiarze dodatkowego tygodnia wypłaty stypendium sportowego za każdy tydzień pobytu dziecka w szpitalu w okresie od 5. dnia do upływu 8. tygodnia po porodzie.
-
-7. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia:
-
-- **1)** szczegółowy tryb przyznawania członkowi kadry narodowej, trenerowi oraz zawodnikowi stypendium sportowego, a także wstrzymywania i pozbawiania tego stypendium,
-- **2)** przedział wysokości stypendium sportowego, stanowiący krotność kwoty bazowej,
-- **3)** czas, na jaki stypendium sportowe może zostać przyznane,
-- **4)** sposób i terminy wypłacania stypendium sportowego – uwzględniając zajęte przez członka kadry narodowej miejsce we współzawodnictwie międzynarodowym i sprawną realizację wypłaty stypendiów sportowych.
-
-**Art. 32a.**
-
-1. Minister właściwy do spraw kultury fizycznej, w szczególnie uzasadnionych przypadkach, może przyznać członkowi kadry narodowej, który nie osiągnął wyniku sportowego, o którym mowa w art. 32 ust. 1, stypendium sportowe na okres do 12 miesięcy, w wysokości nieprzekraczającej 2-krotności podstawy określonej w art. 32 ust. 1b.
-
-2. Stypendium sportowe, o którym mowa w ust. 1, może otrzymać członek kadry narodowej, który zobowiąże się w formie pisemnej do realizacji programu przygotowań do igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych albo programu przygotowań do mistrzostw świata lub mistrzostw Europy, opracowanego przez właściwy polski związek sportowy, oraz do udziału w tych zawodach.
-
-3. Do stypendium sportowego, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 32 ust. 1a–6a, a także przepisy wydane na podstawie art. 32 ust. 7.
-
-**Art. 32b.**
-
-1. Minister właściwy do spraw kultury fizycznej może w szczególnie uzasadnionych przypadkach przyznać stypendium sportowe w wysokości nieprzekraczającej 2-krotności podstawy określonej w art. 32 ust. 1b, na okres do 12 miesięcy, członkowi kadry narodowej, który ukończył 16 lat i nie ukończył 23 lat.
-
-2. Stypendium sportowe, o którym mowa w ust. 1, może otrzymać członek kadry narodowej, który zobowiąże się w formie pisemnej do realizacji programu przygotowań do igrzysk olimpijskich, igrzysk paralimpijskich, igrzysk głuchych lub olimpiady szachowej albo programu przygotowań do mistrzostw świata lub mistrzostw Europy, opracowanego przez właściwy polski związek sportowy, oraz do udziału w tych zawodach.
-
-3. Minister właściwy do spraw kultury fizycznej przyznaje, wstrzymuje lub pozbawia stypendium sportowego, o którym mowa w ust. 1, z własnej inicjatywy, na wniosek polskiego związku sportowego lub Instytutu Sportu – Państwowego Instytutu Badawczego.
-
-4. Do stypendium sportowego, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 32 ust. 1b i 1c oraz 2–6a, a także przepisy wydane na podstawie art. 32 ust. 7.
-
-**Art. 32c.**
-
-1. Minister właściwy do spraw kultury fizycznej może w szczególnie uzasadnionych przypadkach przyznać stypendium sportowe zawodnikowi lub trenerowi w wysokości nieprzekraczającej 2-krotności podstawy określonej w art. 32 ust. 1b na okres do 12 miesięcy.
-
-2. Minister właściwy do spraw kultury fizycznej przyznaje stypendium sportowe, o którym mowa w ust. 1, z własnej inicjatywy.
-
-3. Stypendium sportowe, o którym mowa w ust. 1, przysługuje zawodnikowi lub trenerowi, który nie był karany dyscyplinarnie za doping w sporcie dyskwalifikacją w wymiarze jednostkowym większym niż 24 miesiące lub więcej niż raz bez względu na jej jednostkowy wymiar.
-
-4. Pozbawienie stypendium sportowego, o którym mowa w ust. 1, z mocy prawa następuje z chwilą uzyskania przez ministra właściwego do spraw kultury fizycznej informacji o:
-
-- **1)** pozytywnym wyniku kontroli antydopingowej;
-- **2)** tymczasowym aresztowaniu;
-- **3)** skazaniu prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
-
-5. Minister właściwy do spraw kultury fizycznej może pozbawić stypendium sportowego, o którym mowa w ust. 1, w przypadku rażącego naruszenia postanowień Karty Olimpijskiej.
-
-6. Do stypendium sportowego, o którym mowa w ust. 1, stosuje się odpowiednio przepisy art. 32 ust. 2 i 5 oraz przepisy wydane na podstawie art. 32 ust. 7.
+7. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, szczegółowy tryb przyznawania, wstrzymywania i pozbawiania stypendiów sportowych dla członków kadry narodowej, podstawę i wysokość stypendium, czas, na jaki może zostać ono przyznane, uwzględniając sposób i terminy ich wypłacania, a także zajęte przez członka kadry narodowej miejsce we współzawodnictwie międzynarodowym.
 
 **Art. 33.**
 
-1. Osoby pobierające stypendia sportowe, o których mowa w art. 5, art. 31 ust. 1 i 2, art. 32 ust. 1, art. 32a ust. 1, art. 32b ust. 1 oraz art. 32c ust. 1, są stypendystami sportowymi w rozumieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ), a okres ich pobierania zalicza się do okresu zatrudnienia w rozumieniu przepisów ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794) oraz do okresu zatrudnienia, od którego zależą uprawnienia pracownicze. Podstawę zaliczenia okresu pobierania stypendium sportowego stanowi zaświadczenie wydane przez podmiot wypłacający stypendium.
+1. Osoby pobierające stypendia sportowe, o których mowa w art. 5, art. 31 ust. 1 i 2 oraz art. 32 ust. 1, są stypendystami sportowymi w rozumieniu przepisów ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2009 r. Nr 205, poz. 1585 i Nr 218, poz. 1690 oraz z 2010 r. Nr 105, poz. 668), a okres ich pobierania zalicza się do okresu zatrudnienia w rozumieniu przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.) oraz do okresu zatrudnienia, od którego zależą uprawnienia pracownicze. Podstawę zaliczenia okresu pobierania stypendium sportowego stanowi zaświadczenie wydane przez podmiot wypłacający stypendium.
 
-2. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór zaświadczenia dotyczącego okresu pobierania stypendium, o którym mowa w ust. 1, uwzględniając w szczególności zakres danych wykazywanych w zaświadczeniu oraz dane identyfikujące wnioskodawcę i podmiot wydający zaświadczenie.
+2. Minister właściwy do spraw zabezpieczenia społecznego określi, w drodze rozporządzenia, wzór zaświadczenia dotyczącego okresu pobierania stypendium, o którym mowa ust. 1, uwzględniając w szczególności zakres danych wykazywanych w zaświadczeniu oraz dane identyfikujące wnioskodawcę i podmiot wydający zaświadczenie.
 
 **Art. 34.**
 
@@ -540,82 +391,19 @@ Art. 53–75. (pominięte)
 
 2. Minister właściwy do spraw kultury fizycznej przyznaje nagrody pieniężne i wyróżnienia z własnej inicjatywy lub na wniosek polskiego związku sportowego.
 
-3. Podstawę ustalenia wysokości nagrody pieniężnej stanowi kwota minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, przy czym wysokość nagrody nie może przekroczyć 35-krotności tej kwoty.
+3. Podstawę ustalenia wysokości nagrody pieniężnej stanowi kwota 2 300 zł, przy czym wysokość nagrody nie może przekroczyć 14-krotności tej kwoty.
 
-3a. Wyróżnienia mogą być przyznane w kategoriach:
-
-- **1)** seniorów;
-- **2)** młodzieżowców;
-- **3)** juniorów.
-
-3b. Wyróżnienia mogą być przyznane za zajęcie pierwszego, drugiego lub trzeciego miejsca na:
-
-- **1)** igrzyskach olimpijskich;
-- **2)** igrzyskach paralimpijskich;
-- **3)** igrzyskach głuchych;
-- **4)** mistrzostwach świata;
-- **5)** mistrzostwach Europy.
-
-3c. Wyróżnienia za ustanowienie rekordu świata w konkurencjach sportowych objętych programem:
-
-- **1)** igrzysk olimpijskich,
-- **2)** igrzysk paralimpijskich,
-- **3)** igrzysk głuchych – mogą być przyznane, jeżeli wyniki te zostały zatwierdzone przez międzynarodowe federacje sportowe właściwe dla danego sportu.
-
-3d. Nagrody pieniężne za wybitne osiągnięcia sportowe, zwane dalej „nagrodami”, mogą być przyznane za wybitne osiągnięcia sportowe w międzynarodowym współzawodnictwie sportowym.
-
-3e. Nagrody mogą być przyznane osobom startującym wyłącznie w kategorii seniorów.
-
-3f. Nagrody mogą być przyznane za zajęcie pierwszego, drugiego lub trzeciego miejsca na:
-
-- **1)** igrzyskach olimpijskich;
-- **2)** igrzyskach paralimpijskich;
-- **3)** igrzyskach głuchych.
-
-3g. Nagrody mogą być przyznane także za zajęcie pierwszego, drugiego lub trzeciego miejsca na:
-
-- **1)** mistrzostwach świata,
-- **2)** mistrzostwach Europy,
-- **3)** uniwersjadzie letniej lub zimowej,
-- **4)** akademickich mistrzostwach świata – jeżeli w zawodach brało udział co najmniej 8 państw w danej konkurencji, przy czym w konkurencjach indywidualnych brało udział co najmniej 12 osób, a w konkurencjach zespołowych co najmniej 8 drużyn, osad lub załóg.
-
-3h. Nagrody mogą być przyznane także, jeżeli z regulaminu zawodów wynika udział mniejszej liczby osób, drużyn, osad lub załóg w danej konkurencji, jeżeli w konkurencjach indywidualnych brało udział co najmniej 8 osób, a w konkurencjach zespołowych co najmniej 6 drużyn, osad lub załóg.
-
-3i. Nagrody za ustanowienie rekordu świata w konkurencjach sportowych objętych programem:
-
-- **1)** igrzysk olimpijskich,
-- **2)** igrzysk paralimpijskich,
-- **3)** igrzysk głuchych – mogą być przyznane, jeżeli wyniki te zostały zatwierdzone przez międzynarodowe federacje sportowe właściwe dla danego sportu.
-
-3j. Nagroda może być przyznana nieczęściej niż raz w roku także osobie, która uzyskała inne niż określone w ust. 3f i 3g wybitne osiągnięcie sportowe o szczególnym charakterze.
-
-3k. W przypadku wybitnych osiągnięć sportowych w konkurencjach sportowych:
-
-- **1)** nieobjętych programem igrzysk olimpijskich, igrzysk paralimpijskich lub igrzysk głuchych,
-- **2)** objętych programem uniwersjad letnich lub zimowych,
-- **3)** objętych programem akademickich mistrzostw świata – danej osobie może być przyznana nagroda nieczęściej niż raz w roku.
-
-3l. W przypadku uzyskania w czasie tych samych zawodów dwóch lub więcej wybitnych osiągnięć sportowych przyznaje się jedną nagrodę, której wysokość nie może przekroczyć 75 % sumy nagród za poszczególne osiągnięcia.
-
-3m. Zawodnikom zespołowych gier sportowych przyznaje się nagrodę zbiorową dla zespołu w wysokości do 85 % sumy nagród ustalonych dla liczby osób w zespole określonej przepisami międzynarodowymi.
-
-3n. W szczególnie uzasadnionych przypadkach minister właściwy do spraw kultury fizycznej może przyznać dodatkową nagrodę osobie, która w wyniku dyskwalifikacji innych zawodników za doping w sporcie uzyskała lepsze miejsce od miejsca, za które już została nagrodzona.
-
-3o. Nagroda przysługuje osobie, która nie była karana dyscyplinarnie za doping w sporcie dyskwalifikacją w wymiarze jednostkowym większym niż 1 miesiąc.
-
-4. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, rodzaje wyróżnień i przedział wysokości nagród, stanowiący krotność kwoty bazowej, w zależności od osiągnięcia sportowego, oraz szczegółowy tryb i warunki przyznawania wyróżnień i nagród oraz sposób i terminy ich wypłacania, uwzględniając międzynarodowy lub krajowy wymiar osiągnięcia sportowego.
+4. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, rodzaje wyróżnień i wysokość nagród pieniężnych, w zależności od osiągnięcia sportowego, oraz szczegółowy tryb i warunki przyznawania wyróżnień i nagród pieniężnych, uwzględniając sposób i terminy ich wypłacania, a także międzynarodowy lub krajowy wymiar osiągnięcia sportowego.
 
 **Art. 35.**
 
 1. Minister właściwy do spraw kultury fizycznej może przyznawać odznaki, wyróżnienia i nagrody pieniężne ze środków budżetu państwa, z części, której jest dysponentem, trenerom oraz innym osobom wyróżniającym się szczególną aktywnością i uzyskującym wybitne osiągnięcia w działalności w zakresie sportu.
 
-2. Minister właściwy do spraw kultury fizycznej przyznaje odznaki, wyróżnienia i nagrody pieniężne z własnej inicjatywy lub na wniosek organów wykonawczych jednostek samorządu terytorialnego, związku sportowego lub polskiego związku sportowego, a w przypadku odznak również na wniosek uczelni lub instytutu badawczego.
+2. Minister właściwy do spraw kultury fizycznej przyznaje odznaki, wyróżnienia i nagrody pieniężne z własnej inicjatywy lub na wniosek organów wykonawczych jednostek samorządu terytorialnego, związku sportowego lub polskiego związku sportowego.
 
-2a. Potwierdzeniem przyznania odznaki jest legitymacja.
+3. Podstawę ustalenia wysokości nagrody pieniężnej stanowi kwota 2 300 zł, przy czym wysokość nagrody nie może przekroczyć 8-krotności tej kwoty.
 
-3. Podstawę ustalenia wysokości nagrody pieniężnej stanowi kwota minimalnego wynagrodzenia za pracę określonego na podstawie przepisów o minimalnym wynagrodzeniu za pracę, przy czym wysokość nagrody nie może przekroczyć 8-krotności tej kwoty.
-
-4. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, rodzaje i wzory odznak, wzory legitymacji potwierdzających przyznanie tych odznak, rodzaje wyróżnień oraz przedział wysokości nagród pieniężnych, w zależności od osiągnięć w działalności w zakresie sportu, a także szczegółowe warunki i tryb przyznawania odznak, wyróżnień i nagród pieniężnych, uwzględniając znaczenie osiągnięć oraz podjętej aktywności dla rozwoju danego sportu, a także sposób ich dokumentowania.
+4. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, rodzaje i wzory odznak, rodzaje wyróżnień oraz wysokość nagród pieniężnych, w zależności od osiągnięć w działalności w zakresie sportu, a także szczegółowe warunki i tryb przyznawania odznak, wyróżnień i nagród pieniężnych, uwzględniając znaczenie osiągnięć oraz podjętej aktywności dla rozwoju danego sportu, a także sposób ich dokumentowania.
 
 5. Jednostki samorządu terytorialnego mogą ustanawiać wyróżnienia i nagrody pieniężne dla trenerów oraz innych osób wyróżniających się osiągnięciami w działalności sportowej.
 
@@ -625,10 +413,10 @@ Art. 53–75. (pominięte)
 
 1. Reprezentantom Polski:
 
-- **1)** na igrzyskach olimpijskich, 1a) na olimpiadzie szachowej, 1b) na Igrzyskach Dobrej Woli,
+- **1)** na igrzyskach olimpijskich,
 - **2)** zakwalifikowanym na igrzyska olimpijskie odbywające się w 1984 r. w Los Angeles, którzy wzięli udział w zawodach „Przyjaźń 84”,
-- **3)** zakwalifikowanym na igrzyska paralimpijskie lub zawody sportowe osób niepełnosprawnych odbywające się przed 1992 r., będące odpowiednikiem igrzysk paralimpijskich,
-- **4)** zakwalifikowanym na igrzyska głuchych lub zawody sportowe odbywające się przed 2001 r., będące odpowiednikiem igrzysk głuchych – przysługuje świadczenie pieniężne ze środków budżetu państwa, zwane dalej „świadczeniem”.
+- **3)** zakwalifikowanym na igrzyska paraolimpijskie lub zawody sportowe osób niepełnosprawnych odbywające się przed 1992 r., będące odpowiednikiem igrzysk paraolimpijskich,
+- **4)** zakwalifikowanym na igrzyska głuchych lub zawody sportowe odbywające się przed 2001 r., będące odpowiednikiem igrzysk głuchych przysługuje świadczenie pieniężne ze środków budżetu państwa, zwane dalej „świadczeniem”.
 
 2. Świadczenie przysługuje osobie, która:
 
@@ -636,11 +424,10 @@ Art. 53–75. (pominięte)
 - **2)** ukończyła 40. rok życia;
 - **3)** nie uczestniczy we współzawodnictwie sportowym organizowanym przez polski związek sportowy;
 - **4)** ma obywatelstwo polskie;
-- **5)** (uchylony)
-- **6)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **7)** nie była karana dyscyplinarnie za doping w sporcie dyskwalifikacją w wymiarze jednostkowym większym niż 24 miesiące lub więcej niż raz bez względu na jej jednostkowy wymiar.
+- **5)** ma stałe miejsce zamieszkania na terytorium Rzeczypospolitej Polskiej, innego państwa członkowskiego Unii Europejskiej, państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacji Szwajcarskiej;
+- **6)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
 
-3. Świadczenie przysługujące w danym roku budżetowym ustala się na podstawie kwoty bazowej dla członków korpusu służby cywilnej, której wysokość, ustaloną według odrębnych zasad, określa ustawa budżetowa, przy uwzględnieniu mnożnika kwoty bazowej w wysokości 1,8.
+3. Świadczenie przysługujące w danym roku budżetowym ustala się na podstawie kwoty bazowej dla członków korpusu służby cywilnej, której wysokość, ustaloną według odrębnych zasad, określa ustawa budżetowa, przy uwzględnieniu mnożnika kwoty bazowej w wysokości 1,3255.
 
 4. Świadczenie przyznaje minister właściwy do spraw kultury fizycznej, w drodze decyzji, na wniosek osoby zainteresowanej.
 
@@ -650,119 +437,13 @@ Art. 53–75. (pominięte)
 
 7. Świadczenie jest wypłacane co miesiąc przez urząd obsługujący ministra właściwego do spraw kultury fizycznej, począwszy od miesiąca, w którym świadczenie zostało przyznane.
 
-8. Osoba, która otrzymuje świadczenie, niezwłocznie powiadamia ministra właściwego do spraw kultury fizycznej o ustaniu co najmniej jednego z warunków, o których mowa w ust. 2 pkt 3 i 4 oraz 6 i 7.
+8. Osoba, która otrzymuje świadczenie, niezwłocznie powiadamia ministra właściwego do spraw kultury fizycznej o ustaniu co najmniej jednego z warunków, o których mowa w ust. 2 pkt 3–6.
 
-9. Minister właściwy do spraw kultury fizycznej pozbawia, w drodze decyzji, świadczenia, począwszy od miesiąca, w którym ustał co najmniej jeden z warunków, o których mowa w ust. 2 pkt 3 i 4 oraz 6 i 7.
+9. Minister właściwy do spraw kultury fizycznej pozbawia, w drodze decyzji, świadczenia, począwszy od miesiąca, w którym ustał co najmniej jeden z warunków, o których mowa w ust. 2 pkt 3–6.
 
 10. Jeżeli dana osoba jest uprawniona do otrzymania więcej niż jednego świadczenia, otrzymuje tylko jedno świadczenie, w oparciu o podstawę przez nią wybraną.
 
-11. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, wykaz zawodów sportowych osób niepełnosprawnych odbywających się przed 1992 r., będących odpowiednikiem igrzysk paralimpijskich, oraz zawodów sportowych odbywających się przed 2001 r., będących odpowiednikiem igrzysk głuchych, biorąc pod uwagę rangę sportową tych zawodów.
-
-#### Rozdział 6a Ewidencja „Sportowe talenty”
-
-**Art. 36a.** W ewidencji „Sportowe talenty” gromadzi się dane uczniów klas IV‒ VIII szkół podstawowych, szkół ponadpodstawowych, o których mowa w art. 18 ust. 1 pkt 2 lit. a‒c ustawy z dnia 14 grudnia 2016 r. ‒ Prawo oświatowe (Dz. U. z 2025 r. poz. 1043, 1160 i 1837), zwanej dalej „ustawą – Prawo oświatowe”, oraz szkół artystycznych realizujących kształcenie ogólne w zakresie klas IV‒VIII szkoły podstawowej i liceum ogólnokształcącego, obejmujące:
-
-**Art. 36b.**
-
-1. Podmiotem prowadzącym ewidencję „Sportowe talenty” jest minister właściwy do spraw kultury fizycznej.
-
-2. Minister właściwy do spraw kultury fizycznej może powierzyć jednostce podległej lub nadzorowanej prowadzenie ewidencji „Sportowe talenty” lub wykonywanie części zadań związanych z prowadzeniem tej ewidencji.
-
-**Art. 36c.**
-
-1. Ewidencję „Sportowe talenty” prowadzi się w systemie teleinformatycznym, zwanym dalej „systemem”.
-
-2. System umożliwia pozyskanie z systemu informacji oświatowej, o którym mowa w ustawie z dnia 15 kwietnia 2011 r. o systemie informacji oświatowej (Dz. U. z 2024 r. poz. 152, z późn. zm. ), danych, o których mowa w art. 36a pkt 1, 2, 4, 9 i
-
-10.
-
-3. System umożliwia automatyczne wprowadzenie do ewidencji „Sportowe talenty” pozyskanych danych.
-
-4. Pozyskanie danych następuje po uwierzytelnieniu w systemie osoby upoważnionej przez szkołę, o którym mowa w art. 36f ust. 1.
-
-5. Pozyskanie danych odbywa się za pomocą oprogramowania interfejsowego udostępnionego przez ministra właściwego do spraw oświaty i wychowania.
-
-**Art. 36d.**
-
-1. Dane, o których mowa w art. 36a, udostępnia się szkole, do której uczęszcza uczeń.
-
-2. Dane, o których mowa w art. 36a pkt 2–8 i 11, udostępnia się klubowi sportowemu, związkowi sportowemu oraz polskiemu związkowi sportowemu.
-
-**Art. 36e.**
-
-1. System umożliwia:
-
-- **1)** wprowadzenie przez klub sportowy, związek sportowy lub polski związek sportowy zgłoszenia zainteresowania wynikiem uzyskanym przez ucznia z testów sprawnościowych wraz z przekazaniem danych kontaktowych związku lub klubu;
-- **2)** przekazanie informacji o zgłoszeniu, o którym mowa w pkt 1, szkole, do której uczęszcza uczeń.
-
-2. Szkoła identyfikuje zgłoszenia, o których mowa w ust. 1 pkt 1, w ramach dostępu do ewidencji „Sportowe talenty”, o którym mowa w art. 36f ust. 1.
-
-3. Szkoła przekazuje informację o zgłoszeniu, o którym mowa w ust. 1 pkt 1, wraz z danymi kontaktowymi klubu sportowego, związku sportowego lub polskiego związku sportowego pełnoletniemu uczniowi albo rodzicowi lub innemu przedstawicielowi ustawowemu ucznia.
-
-**Art. 36f.**
-
-1. Dostęp do ewidencji „Sportowe talenty” jest możliwy po uwierzytelnieniu w systemie, zgodnie z art. 20a ust. 2 ustawy z dnia 17 lutego 2005 r. o informatyzacji działalności podmiotów realizujących zadania publiczne (Dz. U. z 2025 r. poz. 1703), za pomocą danych dostępowych osób upoważnionych przez szkołę, klub sportowy, związek sportowy albo polski związek sportowy, zwanych dalej „osobami upoważnionymi”.
-
-2. Dane dostępowe dla osoby upoważnionej przyznaje podmiot prowadzący ewidencję „Sportowe talenty”.
-
-3. Dane dostępowe przyznaje się na wniosek szkoły, klubu sportowego, związku sportowego lub polskiego związku sportowego, złożony na piśmie w postaci papierowej albo w postaci elektronicznej, opatrzony odpowiednio podpisem własnoręcznym albo kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
-
-4. Wniosek zawiera:
-
-- **1)** nazwę szkoły, klubu sportowego, związku sportowego lub polskiego związku sportowego;
-- **2)** imię (imiona), nazwisko, numer PESEL, numer telefonu i adres poczty elektronicznej osoby upoważnionej oraz funkcję i okres zatrudnienia osoby upoważnionej;
-- **3)** wskazanie okresu, na jaki mają być przyznane dane dostępowe.
-
-5. Do wniosku dołącza się dokument potwierdzający umocowanie do reprezentowania podmiotu występującego z wnioskiem.
-
-6. Dane dostępowe osobie upoważnionej są przyznawane po stwierdzeniu poprawności danych zawartych we wniosku.
-
-7. W przypadku stwierdzenia, że dane zawarte we wniosku są niepoprawne, podmiot prowadzący ewidencję „Sportowe talenty” niezwłocznie przesyła na adres poczty elektronicznej osoby upoważnionej informację o nienadaniu wnioskowi biegu wraz z informacją o stwierdzonej niepoprawności.
-
-8. W przypadku stwierdzenia, że dane zawarte we wniosku są poprawne, podmiot prowadzący ewidencję „Sportowe talenty” niezwłocznie przesyła na adres poczty elektronicznej osoby upoważnionej informację o stwierdzeniu poprawności danych wraz z informacją o sposobie pozyskania danych dostępowych.
-
-9. Dostęp do ewidencji „Sportowe talenty” jest przyznawany na okres niedłuższy niż okres zatrudnienia lub pełnienia funkcji w szkole, klubie sportowym, związku sportowym i polskim związku sportowym.
-
-10. Podmiot prowadzący ewidencję „Sportowe talenty”, na wniosek szkoły, klubu sportowego, związku sportowego lub polskiego związku sportowego, cofa dostęp do tej ewidencji.
-
-11. W przypadku ustania okresu zatrudnienia lub pełnienia funkcji w szkole, klubie sportowym, związku sportowym i polskim związku sportowym przez osobę upoważnioną, podmiot ten niezwłocznie występuje z wnioskiem o cofnięcie dostępu do ewidencji „Sportowe talenty”.
-
-**Art. 36g.**
-
-1. Podmiot prowadzący ewidencję „Sportowe talenty” udostępnia dane, o których mowa w art. 36a pkt 2–8 i 11 na wniosek:
-
-- **1)** podmiotu publicznego albo podmiotu niebędącego podmiotem publicznym, realizującego zadania publiczne ‒ w celu niezbędnym do realizacji zadań publicznych;
-- **2)** innego podmiotu niż podmiot, o którym mowa w pkt 1 ‒ w celu niezbędnym do realizacji przez ten podmiot zadań naukowo-badawczych, dydaktycznych, oświatowych lub statystycznych.
-
-2. Wniosek o udostępnienie danych z ewidencji „Sportowe talenty” składa się w postaci elektronicznej i opatruje się kwalifikowanym podpisem elektronicznym, podpisem zaufanym albo podpisem osobistym.
-
-3. Dane z ewidencji „Sportowe talenty” udostępnia się za pomocą środków komunikacji elektronicznej.
-
-4. Wniosek o udostępnienie danych z ewidencji „Sportowe talenty” zawiera:
-
-- **1)** nazwę i adres podmiotu występującego z wnioskiem;
-- **2)** oznaczenie zakresu wnioskowanych danych;
-- **3)** adres poczty elektronicznej, na który mają być udostępnione dane;
-- **4)** wskazanie zadania publicznego, którego wykonanie wymaga udostępnienia danych ‒ w przypadku podmiotu, o którym mowa w ust. 1 pkt 1;
-- **5)** wskazanie zadania naukowo-badawczego, dydaktycznego, oświatowego lub statystycznego, którego wykonanie wymaga udostępnienia danych – w przypadku podmiotu, o którym mowa w ust. 1 pkt 2.
-
-5. Do wniosku dołącza się dokument potwierdzający umocowanie do reprezentowania podmiotu występującego z wnioskiem.
-
-6. Dane z ewidencji „Sportowe talenty” udostępnia się niepóźniej niż w terminie 30 dni od dnia doręczenia wniosku o ich udostępnienie.
-
-7. W przypadku stwierdzenia braków we wniosku podmiot prowadzący ewidencję „Sportowe talenty” wzywa wnioskodawcę do uzupełnienia wniosku w terminie 14 dni od dnia doręczenia wezwania z pouczeniem, że nieusunięcie braków spowoduje pozostawienie wniosku bez rozpoznania.
-
-8. Podmiot prowadzący ewidencję „Sportowe talenty”, w drodze decyzji, odmawia udostępnienia danych z ewidencji w przypadku niespełnienia przez podmiot, o którym mowa w ust. 1, wymagań, o których mowa w ust. 1.
-
-9. Dane udostępniane z ewidencji „Sportowe talenty” nie mogą być wykorzystywane przez podmiot, któremu udostępniono dane, w innym celu niż wskazany we wniosku.
-
-**Art. 36h.**
-
-1. Administratorem danych gromadzonych w ewidencji „Sportowe talenty” jest minister właściwy do spraw kultury fizycznej.
-
-2. Danych gromadzonych w ewidencji „Sportowe talenty”, o których mowa w art. 36a pkt 2–8 i 11, nie usuwa się.
-
-3. Dane gromadzone w ewidencji „Sportowe talenty”, o których mowa w art. 36a pkt 1, 9 i 10, usuwa się po 5 latach od dnia zakończenia przez ucznia nauki w szkole, w której uzyskał wynik z testów sprawnościowych.
+11. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, wykaz zawodów sportowych osób niepełnosprawnych odbywających się przed 1992 r., będących odpowiednikiem igrzysk paraolimpijskich, oraz zawodów sportowych odbywających się przed 2001 r., będących odpowiednikiem igrzysk głuchych, biorąc pod uwagę rangę sportową tych zawodów.
 
 #### Rozdział 7 Bezpieczeństwo w sporcie
 
@@ -770,7 +451,7 @@ Art. 53–75. (pominięte)
 
 1. Zawodnik uczestniczący we współzawodnictwie sportowym organizowanym przez polski związek sportowy jest obowiązany do uzyskania orzeczenia lekarskiego o stanie zdrowia umożliwiającym bezpieczne uczestnictwo w tym współzawodnictwie.
 
-2. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, kwalifikacje lekarzy uprawnionych do wydawania orzeczeń lekarskich, o których mowa w ust. 1, a także zakres i częstotliwość wymaganych badań lekarskich, uwzględniając specyfikę współzawodnictwa sportowego.
+2. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, kwalifikacje lekarzy uprawnionych do wydawania orzeczeń lekarskich, o których mowa w ust. 1, a także zakres wymaganych badań lekarskich, uwzględniając specyfikę współzawodnictwa sportowego.
 
 **Art. 38.**
 
@@ -778,136 +459,189 @@ Art. 53–75. (pominięte)
 
 2. Obowiązek, o którym mowa w ust. 1, spoczywa na klubie sportowym będącym członkiem polskiego związku sportowego, a w przypadku zawodnika kadry narodowej – na polskim związku sportowym.
 
-**Art. 38a.** Uprawianie sportu na boiskach, kortach, bieżniach, lodowiskach, siłowniach plenerowych, skateparkach, rolkowiskach i pumptrackach stanowi powszechne korzystanie ze środowiska w rozumieniu art. 4 ust. 1 ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863), jeżeli odbywa się w ramach szkolenia sportowego albo aktywności sportowej o charakterze szkolnym lub rekreacyjnym.
-
-**Art. 38a.** Sędzia sportowy, który wykonuje zadania związane z prowadzeniem współzawodnictwa sportowego organizowanego przez:
-
 **Art. 39.**
 
-1. (uchylony)
+1. Zapewnienie bezpieczeństwa osób korzystających ze szlaków górskich, tras narciarskich oraz uprawiających sporty górskie należy do osób prawnych i osób fizycznych prowadzących w górach działalność w tym zakresie oraz do organów administracji rządowej i właściwych terytorialnie jednostek samorządu terytorialnego oraz dyrekcji parków narodowych.
 
-2. (uchylony)
+2. Realizacja obowiązku, o którym mowa w ust. 1, polega w szczególności na:
 
-3. (uchylony)
+- **1)** oznakowaniu i zabezpieczeniu terenów, obiektów i urządzeń służących do uprawiania sportu, rzetelnie przeciwdziałającemu powstaniu wypadków;
+- **2)** określeniu i upowszechnieniu zasad korzystania z danego terenu, obiektu i urządzenia;
+- **3)** zapewnieniu podmiotom, o których mowa w art. 40 ust. 1, warunków do organizowania pomocy oraz ratowania osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia;
+- **4)** informowaniu o zagrożeniu lawinowym i innych tworzących się niebezpieczeństwach.
 
-4. (uchylony)
+3. Zapewnienie bezpieczeństwa osób pływających, kąpiących się w wyznaczonych do tego miejscach oraz uprawiających sporty wodne należy do osób prawnych i osób fizycznych prowadzących nad wodą działalność w tym zakresie oraz do organów administracji rządowej i właściwych terytorialnie gmin.
 
-5. (uchylony)
+4. Realizacja obowiązku, o którym mowa w ust. 3, polega w szczególności na:
+
+- **1)** oznakowaniu i zabezpieczeniu terenów, obiektów i urządzeń służących do pływania, kąpania się i uprawiania sportów wodnych;
+- **2)** zapewnieniu podmiotom, o których mowa w art. 40 ust. 2, warunków do organizowania pomocy oraz ratowania osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na wodach;
+- **3)** informowaniu i ostrzeganiu o warunkach pogodowych mogących powodować zagrożenie dla zdrowia i życia osób;
+- **4)** prowadzeniu działalności profilaktycznej i edukacyjnej dotyczącej bezpieczeństwa na wodzie.
+
+5. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw turystyki oraz ministrem właściwym do spraw gospodarki morskiej i ministrem właściwym do spraw transportu określi, w drodze rozporządzenia, szczegółowy sposób realizacji obowiązków, o których mowa w ust. 1 i 3, sposób zagospodarowania, udostępniania, oznakowania, zabezpieczania i korzystania z terenów służących do uprawiania sportu w górach i na wodach, warunki do organizowania pomocy osobom, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia w górach i na wodach, a także wzory znaków nakazu, zakazu i informacyjnych, mając na uwadze konieczność zapewnienia odpowiedniego poziomu bezpieczeństwa i możliwości sprawnego udzielania pomocy osobom, które uległy wypadkom lub są narażone na niebezpieczeństwo utraty życia lub zdrowia w górach i na wodach.
 
 **Art. 40.**
 
-1. (uchylony)
+1. Do organizowania pomocy oraz ratowania osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia w górach, są uprawnione w szczególności:
 
-2. (uchylony)
+- **1)** Górskie Ochotnicze Pogotowie Ratunkowe,
+- **2)** Tatrzańskie Ochotnicze Pogotowie Ratunkowe specjalistyczne stowarzyszenia o zasięgu ogólnokrajowym, w zakresie określonym w statutach tych organizacji.
 
-3. (uchylony)
+2. Do organizowania pomocy oraz ratowania osób, które uległy wypadkowi lub są narażone na niebezpieczeństwo utraty życia lub zdrowia na wodach, jest uprawnione w szczególności Wodne Ochotnicze Pogotowie Ratunkowe – specjalistyczne stowarzyszenie o zasięgu ogólnokrajowym, w zakresie określonym w statucie tej organizacji.
 
-4. (uchylony)
+3. Organizacje, o których mowa w ust. 1 i 2, współdziałają w realizacji swoich zadań z organami administracji rządowej i organami jednostek samorządu terytorialnego oraz osobami prawnymi, jednostkami organizacyjnymi nieposiadającymi osobowości prawnej i osobami fizycznymi, prowadzącymi działalność w zakresie kultury fizycznej lub turystyki.
+
+4. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw zdrowia określi, w drodze rozporządzenia, szczegółowy zakres obowiązków i uprawnień specjalistycznych organizacji ratowniczych, warunki ich wykonywania przez inne organizacje ratownicze, a także rodzaj i wysokość świadczeń przysługujących ratownikom górskim i wodnym w związku z udziałem w akcji ratowniczej. Rozporządzenie powinno określać szczegółowe zadania w zakresie organizowania pomocy oraz ratowania osób, podejmowane przez poszczególne organizacje ratownicze, a także przewidywać świadczenia finansowe i rzeczowe z uwzględnieniem czasu trwania i stopnia niebezpieczeństwa wyprawy ratunkowej.
 
 #### Rozdział 8 Kwalifikacje zawodowe w sporcie
 
 **Art. 41.**
 
-1. Zorganizowane zajęcia w zakresie sportu w związku sportowym oraz w klubie sportowym uczestniczącym we współzawodnictwie organizowanym przez polski związek sportowy może prowadzić wyłącznie trener lub instruktor sportu w rozumieniu ustawy.
+1. Tytułami zawodowymi w sportach, w których działają polskie związki sportowe, są tytuły trenera i instruktora sportu.
 
-2. Do zadań trenera lub instruktora sportu należy poza prowadzeniem zajęć, o których mowa w ust. 1, przekazywanie aktualnej wiedzy teoretycznej i praktycznej z zakresu treningu sportowego i współzawodnictwa sportowego w danym sporcie.
+2. Ustala się następujące stopnie trenerskie:
 
-3. Trenerem lub instruktorem sportu w sportach, w których działają polskie związki sportowe, może być osoba, która:
+- **1)** trener klasy drugiej;
+- **2)** trener klasy pierwszej;
+- **3)** trener klasy mistrzowskiej.
 
-- **1)** ukończyła 18 lat;
-- **2)** posiada co najmniej wykształcenie średnie lub średnie branżowe;
-- **3)** posiada wiedzę, doświadczenie i umiejętności niezbędne do wykonywania zadań trenera lub instruktora sportu;
-- **4)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo, o którym mowa w art. 46–50, lub określone w rozdziale XIX, XXIII, z wyjątkiem art. 192 i art. 193, rozdziale XXV i XXVI ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
+3. Trenerem klasy drugiej może być osoba, która:
 
-**Art. 42.** (uchylony)
+- **1)** ukończyła studia wyższe w obszarze kształcenia umożliwiającym uzyskanie specjalistycznej wiedzy i umiejętności trenerskich lub
+- **2)** posiada, przez okres co najmniej 2 lat, tytuł instruktora sportu ze specjalizacją w danym sporcie i ukończyła studia podyplomowe w obszarze kształcenia umożliwiającym uzyskanie specjalistycznej wiedzy i umiejętności trenerskich, lub
+- **3)** posiada, przez okres co najmniej 2 lat, tytuł instruktora sportu ze specjalizacją w danym sporcie, posiada co najmniej świadectwo dojrzałości oraz ukończyła specjalistyczny kurs na stopień trenera klasy drugiej i zdała egzamin końcowy.
 
-#### Rozdział 9
+4. Trenerem klasy pierwszej może być osoba, która:
 
-#### Rozdział 9a Odpowiedzialność dyscyplinarna oraz rozstrzyganie sporów w sporcie
+- **1)** posiada co najmniej świadectwo dojrzałości;
+- **2)** posiada co najmniej trzyletni staż pracy trenerskiej ze stopniem trenera klasy drugiej;
+- **3)** posiada udokumentowany dorobek w pracy szkoleniowej;
+- **4)** ukończyła specjalistyczny kurs na stopień trenera klasy pierwszej i zdała egzamin końcowy.
 
-**Art. 45a.**
+5. Trenerem klasy mistrzowskiej może być osoba, która:
 
-1. Przy Polskim Komitecie Olimpijskim działa Trybunał Arbitrażowy do Spraw Sportu, zwany dalej „Trybunałem”.
+- **1)** ukończyła studia wyższe;
+- **2)** posiada co najmniej dwuletni staż pracy trenerskiej ze stopniem trenera klasy pierwszej;
+- **3)** posiada udokumentowany dorobek w pracy szkoleniowej;
+- **4)** ukończyła specjalistyczny kurs na stopień trenera klasy mistrzowskiej i zdała egzamin końcowy.
 
-2. Trybunał jest stałym sądem polubownym działającym na zasadach określonych w przepisach ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego.
+6. Instruktorem sportu może być osoba, która:
 
-3. Trybunał rozstrzyga także spory wynikające z zaskarżenia ostatecznych decyzji dyscyplinarnych polskich związków sportowych.
+- **1)** ukończyła studia wyższe w obszarze kształcenia umożliwiającym uzyskanie specjalistycznej wiedzy i umiejętności instruktorskich lub
+- **2)** posiada co najmniej średnie wykształcenie oraz ukończyła specjalistyczny kurs instruktorów w danym sporcie i zdała egzamin końcowy.
 
-4. W skład Trybunału wchodzi 24 arbitrów powoływanych przez Zarząd Polskiego Komitetu Olimpijskiego na okres 4-letniej kadencji.
+7. Zorganizowane zajęcia w zakresie sportu w klubie sportowym uczestniczącym we współzawodnictwie organizowanym przez polski związek sportowy mogą prowadzić wyłącznie osoby posiadające tytuł zawodowy trenera lub instruktora sportu.
 
-5. Arbitrem Trybunału może zostać osoba, która:
+8. Prowadzenie specjalistycznego kursu, o którym mowa w ust. 3 pkt 3, ust. 4 pkt 4, ust. 5 pkt 4 oraz ust. 6 pkt 2, zwanego dalej „kursem”, wymaga uzyskania zgody ministra właściwego do spraw kultury fizycznej, wydanej na czas określony.
 
-- **1)** korzysta z pełni praw publicznych;
-- **2)** jest nieskazitelnego charakteru i swym dotychczasowym zachowaniem daje rękojmię prawidłowego wykonywania funkcji arbitra;
-- **3)** nie była skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **4)** posiada wyższe wykształcenie prawnicze i zdała egzamin sędziowski, prokuratorski, radcowski, adwokacki lub notarialny.
+9. Podmiot ubiegający się o uzyskanie zgody na prowadzenie kursu składa do ministra właściwego do spraw kultury fizycznej wniosek o wyrażenie zgody na prowadzenie kursu.
 
-6. Wymogów, o których mowa w ust. 4 pkt 4, nie stosuje się do osoby posiadającej stopień doktora habilitowanego nauk prawnych.
+10. Do wniosku o wyrażenie zgody na prowadzenie kursu dołącza się w szczególności:
 
-7. Kadencja arbitra Trybunału wygasa w przypadku:
+- **1)** wykaz kadry wykładowców, przy współpracy z którą będzie realizowane kształcenie;
+- **2)** informację na temat bazy dydaktycznej i obiektów wykorzystywanych do prowadzenia zajęć;
+- **3)** odpis z Krajowego Rejestru Sądowego albo z innego rejestru właściwego dla formy organizacyjnej podmiotu ubiegającego się o uzyskanie zgody;
+- **4)** numer identyfikacji podatkowej (NIP), o ile wnioskodawca taki posiada;
+- **5)** numer identyfikacyjny REGON, o ile wnioskodawca taki posiada;
+- **6)** ramowy program kursu.
 
-- **1)** śmierci;
-- **2)** zrzeczenia się funkcji;
-- **3)** choroby trwale uniemożliwiającej sprawowanie funkcji;
-- **4)** skazania prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe;
-- **5)** prawomocnego orzeczenia środka karnego w postaci pozbawienia praw publicznych;
-- **6)** ograniczenia lub utraty zdolności do czynności prawnych.
+11. Minister właściwy do spraw kultury fizycznej udziela, w drodze decyzji, zgody, o której mowa w ust. 8, w terminie 4 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 9. Przed udzieleniem zgody, o której mowa w ust. 8, minister właściwy do spraw kultury fizycznej zasięga opinii właściwego polskiego związku sportowego.
 
-8. Organizację i tryb postępowania przed Trybunałem oraz ponoszenie opłat i kosztów postępowania określa statut Trybunału uchwalony przez Zarząd Polskiego Komitetu Olimpijskiego.
+12. Minister właściwy do spraw kultury fizycznej odmawia, w drodze decyzji, udzielenia zgody, o której mowa w ust. 8, jeżeli wnioskodawca nie przedłoży dokumentów, o których mowa w ust. 10, albo jeżeli nie posiada odpowiednich warunków kadrowych i organizacyjnych, koniecznych dla prawidłowego prowadzenia kursu, określonych w przepisach wydanych na podstawie ust. 16.
 
-**Art. 45b.**
+13. Podmiot, który uzyskał zgodę, o której mowa w ust. 8, składa do ministra właściwego do spraw kultury fizycznej, w terminie co najmniej 4 tygodni przed rozpoczęciem kursu, wniosek o zatwierdzenie programu kursu.
 
-1. Odpowiedzialność dyscyplinarna w ramach polskiego związku sportowego jest realizowana na zasadach określonych w regulaminie dyscyplinarnym.
+14. Nadzór nad prowadzeniem kursu przez podmiot, który uzyskał zgodę, o której mowa w ust. 8, sprawuje minister właściwy do spraw kultury fizycznej.
 
-2. Odpowiedzialność dyscyplinarna opiera się na następujących zasadach:
+15. W ramach sprawowanego nadzoru minister właściwy do spraw kultury fizycznej ma prawo żądać udostępnienia dokumentów, pisemnych wyjaśnień dotyczących prowadzonego kursu oraz dokonywać kontroli. Do prowadzonej kontroli stosuje się odpowiednio przepisy art. 17–20.
 
-- **1)** prawa do obrony;
-- **2)** dwuinstancyjności postępowania.
+16. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia:
 
-3. Regulamin dyscyplinarny, o którym mowa w ust. 1, określa w szczególności: podmioty podlegające odpowiedzialności dyscyplinarnej, czyny zagrożone odpowiedzialnością dyscyplinarną, rodzaje kar dyscyplinarnych, organy dyscyplinarne i ich kompetencje oraz tryb postępowania dyscyplinarnego.
+- **1)** szczegółowe warunki uzyskiwania tytułów trenera i instruktora sportu,
+- **2)** szczegółowe warunki uzyskiwania zgody na prowadzenie kursu, w tym rodzaje dokumentów niezbędnych do uzyskania tej zgody oraz wzór wniosku o zatwierdzenie kursu,
+- **3)** warunki kadrowe i organizacyjne, konieczne dla prawidłowego prowadzenia kursu,
+- **4)** minimalne wymogi, jakim powinien odpowiadać program kształcenia,
+- **5)** dokumenty stwierdzające posiadanie tytułów trenera i instruktora sportu, wzory tych dokumentów, podmioty obowiązane do ich wydawania oraz podmiot obowiązany do prowadzenia ewidencji tych dokumentów biorąc pod uwagę stopnie, o których mowa w ust. 2, oraz konieczność zapewnienia najwyższego poziomu kształcenia.
 
-4. Prowadzenie postępowania karnego, administracyjnego lub cywilnego przeciwko obwinionemu nie wyklucza postępowania dyscyplinarnego o ten sam czyn.
+**Art. 42.**
 
-5. Karami dyscyplinarnymi mogą być w szczególności:
+1. Minister właściwy do spraw kultury fizycznej jest organem właściwym do uznawania kwalifikacji zawodowych trenera lub instruktora sportu osób, które nabyły kwalifikacje do wykonywania tych zawodów w państwach innych niż państwa członkowskie Unii Europejskiej, Europejskiego Porozumienia o Wolnym Handlu (EFTA) – strony umowy o Europejskim Obszarze Gospodarczym lub Konfederacja Szwajcarska.
 
-- **1)** upomnienie;
-- **2)** nagana;
-- **3)** zawieszenie;
-- **4)** dyskwalifikacja czasowa lub dożywotnia;
-- **5)** kara pieniężna;
-- **6)** przeniesienie zespołu do niższej klasy rozgrywkowej;
-- **7)** skreślenie ze związku;
-- **8)** wykluczenie ze związku.
+2. Minister właściwy do spraw kultury fizycznej może uznać kwalifikacje osób, o których mowa w ust. 1, jeżeli nie występują zasadnicze różnice w kształceniu w państwie, w którym dana osoba uzyskała kwalifikacje, biorąc w szczególności pod uwagę rodzaj zdobytych kwalifikacji oraz doświadczenie zawodowe osoby ubiegającej się o uznanie kwalifikacji w zawodzie trenera lub instruktora sportu.
 
-**Art. 45c.**
+3. Postępowanie w sprawie uznania kwalifikacji osób, o których mowa w ust. 1, wszczyna się na wniosek.
 
-1. Skarga do Trybunału przysługuje stronie postępowania lub – na podstawie regulaminów obowiązujących w danym związku – innym podmiotom.
+4. Do wniosku w sprawie uznania kwalifikacji dołącza się:
 
-2. Skargę do Trybunału wnosi się w terminie 14 dni od dnia doręczenia decyzji.
+- **1)** poświadczoną notarialnie kopię oryginału dokumentu potwierdzającego tożsamość wnioskodawcy;
+- **2)** oryginał dyplomu wnioskodawcy wraz z suplementami, jego urzędowy odpis albo poświadczoną notarialnie kopię oryginału lub urzędowego odpisu dyplomu;
+- **3)** oryginał świadectwa i innych dokumentów potwierdzających nabyte przez wnioskodawcę wykształcenie albo poświadczoną notarialnie kopię oryginału;
+- **4)** dokumenty potwierdzające doświadczenie zawodowe wnioskodawcy.
 
-3. Skarga do Trybunału nie przysługuje w sprawach dotyczących technicznych reguł gry.
+5. Osoby ubiegające się o uznanie kwalifikacji, którym wraz z dyplomem nie wydano suplementu, do wniosku w sprawie uznania kwalifikacji dołączają dokumenty potwierdzające przebieg studiów, w szczególności kopię indeksu lub arkusza ocen.
 
-4. Od skargi wniesionej do Trybunału uiszcza się wpis, którego wysokość nie może być wyższa niż dwukrotność przeciętnego miesięcznego wynagrodzenia za pracę w gospodarce narodowej w roku poprzednim, ogłaszanego przez Prezesa Głównego Urzędu Statystycznego.
+6. Dokumenty, o których mowa w ust. 4 i 5, przedkłada się wraz z ich tłumaczeniem na język polski przez tłumacza przysięgłego.
 
-**Art. 45d.**
+7. Postępowanie w sprawie uznania kwalifikacji powinno zakończyć się wydaniem decyzji nie później, niż w terminie 4 miesięcy od dnia złożenia wniosku.
 
-1. Uchylenie przez Trybunał decyzji dyscyplinarnej polskiego związku sportowego i przekazanie sprawy do ponownego rozpoznania jest możliwe w przypadku, gdy dla rozstrzygnięcia sprawy konieczne jest przeprowadzenie postępowania dowodowego w całości lub w znacznej części.
+8. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, wzór wniosku w sprawie uznania kwalifikacji w zawodzie trenera lub instruktora sportu, biorąc pod uwagę niezbędne informacje dotyczące rodzaju, przebiegu i czasu trwania kształcenia oraz doświadczenia zawodowego.
 
-2. Od orzeczenia dyscyplinarnego Trybunału przysługuje skarga kasacyjna do Sądu Najwyższego w przypadku rażącego naruszenia przepisów prawa lub oczywistej niesłuszności orzeczenia.
+#### Rozdział 9 Zwalczanie dopingu w sporcie
 
-3. Skargę kasacyjną wnosi się za pośrednictwem Trybunału w terminie 30 dni od dnia doręczenia orzeczenia wraz z uzasadnieniem stronie skarżącej.
+**Art. 43.**
 
-4. Trybunał przekazuje skargę kasacyjną w terminie 14 dni od dnia jej otrzymania wraz z aktami sprawy Sądowi Najwyższemu.
+1. Za doping w sporcie uznaje się:
 
-5. Sąd Najwyższy rozpoznaje skargę kasacyjną od orzeczenia Trybunału na zasadach przewidzianych w Kodeksie postępowania cywilnego.
+- **1)** obecność substancji zabronionej lub jej metabolitów lub markerów w próbce fizjologicznej osoby uczestniczącej lub przygotowującej się do uczestnictwa we współzawodnictwie sportowym;
+- **2)** użycie, usiłowanie użycia, pomocnictwo lub podżeganie do użycia przez osobę uczestniczącą lub przygotowującą się do uczestnictwa we współzawodnictwie sportowym substancji zabronionej lub metody zabronionej;
+- **3)** posiadanie w związku z uczestnictwem lub przygotowaniem do uczestnictwa we współzawodnictwie sportowym substancji zabronionej lub przyrządów umożliwiających stosowanie metody zabronionej;
+- **4)** podanie lub usiłowanie podania substancji zabronionej oraz udział w przygotowaniu lub zastosowaniu metody zabronionej w związku z uczestnictwem lub przygotowaniem do uczestnictwa we współzawodnictwie sportowym;
+- **5)** utrudnianie lub udaremnianie kontroli dopingowej lub manipulowanie jej przebiegiem;
+- **6)** wprowadzanie do obrotu substancji zabronionych lub przyrządów umożliwiających stosowanie metody zabronionej albo uczestniczenie w takim obrocie.
 
-**Art. 45e.** Przepisów rozdziału nie stosuje się do spraw dyscyplinarnych dotyczących dopingu w sporcie.
+2. Dopingiem w sporcie nie jest zachowanie określone w ust. 1 pkt 1–4, jeżeli jest ono uzasadnione celem leczniczym, a zawodnik otrzymał zgodę Komisji do Zwalczania Dopingu w Sporcie na stosowanie określonej substancji zabronionej lub metody zabronionej, a także zachowanie określone w ust. 1 pkt 6 w odniesieniu do produktów leczniczych dopuszczonych do obrotu na zasadach przewidzianych w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2008 r. Nr 45, poz. 271, z późn. zm.).
+
+3. Substancją zabronioną jest substancja mogąca służyć poprawie wyniku sportowego, której użycie pozostaje w sprzeczności z uczciwością rywalizacji sportowej, określona w załączniku nr 1 do Międzynarodowej konwencji o zwalczaniu dopingu w sporcie, sporządzonej w Paryżu dnia 19 października 2005 r. (Dz. U. z 2007 r. Nr 142, poz. 999) oraz jego zmianach dokonanych w trybie art. 34 tej konwencji.
+
+4. Metodą zabronioną jest działanie mogące służyć poprawie wyniku sportowego, pozostające w sprzeczności z uczciwością rywalizacji sportowej, określone w załączniku nr 1 do konwencji, o której mowa w ust. 3, oraz jego zmianach dokonanych w trybie art. 34 tej konwencji.
+
+5. Substancją lub metodą zabronioną jest także substancja lub działanie utrudniające wykrycie substancji lub metody określonej w ust. 3 i 4, określone w załączniku nr 1 do konwencji, o której mowa w ust. 3, oraz jego zmianach dokonanych w trybie art. 34 tej konwencji.
+
+6. Podmioty prowadzące działalność sportową, w szczególności polskie związki sportowe, realizują odpowiedzialność dyscyplinarną za stosowanie dopingu w sporcie w zakresie określonym w ich regulaminach.
+
+**Art. 44.**
+
+1. Organem właściwym do zwalczania dopingu w sporcie jest Komisja do Zwalczania Dopingu w Sporcie, zwana dalej „Komisją”.
+
+2. W skład Komisji wchodzi przewodniczący oraz 10 członków, których powołuje i odwołuje minister właściwy do spraw kultury fizycznej spośród osób wykonujących zawody w dziedzinach: medycyny, sportu, etyki, biologii lub prawa i dających rękojmię prawidłowego wykonywania zadań Komisji.
+
+3. Kandydatem na członka Komisji nie może być osoba skazana prawomocnym wyrokiem za umyślne przestępstwo lub umyślne przestępstwo skarbowe.
+
+4. Kadencja przewodniczącego i członków Komisji trwa 4 lata.
+
+5. Do zadań Komisji należy w szczególności:
+
+- **1)** prowadzenie wykazu substancji i metod zabronionych;
+- **2)** przeprowadzanie kontroli antydopingowych podczas zawodów oraz poza nimi;
+- **3)** prowadzenie badań wspierających zwalczanie dopingu w sporcie;
+- **4)** wspieranie, opracowywanie i wdrażanie programów edukacyjnych lub szkoleniowych, dotyczących zwalczania dopingu w sporcie.
+
+6. Wykaz, o którym mowa w ust. 5 pkt 1, jest jawny.
+
+7. Komisja może upoważnić inne podmioty do przeprowadzania kontroli, o których mowa w ust. 5 pkt 2.
+
+8. Obsługę Komisji zapewnia biuro Komisji, które działa w formie jednostki budżetowej.
+
+9. Minister właściwy do spraw kultury fizycznej nadaje, w drodze zarządzenia, statut Komisji, mając na uwadze konieczność sprawnego wykonywania zadań przez Komisję.
+
+**Art. 45.** Minister właściwy do spraw kultury fizycznej może udzielić dotacji celowej, w wysokości określonej w ustawie budżetowej, Instytutowi Sportu w Warszawie na zadania związane z utrzymaniem akredytacji Światowej Agencji Antydopingowej oraz zakup sprzętu służącego do przeprowadzania badań antydopingowych.
 
 #### Rozdział 10 Przepisy karne
 
 **Art. 46.**
 
-1. Kto, w związku z zawodami sportowymi organizowanymi przez polski związek sportowy lub podmiot działający na podstawie umowy zawartej z tym związkiem, lub podmiot działający z jego upoważnienia, przyjmuje korzyść majątkową lub osobistą albo jej obietnicę lub takiej korzyści albo jej obietnicy żąda w zamian za nieuczciwe zachowanie, mogące mieć wpływ na wynik lub przebieg tych zawodów, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+1. Kto, w związku z zawodami sportowymi organizowanymi przez polski związek sportowy lub podmiot działający na podstawie umowy zawartej z tym związkiem lub podmiot działający z jego upoważnienia, przyjmuje korzyść majątkową lub osobistą albo jej obietnicę lub takiej korzyści albo jej obietnicy żąda w zamian za nieuczciwe zachowanie, mogące mieć wpływ na wynik tych zawodów, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
 2. Tej samej karze podlega, kto w wypadkach określonych w ust. 1 udziela albo obiecuje udzielić korzyści majątkowej lub osobistej.
 
@@ -919,36 +653,352 @@ Art. 53–75. (pominięte)
 
 **Art. 48.**
 
-1. Kto, powołując się na wpływy w polskim związku sportowym lub podmiocie działającym na podstawie umowy zawartej z tym związkiem, lub podmiocie działającym z jego upoważnienia albo wywołując przekonanie innej osoby o istnieniu takich wpływów, lub utwierdzając ją w przekonaniu o istnieniu takich wpływów, podejmuje się pośrednictwa w ustaleniu określonego wyniku lub przebiegu zawodów sportowych w zamian za korzyść majątkową lub osobistą albo jej obietnicę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
+1. Kto, powołując się na wpływy w polskim związku sportowym lub podmiocie działającym na podstawie umowy zawartej z tym związkiem lub podmiocie działającym z jego upoważnienia albo wywołując przekonanie innej osoby lub utwierdzając ją w przekonaniu o istnieniu takich wpływów, podejmuje się pośrednictwa w ustaleniu określonego wyniku zawodów sportowych w zamian za korzyść majątkową lub osobistą albo jej obietnicę, podlega karze pozbawienia wolności od 6 miesięcy do lat 8.
 
-2. Tej samej karze podlega, kto udziela albo obiecuje udzielić korzyści majątkowej lub osobistej w zamian za pośrednictwo w ustaleniu określonego wyniku lub przebiegu zawodów sportowych polegające na bezprawnym wywarciu wpływu na zachowanie osoby pełniącej funkcję w polskim związku sportowym lub podmiocie działającym na podstawie umowy zawartej z tym związkiem, lub podmiocie działającym z jego upoważnienia w związku z pełnieniem tej funkcji.
+2. Tej samej karze podlega, kto udziela albo obiecuje udzielić korzyści majątkowej lub osobistej w zamian za pośrednictwo w ustaleniu określonego wyniku zawodów sportowych polegające na bezprawnym wywarciu wpływu na zachowanie osoby pełniącej funkcję w polskim związku sportowym lub podmiocie działającym na podstawie umowy zawartej z tym związkiem lub podmiocie działającym z jego upoważnienia, w związku z pełnieniem tej funkcji.
 
 3. W wypadku mniejszej wagi, sprawca czynu określonego w ust. 1 lub 2 podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
 **Art. 49.** Nie podlega karze sprawca przestępstwa określonego w art. 46 ust. 2, art. 46 ust. 3 lub 4, w związku z ust. 2, lub w art. 48 ust. 2 lub 3, w związku z ust. 2, jeżeli korzyść majątkowa lub osobista albo ich obietnica zostały przyjęte, a sprawca zawiadomił o tym fakcie organ powołany do ścigania przestępstw i ujawnił wszystkie istotne okoliczności przestępstwa, zanim organ ten o nim się dowiedział.
 
-**Art. 49a.**
+**Art. 50.**
 
-1. W razie skazania za przestępstwa określone w art. 46 ust. 1, 2 i 4, art. 47 i art. 48 ust. 1 i 2, sąd:
+1. Kto małoletniemu uczestniczącemu lub przygotowującemu się do uczestnictwa we współzawodnictwie sportowym podaje substancję zabronioną lub stosuje wobec niego metodę zabronioną w rozumieniu przepisów o zwalczaniu dopingu w sporcie, podlega grzywnie, karze ograniczenia wolności albo pozbawienia wolności do lat 2.
 
-- **1)** może orzec pozbawienie praw publicznych;
-- **2)** orzeka zakaz, o którym mowa w art. 39 pkt 2aa ustawy z dnia 6 czerwca 1997 r. – Kodeks karny.
-
-2. W razie ponownego skazania sprawcy w warunkach określonych w przepisach art. 46 ust. 1, 2 i 4, art. 47 i art. 48 ust. 1 i 2, sąd orzeka dożywotnio zakaz, o którym mowa w ust. 1 pkt 2.
-
-**Art. 50.** (uchylony)
+2. Tej samej karze podlega, kto bez wiedzy osoby uczestniczącej lub przygotowującej się do uczestnictwa we współzawodnictwie sportowym podaje jej substancję zabronioną lub stosuje wobec niej metodę zabronioną w rozumieniu przepisów o zwalczaniu dopingu w sporcie.
 
 **Art. 51.**
 
-1. Kto, nie będąc do tego uprawnionym, używa w celach handlowych, jakiegokolwiek znaku lub innego oznaczenia, składającego się z symbolu olimpijskiego lub paralimpijskiego lub zawierającego symbol olimpijski lub paralimpijski oraz nazw Igrzyska Olimpijskie, Igrzyska XXX Olimpiady, Igrzyska XXXI Olimpiady, Igrzyska XXXII Olimpiady, Igrzyska XXXIII Olimpiady, Igrzyska XXXIV Olimpiady, Igrzyska XXXV Olimpiady, Komitet Olimpijski, Reprezentacja Olimpijska, Ruch Olimpijski, Karta Olimpijska, Igrzyska Paralimpijskie lub Komitet Paralimpijski, podlega karze grzywny.
+1. Kto, nie będąc do tego uprawnionym, używa w celach handlowych, jakiegokolwiek znaku lub innego oznaczenia, składającego się z symbolu olimpijskiego lub paraolimpijskiego lub zawierającego symbol olimpijski lub paraolimpijski oraz nazw Igrzyska Olimpijskie, Igrzyska XXX Olimpiady, Igrzyska XXXI Olimpiady, Igrzyska XXXII Olimpiady, Igrzyska XXXIII Olimpiady, Igrzyska XXXIV Olimpiady, Igrzyska XXXV Olimpiady, Komitet Olimpijski, Reprezentacja Olimpijska, Ruch Olimpijski, Karta Olimpijska, Igrzyska Paraolimpijskie lub Komitet Paraolimpijski, podlega karze grzywny.
 
-2. W przypadku popełnienia wykroczenia określonego w ust. 1 można orzec nawiązkę na rzecz Polskiego Komitetu Olimpijskiego lub Polskiego Komitetu Paralimpijskiego w wysokości do 5000 zł.
+2. W przypadku popełnienia wykroczenia określonego w ust. 1 można orzec nawiązkę na rzecz Polskiego Komitetu Olimpijskiego lub Polskiego Komitetu Paraolimpijskiego w wysokości do 5 000 zł.
 
 **Art. 52.** Orzekanie w sprawach o czyn określony w art. 51 następuje na podstawie przepisów Kodeksu postępowania w sprawach o wykroczenia.
 
 #### Rozdział 11 Zmiany w przepisach obowiązujących
 
-**Art. 76.** (uchylony) Art. 77–81. (pominięte)
+**Art. 53.** W ustawie z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2004 r. Nr 241, poz. 2416, z późn. zm.) art. 132c otrzymuje brzmienie: „
+
+**Art. 132c.** Minister Obrony Narodowej określi, w drodze rozporządzenia, kwalifikacje przydatne w wojsku, o których mowa w art. 132a ust. 1 i art. 132b ust. 1, wzór umowy, o której mowa w art. 132a ust. 3 i art. 132b ust. 3, oraz tryb naliczania i wypłacania ekwiwalentu pieniężnego, o którym mowa w art. 132a ust. 1, uwzględniając w szczególności klasyfikację zawodów i specjalności określoną na podstawie art. 36 ust. 8 ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.), a także w zakresie ekwiwalentu pieniężnego – prognozowany w ustawie budżetowej na dany rok wskaźnik cen towarów i usług konsumpcyjnych obowiązujący w dniu zwolnienia żołnierza z zasadniczej służby wojskowej. ” .
+
+**Art. 54.** W ustawie z dnia 26 października 1982 r. o wychowaniu w trzeźwości i przeciwdziałaniu alkoholizmowi (Dz. U. z 2007 r. Nr 70, poz. 473, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 132: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Podmioty świadczące usługę będącą reklamą napojów alkoholowych wnoszą na wyodrębniony rachunek utworzony w tym celu przez ministra właściwego do spraw kultury fizycznej opłatę w wysokości 10% podstawy opodatkowania podatkiem od towarów i usług wynikającej z tej usługi. ” , ust. 4 otrzymuje brzmienie: „
+
+- **b)**
+
+4. Minister właściwy do spraw kultury fizycznej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, wzór zbiorczej deklaracji miesięcznej dotyczącej opłaty, o której mowa w ust. 1, oraz szczegółowy zakres zawartych w niej danych, biorąc pod uwagę konieczność zebrania danych niezbędnych do ustalenia wysokości opłaty, o której mowa w ust. 1. ” ;
+
+- **2)** w art. 133: ust. 1 otrzymuje brzmienie: „
+    - **a)**
+
+1. Tworzy się Fundusz Zajęć Sportowych dla Uczniów, zwany dalej „Funduszem”, którego dysponentem jest minister właściwy do spraw kultury fizycznej. ” , ust. 4 i 5 otrzymują brzmienie: „
+
+- **b)**
+
+4. Środki Funduszu przeznacza się wyłącznie na dofinansowanie zajęć sportowych dla uczniów, prowadzonych przez kluby sportowe działające w formie stowarzyszenia oraz inne organizacje pozarządowe, które w ramach swojej statutowej działalności realizują zadania z zakresu upowszechniania kultury fizycznej wśród dzieci i młodzieży, a także organizowanych przez jednostki samorządu terytorialnego.
+
+5. Minister właściwy do spraw kultury fizycznej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia:
+
+- **1)** warunki i tryb przyznawania dofinansowania, biorąc pod uwagę wyrównywanie szans dostępu do kultury fizycznej,
+- **2)** tryb składania wniosków i dane, jakie powinien zawierać wniosek o przyznanie dofinansowania, uwzględniając zakres niezbędnych danych dotyczących podmiotu ubiegającego się o dofinansowanie, a także informacje o zajęciach sportowych,
+- **3)** tryb przekazywania środków, uwzględniając terminy, w jakich zostało zaplanowane przeprowadzenie zajęć sportowych,
+- **4)** wysokość dofinansowania, z tym że maksymalna wysokość tego dofinansowania w przypadku zajęć prowadzonych przez kluby sportowe działające w formie stowarzyszenia oraz inne organizacje pozarządowe nie może przekroczyć 80%, a w przypadku zajęć organizowanych przez jednostki samorządu terytorialnego – 50% planowanych kosztów realizacji zajęć kierując się koniecznością zapewnienia efektywnego wykorzystania środków Funduszu. ” .
+
+**Art. 55.** W ustawie z dnia 6 kwietnia 1990 r. o Policji (Dz. U. z 2007 r. Nr 43, poz. 277, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 7 w ust. 1 po pkt 4a dodaje się pkt 4b w brzmieniu: „
+- **4b)** zakres oraz szczegółowe warunki, tryb przeprowadzania oraz zasady oceniania testu sprawności fizycznej policjantów; ” ;
+- **2)** w art. 19 w ust. 1: pkt 2 otrzymuje brzmienie: „
+    - **a)**
+
+- **2)** określonych w art. 134, art. 135 § 1, art. 136 § 1, art. 156 § 1 i 3, art. 163 § 1 i 3, art. 164 § 1, art. 165 § 1 i 3, art. 166, art. 167, art. 173 § 1 i 3, art. 189, art. 189a, art. 200, art. 200a, art. 211a, art. 223, art. 228 § 1 i 3–5, art. 229 § 1 i 3–5, art. 230 § 1, art. 230a § 1, art. 231 § 2, art. 232, art. 245, art. 246, art. 252 § 1 -3, art. 258, art. 269, art. 280–282, art. 285 § 1, art. 286 § 1, art. 296 § 1–3, art. 296a § 1, 2 i 4, art. 299 § 1–6 oraz art. 310 § 1, 2 i 4 Kodeksu karnego, ” , po pkt 2 dodaje się pkt 2a w brzmieniu: „
+    - **b)**
+
+- **2a)** określonych w art. 46 ust. 1, 2 i 4, art. 47 oraz art. 48 ust. 1 i 2 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857), ” ;
+- **3)** po art. 61 dodaje się art. 61a w brzmieniu: „
+
+**Art. 61a.**
+
+1. Policjant jest obowiązany utrzymywać sprawność fizyczną zapewniającą wykonywanie przez niego zadań służbowych, w szczególności poprzez udział w doskonaleniu zawodowym, o którym mowa w przepisach dotyczących szczegółowych warunków odbywania szkoleń zawodowych oraz doskonalenia zawodowego w Policji.
+
+2. Sprawność fizyczną, o której mowa w ust. 1, ocenia się na podstawie wyników testu sprawności fizycznej policjantów. ” .
+
+**Art. 56.** W ustawie z dnia 12 października 1990 r. o Straży Granicznej (Dz. U. z 2005 r. Nr 234, poz. 1997, z późn. zm.) po art. 39b dodaje się art. 39c w brzmieniu: „ 1. Funkcjonariusz jest obowiązany utrzymywać sprawność fizyczną zapewniającą wykonywanie przez niego zadań służbowych przez uczestnictwo w zajęciach z wychowania fizycznego lub zajęciach sportowych organizowanych przez jednostki organizacyjne Straży Granicznej. 2. Sprawność fizyczną, o której mowa w ust. 1, ocenia się na podstawie wyników testu sprawności fizycznej funkcjonariuszy. 3. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, zakres, szczegółowe warunki, tryb i terminy przeprowadzania testu sprawności fizycznej oraz szczegółowy sposób oceniania testu, przypadki, w jakich można zwolnić funkcjonariusza z testu, a także przełożonych właściwych w tych sprawach, uwzględniając charakter służby w Straży Granicznej oraz okoliczności uzasadniające zwolnienie funkcjonariusza z testu. 4. Komendant Główny Straży Granicznej określi, w drodze zarządzenia, rodzaje zajęć z zakresu wychowania fizycznego lub zajęć sportowych realizowanych w jednostkach organizacyjnych Straży Granicznej oraz zadania jednostek w tym zakresie, mając na względzie charakter służby w Straży Granicznej oraz właściwe przygotowanie funkcjonariuszy do testu sprawności fizycznej. 5. Komendant Główny Straży Granicznej określi, w drodze zarządzenia, wymagania, jakie powinny spełniać osoby prowadzące zajęcia, mając na uwadze utrzymanie sprawności fizycznej funkcjonariuszy zapewniającej wykonywanie przez nich zadań służbowych, uwzględniając charakter służby w Straży Granicznej. ” .
+
+**Art. 57.** W ustawie z dnia 24 sierpnia 1991 r. o Państwowej Straży Pożarnej (Dz. U. z 2009 r. Nr 12, poz. 68 i Nr 18, poz. 97) po art. 59a dodaje się art. 59b w brzmieniu: „
+
+**Art. 59b.**
+
+1. Strażak jest obowiązany utrzymywać sprawność fizyczną zapewniającą wykonywanie przez niego zadań służbowych, w szczególności poprzez uczestnictwo w zajęciach z wychowania fizycznego lub zajęciach sportowych.
+
+2. Minister właściwy do spraw wewnętrznych określi, w drodze rozporządzenia, zadania z zakresu wychowania fizycznego realizowane w jednostkach organizacyjnych Państwowej Straży Pożarnej oraz formy organizacyjne wychowania fizycznego i sposób ich finansowania, uwzględniając charakter służby w Państwowej Straży Pożarnej.
+
+3. Komendant Główny Państwowej Straży Pożarnej może określić, w drodze zarządzenia, wymagania wobec osób prowadzących zajęcia, mając na celu utrzymanie sprawności fizycznej strażaków, zapewniającej wykonywanie przez nich zadań służbowych, uwzględniając charakter służby w Państwowej Straży Pożarnej. ” .
+
+**Art. 58.** W ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2004 r. Nr 256, poz. 2572, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 pkt 11c otrzymuje brzmienie: „
+- **11c)** oddziale sportowym – należy przez to rozumieć oddział szkolny, w którym są prowadzone zajęcia sportowe obejmujące szkolenie sportowe, zorganizowany zgodnie z przepisami wydanymi na podstawie art. 9 ust. 5; ” ;
+- **2)** w art. 9 ust. 5 otrzymuje brzmienie: „
+
+5. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw kultury fizycznej, określi, w drodze rozporządzenia, warunki tworzenia, organizacji oraz działania oddziałów i szkół sportowych oraz szkół mistrzostwa sportowego, uwzględniając umożliwienie uczniom godzenia zajęć sportowych z nauką, w szczególności poprzez odpowiednią organizację zajęć dydaktycznych. ” ;
+
+- **3)** po art. 13 dodaje się art. 13a w brzmieniu: „
+
+1. Przedszkola są obowiązane do prowadzenia zajęć rozwijających sprawność fizyczną dzieci poprzez zapewnienie udziału w zajęciach ruchowych, grach i zabawach.
+
+2. Szkoły, z wyłączeniem szkół dla dorosłych, są obowiązane do prowadzenia zajęć wychowania fizycznego. Obowiązkowy wymiar zajęć wychowania fizycznego dla uczniów klas IV-VI szkół podstawowych i uczniów gimnazjów wynosi 4 godziny lekcyjne, a dla uczniów szkół ponadgimnazjalnych – 3 godziny lekcyjne, w ciągu tygodnia.
+
+3. Minister właściwy do spraw oświaty i wychowania, w porozumieniu z ministrem właściwym do spraw kultury fizycznej, określi, w drodze rozporządzenia, dopuszczalne formy realizacji obowiązkowych zajęć wychowania fizycznego, mając w szczególności na względzie potrzeby zdrowotne uczniów, specyfikę ich zainteresowań sportowych, warunki realizacji zajęć wychowania fizycznego oraz tradycje sportowe danego środowiska lub szkoły. ” . W ustawie z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 17: w ust. 1 pkt 5a otrzymuje brzmienie: „
+    - **a)**
+
+- **5a)** dochody klubów sportowych, o których mowa w ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857), przeznaczone i wydatkowane w roku podatkowym lub w roku po nim następującym na szkolenie i współzawodnictwo sportowe dzieci i młodzieży w kategoriach wiekowych młodzików, juniorów młodszych, juniorów i młodzieżowców do 23. roku życia, ” , ust. 1b otrzymuje brzmienie: „
+    - **b)**
+
+1b. Zwolnienie, o którym mowa w ust. 1, dotyczące podatników przeznaczających dochody na cele statutowe lub inne cele określone w tym przepisie, ma zastosowanie, jeżeli dochód jest przeznaczony i – bez względu na termin – wydatkowany na cele określone w tym przepisie, w tym także na nabycie środków trwałych oraz wartości niematerialnych i prawnych służących bezpośrednio realizacji tych celów oraz na opłacenie podatków niestanowiących kosztu uzyskania przychodów, z zastrzeżeniem ust. 1 pkt 5a. ” ;
+
+- **2)** w art. 25: ust. 4 otrzymuje brzmienie: „
+    - **a)**
+
+4. Jeżeli podatnicy, o których mowa w art. 17 ust. 1, uprzednio zadeklarowali, że przeznaczą dochód na cele określone w tych przepisach i dochód ten wydatkowali na inne cele albo na cele określone w tych przepisach, ale po terminie w nich określonym – podatek od tego dochodu, bez wezwania, wpłaca się do 20. dnia miesiąca następującego po miesiącu, w którym dokonano wydatku lub w którym upłynął termin do dokonania wydatku; przepis ten stosuje się również do dochodów za lata poprzedzające rok podatkowy, zadeklarowanych i niewydatkowanych w tych latach na cele określone w art. 17 ust. 1b, z zastrzeżeniem art. 17 ust. 1 pkt 5a. ” , po ust. 4 dodaje się ust. 4a w brzmieniu: „
+
+- **b)**
+
+4a. Przepis ust. 4 stosuje się odpowiednio w przypadku likwidacji podatnika w okresie uprawniającym do skorzystania ze zwolnienia. ” .
+
+**Art. 60.** W ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2004 r. Nr 253, poz. 2531, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 w ust. 1 pkt 3 otrzymuje brzmienie: „
+- **3)** ułatwianie korzystania z oświaty, sportu i dorobku nauki; ” ;
+- **2)** w art. 21: w ust. 1a pkt 7 otrzymuje brzmienie: „
+    - **a)**
+
+- **7)** popieranie twórczości artystycznej, literackiej, naukowej oraz działalności oświatowej i działalności w zakresie sportu; ” , w ust. 2 po pkt 7a dodaje się pkt 7b w brzmieniu: „
+    - **b)**
+
+- **7b)** służyć propagowaniu i upowszechnianiu sportu; ” . W ustawie z dnia 20 grudnia 1996 r. o gospodarce komunalnej (Dz. U. z 1997 r. Nr 9, poz. 43, z późn. zm.) w art. 10 ust. 3 otrzymuje brzmienie: „
+
+3. Ograniczenia dotyczące tworzenia spółek prawa handlowego i przystępowania przez gminę do nich, o których mowa w ust. 1 i 2, nie mają zastosowania do posiadania przez gminę akcji lub udziałów spółek zajmujących się czynnościami bankowymi, ubezpieczeniowymi oraz działalnością doradczą, promocyjną, edukacyjną i wydawniczą na rzecz samorządu terytorialnego, a także innych spółek ważnych dla rozwoju gminy, w tym klubów sportowych działających w formie spółki kapitałowej. ” .
+
+**Art. 62.** W ustawie z dnia 25 czerwca 1997 r. o świadku koronnym (Dz. U. z 2007 r. Nr 36, poz. 232 oraz z 2009 r. Nr 178, poz. 1375) w art. 1 ust. 2 otrzymuje brzmienie: „ 2. Przepisy ustawy stosuje się także w sprawach o przestępstwa określone w:
+
+- **1)** art. 228 § 1 i 3–6, art. 229 § 1 i 3–5, art. 230 § 1, art. 230a § 1, art. 231 § 1 i 2, art. 250a § 1 i 2, art. 258 oraz art. 296a § 1, 2 i 4 Kodeksu karnego;
+- **2)** art. 46 ust. 1, 2 i 4, art. 47 oraz art. 48 ust. 1 i 2 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857). ” .
+
+**Art. 63.** W ustawie z dnia 4 września 1997 r. o działach administracji rządowej (Dz. U. z 2007 r. Nr 65, poz. 437, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 5 pkt 10 otrzymuje brzmienie: „
+- **10)** kultura fizyczna; ” ;
+- **2)** art. 15 otrzymuje brzmienie: „
+
+### Dział kultura fizyczna obejmuje sprawy:
+
+**Art. 64.** W ustawie z dnia 6 czerwca 1997 r. – Kodeks karny (Dz. U. Nr 88, poz. 553, z późn. zm.) uchyla się art. 296b.
+
+**Art. 65.** W ustawie z dnia 21 maja 1999 r. o broni i amunicji (Dz. U. z 2004 r. Nr 52, poz. 525, z późn. zm.) po art. 10a dodaje się art. 10b w brzmieniu: „ 1. Uprawianie sportów o charakterze strzeleckim wymaga posiadania odpowiednich kwalifikacji potwierdzonych stosownym dokumentem oraz przestrzegania zasad bezpieczeństwa obowiązujących w tych sportach. 2. Dokument, o którym mowa w ust. 1, wydaje, po przeprowadzeniu egzaminu, polski związek sportowy, o którym mowa w ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857). Za przeprowadzenie egzaminu pobiera się opłatę w wysokości 400 zł; opłata stanowi dochód właściwego polskiego związku sportowego. 3. Dokument, o którym mowa w ust. 1, potwierdza posiadanie kwalifikacji niezbędnych do ubiegania się o wydanie pozwolenia na broń do celów sportowych. ” .
+
+**Art. 66.** W ustawie z dnia 9 listopada 2000 r. o bezpieczeństwie morskim (Dz. U. z 2006 r. Nr 99, poz. 693, z późn. zm.) w art. 7 ust. 4 otrzymuje brzmienie: „ 4. Minister właściwy do spraw gospodarki morskiej może powierzyć, w drodze rozporządzenia, niektóre zadania organu inspekcyjnego w stosunku do statków sportowych o długości kadłuba do 24 m polskiemu związkowi sportowemu, o którym mowa w ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857), kierując się względami uproszczenia procedur i specjalistycznym charakterem zadań realizowanych przez polskie związki sportowe. ” .
+
+**Art. 67.** W ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2006 r. Nr 123, poz. 857, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 1 ust. 3 otrzymuje brzmienie: „
+
+3. Przepisy ustawy stosuje się także do statków służących do przewozów międzybrzegowych, zarobkowego przewozu osób lub ładunków, uprawiania sportu lub rekreacji, zarobkowego połowu ryb, wykonywania robót technicznych lub eksploatacji złóż kruszywa na innych wodach śródlądowych niż określone w ust. 1. ” ;
+
+- **2)** w art. 19 ust. 2 otrzymuje brzmienie: „
+
+2. Rejestr statków używanych wyłącznie do uprawiania sportu lub rekreacji prowadzi właściwy polski związek sportowy, o którym mowa w ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857). ” ;
+
+- **3)** art. 24a otrzymuje brzmienie: „ Minister właściwy do spraw transportu w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, tryb rejestracji statków używanych wyłącznie do uprawiania sportu lub rekreacji, wzory ksiąg rejestrowych i dokumentów rejestracyjnych, mając na uwadze potrzebę zapewnienia bezpieczeństwa żeglugi. ” ;
+- **4)** po art. 37 dodaje się art. 37a i 37b w brzmieniu: „
+
+1. Prowadzenie statków przeznaczonych do uprawiania sportu lub rekreacji, zwane dalej „uprawianiem turystyki wodnej”, wymaga:
+
+- **1)** posiadania odpowiedniej wiedzy i umiejętności z zakresu żeglarstwa;
+- **2)** przestrzegania zasad bezpieczeństwa przy uprawianiu turystyki wodnej.
+
+2. Przepisy ust. 1 dotyczą statków przeznaczonych do uprawiania turystyki wodnej:
+
+- **1)** o napędzie żaglowym (jachtów żaglowych), które mogą być wyposażone w pomocniczy napęd mechaniczny;
+- **2)** o napędzie mechanicznym (jachtów motorowych), w tym także skuterów wodnych, łodzi pneumatycznych i poduszkowców;
+- **3)** o napędzie innym niż żaglowy lub mechaniczny.
+
+3. Uprawianie turystyki wodnej na jachtach żaglowych o długości kadłuba powyżej 7,5 m lub motorowych o mocy silnika powyżej 10 kW wymaga posiadania dokumentu kwalifikacyjnego wydanego przez właściwy polski związek sportowy.
+
+4. Nie wymaga posiadania dokumentu kwalifikacyjnego uprawianie turystyki wodnej na jachtach motorowych o mocy silnika do 75 kW i o długości kadłuba do 13 m, których prędkość maksymalna ograniczona jest konstrukcyjnie do 15 km/h. W przypadku jachtów przeznaczonych do najmu, uprawianie turystyki wodnej wymaga odbycia przez prowadzącego jacht szkolenia z zakresu bezpieczeństwa na wodzie. Wymóg ten nie dotyczy osób posiadających kwalifikacje z zakresu żeglugi morskiej lub śródlądowej określone w przepisach wydanych na podstawie ust. 5.
+
+5. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, sposób i tryb przeprowadzania szkolenia, o którym mowa w ust. 4, wzór dokumentu potwierdzającego odbycie szkolenia oraz wykaz kwalifikacji z zakresu żeglugi morskiej lub śródlądowej, których posiadanie zwalnia z obowiązku odbycia szkolenia, biorąc pod uwagę potrzebę zapewnienia bezpieczeństwa żeglugi.
+
+6. Osoba, która uzyskała uprawnienia do uprawiania turystyki wodnej w innym państwie, może uprawiać turystykę wodną na terytorium Rzeczypospolitej Polskiej w zakresie posiadanych uprawnień potwierdzonych stosownym dokumentem.
+
+7. Dokument, o którym mowa w ust. 3, określający uprawnienia do prowadzenia określonej wielkości jachtów żaglowych albo motorowych na określonych wodach wydaje właściwy polski związek sportowy osobom posiadającym odpowiednią wiedzę i umiejętności z zakresu żeglarstwa oraz spełniającym inne wymagania określone w przepisach wydanych na podstawie ust. 15.
+
+8. Jeżeli do uzyskania dokumentu, o którym mowa w ust. 3, niezbędne jest zdanie egzaminu potwierdzającego posiadanie odpowiedniej wiedzy i umiejętności z zakresu żeglarstwa, egzamin ten przeprowadza właściwy polski związek sportowy lub podmiot upoważniony przez ministra właściwego do spraw kultury fizycznej zwany dalej „podmiotem upoważnionym”.
+
+9. Za przeprowadzenie egzaminu, o którym mowa w ust. 8, pobiera się opłatę, która stanowi dochód właściwego polskiego związku sportowego lub podmiotu upoważnionego.
+
+10. Za czynności związane z wydaniem dokumentu, o którym mowa w ust. 3, pobiera się opłatę, która stanowi dochód właściwego polskiego związku sportowego.
+
+11. Wysokość opłat, o których mowa w ust. 9 i 10, nie może być wyższa niż:
+
+- **1)** 500 zł – za przeprowadzenie egzaminu, o którym mowa w ust. 8,
+- **2)** 50 zł – za wydanie dokumentu, o którym mowa w ust. 3 przy czym opłaty dla uczniów i studentów w wieku do 26 lat podlegają obniżeniu o 50%.
+
+12. Właściwy polski związek sportowy prowadzi ewidencję wydanych dokumentów, o których mowa w ust. 3, oraz gromadzi zaświadczenia ze zdania egzaminu będące podstawą do wydania tych dokumentów.
+
+13. Szkolenia w zakresie uprawiania turystyki wodnej prowadzą osoby, które posiadają tytuł zawodowy trenera lub instruktora w rozumieniu przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie, według systemów szkoleń zatwierdzonych przez ministra właściwego do spraw kultury fizycznej. System szkolenia powinien uwzględniać zakres wiedzy i umiejętności niezbędnych do uzyskania uprawnień określonych w przepisach wydanych na podstawie ust. 15.
+
+14. Minister właściwy do spraw transportu określi, w drodze rozporządzenia, szczegółowe warunki zachowania bezpieczeństwa przy uprawianiu turystyki wodnej, biorąc pod uwagę potrzebę zapewnienia bezpieczeństwa żeglugi.
+
+15. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia:
+
+- **1)** wymagania niezbędne do uzyskania dokumentów potwierdzających posiadanie uprawnień, w szczególności dotyczące wiedzy i umiejętności z zakresu żeglarstwa, oraz odpowiadający im zakres uprawnień do prowadzenia jachtów żaglowych albo motorowych,
+- **2)** sposób i tryb przeprowadzania egzaminu, o którym mowa w ust. 8,
+- **3)** wzór zaświadczenia ze zdania egzaminu,
+- **4)** wzory dokumentów potwierdzających posiadanie uprawnień,
+- **5)** wysokość opłat za przeprowadzenie egzaminu, o którym mowa w ust. 8, oraz za czynności związane z wydaniem dokumentu, o którym mowa w ust. 3, biorąc pod uwagę bezpieczeństwo żeglugi, konieczność zapewnienia jednolitego sposobu prowadzenia egzaminu, zakres uprawnień uzyskiwanych po zdaniu egzaminu, koszty poniesione przez właściwy polski związek sportowy lub podmiot upoważniony oraz warunki wskazane w ust. 11.
+
+1. Podmiot ubiegający się o upoważnienie do przeprowadzania egzaminu, o którym mowa w art. 37a ust. 8, składa do ministra właściwego do spraw kultury fizycznej wniosek o upoważnienie do przeprowadzania egzaminu.
+
+2. Do wniosku o upoważnienie do przeprowadzania egzaminu dołącza się:
+
+- **1)** wykaz kadry przeprowadzającej egzamin;
+- **2)** informację na temat obiektów wykorzystywanych do przeprowadzania egzaminu;
+- **3)** odpis z Krajowego Rejestru Sądowego albo z innego rejestru właściwego dla formy organizacyjnej podmiotu ubiegającego się o upoważnienie;
+- **4)** numer identyfikacji podatkowej (NIP), o ile wnioskodawca taki posiada;
+- **5)** numer identyfikacji REGON, o ile wnioskodawca taki posiada.
+
+3. Minister właściwy do spraw kultury fizycznej udziela, w drodze decyzji, upoważnienia, o którym mowa w ust. 1, w terminie 4 miesięcy od dnia złożenia wniosku, o którym mowa w ust. 2.
+
+4. Minister właściwy do spraw kultury fizycznej odmawia, w drodze decyzji, udzielenia upoważnienia, o którym mowa w ust. 1, jeżeli wnioskodawca nie przedłoży dokumentów, o których mowa w ust. 2, albo jeżeli nie posiada odpowiednich warunków kadrowych i organizacyjnych, określonych w przepisach wydanych na podstawie ust. 8.
+
+5. Minister właściwy do spraw kultury fizycznej cofa, w drodze decyzji, udzielone upoważnienie, o którym mowa w ust. 1 jeżeli podmiot upoważniony przestaje spełniać warunki udzielonego upoważnienia.
+
+6. Nadzór nad przeprowadzaniem egzaminu przez podmiot upoważniony sprawuje minister właściwy do spraw kultury fizycznej.
+
+7. W ramach sprawowanego nadzoru minister właściwy do spraw kultury fizycznej ma prawo żądać udostępnienia dokumentów, pisemnych wyjaśnień dotyczących przeprowadzanego egzaminu oraz dokonywać kontroli. Do przeprowadzania kontroli podmiotu upoważnionego stosuje się odpowiednio przepisy art. 17–20 ustawy z dnia 25 czerwca 2010 r. o sporcie.
+
+8. Minister właściwy do spraw kultury fizycznej, minister właściwy do spraw gospodarki morskiej oraz minister właściwy do spraw transportu określą, w drodze rozporządzenia:
+
+- **1)** szczegółowe warunki uzyskiwania upoważnienia do przeprowadzania egzaminu,
+- **2)** warunki kadrowe i organizacyjne, konieczne dla prawidłowego przeprowadzania egzaminu biorąc pod uwagę konieczność zapewnienia jednolitego sposobu prowadzenia egzaminu oraz najwyższego poziomu kształcenia. ” .
+
+**Art. 68.** W ustawie z dnia 16 marca 2001 r. o Biurze Ochrony Rządu (Dz. U. z 2004 r. Nr 163, poz. 1712, z późn. zm.) po art. 29 dodaje się art. 29a w brzmieniu: „ 1. Funkcjonariusz jest obowiązany utrzymywać sprawność fizyczną zapewniającą wykonywanie przez niego zadań służbowych, w szczególności poprzez uczestnictwo w zajęciach z wychowania fizycznego oraz zajęciach sportowych. 2. Sprawność fizyczną, o której mowa w ust. 1, ocenia się na podstawie wyników testu sprawności fizycznej funkcjonariuszy. 3. Szef BOR określi, w drodze zarządzenia, zakres, szczegółowe warunki i tryb przeprowadzania oraz szczegółowy sposób oceniania testu sprawności fizycznej funkcjonariuszy, uwzględniając charakter służby w BOR. 4. Szef BOR może określić, w drodze zarządzenia, zadania z zakresu wychowania fizycznego realizowane w BOR oraz formy organizacyjne wychowania fizycznego i sposób ich finansowania, uwzględniając charakter służby w BOR. 5. Szef BOR może określić, w drodze zarządzenia, wymagania wobec osób prowadzących zajęcia, mając na celu utrzymanie sprawności fizycznej funkcjonariuszy zapewniającej wykonywanie przez nich zadań służbowych, uwzględniając charakter służby w BOR. ” .
+
+**Art. 69.** W ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2009 r. Nr 217, poz. 1689) w art. 23 § 3 otrzymuje brzmienie: „
+
+§ 3. Statek morski stanowiący polską własność, używany wyłącznie do celów sportowych lub rekreacyjnych, o długości kadłuba do 24 m, podlega obowiązkowi wpisu do polskiego rejestru jachtów prowadzonego przez polski związek sportowy, o którym mowa w ustawie z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857). ” .
+
+**Art. 70.** W ustawie z dnia 28 października 2002 r. o odpowiedzialności podmiotów zbiorowych za czyny zabronione pod groźbą kary (Dz. U. Nr 197, poz. 1661, z późn. zm.) w art. 16 w ust. 1 w pkt 3:
+
+- **1)** lit. a otrzymuje brzmienie: „ art. 228–230a, art. 250a i art. 296a Kodeksu karnego, ” ;
+    - **a)**
+
+- **2)** dodaje się lit. c w brzmieniu: „ art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857). ” .
+    - **c)**
+
+**Art. 71.** W ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. Nr 96, poz. 873, z późn. zm.) wprowadza się następujące zmiany:
+
+- **1)** w art. 3 w ust. 3 pkt 4 otrzymuje brzmienie: „
+- **4)** spółki akcyjne i spółki z ograniczoną odpowiedzialnością oraz kluby sportowe będące spółkami działającymi na podstawie przepisów ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857), które: ” ;
+- **2)** w art. 4 w ust. 1 pkt 17 otrzymuje brzmienie: „
+- **17)** wspierania i upowszechniania kultury fizycznej; ” ;
+- **3)** art. 11c otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych, w przypadkach dotyczących zadań z zakresu ochrony ludności i ratownictwa, może zlecać specjalistycznym stowarzyszeniom o zasięgu ogólnokrajowym określonym w art. 40 ustawy z dnia 25 czerwca 2010 r. o sporcie, jednostkom ochrony przeciwpożarowej, o których mowa w art. 15 pkt 6 i 7 ustawy z dnia 24 sierpnia 1991 r. o ochronie przeciwpożarowej (Dz. U. z 2009 r. Nr 178, poz. 1380 oraz z 2010 r. Nr 57, poz. 353), oraz Polskiemu Czerwonemu Krzyżowi realizację zadań publicznych z pominięciem otwartego konkursu ofert. Przepisy art. 43, art. 47 oraz art. 151 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych stosuje się odpowiednio. ” .
+
+**Art. 72.** W ustawie z dnia 11 września 2003 r. o służbie wojskowej żołnierzy zawodowych (Dz. U. z 2010 r. Nr 90, poz. 593, Nr 107, poz. 679 i Nr 113, poz. 745) w art. 50a:
+
+- **1)** ust. 1 otrzymuje brzmienie: „
+
+1. Żołnierz zawodowy jest obowiązany utrzymywać sprawność fizyczną zapewniającą wykonywanie przez niego zadań służbowych przez uczestnictwo w zorganizowanych zajęciach z wychowania fizycznego. ” ;
+
+- **2)** po ust. 1 dodaje się ust. 1a w brzmieniu: „
+
+1a. Zorganizowane zajęcia w zakresie wychowania fizycznego mogą prowadzić osoby posiadające kwalifikacje zawodowe nauczyciela wychowania fizycznego, trenera lub instruktora sportu. ” .
+
+**Art. 73.** W ustawie z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2010 r. Nr 80, poz. 526) w art. 42 ust. 7 i 8 otrzymują brzmienie: „ 7. Minister właściwy do spraw kultury fizycznej dokonuje podziału środków, o których mowa w ust. 2 pkt 5a, oraz przekazuje je jednostkom samorządu terytorialnego. 8. Minister właściwy do spraw kultury fizycznej określi, w drodze rozporządzenia, zakres zadań, o których mowa w ust. 2 pkt 5a, objętych dofinansowaniem z budżetu państwa oraz sposób i tryb udzielania dotacji na te zadania, uwzględniając w szczególności znaczenie i charakter zadań związanych z budową i remontami obiektów sportowych oraz rozwijaniem sportu przede wszystkim wśród dzieci i młodzieży, a także sportu osób niepełnosprawnych. ” .
+
+**Art. 74.** W ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2008 r. Nr 164, poz. 1027, z późn. zm.) w art. 27 wprowadza się następujące zmiany:
+
+- **1)** w ust. 1 pkt 8 otrzymuje brzmienie: „
+- **8)** wykonywanie badań z zakresu medycyny sportowej obejmujących dzieci i młodzież do ukończenia 21. roku życia oraz zawodników pomiędzy 21. a 23. rokiem życia, którzy nie otrzymują wynagrodzenia w związku z uprawianiem sportu. ” ;
+- **2)** ust. 4 otrzymuje brzmienie: „
+
+4. Minister właściwy do spraw zdrowia w porozumieniu z ministrem właściwym do spraw kultury fizycznej, po zasięgnięciu opinii Prezesa Funduszu i Naczelnej Rady Lekarskiej, określi, w drodze rozporządzenia, tryb orzekania o zdolności do uprawiania danego sportu przez dzieci i młodzież do ukończenia 21. roku życia oraz przez zawodników pomiędzy 21. a 23. rokiem życia, uwzględniając potrzebę szczególnej ochrony zdrowia dzieci i młodzieży. ” .
+
+**Art. 75.** W ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. Nr 164, poz. 1365, z późn. zm.) w art. 181 ust. 5 otrzymuje brzmienie: „ 5. Student może otrzymywać stypendium za wyniki w sporcie, o którym mowa w art. 173 ust. 1 pkt 3, albo stypendium ministra za wybitne osiągnięcia sportowe, o którym mowa w art. 173 ust. 1 pkt 5, albo stypendium przyznawane na podstawie art. 31 ust. 1 lub art. 32 ust. 1 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857). ” .
+
+**Art. 76.** W ustawie z dnia 9 czerwca 2006 r. o Centralnym Biurze Antykorupcyjnym (Dz. U. Nr 104, poz. 708, z późn. zm.) w art. 2 w ust. 1 w pkt 1 lit. b otrzymuje brzmienie: „
+
+wymiarowi sprawiedliwości, określonych w art. 233, wyborom i referendum, określonych w art. 250a, porządkowi publicznemu, określonych w art. 258, wiarygodności dokumentów, określonych w art. 270–273, mieniu, określonych w art. 286, obrotowi gospodarczemu, określonych w art. 296, 296a, 297 i 299, obrotowi pieniędzmi i papierami wartościowymi, określonych w art. 310 ustawy z dnia 6 czerwca 1997 r. – Kodeks karny, zasadom rywalizacji sportowej, określonych w art. 46–48 ustawy z dnia 25 czerwca 2010 r. o sporcie (Dz. U. Nr 127, poz. 857), a także przestępstw, o których mowa w art. 585 – 592 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.) oraz określonych w art. 179–183 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z późn. zm.), jeżeli pozostają w związku z korupcją lub działalnością godzącą w interesy ekonomiczne państwa, ” .
+
+- **b)**
+
+**Art. 77.** W ustawie z dnia 18 października 2006 r. o ujawnianiu informacji o dokumentach organów bezpieczeństwa państwa z lat 1944–1990 oraz treści tych dokumentów (Dz. U. z 2007 r. Nr 63, poz. 425, z późn. zm.) w art. 8 uchyla się pkt 50.
+
+**Art. 78.** W ustawie z dnia 29 czerwca 2007 r. o organizacji hodowli i rozrodzie zwierząt gospodarskich (Dz. U. Nr 133, poz. 921, z 2008 r. Nr 171, poz. 1056 oraz z 2009 r. Nr 223, poz. 1775) w art. 2 pkt 25 otrzymuje brzmienie: „
+
+- **25)** zawody konne – każde konne współzawodnictwo, łącznie z różnymi formami wyścigów konnych, sportami konnymi, wystawami i pokazami; ” .
+
+**Art. 79.** W ustawie z dnia 7 września 2007 r. o przygotowaniu finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 (Dz. U. z 2010 r. Nr 26, poz. 133) wprowadza się następujące zmiany:
+
+- **1)** w art. 6 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw kultury fizycznej przedstawia sprawozdanie z realizacji przedsięwzięć Euro 2012: ” ;
+- **2)** w art. 7: ust. 2 otrzymuje brzmienie: „
+    - **a)**
+
+2. Oświadczenie woli o utworzeniu spółki celowej i objęciu udziału albo udziałów w tej spółce składa w imieniu Skarbu Państwa minister właściwy do spraw kultury fizycznej, w formie aktu notarialnego. ” , ust. 5 otrzymuje brzmienie: „
+
+- **b)**
+
+5. Udział albo udziały w spółce celowej mogą być zbywane lub obciążane przez Skarb Państwa reprezentowany przez ministra właściwego do spraw kultury fizycznej, za zgodą Rady Ministrów, po zrealizowaniu wszystkich przedsięwzięć Euro 2012 powierzonych spółce celowej, w umowie, o której mowa w art. 17 ust. 1. ” ;
+
+- **3)** w art. 8 ust. 1 otrzymuje brzmienie: „
+
+1. Uprawnienia ministra właściwego do spraw Skarbu Państwa określone w przepisach ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.) w stosunku do spółki celowej wykonuje wyłącznie minister właściwy do spraw kultury fizycznej. ” ;
+
+- **4)** w art. 11 ust. 2 otrzymuje brzmienie: „
+
+2. Oświadczenie woli o rozwiązaniu spółki celowej składa w imieniu Skarbu Państwa minister właściwy do spraw kultury fizycznej w formie aktu notarialnego. Oświadczenie woli o rozwiązaniu spółki celowej zastępuje uchwałę zgromadzenia wspólników o rozwiązaniu spółki. ” ;
+
+- **5)** art. 12 otrzymuje brzmienie: „ W razie zbycia przez Skarb Państwa, reprezentowany przez ministra właściwego do spraw kultury fizycznej, całego udziału albo wszystkich udziałów w spółce celowej, do spółki celowej nie stosuje się przepisów ustawy. ” ;
+- **6)** w art. 13 w ust. 4 pkt 4 otrzymuje brzmienie: „
+- **4)** przedstawianie sprawozdań z przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 ministrowi właściwemu do spraw kultury fizycznej oraz Unii Europejskich Związków Piłkarskich (UEFA); ” ;
+- **7)** w art. 17 ust. 1 otrzymuje brzmienie: „
+
+1. Powierzenie spółce celowej zadań związanych z przygotowaniem lub wykonywaniem albo koordynowaniem i kontrolą przedsięwzięć Euro 2012 oraz innych przygotowań do finałowego turnieju Mistrzostw Europy w Piłce Nożnej UEFA EURO 2012 następuje w drodze umowy zawartej pomiędzy ministrem właściwym do spraw kultury fizycznej a spółką celową. ” ;
+
+- **8)** w art. 18 w ust. 2 pkt 1 otrzymuje brzmienie: „
+- **1)** Skarbu Państwa, reprezentowanego przez ministra właściwego do spraw kultury fizycznej albo inny organ administracji rządowej; ” ;
+- **9)** art. 19 otrzymuje brzmienie: „ Skarb Państwa, reprezentowany przez ministra właściwego do spraw kultury fizycznej albo inny organ administracji rządowej, jednostka samorządu terytorialnego albo przedsiębiorca prowadzący działalność gospodarczą w zakresie transportu publicznego udziela spółce celowej pełnomocnictw niezbędnych do przygotowania lub wykonania zadań powierzonych spółce celowej w umowie, o której mowa w art. 17 ust. 1. ” .
+
+**Art. 80.** W ustawie z dnia 20 marca 2009 r. o bezpieczeństwie imprez masowych (Dz. U. Nr 62, poz. 504) wprowadza się następujące zmiany:
+
+- **1)** art. 2 otrzymuje brzmienie: „ Przepisów ustawy nie stosuje się do nieodpłatnych imprez masowych organizowanych na terenach zamkniętych będących w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego oraz do spraw kultury fizycznej, jeżeli jednostki te są organizatorami imprezy masowej w rozumieniu niniejszej ustawy. ” ;
+- **2)** w art. 3 pkt 15 otrzymuje brzmienie: „
+- **15)** terenie zamkniętym – należy przez to rozumieć teren zamknięty w rozumieniu przepisów prawa budowlanego lub teren będący w trwałym zarządzie jednostek organizacyjnych podległych, podporządkowanych lub nadzorowanych przez: Ministra Obrony Narodowej, Ministra Sprawiedliwości oraz ministrów właściwych: do spraw wewnętrznych, do spraw oświaty i wychowania, do spraw szkolnictwa wyższego oraz do spraw kultury fizycznej; ” ;
+- **3)** w art. 17 wprowadzenie do wyliczenia otrzymuje brzmienie: „ Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw kultury fizycznej oraz ministrem właściwym do spraw budownictwa, gospodarki przestrzennej i mieszkaniowej określi, w drodze rozporządzenia, warunki bezpieczeństwa, jakie powinny spełniać stadiony, na których mogą odbywać się mecze piłki nożnej, w szczególności dotyczące: ” ;
+- **4)** w art. 52 ust. 3 otrzymuje brzmienie: „
+
+3. Minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw finansów publicznych, Ministrem Obrony Narodowej, ministrem właściwym do spraw zdrowia oraz ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, szczegółowy tryb ustalania szkód, o których mowa w ust. 1, oraz tryb występowania o wypłatę odszkodowań, biorąc pod uwagę konieczność zapewnienia sprawnego szacowania szkód i dokonywania wypłat. ” ;
+
+- **5)** w art. 53 ust. 2 otrzymuje brzmienie: „
+
+2. Minister właściwy do spraw instytucji finansowych w porozumieniu z ministrem właściwym do spraw kultury fizycznej określi, w drodze rozporządzenia, szczegółowy zakres ubezpieczenia, o którym mowa w ust. 1, termin powstania obowiązku ubezpieczenia oraz minimalną sumę gwarancyjną, biorąc pod uwagę charakter szkód mogących wystąpić w związku z imprezami masowymi. ” .
+
+**Art. 81.** W ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. Nr 201, poz. 1540) w art. 86:
+
+- **1)** ust. 1 otrzymuje brzmienie: „
+
+1. Tworzy się Fundusz Rozwoju Kultury Fizycznej, którego dysponentem jest minister właściwy do spraw kultury fizycznej. ” ;
+
+- **2)** ust. 6 otrzymuje brzmienie: „
+
+6. Minister właściwy do spraw kultury fizycznej w porozumieniu z ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, szczegółowe warunki uzyskiwania dofinansowania realizacji zadań, o których mowa w ust. 4, tryb składania wniosków oraz przekazywania środków, z uwzględnieniem racjonalności i ciągłości finansowania zadań. ” .
 
 #### Rozdział 12 Przepisy przejściowe i końcowe
 
@@ -957,14 +1007,6 @@ Art. 53–75. (pominięte)
 1. Polskie związki sportowe oraz podmioty o statusie polskiego związku sportowego stają się polskimi związkami sportowymi w rozumieniu niniejszej ustawy.
 
 2. Polskie związki sportowe, o których mowa w ust. 1, a także osoby prawne będące ich członkami dostosują swoją działalność, w szczególności obowiązujące w nich statuty oraz regulaminy, do wymagań niniejszej ustawy w terminie 2 lat od dnia wejścia w życie tej ustawy.
-
-3. Podmioty o statusie polskiego związku sportowego, które stały się polskimi związkami sportowymi na podstawie ust. 1 i nie dostosowały swojej działalności do wymagań niniejszej ustawy, stają się stowarzyszeniami w rozumieniu ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach z dniem, w którym decyzja, o której mowa w ust. 4, stała się prawomocna.
-
-4. Stwierdzenie niedostosowania działalności polskiego związku sportowego, o którym mowa w ust. 3, do wymagań niniejszej ustawy następuje w drodze decyzji ministra właściwego do spraw kultury fizycznej.
-
-5. O wydaniu decyzji, o której mowa w ust. 4, oraz o dniu, w którym ta decyzja stała się prawomocna, minister właściwy do spraw kultury fizycznej zawiadamia właściwy sąd rejestrowy.
-
-6. Polskie związki sportowe, które na podstawie ust. 3 stały się stowarzyszeniami, dostosują swoją działalność do zmienionej formy, w szczególności statuty oraz regulaminy, w terminie 6 miesięcy od dnia, w którym decyzja, o której mowa w ust. 4, stała się prawomocna.
 
 **Art. 83.**
 
@@ -982,9 +1024,7 @@ Art. 53–75. (pominięte)
 
 3. Do postępowań w sprawach świadczeń pieniężnych, o których mowa w art. 23b ust. 1, 1a lub 2 ustawy, o której mowa w art. 93 pkt 1, oraz na podstawie art. 38 ust. 1 lub art. 38a ustawy, o której mowa w art. 93 pkt 2, wszczętych i niezakończonych decyzją ostateczną przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
-4. Przyznanie świadczeń pieniężnych ze środków budżetu państwa dla osób, które zdobyły medal na igrzyskach olimpijskich, które odbyły się przed dniem wejścia w życie niniejszej ustawy, następuje na podstawie przepisów dotychczasowych, z tym że art. 38 ust. 1 pkt 5 ustawy uchylanej w art. 93 pkt 2 nie stosuje się.
-
-5. W przypadku, o którym mowa w ust. 4, art. 36 ust. 2 pkt 7 stosuje się.
+4. Przyznanie świadczeń pieniężnych ze środków budżetu państwa dla osób, które zdobyły medal na igrzyskach olimpijskich, które odbyty się przed dniem wejścia w życie niniejszej ustawy, następuje na podstawie przepisów dotychczasowych.
 
 **Art. 86.** Ewidencje uczniowskich klubów sportowych oraz klubów sportowych działających w formie stowarzyszenia, prowadzone przez starostów na podstawie art. 7 ust. 4 i art. 7a ust. 1 ustawy, o której mowa w art. 93 pkt 1, stają się ewidencjami, o których mowa w art. 4 ust. 4 i 7 niniejszej ustawy.
 
@@ -998,28 +1038,29 @@ Art. 53–75. (pominięte)
 
 **Art. 89.** Wydane na podstawie przepisów dotychczasowych dokumenty uprawniające do uprawiania żeglarstwa na jachtach, o których mowa w art. 53a ust. 3 ustawy, o której mowa w art. 93 pkt 1, zachowują ważność.
 
-**Art. 89a.** Osoby prawne działające jako terenowe jednostki organizacyjne Aeroklubu Polskiego i zrzeszające członków będących osobami fizycznymi stają się z mocy prawa odrębnymi stowarzyszeniami w rozumieniu ustawy z dnia 7 kwietnia 1989 r. – Prawo o stowarzyszeniach.
-
-**Art. 90.** Fundusz Zajęć Sportowo-Rekreacyjnych dla Uczniów, utworzony na podstawie art. 13 ust. 1 ustawy, o której mowa w art. 54 , staje się Funduszem Zajęć Sportowych dla Uczniów w rozumieniu art. 13 ust. 1 ustawy, o której mowa w art. 54 , w brzmieniu nadanym niniejszą ustawą.
+**Art. 90.** Fundusz Zajęć Sportowo-Rekreacyjnych dla Uczniów, utworzony na podstawie art. 133 ust. 1 ustawy, o której mowa w art. 54, staje się Funduszem Zajęć Sportowych dla Uczniów w rozumieniu art. 133 ust. 1 ustawy, o której mowa w art. 54, w brzmieniu nadanym niniejszą ustawą.
 
 **Art. 91.**
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie:
 
-- **1)** art. 7a ust. 3, art. 12a ust. 2, art. 23a ust. 7, art. 23b ust. 1b i 2a, art. 28 ust. 2, art. 45 ust. 3 ustawy, o której mowa w art. 93 pkt 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 8, art. 29 ust. 6, art. 32 ust. 7, art. 34 ust. 4, art. 35 ust. 4, art. 36 ust. 11 niniejszej ustawy, 1a) art. 54 ust. 3 ustawy, o której mowa w art. 93 pkt 1, w zakresie dotyczącym bezpieczeństwa osób przebywających w górach zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 39 ust. 5 niniejszej ustawy, 1b) art. 55 ust. 3 ustawy, o której mowa w art. 93 pkt 1, w zakresie dotyczącym Górskiego Ochotniczego Pogotowia Ratunkowego i Tatrzańskiego Ochotniczego Pogotowia Ratunkowego oraz ratowników górskich zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 40 ust. 4 niniejszej ustawy,
-- **2)** art. 53a ust. 11 ustawy, o której mowa w art. 93 pkt 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 37a ust. 14 i 15 ustawy, o której mowa w art. 67 , w brzmieniu nadanym niniejszą ustawą,
+- **1)** art. 7a ust. 3, art. 12a ust. 2, art. 23a ust. 7, art. 23b ust. 1b i 2a, art. 28 ust. 2, art. 45 ust. 3, art. 54 ust. 3 i art. 55 ust. 3 ustawy, o której mowa w art. 93 pkt 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 4 ust. 8, art. 29 ust. 6, art. 32 ust. 7, art. 34 ust. 4, art. 35 ust. 4, art. 36 ust. 11, art. 39 ust. 5 i art. 40 ust. 4 niniejszej ustawy,
+- **2)** art. 53a ust. 11 ustawy, o której mowa w art. 93 pkt 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 37a ust. 14 i 15 ustawy, o której mowa w art. 67, w brzmieniu nadanym niniejszą ustawą,
 - **3)** art. 29 ust. 4, art. 32 ust. 3, art. 34 ust. 7 i art. 37 ust. 3 ustawy, o której mowa w art. 93 pkt 2, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 29 ust. 6, art. 32 ust. 7, art. 34 ust. 4 i art. 37 ust. 2 niniejszej ustawy,
-- **4)** art. 132c ustawy, o której mowa w art. 53 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 132c ustawy, o której mowa w art. 53 , w brzmieniu nadanym niniejszą ustawą,
-- **5)** art. 13 ust. 4 i art. 13 ust. 5 ustawy, o której mowa w art. 54 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13 ust. 4 i art. 13 ust. 5 ustawy, o której mowa w art. 54 , w brzmieniu nadanym niniejszą ustawą,
-- **6)** art. 9 ust. 5 ustawy, o której mowa w art. 58 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 5 ustawy, o której mowa w art. 58 , w brzmieniu nadanym niniejszą ustawą,
-- **7)** art. 24a ustawy, o której mowa w art. 67 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24a ustawy, o której mowa w art. 67 , w brzmieniu nadanym niniejszą ustawą,
-- **8)** art. 27 ust. 4 ustawy, o której mowa w art. 74 , zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27 ust. 4 ustawy, o której mowa w art. 74 , w brzmieniu nadanym niniejszą ustawą – niedłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
+- **4)** art. 132c ustawy, o której mowa w art. 53, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 132c ustawy, o której mowa w art. 53, w brzmieniu nadanym niniejszą ustawą,
+- **5)** art. 132 ust. 4 i art. 133 ust. 5 ustawy, o której mowa w art. 54, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 132 ust. 4 i art. 133 ust. 5 ustawy, o której mowa w art. 54, w brzmieniu nadanym niniejszą ustawą,
+- **6)** art. 9 ust. 5 ustawy, o której mowa w art. 58, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 9 ust. 5 ustawy, o której mowa w art. 58, w brzmieniu nadanym niniejszą ustawą,
+- **7)** art. 24a ustawy, o której mowa w art. 67, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 24a ustawy, o której mowa w art. 67, w brzmieniu nadanym niniejszą ustawą,
+- **8)** art. 27 ust. 4 ustawy, o której mowa w art. 74, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 27 ust. 4 ustawy, o której mowa w art. 74, w brzmieniu nadanym niniejszą ustawą nie dłużej jednak niż przez 2 lata od dnia wejścia w życie niniejszej ustawy.
 
-2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 61 ust. 3 ustawy, o której mowa w art. 93 pkt 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13a ust. 3 ustawy, o której mowa w art. 58 , w brzmieniu nadanym niniejszą ustawą, niedłużej jednak niż do dnia 31 sierpnia 2011 r.
+2. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 61 ust. 3 ustawy, o której mowa w art. 93 pkt 1, zachowują moc do dnia wejścia w życie przepisów wykonawczych wydanych na podstawie art. 13a ust. 3 ustawy, o której mowa w art. 58, w brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż do dnia 31 sierpnia 2011 r.
 
 **Art. 92.** Ilekroć w obowiązujących przepisach jest mowa o ministrze właściwym do spraw kultury fizycznej i sportu, należy przez to rozumieć ministra właściwego do spraw kultury fizycznej.
 
 **Art. 93.** Tracą moc:
 
-**Art. 94.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia .
+- **1)** ustawa z dnia 18 stycznia 1996 r. o kulturze fizycznej (Dz. U. z 2007 r. Nr 226, poz. 1675, z późn. zm.), z wyjątkiem art. 43;
+- **2)** ustawa z dnia 29 lipca 2005 r. o sporcie kwalifikowanym (Dz. U. Nr 155, poz. 1298, z późn. zm.).
+
+**Art. 94.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
 

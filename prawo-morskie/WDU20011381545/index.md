@@ -8,12 +8,10 @@ pos: 1545
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Kodeks morski
-
-*USTAWA z dnia 18 września 2001 r.*
+# Ustawa z dnia 18 września 2001 r.Kodeks morski
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,13 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2001-09-18 |
 | Data wydania | 2001-12-04 |
+| Wejście w życie | 2002-06-05 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20011381545) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2001/1545/text.pdf) |
 
-## TYTUŁ I Przepisy ogólne
+Treść ustawy Tytuł I – Przepisy ogólne Tytuł II – Statek morski Dział I – Polska przynależność statku Dział II – Rejestr okrętowy Dział III – Pomiar statku Dział IV – Dokumenty statku Tytuł III – Kapitan statku Dział I – Przepisy ogólne Dział II – Obowiązki kapitana Dział III – Uprawnienia kapitana Dział IV – Publicznoprawne funkcje kapitana Tytuł IV – Prawa rzeczowe Dział I – Własność statku Dział II – Zastaw na statku Dział III – Przywileje na statku Tytuł V – Ograniczenie odpowiedzialności za roszczenia morskie Tytuł VI – Umowy Dział I – Przewóz ładunku Rozdział 1 – Przepisy ogólne Rozdział 2 – Załadowanie na statek Rozdział 3 – Konosament Rozdział 4 – Wykonanie przewozu Rozdział 5 – Wyładowanie i odbiór ładunku Rozdział 6 – Należności przewoźnika Rozdział 7 – Przywileje na ładunku Rozdział 8 – Wygaśnięcie umowy Rozdział 9 – Odpowiedzialność przewoźnika Dział II – Przewóz pasażerów Dział III – Czarter na czas Dział IV – Usługi agencyjne Dział V – Usługi maklerskie Dział VI – Usługi holownicze Dział VII – Usługi pilotowe Dział VIII – Ratownictwo morskie Tytuł VII – Wypadki morskie Dział I – Awaria wspólna Dział II – Zderzenie statków Dział III – Zanieczyszczenie ze statków Rozdział 1 – Zanieczyszczenia różne Rozdział 2 – Zanieczyszczenia ze statków przewożących oleje Rozdział 3 – Międzynarodowy Fundusz Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami Dział IV – Mienie zatopione lub znalezione Tytuł VIII – Ubezpieczenie morskie Dział I – Umowa ubezpieczenia morskiego Rozdział 1 – Przepisy ogólne Rozdział 2 – Wartość ubezpieczenia i suma ubezpieczenia Rozdział 3 – Oświadczenia przy zawieraniu umów ubezpieczenia Rozdział 4 – Przeniesienie praw z umowy ubezpieczenia Rozdział 5 – Ubezpieczenie generalne Dział II – Wykonanie umowy ubezpieczenia Rozdział 1 – Obowiązki ubezpieczającego Rozdział 2 – Odpowiedzialność ubezpieczyciela Rozdział 3 – Abandon przedmiotu ubezpieczenia Rozdział 4 – Płatność odszkodowania ubezpieczeniowego Tytuł IX – Postępowanie w sprawach związanych z ograniczeniem odpowiedzialności za roszczenia morskie i dochodzeniem roszczeń z tytułu szkód spowodowanych zanieczyszczeniem przez statki Dział I – Postępowanie w sprawach o ustanowienie i podział funduszu ograniczenia odpowiedzialności za roszczenia morskie Dział II – Postępowanie w sprawach roszczeń i ograniczenia odpowiedzialności z tytułu szkód spowodowanych zanieczyszczeniem przez statki Tytuł X – Przepisy kolizyjne
+
+## Tytuł I Przepisy ogólne
 
 **Art. 1.**
 
@@ -49,9 +50,7 @@ source: "isap-pdf"
 
 § 2. Morskim statkiem handlowym jest statek przeznaczony lub używany do prowadzenia działalności gospodarczej, a w szczególności do: przewozu ładunku lub pasażerów, rybołówstwa morskiego lub pozyskiwania innych zasobów morza, holowania, ratownictwa morskiego, wydobywania mienia zatopionego w morzu, pozyskiwania zasobów mineralnych dna morza oraz zasobów znajdującego się pod nim wnętrza Ziemi.
 
-**Art. 4.** Do statków morskich używanych wyłącznie do celów naukowobadawczych stosuje się Kodeks morski z wyjątkiem przepisów o przewozie ładunku lub pasażerów oraz przepisów o awarii wspólnej.
-
-**Art. 4a.** Do statków morskich używanych do celów sportowych lub rekreacyjnych, w tym morskich jachtów rekreacyjnych i komercyjnych w rozumieniu ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2022 r. poz. 515, 1604, 2185 i 2687 oraz z 2023 r. poz. 261), stosuje się Kodeks morski z wyjątkiem przepisów o przewozie ładunku lub pasażerów oraz przepisów o awarii wspólnej.
+**Art. 4.** Do statków morskich używanych wyłącznie do celów naukowo-badawczych, sportowych lub rekreacyjnych stosuje się Kodeks morski z wyjątkiem przepisów o przewozie ładunku lub pasażerów oraz przepisów o awarii wspólnej.
 
 **Art. 5.**
 
@@ -73,23 +72,24 @@ source: "isap-pdf"
 
 § 2. Przepis § 1 nie dotyczy roszczeń stwierdzonych prawomocnym orzeczeniem sądu lub wyrokiem sądu polubownego, a także ugodą zawartą przed tymi sądami.
 
-## TYTUŁ II Statek morski
+## Tytuł II Statek morski
 
-### DZIAŁ I Polska przynależność statku
+### Dział I Polska przynależność statku
 
 **Art. 9.**
 
 § 1. Żeglugę pod polską banderą może uprawiać tylko statek o polskiej przynależności.
 
-§ 2. (uchylony) § 3. Terenowy organ administracji morskiej, na którego obszarze działania znajduje się port rozpoczęcia podróży, może w uzasadnionych przypadkach zezwolić na wykonywanie przez czas oznaczony stałego przewozu między portami polskimi przez statek podnoszący banderę państwa innego niż państwo członkowskie Unii Europejskiej.
+§ 2. Z zastrzeżeniem § 3 stały przewóz pasażerów lub ładunku pomiędzy portami polskimi może uprawiać tylko statek o polskiej przynależności.
+
+§ 3. Terenowy organ administracji morskiej, na którego obszarze działania znajduje się port rozpoczęcia podróży, może, w uzasadnionych przypadkach, zezwolić na wykonywanie przez czas oznaczony stałego przewozu pomiędzy portami polskimi przez statek o obcej przynależności.
 
 **Art. 10.**
 
 § 1. Statkiem o polskiej przynależności jest:
 
-- **1)** statek stanowiący polską własność, o którym mowa w art. 73 § 1 i 2;
-- **2)** statek uważany za stanowiący polską własność, o którym mowa w art. 73 § 3;
-- **2a)** statek niestanowiący polskiej własności, który uzyskał polską przynależność zgodnie z rozporządzeniem nr 613/91 (EWG) z dnia 4 marca 1991 r. w sprawie transferu statków z jednego rejestru do drugiego wewnątrz Wspólnoty (Dz. Urz. WE L 68 z 15.03.1991, z późn. zm.);
+- **1)** statek stanowiący polską własność, o którym mowa w art. 73 § 1 i 2,
+- **2)** statek uważany za stanowiący polską własność, o którym mowa w art. 73 § 3,
 - **3)** statek niestanowiący polskiej własności, który czasowo uzyskał polską przynależność, o którym mowa w art. 13 § 1.
 
 § 2. Przepisy niniejszego działu dotyczące statku stanowiącego polską własność stosuje się do statków uważanych za stanowiące polską własność.
@@ -104,9 +104,7 @@ source: "isap-pdf"
 
 § 1. Statek o polskiej przynależności oznacza się nazwą na dziobie, z każdej burty i na rufie. Pod nazwą na rufie powinna być uwidoczniona nazwa portu macierzystego statku.
 
-§ 2. Właściciel nadaje statkowi nazwę i wskazuje port morski jako port macierzysty statku. Nazwa podlega zatwierdzeniu przez dyrektora urzędu morskiego właściwego dla portu macierzystego statku, w drodze decyzji administracyjnej, z zastrzeżeniem § 2a.
-
-§ 2a. Pod nazwą na rufie statku morskiego używanego do celów sportowych lub rekreacyjnych o długości do 24 m powinny być uwidocznione numer rejestracyjny, o ile został nadany, i nazwa portu macierzystego statku. Nazwa statku morskiego używanego do celów sportowych lub rekreacyjnych o długości do 24 m, rejestrowanego na podstawie ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m (Dz. U. z 2020 r. poz. 1500, z 2022 r. poz. 2642 oraz z 2023 r. poz. 261), nie podlega zatwierdzeniu.
+§ 2. Właściciel nadaje statkowi nazwę i wskazuje port morski jako port macierzysty statku. Nazwa podlega zatwierdzeniu przez dyrektora urzędu morskiego właściwego dla portu macierzystego statku w drodze decyzji administracyjnej.
 
 § 3. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, tryb postępowania w sprawach nadawania i zatwierdzenia nazwy statku, uwzględniając konieczność jego indywidualizacji.
 
@@ -116,11 +114,11 @@ source: "isap-pdf"
 
 § 1. Statek niestanowiący polskiej własności może uzyskać polską przynależność na czas oznaczony, jeżeli wnioskodawca łącznie spełni następujące wymogi:
 
-- **1)** jest osobą prawną mającą w Rzeczypospolitej Polskiej siedzibę lub oddział bądź jest osobą fizyczną zamieszkałą w Rzeczypospolitej Polskiej lub mającą w Rzeczypospolitej Polskiej oddział;
-- **2)** przedstawi umowę najmu lub dzierżawy statku bądź inną umowę, na podstawie której będzie mógł uprawiać żeglugę statkiem we własnym imieniu;
-- **3)** zobowiąże się, że będzie prowadził działalność armatorską w Rzeczypospolitej Polskiej;
-- **4)** złoży urzędowo poświadczony odpis lub wyciąg ze stałego rejestru statków, zawierający opis statku, oznaczenie właściciela oraz inne dane z tego rejestru, a w szczególności wpisane prawa zastawu i ograniczenia w rozporządzaniu statkiem;
-- **5)** przedstawi pisemną zgodę właściwych organów państwa stałego rejestru statków, właściciela statku i wszystkich wierzycieli hipotecznych na nadanie statkowi polskiej przynależności oraz zapewnienie właściwych organów państwa stałego rejestru statku, że w czasie trwania polskiej przynależności statek nie będzie uprawniony do podnoszenia bandery tego państwa;
+- **1)** jest osobą prawną mającą w Rzeczypospolitej Polskiej siedzibę lub oddział bądź jest osobą fizyczną zamieszkałą w Rzeczypospolitej Polskiej lub mającą w Rzeczypospolitej Polskiej oddział,
+- **2)** przedstawi umowę najmu lub dzierżawy statku bądź inną umowę, na podstawie której będzie mógł uprawiać żeglugę statkiem we własnym imieniu,
+- **3)** zobowiąże się, że będzie prowadził działalność armatorską w Rzeczypospolitej Polskiej,
+- **4)** złoży urzędowo poświadczony odpis lub wyciąg ze stałego rejestru statków, zawierający opis statku, oznaczenie właściciela oraz inne dane z tego rejestru, a w szczególności wpisane prawa zastawu i ograniczenia w rozporządzaniu statkiem,
+- **5)** przedstawi pisemną zgodę właściwych organów państwa stałego rejestru statków, właściciela statku i wszystkich wierzycieli hipotecznych na nadanie statkowi polskiej przynależności oraz zapewnienie właściwych organów państwa stałego rejestru statku, że w czasie trwania polskiej przynależności statek nie będzie uprawniony do podnoszenia bandery tego państwa,
 - **6)** wskaże port macierzysty statku w Rzeczypospolitej Polskiej.
 
 § 2. Statek niestanowiący polskiej własności uzyskuje czasową polską przynależność przez wpis do rejestru okrętowego, na podstawie postanowienia izby morskiej stwierdzającego okres przynależności.
@@ -135,10 +133,10 @@ source: "isap-pdf"
 
 § 1. Statek niestanowiący polskiej własności traci uzyskaną czasową polską przynależność, jeżeli:
 
-- **1)** przestanie być spełniany którykolwiek z wymogów wymienionych w art. 13 § 1;
-- **2)** upłynie okres, na jaki uzyskał przynależność, i okres ten nie zostanie przedłużony;
-- **3)** wniesie o to armator statku;
-- **4)** armator statku nie przestrzega przepisów niniejszego działu;
+- **1)** przestanie być spełniany którykolwiek z wymogów wymienionych w art. 13 § 1,
+- **2)** upłynie okres, na jaki uzyskał przynależność, i okres ten nie zostanie przedłużony,
+- **3)** wniesie o to armator statku,
+- **4)** armator statku nie przestrzega przepisów niniejszego działu,
 - **5)** zostanie wydana decyzja w trybie art. 18.
 
 § 2. Utrata przez statek czasowej polskiej przynależności następuje z dniem wykreślenia statku z polskiego rejestru okrętowego, na podstawie postanowienia izby morskiej.
@@ -169,7 +167,7 @@ source: "isap-pdf"
 
 **Art. 22.** Ilekroć w przepisach niniejszego działu mówi się o stałym rejestrze statku, rozumie się przez to rejestr prowadzony w państwie, do którego przynależność została zawieszona, w którym wpisany jest właściciel statku oraz prawa zastawu i ograniczenia w rozporządzaniu statkiem.
 
-### DZIAŁ II Rejestr okrętowy
+### Dział II Rejestr okrętowy
 
 **Art. 23.**
 
@@ -177,36 +175,31 @@ source: "isap-pdf"
 
 § 2. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, rodzaje statków stanowiących polską własność niepodlegających obowiązkowi wpisu do rejestru okrętowego. Zwolnienie nie może dotyczyć statków uprawiających żeglugę poza terytorium Rzeczypospolitej Polskiej.
 
-§ 3. Statek morski stanowiący polską własność, używany do celów sportowych lub rekreacyjnych, o długości do 24 m, podlega rejestracji na podstawie przepisów ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m.
+§ 3. Statek morski stanowiący polską własność, używany wyłącznie do celów sportowych lub rekreacyjnych, o długości kadłuba do 24 m, podlega obowiązkowi wpisu do polskiego rejestru jachtów prowadzonego przez właściwy związek sportowy o zasięgu krajowym.
 
 § 4. Statek, który nie podlega obowiązkowi wpisu do rejestru okrętowego, a także statek w budowie, może być wpisany do rejestru okrętowego na wniosek właściciela.
 
-§ 5. Statek wpisuje się do rejestru okrętowego na wniosek właściciela lub wszystkich współwłaścicieli.
-
-§ 5a. W przypadku statków o długości 24 m i powyżej, które zmieniają przynależność z obcej na polską albo są przerejestrowywane z rejestru administracyjnego polskich statków żeglugi śródlądowej, statek wpisuje się do rejestru okrętowego po przedstawieniu przez wnioskodawcę dodatkowo:
-
-- **1)** decyzji dyrektora urzędu morskiego o spełnieniu przez statek warunków technicznych wymaganych do uzyskania wpisu do rejestru;
-- **2)** oświadczenia właściciela, że statek nie jest zatrzymany przez inspekcję państwa portu ani nie obowiązuje wydana dla statku decyzja o zakazie wejścia do portu w regionie Memorandum Paryskiego rozumianym jako obszar geograficzny, w którym państwa-strony przeprowadzają inspekcje na podstawie postanowień Memorandum Paryskiego w sprawie inspekcji państwa portu, podpisanego w Paryżu dnia 26 stycznia 1982 r. (Dz. Urz. Min. Gosp. Mors. i Żegl. Śród. z 2020 r. poz. 18).
-
-§ 5b. Oświadczenie, o którym mowa w § 5a pkt 2, składa się pod rygorem odpowiedzialności karnej za składanie fałszywych oświadczeń. Składający oświadczenie jest obowiązany do zawarcia w nim klauzuli następującej treści: „Jestem świadomy(-ma) odpowiedzialności karnej za złożenie fałszywego oświadczenia.”. Klauzula ta zastępuje pouczenie organu o odpowiedzialności karnej za składanie fałszywych oświadczeń.
+§ 5. Statek, o którym mowa w art. 73, wpisuje się do rejestru okrętowego na wniosek właściciela lub wszystkich współwłaścicieli.
 
 § 6. Statek budowany w Rzeczypospolitej Polskiej może być wpisany do rejestru okrętowego, jeżeli położona została jego stępka lub wykonana została równorzędna praca konstrukcyjna w miejscu wodowania. Dotyczy to również statku w budowie niestanowiącego polskiej własności. Rejestr okrętowy statku w budowie prowadzi izba morska właściwa dla miejsca budowy statku.
 
 **Art. 24.**
 
-§ 1. Statek niestanowiący polskiej własności ani nieuważany za stanowiący polską własność wpisuje się do rejestru okrętowego, na wniosek armatora, po spełnieniu wymogów określonych w art. 13 § 1 oraz art. 23 § 5a, z uwzględnieniem § 2.
+§ 1. Statek niestanowiący polskiej własności ani nieuważany za stanowiący polską własność wpisuje się do rejestru okrętowego, na wniosek armatora, po spełnieniu wymogów określonych w art. 13 § 1.
 
-§ 2. Do rejestrów, o których mowa w art. 23, może być wpisany statek będący własnością obywatela państwa członkowskiego Unii Europejskiej lub osoby prawnej mającej siedzibę w państwie członkowskim Unii Europejskiej, z zastrzeżeniem art. 73a.
-
-§ 3. Rejestr okrętowy statków, o których mowa w § 1, prowadzi izba morska właściwa dla portu polskiego wskazanego przez armatora jako port macierzysty statku.
+§ 2. Rejestr okrętowy statków, o których mowa w § 1, prowadzi izba morska właściwa dla portu polskiego wskazanego przez armatora jako port macierzysty statku.
 
 **Art. 25.** Rejestr okrętowy składa się z ksiąg rejestrowych prowadzonych odrębnie dla statków:
 
+- **1)** stanowiących polską własność i uważanych za stanowiące polską własność (rejestr stały),
+- **2)** które uzyskały czasową polską przynależność (rejestr tymczasowy),
+- **3)** w budowie (rejestr statków w budowie).
+
 **Art. 26.**
 
-§ 1. Za czynności rejestrowe, o których mowa w art. 23 § 1, pobiera się opłaty rejestrowe, które stanowią dochód budżetu państwa.
+§ 1. Za czynności rejestrowe, o których mowa w art. 23 § 1, pobiera się opłaty rejestrowe, które stanowią dochód budżetu państwa, natomiast opłaty za czynności, o których mowa w art. 23 § 3, stanowią dochód właściwego związku sportowego prowadzącego rejestr jachtów.
 
-§ 2. (uchylony)
+§ 2. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób i tryb prowadzenia polskiego rejestru jachtów, z uwzględnieniem odpowiednio przepisów art. 29.
 
 **Art. 27.**
 
@@ -224,32 +217,32 @@ source: "isap-pdf"
 
 § 1. W rejestrze stałym wpisuje się:
 
-- **1)** kolejny numer rejestrowy statku i datę dokonania wpisu;
-- **2)** nazwę lub oznaczenie identyfikacyjne i numer identyfikacyjny nadany przez międzynarodową organizację morską, międzynarodowy sygnał wywoławczy oraz rodzaj i przeznaczenie statku;
-- **3)** poprzednią nazwę lub oznaczenie identyfikacyjne oraz dane dotyczące poprzedniego rejestru i datę wykreślenia z tego rejestru;
-- **4)** nazwę portu macierzystego statku;
-- **5)** rok, miejsce budowy i nazwę stoczni, jeżeli dane te są znane, oraz określenie głównego materiału kadłuba statku i rodzaju napędu statku;
-- **6)** wymiary główne (rejestrowe) oraz pojemność statku;
-- **7)** oznaczenie i adres właściciela lub wszystkich współwłaścicieli statku z określeniem ich udziałów we współwłasności oraz podstawę nabycia własności statku, a także ostrzeżenie dotyczące możliwej niezgodności stanu prawnego ujawnionego w rejestrze okrętowym z rzeczywistym stanem prawnym, jeżeli w związku z uprawnieniem, o którym mowa w art. 4 ust. 3 i 4 pkt 3 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym (Dz. U. z 2021 r. poz. 1041 oraz z 2022 r. poz. 2642), izba morska uzyskała informację, że statek o długości do 24 m lub silnik takiego statku został skradziony, przywłaszczony, utracony lub jest poszukiwany jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym;
-- **8)** oznaczenie i adres armatora statku;
-- **9)** hipotekę morską i ograniczenia w rozporządzaniu statkiem;
-- **10)** stwierdzenie przez izbę morską polskiej przynależności statku;
-- **11)** stwierdzenie przez izbę morską zawieszenia polskiej przynależności statku;
+- **1)** kolejny numer rejestrowy statku i datę dokonania wpisu,
+- **2)** nazwę lub oznaczenie identyfikacyjne i numer identyfikacyjny nadany przez międzynarodową organizację morską, międzynarodowy sygnał wywoławczy oraz rodzaj i przeznaczenie statku,
+- **3)** poprzednią nazwę lub oznaczenie identyfikacyjne oraz dane dotyczące poprzedniego rejestru i datę wykreślenia z tego rejestru,
+- **4)** nazwę portu macierzystego statku,
+- **5)** rok, miejsce budowy i nazwę stoczni, jeżeli dane te są znane, oraz określenie głównego materiału kadłuba statku i rodzaju napędu statku,
+- **6)** wymiary główne (rejestrowe) oraz pojemność statku,
+- **7)** oznaczenie i adres właściciela lub wszystkich współwłaścicieli statku z określeniem ich udziałów we współwłasności oraz podstawę nabycia własności statku,
+- **8)** oznaczenie i adres armatora statku,
+- **9)** hipotekę morską i ograniczenia w rozporządzaniu statkiem,
+- **10)** stwierdzenie przez izbę morską polskiej przynależności statku,
+- **11)** stwierdzenie przez izbę morską zawieszenia polskiej przynależności statku,
 - **12)** podstawę i datę wykreślenia statku z rejestru.
 
 § 2. W rejestrze tymczasowym, oprócz danych wymienionych w § 1 pkt 1–8, 10 i 12, wpisuje się:
 
-- **1)** poprzednią przynależność statku i datę jej zawieszenia;
-- **2)** okres, na jaki statek uzyskał polską przynależność;
+- **1)** poprzednią przynależność statku i datę jej zawieszenia,
+- **2)** okres, na jaki statek uzyskał polską przynależność,
 - **3)** oznaczenie i adres przedstawiciela armatora w Rzeczypospolitej Polskiej, jeżeli taki został ustanowiony.
 
 § 3. W rejestrze statków w budowie wpisuje się:
 
-- **1)** kolejny numer rejestrowy statku w budowie i datę dokonania wpisu;
-- **2)** oznaczenie identyfikacyjne statku w budowie;
-- **3)** nazwę stoczni budującej statek;
-- **4)** oznaczenie i adres właściciela statku w budowie;
-- **5)** oznaczenie umowy o budowę statku;
+- **1)** kolejny numer rejestrowy statku w budowie i datę dokonania wpisu,
+- **2)** oznaczenie identyfikacyjne statku w budowie,
+- **3)** nazwę stoczni budującej statek,
+- **4)** oznaczenie i adres właściciela statku w budowie,
+- **5)** oznaczenie umowy o budowę statku,
 - **6)** hipotekę morską.
 
 § 4. Każda zmiana danych w rejestrze okrętowym podlega wpisowi.
@@ -264,18 +257,16 @@ source: "isap-pdf"
 
 § 1. Wykreśla się z rejestru okrętowego statek, który:
 
-- **1)** zatonął lub uległ zniszczeniu;
-- **2)** zaginął;
-- **3)** utracił polską przynależność;
+- **1)** zatonął lub uległ zniszczeniu,
+- **2)** zaginął,
+- **3)** utracił polską przynależność,
 - **4)** utracił charakter statku morskiego.
 
-§ 1a. Z rejestru okrętowego, na wniosek dyrektora urzędu morskiego właściwego dla portu macierzystego statku, można wykreślić statek, który w okresie ostatnich 24 miesięcy został dwukrotnie zatrzymany przez inspekcje państwa portu z przyczyn leżących po stronie armatora, kapitana lub załogi statku.
-
-§ 2. W przypadkach określonych w § 1 i 1a wykreślenie statku z rejestru okrętowego wymaga zgody wierzyciela hipotecznego wyrażonej na piśmie.
+§ 2. W przypadkach określonych w § 1 wykreślenie statku z rejestru okrętowego wymaga zgody wierzyciela hipotecznego wyrażonej na piśmie.
 
 § 3. Wykreśla się z rejestru statków w budowie statek, który:
 
-- **1)** uległ zniszczeniu w trakcie budowy albo którego budowa została zaniechana;
+- **1)** uległ zniszczeniu w trakcie budowy albo którego budowa została zaniechana,
 - **2)** został wpisany do rejestru stałego w Rzeczypospolitej Polskiej lub za granicą.
 
 § 4. W przypadkach określonych w § 3 wykreślenie wymaga zgody wierzyciela wyrażonej na piśmie, chyba że statek w budowie został wpisany do rejestru stałego w Rzeczypospolitej Polskiej, a ciążąca na nim hipoteka morska została wpisana do tego rejestru z urzędu.
@@ -286,13 +277,14 @@ source: "isap-pdf"
 
 § 1. Zgłoszenie do rejestru okrętowego powinno być dokonane w ciągu 6 tygodni od dnia, w którym obowiązany do zgłoszenia dowiedział się o okoliczności podlegającej wpisowi do rejestru.
 
-§ 2. W razie niezgłoszenia statku lub okoliczności podlegających wpisowi do rejestru okrętowego izba morska może, w drodze postanowienia, nałożyć na obowiązanego do zgłoszenia karę grzywny w wysokości od 500 do 10 000 PLN w celu spowodowania zgłoszenia. Grzywny nieuiszczone mogą być umorzone w całości lub części w przypadku dokonania zgłoszenia przez obowiązanego.
-
-§ 2a. Na postanowienie o nałożeniu kary grzywny, o której mowa w § 2, przysługuje zażalenie.
+§ 2. W razie niezgłoszenia statku lub okoliczności podlegających wpisowi do rejestru okrętowego izba morska stosuje, w celu przymuszenia do zgłoszenia, przepisy o postępowaniu przynaglającym w zakresie prowadzenia ksiąg wieczystych.
 
 § 3. Jeżeli obowiązany nie dokona zgłoszenia pomimo wezwania, izba morska może, po przeprowadzeniu dochodzenia, dokonać wpisu z urzędu, zaznaczając to w osnowie wpisu.
 
 **Art. 34.** Izba morska bada, czy:
+
+- **1)** zgłoszenie lub wniosek i dołączone do nich dokumenty odpowiadają pod względem treści i formy obowiązującym przepisom prawa,
+- **2)** zgłoszone dane są zgodne z rzeczywistością, jeżeli ma w tym względzie uzasadnione wątpliwości.
 
 **Art. 35.**
 
@@ -312,7 +304,7 @@ source: "isap-pdf"
 
 § 1. W razie wydania certyfikatu okrętowego statkowi, który uzyskał czasową polską przynależność, dokument wydany takiemu statkowi przez organ prowadzący jego rejestr stały powinien zostać temu organowi zwrócony. O zwrocie dokumentu armator statku zawiadamia izbę morską w terminie 30 dni, licząc od dnia otrzymania certyfikatu okrętowego.
 
-§ 2. W razie zawieszenia przez izbę morską polskiej przynależności statku stanowiącego polską własność lub uważanego za stanowiący polską własność właściciel statku obowiązany jest zwrócić izbie morskiej certyfikat okrętowy w terminie 30 dni, licząc od dnia wydania statkowi odpowiedniego dokumentu przez zagraniczny organ rejestrowy. W razie niezwrócenia certyfikatu okrętowego stosuje się art. 33 § 2 i § 2a.
+§ 2. W razie zawieszenia przez izbę morską polskiej przynależności statku stanowiącego polską własność lub uważanego za stanowiący polską własność właściciel statku obowiązany jest zwrócić izbie morskiej certyfikat okrętowy w terminie 30 dni, licząc od dnia wydania statkowi odpowiedniego dokumentu przez zagraniczny organ rejestrowy.
 
 § 3. Izba morska zawiadamia właściwe władze państwa rejestru stałego o ustaniu czasowej polskiej przynależności statku.
 
@@ -320,11 +312,7 @@ source: "isap-pdf"
 
 **Art. 39.**
 
-§ 1. Statek stanowiący polską własność, który nie podlega obowiązkowi wpisu do rejestru okrętowego i nie został do niego wpisany oraz do którego nie stosuje się przepisów ustawy z dnia 12 kwietnia 2018 r. o rejestracji jachtów i innych jednostek pływających o długości do 24 m, rejestruje się w urzędzie morskim właściwym dla swojego portu macierzystego, o ile nie uprawia żeglugi międzynarodowej.
-
-§ 1a. Przed rejestracją organ rejestrowy, korzystając z uprawnienia, o którym mowa w art. 4 ust. 3 i 4 pkt 3 ustawy z dnia 24 sierpnia 2007 r. o udziale Rzeczypospolitej Polskiej w Systemie Informacyjnym Schengen oraz Wizowym Systemie Informacyjnym, może zweryfikować, czy zgłoszony do rejestracji statek o długości do 24 m lub silnik takiego statku nie został skradziony, przywłaszczony, utracony lub nie jest poszukiwany jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym.
-
-§ 1b. W przypadku gdy organ rejestrowy w wyniku weryfikacji uzyskał informację, że zgłoszony do rejestracji statek o długości do 24 m lub silnik takiego statku został skradziony, przywłaszczony, utracony lub jest poszukiwany jako dowód w postępowaniu karnym lub postępowaniu karnym skarbowym, odmawia zarejestrowania statku.
+§ 1. Statek stanowiący polską własność, który nie podlega obowiązkowi wpisu do rejestru okrętowego lub polskiego rejestru jachtów i nie został wpisany do któregokolwiek z tych rejestrów, rejestruje się w urzędzie morskim właściwym dla swojego portu macierzystego.
 
 § 2. Dokument rejestracyjny wydany przez urząd morski stanowi dowód polskiej przynależności statku niewpisanego do rejestru okrętowego.
 
@@ -332,7 +320,7 @@ source: "isap-pdf"
 
 § 4. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób rejestracji statków morskich, o których mowa w § 1, tryb postępowania rejestrowego, wzór dokumentu rejestracyjnego oraz tryb ustalania i wysokość opłat rejestrowych, mając na uwadze pojemność i przeznaczenie statku.
 
-### DZIAŁ III Pomiar statku
+### Dział III Pomiar statku
 
 **Art. 40.**
 
@@ -342,7 +330,7 @@ source: "isap-pdf"
 
 **Art. 41.**
 
-§ 1. Do pomiaru statków stosuje się postanowienia Międzynarodowej konwencji o pomierzaniu pojemności statków, sporządzonej w Londynie dnia 23 czerwca 1969 r. (Dz. U. z 1983 r. poz. 247), zwanej dalej „Konwencją o pomierzaniu”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób, oraz przepisy niniejszego działu.
+§ 1. Do pomiaru statków stosuje się postanowienia Międzynarodowej konwencji o pomierzaniu pojemności statków, sporządzonej w Londynie dnia 23 czerwca 1969 r. (Dz. U. z 1983 r. Nr 56, poz. 247), zwanej dalej „Konwencją o pomierzaniu”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób, oraz przepisy niniejszego działu.
 
 § 2. Międzynarodowym świadectwem pomiarowym, w rozumieniu przepisów Kodeksu morskiego, jest świadectwo pomiarowe wydane na podstawie Konwencji o pomierzaniu bądź innej umowy międzynarodowej w tym zakresie, której stroną jest Rzeczpospolita Polska.
 
@@ -366,8 +354,8 @@ source: "isap-pdf"
 
 § 2. Świadectwo pomiarowe traci ważność, jeżeli statek, któremu zostało wydane:
 
-- **1)** zostanie tak zmieniony, że nie odpowiada danym zawartym w świadectwie w zakresie pojemności i wymiarów rejestrowych;
-- **2)** zatonie lub ulegnie zniszczeniu, zaginie bądź utraci charakter statku morskiego;
+- **1)** zostanie tak zmieniony, że nie odpowiada danym zawartym w świadectwie w zakresie pojemności i wymiarów rejestrowych,
+- **2)** zatonie lub ulegnie zniszczeniu, zaginie bądź utraci charakter statku morskiego,
 - **3)** zmieni przynależność, z zastrzeżeniem wyjątków przewidzianych w umowach międzynarodowych, których Rzeczpospolita Polska jest stroną.
 
 **Art. 45.** Statek podlegający obowiązkowemu pomiarowi może być, w celu kontroli, poddany ponownemu pomiarowi.
@@ -376,7 +364,7 @@ source: "isap-pdf"
 
 § 1. Kontrola statku zawijającego do portu polskiego pod banderą państwa będącego stroną Konwencji o pomierzaniu lub innej umowy międzynarodowej o wzajemnym uznawaniu dokumentów pomiarowych, której stroną jest Rzeczpospolita Polska, ogranicza się do sprawdzenia:
 
-- **1)** czy statek posiada ważne świadectwo pomiarowe odpowiadające postanowieniom umowy międzynarodowej, na podstawie której zostało wydane;
+- **1)** czy statek posiada ważne świadectwo pomiarowe odpowiadające postanowieniom umowy międzynarodowej, na podstawie której zostało wydane,
 - **2)** czy zasadnicza charakterystyka statku odpowiada danym zawartym w tym świadectwie.
 
 § 2. Kontrola, o której mowa w § 1, nie może powodować przetrzymania statku.
@@ -391,11 +379,16 @@ source: "isap-pdf"
 
 § 1. Organami pomiarowymi są dyrektorzy urzędów morskich.
 
-§ 2. Zadania organu pomiarowego mogą zostać powierzone zgodnie z przepisami o bezpieczeństwie morskim.
+§ 2. Minister właściwy do spraw gospodarki morskiej może, w drodze rozporządzenia, powierzyć zadania organu pomiarowego instytucji klasyfikacyjnej, uwzględniając specyfikę i charakter zadań realizowanych przez tę instytucję.
 
 **Art. 49.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia:
 
-### DZIAŁ IV Dokumenty statku
+- **1)** zakres działania organu pomiarowego,
+- **2)** sposób pomierzania, w tym także statków, do których nie stosuje się postanowień Konwencji o pomierzaniu,
+- **3)** tryb postępowania pomiarowego i kontrolnego,
+- **4)** wzory świadectw pomiarowych oraz wysokość opłat pomiarowych, uwzględniając zasady praktyki międzynarodowej w tym zakresie.
+
+### Dział IV Dokumenty statku
 
 **Art. 50.**
 
@@ -411,9 +404,9 @@ source: "isap-pdf"
 
 **Art. 52.** Minister właściwy do spraw gospodarki morskiej, określi, w drodze rozporządzenia, rodzaje, wzory i sposób prowadzenia dzienników oraz innych dokumentów statku, uwzględniając rodzaje statków i dokumentów znajdujących się na tych statkach, a także określi sposób przechowywania tych dokumentów.
 
-## TYTUŁ III Kapitan statku
+## Tytuł III Kapitan statku
 
-### DZIAŁ I Przepisy ogólne
+### Dział I Przepisy ogólne
 
 **Art. 53.**
 
@@ -429,7 +422,7 @@ source: "isap-pdf"
 
 **Art. 55.** Kapitan statku może zgłosić armatorowi sprzeciw odnośnie do składu i kwalifikacji zawodowych osób wpisywanych na listę załogi.
 
-### DZIAŁ II Obowiązki kapitana
+### Dział II Obowiązki kapitana
 
 **Art. 56.** Kapitan obowiązany jest dochować staranności sumiennego kapitana statku przy wszystkich czynnościach służbowych.
 
@@ -467,7 +460,7 @@ source: "isap-pdf"
 
 § 1. Jeżeli statek, osoba na nim przebywająca lub ładunek uległy wypadkowi powodującemu znaczną szkodę albo istnieje prawdopodobieństwo, że szkoda taka nastąpiła, kapitan obowiązany jest w ciągu dwudziestu czterech godzin od chwili przybycia statku do pierwszego portu albo w ciągu dwudziestu czterech godzin od wypadku, który nastąpił w porcie, zgłosić protest morski:
 
-- **1)** w kraju – izbie morskiej, a w porcie, w którym nie ma izby morskiej – sądowi rejonowemu;
+- **1)** w kraju – izbie morskiej, a w porcie, w którym nie ma izby morskiej – sądowi rejonowemu,
 - **2)** za granicą – polskiemu urzędowi konsularnemu. Jeżeli nie jest to możliwe, kapitan podejmuje czynności niezbędne dla ustalenia okoliczności wypadku i zabezpieczenia dowodów w trybie przewidzianym prawem miejscowym.
 
 § 2. Kapitan obowiązany jest przy zgłaszaniu protestu przedłożyć listę załogi, dziennik okrętowy oraz poświadczony przez siebie wypis z dziennika okrętowego ze szczegółowym opisem wypadku, a w razie zaginięcia dziennika okrętowego – szczegółowy opis wszystkich okoliczności wypadku.
@@ -484,18 +477,18 @@ source: "isap-pdf"
 
 § 1. Kapitan obowiązany jest:
 
-- **1)** okazywać banderę statku jednostkom pływającym Marynarki Wojennej i Straży Granicznej;
+- **1)** okazywać banderę statku jednostkom pływającym Marynarki Wojennej i Straży Granicznej,
 - **2)** podnosić banderę przy wprowadzaniu statku do portu.
 
 § 2. Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, sposób i warunki okazywania bandery statku jednostkom pływającym Marynarki Wojennej i Straży Granicznej oraz oddawania honoru przez statki, z uwzględnieniem zwyczajów międzynarodowych.
 
 **Art. 66.**
 
-§ 1. Kapitan obowiązany jest niezwłocznie zawiadomić o wypadku morskim Państwową Komisję Badania Wypadków Morskich, z uwzględnieniem przepisów ustawy z dnia 31 sierpnia 2012 r. o Państwowej Komisji Badania Wypadków Morskich (Dz. U. z 2019 r. poz. 1374).
+§ 1. Kapitan obowiązany jest niezwłocznie po wypadku morskim zawiadomić o nim kapitanat (bosmanat) pierwszego polskiego portu, do którego statek ma wejść po wypadku, a także właściwą izbę morską zgodnie z przepisami ustawy z dnia 1 grudnia 1961 r. o izbach morskich (Dz. U. Nr 58, poz. 320, z 1975 r. Nr 16, poz. 91, z 1989 r. Nr 33, poz. 175 i Nr 35, poz. 192 oraz z 2000 r. Nr 120, poz. 1268).
 
-§ 2. Kapitan obowiązany jest, na żądanie izby morskiej lub kapitanatu portu, udzielić wyjaśnień o każdym wypadku morskim.
+§ 2. Kapitan obowiązany jest, na żądanie izby morskiej lub kapitanatu (bosmanatu) portu, udzielić wyjaśnień o każdym wypadku morskim.
 
-### DZIAŁ III Uprawnienia kapitana
+### Dział III Uprawnienia kapitana
 
 **Art. 67.** Kapitan statku znajdującego się w niebezpieczeństwie, po porozumieniu się ze statkami, które odpowiedziały na jego wezwanie o pomoc, ma prawo zażądać, aby wskazany przez niego statek lub statki udzieliły mu pomocy.
 
@@ -521,7 +514,7 @@ source: "isap-pdf"
 
 § 2. Wartość zarekwirowanego ładunku obowiązany jest zwrócić armator.
 
-### DZIAŁ IV Publicznoprawne funkcje kapitana
+### Dział IV Publicznoprawne funkcje kapitana
 
 **Art. 71.**
 
@@ -537,32 +530,30 @@ source: "isap-pdf"
 
 § 2. Minister właściwy do spraw gospodarki morskiej, w porozumieniu z Ministrem Sprawiedliwości i ministrem właściwym do spraw zagranicznych, określi, w drodze rozporządzenia, tryb postępowania kapitana odnośnie do osób podejrzanych o popełnienie przestępstw przeciwko bezpieczeństwu żeglugi morskiej i sposoby przekazywania informacji oraz dowodów odnoszących się do takich przestępstw władzom innych państw, uwzględniając umowy międzynarodowe, których Rzeczpospolita Polska jest stroną.
 
-## TYTUŁ IV Prawa rzeczowe
+## Tytuł IV Prawa rzeczowe
 
-### DZIAŁ I Własność statku
+### Dział I Własność statku
 
 **Art. 73.**
 
 § 1. Statek stanowi polską własność, jeżeli jest własnością:
 
-- **1)** Skarbu Państwa;
-- **2)** osoby prawnej mającej siedzibę w Rzeczypospolitej Polskiej;
+- **1)** Skarbu Państwa,
+- **2)** osoby prawnej mającej siedzibę w Rzeczypospolitej Polskiej,
 - **3)** obywatela polskiego zamieszkałego w Rzeczypospolitej Polskiej.
 
 § 2. Statkiem stanowiącym polską własność jest również statek wchodzący w skład majątku spółki osobowej wpisanej do polskiego rejestru przedsiębiorców.
 
 § 3. Statkiem uważanym za stanowiący polską własność jest statek:
 
-- **1)** będący co najmniej w połowie własnością podmiotów wymienionych w § 1, jeżeli armator tego statku ma w Rzeczypospolitej Polskiej miejsce zamieszkania albo siedzibę swojego zakładu głównego lub oddziału, a statek, na wniosek wszystkich współwłaścicieli, został wpisany do polskiego rejestru okrętowego w księdze rejestru stałego;
+- **1)** będący co najmniej w połowie własnością podmiotów wymienionych w § 1, jeżeli armator tego statku ma w Rzeczypospolitej Polskiej miejsce zamieszkania albo siedzibę swojego zakładu głównego lub oddziału, a statek, na wniosek wszystkich współwłaścicieli, został wpisany do polskiego rejestru okrętowego w księdze rejestru stałego,
 - **2)** będący własnością spółki kapitałowej mającej siedzibę za granicą, w której jeden z podmiotów wymienionych w § 1 ma udział kapitałowy, jeżeli armator tego statku ma w Rzeczypospolitej Polskiej miejsce zamieszkania albo siedzibę swojego zakładu głównego lub oddziału, a statek, na wniosek właściciela, został wpisany do polskiego rejestru okrętowego w księdze rejestru stałego.
-
-**Art. 73a.** Za statek, o którym mowa w art. 24 § 2, uważa się również statek:
 
 **Art. 74.** Umowa o przeniesienie własności statku, o którym mowa w art. 73 § 1, podlegającego obowiązkowi wpisu do rejestru okrętowego, powinna być zawarta na piśmie, z podpisami stron notarialnie poświadczonymi. Dotyczy to również statku, o którym mowa w art. 73 § 3, oraz statku w budowie, wpisanych do polskiego rejestru okrętowego.
 
 **Art. 75.** Przepisy o przeniesieniu własności statku stosuje się odpowiednio do przeniesienia udziału we własności statku.
 
-### DZIAŁ II Zastaw na statku
+### Dział II Zastaw na statku
 
 **Art. 76.**
 
@@ -582,14 +573,14 @@ source: "isap-pdf"
 
 § 1. Hipoteka morska obciąża, oprócz statku i jego przynależności, także wierzytelności właściciela statku powstałe po ustanowieniu hipoteki z tytułu:
 
-- **1)** odszkodowania za uszkodzenie lub stratę statku, łącznie z odszkodowaniem ubezpieczeniowym;
-- **2)** wynagrodzenia za ratownictwo w zakresie, w jakim wyrównuje ono szkody w statku spowodowane ratownictwem;
-- **3)** udziału statku w awarii wspólnej;
+- **1)** odszkodowania za uszkodzenie lub stratę statku, łącznie z odszkodowaniem ubezpieczeniowym,
+- **2)** wynagrodzenia za ratownictwo w zakresie, w jakim wyrównuje ono szkody w statku spowodowane ratownictwem,
+- **3)** udziału statku w awarii wspólnej,
 - **4)** opłat za najem lub dzierżawę statku.
 
 § 2. Strony mogą rozszerzyć zakres wierzytelności obciążonych hipoteką morską.
 
-**Art. 80.** Umowa o przeniesienie własności statku obciążonego hipoteką morską na osobę zagraniczną w rozumieniu ustawy z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2022 r. poz. 470) wymaga uprzedniej zgody wierzyciela hipotecznego wyrażonej na piśmie, z podpisem notarialnie poświadczonym.
+**Art. 80.** Umowa o przeniesienie własności statku obciążonego hipoteką morską na osobę zagraniczną w rozumieniu art. 4 pkt 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193 oraz z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679 i Nr 102, poz. 1115) wymaga uprzedniej zgody wierzyciela hipotecznego wyrażonej na piśmie, z podpisem notarialnie poświadczonym.
 
 **Art. 81.** W przypadku świadomego, znacznego zwiększenia ryzyka związanego z eksploatacją statku obciążonego hipoteką morską, które powoduje istotne pogorszenie sytuacji wierzyciela hipotecznego, może on żądać niezwłocznego zaspokojenia z przedmiotu hipoteki lub dodatkowego odpowiedniego zabezpieczenia.
 
@@ -649,7 +640,7 @@ source: "isap-pdf"
 
 **Art. 89.** Do niebędącego hipoteką morską zastawu na statkach stosuje się przepisy prawa cywilnego o zastawie na rzeczach ruchomych.
 
-### DZIAŁ III Przywileje na statku
+### Dział III Przywileje na statku
 
 **Art. 90.**
 
@@ -658,6 +649,12 @@ source: "isap-pdf"
 § 2. Przywilej służy bez względu na zmianę osoby właściciela lub armatora i dobrą wiarę nabywcy statku.
 
 **Art. 91.** Uprzywilejowane są wierzytelności z tytułu:
+
+- **1)** należnych państwu kosztów sądowych, nie wyłączając kosztów egzekucji sądowej; wydatków poniesionych we wspólnym interesie wierzycieli na zachowanie statku lub w celu sprzedaży statku i podziału uzyskanej ceny; opłat tonażowych, latarniowych lub portowych oraz innych opłat i świadczeń publicznych tego rodzaju; opłat pilotowych oraz kosztów nadzoru i zachowania statku powstałych od chwili jego wejścia do ostatniego portu,
+- **2)** umów o pracę na statku zawartych z kapitanem, innymi członkami załogi i osobami zatrudnionymi w obsłudze statku,
+- **3)** wynagrodzenia za ratownictwo oraz udziału statku w awarii wspólnej,
+- **4)** wynagrodzenia szkody wyrządzonej zderzeniem statków lub innymi wypadkami morskimi, jak również szkody wyrządzonej w portowych urządzeniach, dokach i drogach żeglugowych; odszkodowania za śmierć, uszkodzenie ciała lub rozstrój zdrowia pasażerów i członków załogi; odszkodowania za utratę lub uszkodzenie ładunku bądź bagażu,
+- **5)** umów zawartych lub innych czynności prawnych podjętych przez kapitana, w granicach jego ustawowego umocowania, w czasie przebywania statku poza portem macierzystym, dla rzeczywistych potrzeb konserwacji statku lub kontynuowania podróży, bez względu na to, czy kapitan jest równocześnie armatorem lub właścicielem statku oraz czy roszczenie przysługuje jemu samemu czy dostawcom, osobom naprawiającym statek, pożyczkodawcom lub innym kontrahentom.
 
 **Art. 92.**
 
@@ -681,9 +678,9 @@ source: "isap-pdf"
 
 § 1. Przywilej rozciąga się także na:
 
-- **1)** fracht oraz zrównaną z nim opłatę za przewóz pasażerów i ich bagażu z podróży, podczas której powstała wierzytelność uprzywilejowana, a w odniesieniu do wierzytelności wynikających z umów o pracę wymienionych w art. 91 pkt 2, ze wszystkich podróży odbytych w czasie trwania tej samej umowy o pracę;
-- **2)** odszkodowania należne statkowi za poniesione, a nienaprawione szkody w statku, jak i za straty na frachcie;
-- **3)** należny statkowi udział w awarii wspólnej, o ile składają się na nią nienaprawione szkody w statku lub straty na frachcie;
+- **1)** fracht oraz zrównaną z nim opłatę za przewóz pasażerów i ich bagażu z podróży, podczas której powstała wierzytelność uprzywilejowana, a w odniesieniu do wierzytelności wynikających z umów o pracę wymienionych w art. 91 pkt 2, ze wszystkich podróży odbytych w czasie trwania tej samej umowy o pracę,
+- **2)** odszkodowania należne statkowi za poniesione, a nienaprawione szkody w statku, jak i za straty na frachcie,
+- **3)** należny statkowi udział w awarii wspólnej, o ile składają się na nią nienaprawione szkody w statku lub straty na frachcie,
 - **4)** należne statkowi wynagrodzenie za ratownictwo, które nastąpiło w czasie podróży, po odliczeniu jednak sum przypadających kapitanowi i innym osobom zatrudnionym w obsłudze statku.
 
 § 2. Przywilej nie rozciąga się na należne statkowi odszkodowania ubezpieczeniowe.
@@ -694,21 +691,21 @@ source: "isap-pdf"
 
 § 2. Termin wygaśnięcia przywileju biegnie dla wierzytelności z tytułu:
 
-- **1)** wynagrodzenia za ratownictwo – od dnia zakończenia ratownictwa;
-- **2)** szkody wyrządzonej zderzeniem statków lub innym wypadkiem morskim albo wynikłej wskutek śmierci, uszkodzenia ciała lub rozstroju zdrowia – od dnia spowodowania szkody;
-- **3)** odszkodowania za utratę lub uszkodzenie ładunku lub bagażu – od dnia wydania ładunku lub bagażu albo od dnia, w którym powinny być wydane;
-- **4)** należności powstałych wskutek czynności określonych w art. 91 pkt 5 – od dnia powstania wierzytelności;
+- **1)** wynagrodzenia za ratownictwo – od dnia zakończenia ratownictwa,
+- **2)** szkody wyrządzonej zderzeniem statków lub innym wypadkiem morskim albo wynikłej wskutek śmierci, uszkodzenia ciała lub rozstroju zdrowia – od dnia spowodowania szkody,
+- **3)** odszkodowania za utratę lub uszkodzenie ładunku lub bagażu – od dnia wydania ładunku lub bagażu albo od dnia, w którym powinny być wydane,
+- **4)** należności powstałych wskutek czynności określonych w art. 91 pkt 5 – od dnia powstania wierzytelności,
 - **5)** innych zdarzeń – od dnia wymagalności wierzytelności.
 
 § 3. Przywilej na należnościach określonych w art. 94 § 1 wygasa z chwilą ich uiszczenia, jednakże przywilej pozostaje w mocy, dopóki uiszczona kwota znajduje się w ręku kapitana lub innej osoby, która podjęła tę kwotę na rzecz armatora lub właściciela statku.
 
 **Art. 96.** Jeżeli statek, na którym ciąży przywilej, nie mógł być zajęty na polskich wodach wewnętrznych lub polskim morzu terytorialnym na rzecz wierzyciela mającego w Rzeczypospolitej Polskiej miejsce zamieszkania lub siedzibę, terminy określone w art. 95 nie mogą skończyć się wcześniej niż z upływem jednego miesiąca od dnia, w którym statek wszedł do portu polskiego, nie później jednak niż z upływem 3 lat od dnia powstania wierzytelności.
 
-## TYTUŁ V Ograniczenie odpowiedzialności za roszczenia morskie i ubezpieczenie armatorów z tytułu roszczeń morskich
+## Tytuł V Ograniczenie odpowiedzialności za roszczenia morskie
 
 **Art. 97.**
 
-§ 1. Odpowiedzialność dłużnika za roszczenia morskie może być ograniczona zgodnie z postanowieniami Konwencji o ograniczeniu odpowiedzialności za roszczenia morskie, 1976, sporządzonej w Londynie dnia 19 listopada 1976 r. (Dz. U. z 1986 r. poz. 175), zmienionej Protokołem, sporządzonym w Londynie dnia 2 maja 1996 r. (Dz. U. z 2012 r. poz. 146), zwanej dalej „Konwencją o ograniczeniu odpowiedzialności”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
+§ 1. Odpowiedzialność dłużnika za roszczenia morskie może być ograniczona zgodnie z postanowieniami Konwencji o ograniczeniu odpowiedzialności za roszczenia morskie, sporządzonej w Londynie dnia 19 listopada 1976 r. (Dz. U. z 1986 r. Nr 35, poz. 175), zwanej dalej „Konwencją o ograniczeniu odpowiedzialności”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
 
 § 2. Wobec wierzyciela zagranicznego mającego w chwili zgłoszenia roszczenia stałe miejsce zamieszkania lub główną siedzibę w państwie, które ustanowiło dla tego rodzaju roszczenia granicę odpowiedzialności niższą od określonej zgodnie z postanowieniami Konwencji o ograniczeniu odpowiedzialności, dłużnik odpowiada tylko do tej niższej granicy.
 
@@ -716,9 +713,9 @@ source: "isap-pdf"
 
 **Art. 98.**
 
-§ 1. Dłużnik może powołać się na ograniczenie odpowiedzialności niezależnie od ustanowienia funduszu ograniczenia odpowiedzialności określonego w art. 11 Konwencji o ograniczeniu odpowiedzialności.
+§ 1. Dłużnik może powołać się na ograniczenie odpowiedzialności niezależnie od ustanowienia funduszu ograniczenia odpowiedzialności zgodnie z art. 11 Konwencji o ograniczeniu odpowiedzialności, z zastrzeżeniem § 2.
 
-§ 2. (uchylony)
+§ 2. Sąd może, w razie prawdopodobieństwa ujawnienia się kolejnych wierzycieli, uzależnić ograniczenie odpowiedzialności od ustanowienia funduszu ograniczenia odpowiedzialności.
 
 **Art. 99.** Dłużnik ponosi koszty procesu związanego z dochodzeniem roszczenia podlegającego ograniczeniu zgodnie z Kodeksem postępowania cywilnego i odpowiada za odsetki od tego roszczenia ponad granicę odpowiedzialności określoną zgodnie z Konwencją o ograniczeniu odpowiedzialności, jednakże jeżeli dłużnik utworzył fundusz ograniczenia odpowiedzialności przez złożenie do depozytu sądu odpowiedniej sumy pieniężnej, to składający nie odpowiada za odsetki powstałe po złożeniu tej sumy.
 
@@ -726,72 +723,31 @@ source: "isap-pdf"
 
 **Art. 101.**
 
-§ 1. Dla statków o pojemności brutto poniżej 300, granica odpowiedzialności dłużnika wynosi:
+§ 1. Jeżeli odpowiedzialność dłużnika ustalona zgodnie z Konwencją o ograniczeniu odpowiedzialności powstała w związku z uprawianiem żeglugi statkiem o pojemności brutto mniejszej niż 300 ton, to granica jego odpowiedzialności wynosi:
 
-- **1)** 200 000 jednostek obliczeniowych – w odniesieniu do roszczeń z tytułu śmierci, uszkodzenia ciała lub rozstroju zdrowia;
-- **2)** 100 000 jednostek obliczeniowych – w odniesieniu do innych roszczeń.
+- **1)** 100 000 jednostek obliczeniowych – w odniesieniu do roszczeń z tytułu śmierci, uszkodzenia ciała lub rozstroju zdrowia,
+- **2)** 50 000 jednostek obliczeniowych – w odniesieniu do innych roszczeń.
 
 § 2. Jednostką obliczeniową jest Specjalne Prawo Ciągnienia (SDR), określone przez Międzynarodowy Fundusz Walutowy.
 
 **Art. 102.**
 
-§ 1. Jeżeli dłużnik jest osobą prawną, to przez własne działanie lub zaniechanie, o którym mowa w art. 4 Konwencji o ograniczeniu odpowiedzialności, rozumie się działanie lub zaniechanie tego, kto wykonuje funkcje organu zarządzającego tej osoby prawnej.
+§ 1. Jeżeli dłużnik jest osobą prawną, to przez własne działanie lub zaniechanie, o którym mowa w art. IV Konwencji o ograniczeniu odpowiedzialności, rozumie się działanie lub zaniechanie tego, kto wykonuje funkcje organu zarządzającego tej osoby prawnej.
 
 § 2. Jeżeli dłużnikiem jest armator, który uprawia żeglugę przez stałego zarządcę, to odpowiada on za działanie lub zaniechanie tego zarządcy jak za własne działanie lub zaniechanie; jeżeli zarządca jest osobą prawną, przepis § 1 stosuje się odpowiednio.
 
-**Art. 102a.**
+## Tytuł VI Umowy
 
-§ 1. Armator statku o polskiej przynależności, o pojemności brutto 300 i powyżej, obowiązany jest posiadać ubezpieczenie lub inne zabezpieczenie finansowe odpowiedzialności za roszczenia morskie, obejmujące roszczenia podlegające ograniczeniu na podstawie Konwencji o ograniczeniu odpowiedzialności (ubezpieczenie odpowiedzialności za roszczenia morskie).
-
-§ 2. Ubezpieczenie odpowiedzialności za roszczenia morskie obowiązany jest posiadać także armator statku o obcej przynależności, o pojemności brutto 300 i powyżej:
-
-- **1)** gdy statek ten wchodzi do polskiego portu lub
-- **2)** jeżeli jest to zgodne z wymogami prawa międzynarodowego, gdy statek ten wchodzi na polskie morze terytorialne.
-
-**Art. 102b.** Suma ubezpieczenia każdego statku od odpowiedzialności za roszczenia morskie dla roszczeń wynikłych z każdego odrębnego zdarzenia, powinna być równa odpowiedniej maksymalnej granicy odpowiedzialności, określonej zgodnie z Konwencją o ograniczeniu odpowiedzialności.
-
-**Art. 102c.**
-
-§ 1. Posiadanie ubezpieczenia odpowiedzialności za roszczenia morskie powinno być potwierdzone jednym albo kilkoma certyfikatami ubezpieczenia odpowiedzialności za roszczenia morskie.
-
-§ 2. Certyfikat ubezpieczenia odpowiedzialności za roszczenia morskie wystawia ubezpieczyciel lub inny podmiot, który udziela zabezpieczenia finansowego.
-
-§ 3. Certyfikat ubezpieczenia odpowiedzialności za roszczenia morskie powinien zawierać:
-
-- **1)** nazwę statku, jego numer identyfikacyjny nadany przez Międzynarodową Organizację Morską (numer IMO) i nazwę portu macierzystego;
-- **2)** nazwę i główne miejsce prowadzenia działalności przez armatora;
-- **3)** rodzaj i okres ubezpieczenia odpowiedzialności za roszczenia morskie;
-- **4)** nazwę i główne miejsce prowadzenia działalności ubezpieczyciela lub innego podmiotu udzielającego zabezpieczenia finansowego oraz, gdy jest ono inne niż miejsce prowadzenia działalności, miejsce ustanowienia ubezpieczenia odpowiedzialności za roszczenia morskie.
-
-§ 4. Jeżeli certyfikat ubezpieczenia odpowiedzialności za roszczenia morskie nie został wydany w języku angielskim, francuskim lub hiszpańskim, tekst certyfikatu powinien zawierać tłumaczenie na jeden z tych języków.
-
-§ 5. Certyfikat ubezpieczenia odpowiedzialności za roszczenia morskie powinien być przechowywany na statku.
-
-§ 6. Posiadanie i przechowywanie na statku certyfikatu ubezpieczenia odpowiedzialności za roszczenia morskie podlega sprawdzeniu podczas inspekcji statku przeprowadzanej w polskim porcie.
-
-**Art. 102d.** Statek o polskiej przynależności nie może być używany w żegludze, jeżeli nie posiada certyfikatu ubezpieczenia odpowiedzialności za roszczenia morskie.
-
-**Art. 102e.**
-
-§ 1. Jeżeli certyfikat ubezpieczenia odpowiedzialności za roszczenia morskie, nie jest przechowywany na statku o obcej przynależności, dyrektor urzędu morskiego może, w drodze decyzji administracyjnej, wydać statkowi nakaz opuszczenia portu, o czym powiadamia Komisję Europejską, pozostałe państwa członkowskie Unii Europejskiej i państwo bandery statku. Decyzji nadaje się rygor natychmiastowej wykonalności.
-
-§ 2. Jeżeli okoliczności pozwalają na usunięcie w rozsądnym terminie uchybień, o których mowa w § 1, przed wydaniem nakazu opuszczenia portu, dyrektor urzędu morskiego wzywa do usunięcia tych uchybień i określa termin ich usunięcia.
-
-§ 3. Statek o obcej przynależności, wobec którego w jakimkolwiek państwie członkowskim Unii Europejskiej wydano nakaz opuszczenia portu z powodu nieprzechowywania na statku certyfikatu ubezpieczenia odpowiedzialności za roszczenia morskie, nie może wejść do polskiego portu, do czasu przedstawienia tego certyfikatu.
-
-**Art. 102f.** Przepisów art. 102a–102e nie stosuje się do statków będących własnością państwa lub eksploatowanych przez państwo, wykorzystywanych do świadczenia niehandlowych usług publicznych.
-
-**Art. 102g.** Kontrolę przestrzegania przepisów o ubezpieczeniu odpowiedzialności za roszczenia morskie sprawują dyrektorzy urzędów morskich.
-
-## TYTUŁ VI Umowy
-
-### DZIAŁ I Przewóz ładunku
+### Dział I Przewóz ładunku
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 103.** Przez umowę przewozu ładunku przewoźnik podejmuje się, za wynagrodzeniem, przewiezienia rzeczy drogą morską.
 
 **Art. 104.** Umowa przewozu ładunku może:
+
+- **1)** stanowić, że przewoźnik odda całą albo określoną część przestrzeni ładunkowej statku pod ładunek na jedną lub więcej podróży (umowa czarterowa), albo
+- **2)** dotyczyć przewozu poszczególnych rzeczy lub ładunku określonego według rodzaju, ilości, miary lub wagi (umowa bukingowa).
 
 **Art. 105.**
 
@@ -875,6 +831,9 @@ source: "isap-pdf"
 
 **Art. 119.** Jeżeli według umowy czarterujący rozporządza całą przestrzenią statku, przewoźnik, zachowując prawo do całego frachtu, jest na żądanie czarterującego obowiązany:
 
+- **1)** rozpocząć podróż nawet przed umówionym terminem, choćby ładunek nie był jeszcze w całości załadowany,
+- **2)** przyjąć do przewozu ładunek dostarczony mu przed upływem okresu ładowania lub przestoju, choćby nawet przyjęcie i załadowanie ładunku mogło spowodować zwłokę w rozpoczęciu podróży, nie dłuższą jednak niż 14 dni; nie narusza to przepisów art. 115 § 4 i § 5.
+
 **Art. 120.** Jeżeli według umowy czarterujący rozporządza częścią przestrzeni statku, przewoźnik może odmówić przyjęcia ładunku, którego załadowanie po upływie ustalonego okresu ładowania musiałoby wskutek zwłoki czarterującego spowodować przetrzymanie statku. Pomimo odmowy przyjęcia ładunku przewoźnikowi należy się cały fracht.
 
 **Art. 121.**
@@ -955,8 +914,8 @@ source: "isap-pdf"
 
 § 1. Konosament może być wystawiony:
 
-- **1)** na imiennie określonego odbiorcę (konosament imienny);
-- **2)** na zlecenie załadowcy lub wskazanej przez niego osoby (konosament na zlecenie);
+- **1)** na imiennie określonego odbiorcę (konosament imienny),
+- **2)** na zlecenie załadowcy lub wskazanej przez niego osoby (konosament na zlecenie),
 - **3)** na okaziciela.
 
 § 2. Jeżeli w konosamencie na zlecenie nie wskazano osoby, na której zlecenie konosament został wystawiony, uważa się go za wystawiony na zlecenie załadowcy.
@@ -967,26 +926,26 @@ source: "isap-pdf"
 
 § 2. Konosament przenosi się:
 
-- **1)** przez przelew wierzytelności (konosament imienny);
-- **2)** przez indos (konosament na zlecenie);
+- **1)** przez przelew wierzytelności (konosament imienny),
+- **2)** przez indos (konosament na zlecenie),
 - **3)** przez wydanie konosamentu (konosament na okaziciela).
 
 **Art. 136.**
 
 § 1. Konosament zawiera:
 
-- **1)** oznaczenie przewoźnika;
-- **2)** oznaczenie załadowcy;
-- **3)** oznaczenie odbiorcy lub stwierdzenie, że konosament został wystawiony na zlecenie albo na okaziciela;
-- **4)** nazwę statku;
-- **5)** określenie ładunku z podaniem jego rodzaju oraz – stosownie do okoliczności – jego miary, objętości, liczby sztuk, ilości lub wagi;
-- **6)** określenie zewnętrznego stanu ładunku i jego opakowania;
-- **7)** znaki główne niezbędne dla stwierdzenia tożsamości ładunku, podane przez załadowcę na piśmie przed rozpoczęciem ładowania, jeżeli je wydrukowano lub w inny sposób utrwalono na poszczególnych sztukach ładunku lub jego opakowaniu;
-- **8)** oznaczenie frachtu i innych należności przewoźnika albo wzmiankę, że ich zapłata w całości już nastąpiła lub powinna nastąpić stosownie do postanowień zamieszczonych w innym dokumencie;
-- **9)** nazwę miejsca załadowania;
-- **10)** nazwę miejsca wyładowania albo określenie, kiedy lub gdzie nastąpi wskazanie miejsca wyładowania;
-- **11)** liczbę wydanych egzemplarzy konosamentu;
-- **12)** datę i miejsce wystawienia konosamentu;
+- **1)** oznaczenie przewoźnika,
+- **2)** oznaczenie załadowcy,
+- **3)** oznaczenie odbiorcy lub stwierdzenie, że konosament został wystawiony na zlecenie albo na okaziciela,
+- **4)** nazwę statku,
+- **5)** określenie ładunku z podaniem jego rodzaju oraz – stosownie do okoliczności – jego miary, objętości, liczby sztuk, ilości lub wagi,
+- **6)** określenie zewnętrznego stanu ładunku i jego opakowania,
+- **7)** znaki główne niezbędne dla stwierdzenia tożsamości ładunku, podane przez załadowcę na piśmie przed rozpoczęciem ładowania, jeżeli je wydrukowano lub w inny sposób utrwalono na poszczególnych sztukach ładunku lub jego opakowaniu,
+- **8)** oznaczenie frachtu i innych należności przewoźnika albo wzmiankę, że ich zapłata w całości już nastąpiła lub powinna nastąpić stosownie do postanowień zamieszczonych w innym dokumencie,
+- **9)** nazwę miejsca załadowania,
+- **10)** nazwę miejsca wyładowania albo określenie, kiedy lub gdzie nastąpi wskazanie miejsca wyładowania,
+- **11)** liczbę wydanych egzemplarzy konosamentu,
+- **12)** datę i miejsce wystawienia konosamentu,
 - **13)** podpis przewoźnika albo kapitana statku lub innego przedstawiciela przewoźnika.
 
 § 2. Jeżeli w konosamencie nie wymieniono przewoźnika, uważa się, że przewoźnikiem jest armator. Jeżeli w konosamencie wystawionym zgodnie z § 1 wymieniono przewoźnika niedokładnie lub fałszywie, armator statku, na który ładunek załadowano, odpowiada wobec odbiorcy ładunku za wynikłą stąd szkodę, przy czym służy mu roszczenie zwrotne do przewoźnika.
@@ -1051,8 +1010,8 @@ source: "isap-pdf"
 
 § 3. Legitymowanym posiadaczem konosamentu jest:
 
-- **1)** z konosamentu imiennego – odbiorca wskazany w konosamencie;
-- **2)** z konosamentu na zlecenie – ten, na czyje zlecenie opiewa konosament, który nie był przeniesiony przez indos, albo posiadacz konosamentu wykazujący swoje prawo nieprzerwanym szeregiem indosów, choćby ostatni indos był in blanco;
+- **1)** z konosamentu imiennego – odbiorca wskazany w konosamencie,
+- **2)** z konosamentu na zlecenie – ten, na czyje zlecenie opiewa konosament, który nie był przeniesiony przez indos, albo posiadacz konosamentu wykazujący swoje prawo nieprzerwanym szeregiem indosów, choćby ostatni indos był in blanco,
 - **3)** z konosamentu na okaziciela – okaziciel konosamentu.
 
 § 4. Jeżeli konosamentu nie wystawiono, ładunek wydaje się w miejscu przeznaczenia odbiorcy wskazanemu przez frachtującego lub osobę przez niego upoważnioną.
@@ -1137,11 +1096,11 @@ source: "isap-pdf"
 
 § 1. Wierzycielom służy na zabezpieczenie wierzytelności uprzywilejowanych ustawowe prawo zastawu na ładunku z pierwszeństwem przed innymi wierzytelnościami, choćby zabezpieczonymi zastawem wynikającym z umowy lub orzeczenia sądu.
 
-§ 2. Uprzywilejowanymi są wierzytelności z tytułu:
+§ 2. Uprzywilejowane są wierzytelności z tytułu:
 
-- **1)** należnych państwu od ładunku kosztów sądowych oraz kosztów egzekucji; wydatków poniesionych na zachowanie lub w celu sprzedaży ładunku i podziału uzyskanej kwoty; opłat i świadczeń publicznych;
-- **2)** wynagrodzenia przypadającego od ładunku za ratownictwo oraz udziału w awarii wspólnej, należnego od ładunku statkowi i innym ładunkom;
-- **3)** szkód spowodowanych przez ładunek;
+- **1)** należnych państwu od ładunku kosztów sądowych oraz kosztów egzekucji; wydatków poniesionych na zachowanie lub w celu sprzedaży ładunku i podziału uzyskanej kwoty; opłat i świadczeń publicznych,
+- **2)** wynagrodzenia przypadającego od ładunku za ratownictwo oraz udziału w awarii wspólnej, należnego od ładunku statkowi i innym ładunkom,
+- **3)** szkód spowodowanych przez ładunek,
 - **4)** należności przewoźnika z przewozu danego ładunku.
 
 § 3. Wierzytelności uprzywilejowane podlegają zaspokojeniu, wraz z odsetkami i kosztami procesu, w kolejności wskazanej w § 2.
@@ -1174,7 +1133,7 @@ source: "isap-pdf"
 
 § 1. Czarterujący, który według umowy czarterowej rozporządza całą przestrzenią ładunkową statku, może przed rozpoczęciem podróży odstąpić od umowy, jest jednak obowiązany zwrócić przewoźnikowi kwoty przez niego wydatkowane na ładunek, a niewliczone do frachtu, i ponadto zapłacić:
 
-- **1)** połowę frachtu – jeżeli odstępuje od umowy jeszcze przed rozpoczęciem biegu umówionego okresu ładowania;
+- **1)** połowę frachtu – jeżeli odstępuje od umowy jeszcze przed rozpoczęciem biegu umówionego okresu ładowania,
 - **2)** cały fracht – jeżeli umowa była zawarta tylko na jedną podróż, a czarterujący odstępuje od umowy po rozpoczęciu biegu umówionego okresu ładowania; w przypadku rozpoczęcia przestoju lub przetrzymania statku czarterujący obowiązany jest ponadto zapłacić przestojowe lub odszkodowanie za przetrzymanie statku.
 
 § 2. W razie odstąpienia od umowy przez czarterującego w trakcie załadunku przewoźnik jest obowiązany wydać ładunek już załadowany, choćby wyładowanie miało zatrzymać statek na czas dłuższy od okresów ładowania i przestoju; zachowuje jednak prawo do przestojowego lub odszkodowania za przetrzymanie statku.
@@ -1191,9 +1150,9 @@ source: "isap-pdf"
 
 § 1. Każda ze stron może odstąpić od umowy bez obowiązku wynagrodzenia szkody drugiej strony, jeżeli przed odejściem statku z miejsca załadowania:
 
-- **1)** wybuchła wojna grożąca niebezpieczeństwem dla statku lub ładunku albo ogłoszono blokadę portu, w którym statek się znajduje, lub portu przeznaczenia ładunku;
-- **2)** zatrzymano statek na zarządzenie władz z przyczyn niezależnych od stron;
-- **3)** zajęto statek dla potrzeb państwowych;
+- **1)** wybuchła wojna grożąca niebezpieczeństwem dla statku lub ładunku albo ogłoszono blokadę portu, w którym statek się znajduje, lub portu przeznaczenia ładunku,
+- **2)** zatrzymano statek na zarządzenie władz z przyczyn niezależnych od stron,
+- **3)** zajęto statek dla potrzeb państwowych,
 - **4)** wydano zakaz wywozu z miejsca załadowania albo zakaz przewozu do miejsca przeznaczenia danego ładunku.
 
 § 2. W razie odstąpienia od umowy z powodu okoliczności przewidzianych w § 1 koszty wyładowania ponosi strona, która od umowy odstępuje.
@@ -1219,20 +1178,20 @@ source: "isap-pdf"
 
 § 2. Przewoźnik jest wolny od odpowiedzialności, jeżeli szkoda nastąpiła wskutek:
 
-- **1)** działania lub zaniechania kapitana, innych członków załogi, pilota lub osób zatrudnionych przez przewoźnika w zakresie nawigacji lub administracji statku;
-- **2)** pożaru, o ile nie wynikł z działania lub winy własnej przewoźnika;
-- **3)** niebezpieczeństw lub wypadków na morzu lub na wodach żeglownych;
-- **4)** siły wyższej;
-- **5)** działań wojennych, działań wrogich dobru i porządkowi publicznemu, rozruchów lub zaburzeń wewnętrznych;
-- **6)** aktu lub przymusu ze strony władzy albo zajęcia sądowego;
-- **7)** ograniczeń wynikłych z kwarantanny;
-- **8)** strajku, lokautu lub innej okoliczności wstrzymującej lub ograniczającej pracę całkowicie lub częściowo;
-- **9)** ratowania lub usiłowania ratowania życia lub mienia na morzu;
-- **10)** wady ukrytej, naturalnej właściwości lub wadliwości ładunku powodujących w nim ubytek objętości lub wagi albo inną stratę;
-- **11)** niedostateczności opakowania;
-- **12)** niedostateczności lub niedokładności znaków ładunku;
-- **13)** wad ukrytych niedających się zauważyć pomimo zachowania należytej staranności;
-- **14)** działania lub zaniechania frachtującego, załadowcy lub odbiorcy albo ich agenta lub innego ich przedstawiciela;
+- **1)** działania lub zaniechania kapitana, innych członków załogi, pilota lub osób zatrudnionych przez przewoźnika w zakresie nawigacji lub administracji statku,
+- **2)** pożaru, o ile nie wynikł z działania lub winy własnej przewoźnika,
+- **3)** niebezpieczeństw lub wypadków na morzu lub na wodach żeglownych,
+- **4)** siły wyższej,
+- **5)** działań wojennych, działań wrogich dobru i porządkowi publicznemu, rozruchów lub zaburzeń wewnętrznych,
+- **6)** aktu lub przymusu ze strony władzy albo zajęcia sądowego,
+- **7)** ograniczeń wynikłych z kwarantanny,
+- **8)** strajku, lokautu lub innej okoliczności wstrzymującej lub ograniczającej pracę całkowicie lub częściowo,
+- **9)** ratowania lub usiłowania ratowania życia lub mienia na morzu,
+- **10)** wady ukrytej, naturalnej właściwości lub wadliwości ładunku powodujących w nim ubytek objętości lub wagi albo inną stratę,
+- **11)** niedostateczności opakowania,
+- **12)** niedostateczności lub niedokładności znaków ładunku,
+- **13)** wad ukrytych niedających się zauważyć pomimo zachowania należytej staranności,
+- **14)** działania lub zaniechania frachtującego, załadowcy lub odbiorcy albo ich agenta lub innego ich przedstawiciela,
 - **15)** jakiejkolwiek innej przyczyny wynikłej bez winy przewoźnika, jego agentów i osób zatrudnionych przez przewoźnika.
 
 **Art. 166.**
@@ -1247,7 +1206,7 @@ source: "isap-pdf"
 
 **Art. 167.**
 
-§ 1. Przy przewozie na podstawie konosamentu, w którym wartość ładunku nie została uwidoczniona, odszkodowanie za utratę lub uszkodzenie jednej sztuki ładunku lub innej zwyczajowo w handlu przyjętej jednostki ładunku nie może przekraczać kwoty obliczonej według zasad ustalonych w tym przedmiocie w Konwencji międzynarodowej o ujednostajnieniu niektórych zasad dotyczących konosamentów, podpisanej w Brukseli dnia 25 sierpnia 1924 r. (Dz. U. z 1937 r. poz. 258, wprow.: Dz. U. z 1936 r. poz. 139, z 1937 r. poz. 259), zmienionej Protokołem sporządzonym w Brukseli dnia 23 lutego 1968 r. (Dz. U. z 1980 r. poz. 48) oraz Protokołem sporządzonym w Brukseli dnia 21 grudnia 1979 r. (Dz. U. z 1985 r. poz. 26).
+§ 1. Przy przewozie na podstawie konosamentu, w którym wartość ładunku nie została uwidoczniona, odszkodowanie za utratę lub uszkodzenie jednej sztuki ładunku lub innej zwyczajowo w handlu przyjętej jednostki ładunku nie może przekraczać kwoty obliczonej według zasad ustalonych w tym przedmiocie w Konwencji międzynarodowej o ujednostajnieniu niektórych zasad dotyczących konosamentów, podpisanej w Brukseli dnia 25 sierpnia 1924 r. (Dz. U. z 1937 r. Nr 33, poz. 258, wprow.: Dz. U. z 1936 r. Nr 15, poz. 139, z 1937 r. Nr 33, poz. 259), zmienionej Protokołem sporządzonym w Brukseli dnia 23 lutego 1968 r. (Dz. U. z 1980 r. Nr 14, poz. 48) oraz Protokołem sporządzonym w Brukseli dnia 21 grudnia 1979 r. (Dz. U. z 1985 r. Nr 9, poz. 26).
 
 § 2. Wobec wierzyciela zagranicznego, którego państwo ustanowiło niższą granicę odpowiedzialności przewoźnika od określonej stosownie do § 1, przewoźnik odpowiada w zakresie tej niższej granicy odpowiedzialności.
 
@@ -1269,8 +1228,8 @@ source: "isap-pdf"
 
 § 3. Umowa stron może określić odpowiedzialność przewoźnika odmiennie, niż to wynika z § 1:
 
-- **1)** za czas od przyjęcia towaru do przewozu aż do rozpoczęcia ładowania go na statek i od zakończenia wyładowania aż do wydania ładunku;
-- **2)** za przyjęte do przewozu zwierzęta żywe;
+- **1)** za czas od przyjęcia towaru do przewozu aż do rozpoczęcia ładowania go na statek i od zakończenia wyładowania aż do wydania ładunku,
+- **2)** za przyjęte do przewozu zwierzęta żywe,
 - **3)** za ładunek przewożony zgodnie z umową na pokładzie statku.
 
 **Art. 170.**
@@ -1283,15 +1242,13 @@ source: "isap-pdf"
 
 **Art. 171.** Zwolnienia i ograniczenia odpowiedzialności przewidziane w art. 165–170 stosuje się bez względu na to, czy roszczenie wynika z odpowiedzialności umownej, czy też pozaumownej.
 
-### DZIAŁ II Przewóz pasażerów
+### Dział II Przewóz pasażerów
 
 **Art. 172.**
 
 § 1. Przez umowę przewozu pasażera przewoźnik podejmuje się za opłatą przewieźć drogą morską pasażera i jego bagaż.
 
-§ 1a. Do umowy przewozu pasażera przepisy Kodeksu morskiego stosuje się w zakresie nieuregulowanym w rozporządzeniu Parlamentu Europejskiego i Rady (UE) nr 1177/2010 z dnia 24 listopada 2010 r. o prawach pasażerów podróżujących drogą morską i drogą wodną śródlądową oraz zmieniającego rozporządzenie (WE) nr 2006/2004 (Dz. Urz. UE L 334 z 17.12.2010, str. 1, z późn. zm.).
-
-§ 2. Przewoźnik, który zawarł umowę przewozu pasażera, lub w którego imieniu została ona zawarta (przewoźnik umowny), może powierzyć wykonanie umowy w całości lub w części innemu przewoźnikowi, będącemu właścicielem statku, jego armatorem lub czarterującym (przewoźnikowi faktycznemu).
+§ 2. Przewoźnik, który podjął się przewozu pasażera (przewoźnik umowny), może powierzyć wykonanie umowy w całości lub części innemu przewoźnikowi (przewoźnikowi faktycznemu).
 
 § 3. Opłata obejmuje również przewóz podręcznych rzeczy pasażera przewożonych zazwyczaj w pomieszczeniu pasażerskim.
 
@@ -1323,15 +1280,15 @@ source: "isap-pdf"
 
 **Art. 177.**
 
-§ 1. Pasażer może odstąpić od umowy i żądać zwrotu opłaty za przewóz w całości, gdy podróż została odwołana albo jej rozpoczęcie opóźniło się o ponad 90 minut.
+§ 1. Pasażer może odstąpić od umowy i żądać zwrotu opłaty za przewóz w całości, jeżeli statek pasażerski nie wyruszył w drogę najpóźniej w ciągu 3 dni, a inny statek w ciągu 7 dni, licząc od zapowiedzianego terminu rozpoczęcia podróży.
 
-§ 2. Przewoźnik zwraca opłatę za przewóz w terminie 7 dni od dnia zgłoszenia żądania.
+§ 2. Jeżeli statek nie może w stosownym terminie kontynuować rozpoczętej podróży lub osiągnąć miejsca przeznaczenia z powodu przeszkód lokalnych, przewoźnik obowiązany jest na żądanie pasażera i według jego wyboru zwrócić mu część opłaty za przewóz w stosunku do nieodbytej części podróży albo na swój koszt przewieźć pasażera do portu przeznaczenia pierwszym stosownym statkiem lub innym środkiem transportu.
 
 **Art. 178.**
 
 § 1. Jeżeli przewóz ma nastąpić statkiem innym niż pasażerski, przewoźnik może przed rozpoczęciem podróży odstąpić od umowy przewozu, gdy podróż bez jego winy nie dochodzi do skutku; pasażerowi należy się zwrot całej opłaty za przewóz.
 
-§ 2. Z przyczyny określonej w § 1 przewoźnik może w czasie podróży odstąpić od umowy przewozu statkiem innym niż pasażerski. Na żądanie pasażera przewoźnik obowiązany jest zwrócić mu część opłaty za nieodbytą część podróży albo na swój koszt przewieźć pasażera do portu przeznaczenia pierwszym dostępnym statkiem lub innym środkiem transportu. Do zwrotu opłaty za nieodbytą część podróży stosuje się art. 177 § 2.
+§ 2. Z przyczyny przewidzianej w § 1 przewoźnik może w czasie podróży odstąpić od umowy przewozu takim statkiem; art. 177 § 2 stosuje się odpowiednio.
 
 **Art. 179.**
 
@@ -1343,13 +1300,11 @@ source: "isap-pdf"
 
 § 1. Umowa przewozu ulega rozwiązaniu, jeżeli z przyczyn, za które żadna ze stron nie ponosi odpowiedzialności, statek zaginął, zatonął, został zabrany jako łup albo uległ wypadkowi, wskutek którego stał się niezdatny do naprawy lub jej niewart.
 
-§ 2. Jeżeli umowa przewozu uległa rozwiązaniu z przyczyn określonych w § 1, przewoźnik obowiązany jest na żądanie pasażera zwrócić mu całość lub część opłaty za nieodbytą część podróży. Do zwrotu opłaty za nieodbytą część podróży stosuje się art. 177 § 2.
+§ 2. Do zwrotu opłaty za przewóz stosuje się odpowiednio art. 177 § 2.
 
 **Art. 181.**
 
-§ 1. Przewoźnik ponosi odpowiedzialność za szkody na osobie pasażera oraz za szkody w jego bagażu zgodnie z postanowieniami Konwencji ateńskiej w sprawie przewozu morzem pasażerów i ich bagażu, sporządzonej w Atenach dnia 13 grudnia 1974 r. (Dz. U. z 1987 r. poz. 108), zwanej dalej „Konwencją ateńską”, zmienionej Protokołem sporządzonym w Londynie dnia 19 listopada 1976 r. (Dz. U. z 1994 r. poz. 479).
-
-§ 1a. Przepisu § 1 nie stosuje się do przewozów, o których mowa w art. 2 zdanie pierwsze rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 392/2009 z dnia 23 kwietnia 2009 r. w sprawie odpowiedzialności przewoźników pasażerskich na morskich drogach wodnych z tytułu wypadków (Dz. Urz. UE L 131 z 28.05.2009, str. 24), zwanego dalej „rozporządzeniem nr 392/2009”.
+§ 1. Przewoźnik ponosi odpowiedzialność za szkody na osobie pasażera oraz za szkody w jego bagażu zgodnie z postanowieniami Konwencji ateńskiej w sprawie przewozu morzem pasażerów i ich bagażu, sporządzonej w Atenach dnia 13 grudnia 1974 r. (Dz. U. z 1987 r. Nr 18, poz. 108), zwanej dalej „Konwencją ateńską”, zmienionej Protokołem sporządzonym w Londynie dnia 19 listopada 1976 r. (Dz. U. z 1994 r. Nr 99, poz. 479).
 
 § 2. Postanowienia Konwencji ateńskiej stosuje się do wszystkich umów przewozu pasażerów i ich bagażu, podlegających przepisom Kodeksu morskiego.
 
@@ -1357,62 +1312,13 @@ source: "isap-pdf"
 
 **Art. 182.**
 
-§ 1. Przewoźnik, który podejmuje się przewozu pasażera statkiem o polskiej przynależności, obowiązany jest posiadać ubezpieczenie od odpowiedzialności za szkody na osobie lub w mieniu pasażera do wysokości sum określonych przy zastosowaniu granic odpowiedzialności przewoźnika przewidzianych w art. 7 i art. 8 Konwencji ateńskiej, z zastrzeżeniem art. 182a § 1.
+§ 1. Przewoźnik, który podejmuje się przewozu pasażera statkiem o polskiej przynależności, obowiązany jest posiadać ubezpieczenie od odpowiedzialności za szkody na osobie lub w mieniu pasażera do wysokości sum określonych przy zastosowaniu granic odpowiedzialności przewoźnika przewidzianych w art. 7 i 8 Konwencji ateńskiej.
 
-§ 2. Obowiązek, o którym mowa w § 1, dotyczy również przewoźnika, który podejmuje się przewozu statkiem o obcej przynależności, jeżeli przewóz wykonywany jest na terytorium Rzeczypospolitej Polskiej lub między portami polskimi.
+§ 2. Obowiązek, o którym mowa w § 1, dotyczy również przewoźnika, który podejmuje się przewozu statkiem o obcej przynależności, jeżeli przewóz wykonywany jest na obszarze Rzeczypospolitej Polskiej lub między portami polskimi.
 
-§ 3. Dowodem spełnienia przez przewoźnika obowiązku, o którym mowa w § 1 i 2, jest polisa lub certyfikat ubezpieczeniowy stwierdzający zawarcie umowy ubezpieczenia. Dokument taki powinien być przechowywany na statku i okazywany na żądanie organów inspekcji morskiej.
+§ 3. Dowodem spełnienia przez przewoźnika obowiązku, o którym mowa w § 1 i 2, jest polisa lub certyfikat ubezpieczeniowy stwierdzający zawarcie umowy ubezpieczenia. Dokument taki powinien znajdować się na statku i być okazywany na żądanie organów inspekcji morskiej.
 
-§ 4. Statek o polskiej przynależności nie może być używany w żegludze, jeżeli nie posiada polisy lub certyfikatu ubezpieczeniowego, o którym mowa w § 3.
-
-§ 5. Statek o obcej przynależności nie może wejść na terytorium Rzeczypospolitej Polskiej, ani go opuścić, jeżeli nie posiada polisy lub certyfikatu ubezpieczeniowego, o którym mowa w § 3.
-
-**Art. 182a.**
-
-§ 1. Przewoźnik, który faktycznie wykonuje, statkiem uprawnionym do przewozu ponad 12 pasażerów, całość lub część przewozu, o którym mowa w art. 2 zdanie pierwsze rozporządzenia nr 392/2009, obowiązany jest posiadać ubezpieczenie lub inne zabezpieczenie finansowe odpowiedzialności za szkody na osobie lub w mieniu pasażera, w wysokości nie niższej niż określona w art. 4a ust. 1 załącznika I do tego rozporządzenia (ubezpieczenie odpowiedzialności za szkody na osobie lub w mieniu pasażera).
-
-§ 1a. (utracił moc) § 2. Ubezpieczenie lub zabezpieczenie finansowe, o którym mowa w § 1, powinno być stwierdzone certyfikatem ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera.
-
-§ 3. Certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, wydaje lub poświadcza:
-
-- **1)** przewoźnikowi wykonującemu faktycznie przewóz statkiem o polskiej przynależności, na jego wniosek, dyrektor urzędu morskiego właściwy ze względu na port macierzysty statku,
-- **2)** przewoźnikowi wykonującemu faktycznie przewóz statkiem o obcej przynależności, na jego wniosek, dyrektor urzędu morskiego – po stwierdzeniu, że spełnia on wymogi określone w art. 3 rozporządzenia nr 392/2009.
-
-§ 4. Kopię wydanego lub poświadczonego certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera dyrektor urzędu morskiego przesyła:
-
-- **1)** organowi prowadzącemu rejestr, w którym statek, o którym mowa w § 3 pkt 1, jest zarejestrowany;
-- **2)** właściwemu organowi państwa rejestracji statku, o którym mowa w § 3 pkt 2.
-
-§ 5. Statek o polskiej przynależności uprawniony do przewozu więcej niż 12 pasażerów nie może być używany w żegludze, jeżeli nie posiada certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, lub jego poświadczenia.
-
-§ 6. Statek o obcej przynależności uprawniony do przewozu więcej niż 12 pasażerów nie może wejść na terytorium Rzeczypospolitej Polskiej ani go opuścić, jeżeli nie posiada certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, lub jego poświadczenia.
-
-§ 7. Certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, lub jego poświadczenie wystawia się w języku polskim i angielskim.
-
-§ 8. Certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, lub jego poświadczenie wydawane są na okres, na jaki zostało ustanowione ubezpieczenie lub inne zabezpieczenie finansowe. Jeżeli ubezpieczenie lub inne zabezpieczenie finansowe wygasło przed upływem okresu, na jaki zostało ustanowione, przewoźnik obowiązany jest powiadomić o tym dyrektora urzędu morskiego, który wydał lub poświadczył certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera.
-
-§ 9. Poświadczeniu podlega certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, jeżeli jest do niego dołączony dokument ubezpieczenia lub innego zabezpieczenia finansowego, spełniający wymogi art. 3 rozporządzenia nr 392/2009.
-
-§ 10. Certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, lub jego poświadczenie tracą ważność w przypadku wygaśnięcia ubezpieczenia lub innego zabezpieczenia finansowego, dla stwierdzenia którego zostały wydane. Certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, lub jego poświadczenie, które utraciły ważność powinny zostać zwrócone dyrektorowi urzędu morskiego w ciągu 14 dni od dnia utraty ważności.
-
-§ 11. Statkowi o polskiej przynależności stanowiącemu własność państwa, dyrektor urzędu morskiego właściwy ze względu na port macierzysty statku wystawia świadectwo zgodnie z wymogami art. 4a ust. 15 załącznika I do rozporządzenia nr 392/2009.
-
-§ 12. Certyfikat ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera oraz świadectwo, powinny być przechowywane na statku, z zastrzeżeniem art. 4a ust. 14 załącznika I do rozporządzenia nr 392/2009.
-
-§ 13. Kontrolę przestrzegania przepisów o ubezpieczeniu i innym zabezpieczeniu finansowym odpowiedzialności za szkodę na osobie lub w mieniu pasażera sprawują dyrektorzy urzędów morskich.
-
-**Art. 182b.**
-
-§ 1. Dyrektor urzędu morskiego pobiera następujące opłaty:
-
-- **1)** za wydanie certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera – równowartość w złotych 30 euro;
-- **2)** za poświadczenie certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera – równowartość w złotych 20 euro.
-
-§ 2. Przeliczenia równowartości euro na złote dokonuje się według średniego kursu ogłoszonego przez Narodowy Bank Polski, obowiązującego w dniu odpowiednio złożenia wniosku o wydanie lub poświadczenie certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera.
-
-§ 3. Opłaty, o których mowa w § 1, stanowią dochód budżetu państwa.
-
-**Art. 182c.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, warunki i tryb wydawania oraz wzór certyfikatu ubezpieczenia odpowiedzialności za szkody na osobie lub w mieniu pasażera, o którym mowa w art. 182a § 2, i świadectwa, o którym mowa w art. 182a § 11, mając na uwadze wzór określony w rozporządzeniu nr 392/2009 oraz treść wytycznych IMO stanowiących załącznik II tego rozporządzenia.
+§ 4. Przewóz osób bez posiadania przez przewoźnika ubezpieczenia, o którym mowa w § 1, jest zabroniony.
 
 **Art. 183.**
 
@@ -1428,7 +1334,7 @@ source: "isap-pdf"
 
 § 2. Domniemywa się, że pasażer, który nie dopełnił obowiązków przewidzianych w § 1, ukończył podróż zdrów i cały.
 
-**Art. 186.** Roszczenia z tytułów innych niż określone w Konwencji ateńskiej oraz w rozporządzeniu nr 392/2009 przedawniają się z upływem 2 lat od dnia wymagalności.
+**Art. 186.** Roszczenia z tytułów innych niż określone w Konwencji ateńskiej przedawniają się z upływem 2 lat od dnia wymagalności.
 
 **Art. 187.**
 
@@ -1438,7 +1344,7 @@ source: "isap-pdf"
 
 § 3. Czynności przedsięwzięte stosownie do § 2 nie zwalniają osoby odbywającej podróż bez zgody kapitana statku od obowiązku uiszczenia podwójnej opłaty za odbytą podróż.
 
-### DZIAŁ III Czarter na czas
+### Dział III Czarter na czas
 
 **Art. 188.**
 
@@ -1500,7 +1406,7 @@ source: "isap-pdf"
 
 **Art. 200.** Przepisów niniejszego działu nie stosuje się do umów czarterowych o przewóz ładunku, w których należność przewoźnika jest ustalona według jednostki czasu.
 
-### DZIAŁ IV Usługi agencyjne
+### Dział IV Usługi agencyjne
 
 **Art. 201.** Przez umowę agencyjną agent morski podejmuje się za wynagrodzeniem stałego przedstawicielstwa armatora w określonym porcie lub na określonym obszarze.
 
@@ -1532,7 +1438,7 @@ source: "isap-pdf"
 
 **Art. 207.** Roszczenia wynikające z umowy agencyjnej przedawniają się z upływem dwóch lat od dnia wymagalności.
 
-### DZIAŁ V Usługi maklerskie
+### Dział V Usługi maklerskie
 
 **Art. 208.**
 
@@ -1554,7 +1460,7 @@ source: "isap-pdf"
 
 **Art. 213.** Roszczenia wynikające ze stosunku pomiędzy maklerem a dającym zlecenie przedawniają się z upływem 2 lat od dnia wymagalności.
 
-### DZIAŁ VI Usługi holownicze
+### Dział VI Usługi holownicze
 
 **Art. 214.**
 
@@ -1586,7 +1492,7 @@ source: "isap-pdf"
 
 **Art. 219.** Roszczenia wynikające z umowy holowniczej przedawniają się z upływem 2 lat od dnia ukończenia usług holowniczych.
 
-### DZIAŁ VII Usługi pilotowe
+### Dział VII Usługi pilotowe
 
 **Art. 220.** Usługa pilotowa polega na udzielaniu kapitanowi informacji i rady w prowadzeniu statku ze względu na warunki nawigacyjne wód, na których usługa jest świadczona.
 
@@ -1626,7 +1532,7 @@ source: "isap-pdf"
 
 **Art. 226.** Roszczenia z umowy o świadczenie usług pilotowych przedawniają się z upływem 2 lat od dnia zakończenia świadczenia tej usługi.
 
-**Art. 227.** Usługa pilotowa może być świadczona tylko przez pilota wpisanego na listę pilotów prowadzoną przez właściwego dyrektora urzędu morskiego. Na liście pilotów mogą znajdować się osoby posiadające ważne dokumenty potwierdzające kwalifikacje i uprawnienia pilotowe.
+**Art. 227.** Usługa pilotowa może być świadczona tylko przez pilota wpisanego na listę pilotów. Listy pilotów prowadzą dyrektorzy urzędów morskich.
 
 **Art. 228.**
 
@@ -1634,24 +1540,19 @@ source: "isap-pdf"
 
 § 2. Dyrektor urzędu morskiego skreśla pilota z listy pilotów w razie zajścia jednej z następujących okoliczności:
 
-- **1)** śmierci pilota;
-- **2)** wniosku pilota;
-- **3)** utraty przypisanych wymagań kwalifikacyjnych;
-- **4)** utraty prawa wykonywania zawodu pilota na mocy prawomocnego orzeczenia izby morskiej, sądu lub innego właściwego organu.
-- **5)** (uchylony) § 3. Jeżeli postępowanie pilota zagraża bezpieczeństwu morskiemu, dyrektor urzędu morskiego może ograniczyć lub zawiesić uprawnienia pilota do świadczenia usług pilotowych na czas nie dłuższy niż 3 miesiące, o ile wymagają tego względy prewencyjne. Podejmując decyzję w tej sprawie, dyrektor urzędu morskiego może skierować pilota na dodatkowe przeszkolenie.
+- **1)** śmierci pilota,
+- **2)** wniosku pilota,
+- **3)** utraty przypisanych wymagań kwalifikacyjnych,
+- **4)** utraty prawa wykonywania zawodu pilota na mocy prawomocnego orzeczenia izby morskiej, sądu lub innego właściwego organu,
+- **5)** ukończenia przez pilota 65 roku życia.
+
+§ 3. Jeżeli postępowanie pilota zagraża bezpieczeństwu morskiemu, dyrektor urzędu morskiego może ograniczyć lub zawiesić uprawnienia pilota do świadczenia usług pilotowych na czas nie dłuższy niż 3 miesiące, o ile wymagają tego względy prewencyjne. Podejmując decyzję w tej sprawie, dyrektor urzędu morskiego może skierować pilota na dodatkowe przeszkolenie.
 
 **Art. 229.**
 
-§ 1. Świadczenie usług pilotowych w pilotażu obowiązkowym lub dobrowolnym w rejonach pilotowych oraz w pilotażu dobrowolnym na morzu terytorialnym i pozostałych akwenach Morza Bałtyckiego (pilotażu pełnomorskim) organizują i koordynują stacje pilotowe.
+§ 1. Świadczenie usług pilotowych w pilotażu obowiązkowym oraz szkolenie kandydatów na pilotów i pilotów organizują i koordynują stacje pilotowe utworzone przez dyrektora terytorialnie właściwego urzędu morskiego dla określonego rejonu pilotowego.
 
-§ 1a. Stacja pilotowa jest zorganizowanym zespołem składników niematerialnych i materialnych przeznaczonym do świadczenia usług pilotowych przez osoby posiadające kwalifikacje pilota morskiego, w określonej części polskich morskich wód wewnętrznych oraz na redach portów morskich (rejonie pilotowym) lub na morzu terytorialnym i pozostałych akwenach Morza Bałtyckiego.
-
-§ 2. Stację pilotową tworzy i likwiduje, w drodze decyzji, minister właściwy do spraw gospodarki morskiej, w przypadku:
-
-- **1)** pilotażu w rejonie pilotowym – na wniosek dyrektora urzędu morskiego właściwego dla określonego rejonu pilotowego,
-- **2)** pilotażu pełnomorskiego – na wniosek Dyrektora Urzędu Morskiego w Gdyni lub Dyrektora Urzędu Morskiego w Szczecinie właściwego ze względu na port przeznaczenia lub port wyjścia statku korzystającego z pilotażu pełnomorskiego – określając wymagania, jakie musi spełniać stacja pilotowa, mając na uwadze określony rejon pilotowy oraz konieczność zapewnienia bezpieczeństwa żeglugi w tym rejonie lub na morzu terytorialnym i pozostałych akwenach Morza Bałtyckiego, a także potrzebę zapewnienia prawidłowej realizacji usług pilotowych.
-
-§ 3. Dyrektor urzędu morskiego wydaje regulamin funkcjonowania stacji pilotowej po zasięgnięciu opinii organizacji społeczno-zawodowej pilotów.
+§ 2. Tworząc stację pilotową, o której mowa w § 1, dyrektor urzędu morskiego wydaje regulamin jej funkcjonowania, po zasięgnięciu opinii organizacji społeczno-zawodowej pilotów.
 
 **Art. 230.**
 
@@ -1659,7 +1560,7 @@ source: "isap-pdf"
 
 § 2. Minister właściwy do spraw gospodarki morskiej po zasięgnięciu opinii organizacji społeczno-zawodowej pilotów określi, w drodze rozporządzenia, taryfę maksymalnych wysokości opłat za usługi pilotowe świadczone w określonych portach w pilotażu obowiązkowym oraz tryb ich pobierania. Taryfa powinna uwzględniać warunki świadczenia usług pilotowych w portach.
 
-### DZIAŁ VIII Ratownictwo morskie
+### Dział VIII Ratownictwo morskie
 
 **Art. 231.** Ratownictwem morskim w rozumieniu przepisów niniejszego działu jest udzielanie pomocy statkowi znajdującemu się w niebezpieczeństwie na jakichkolwiek wodach oraz ratowanie znajdującego się na nim lub z niego pochodzącego mienia, jak również ratowanie innego mienia znajdującego się na morzu i niepołączonego trwale i celowo z wybrzeżem.
 
@@ -1695,29 +1596,29 @@ source: "isap-pdf"
 
 § 1. Ratujący jest obowiązany:
 
-- **1)** prowadzić działania ratownicze z należytą starannością;
-- **2)** dołożyć należytej staranności w celu zapobieżenia szkodzie w środowisku lub zmniejszenia jej rozmiarów;
+- **1)** prowadzić działania ratownicze z należytą starannością,
+- **2)** dołożyć należytej staranności w celu zapobieżenia szkodzie w środowisku lub zmniejszenia jej rozmiarów,
 - **3)** poszukiwać pomocy innych ratujących, gdy okoliczności tego wymagają, oraz przyjąć ich pomoc na uzasadnione żądanie armatora lub kapitana statku albo właściciela innego mienia będącego w niebezpieczeństwie, znajdującego się poza statkiem; nie może to jednak mieć wpływu na wysokość jego wynagrodzenia w razie ustalenia, iż takie żądanie było bezzasadne.
 
 § 2. Armator i kapitan statku oraz właściciel innego mienia będącego w niebezpieczeństwie i znajdującego się poza statkiem są obowiązani:
 
-- **1)** współpracować z ratującym podczas działań ratowniczych;
-- **2)** dołożyć należytej staranności w celu zapobieżenia szkodzie w środowisku lub zmniejszenia jej rozmiarów;
+- **1)** współpracować z ratującym podczas działań ratowniczych,
+- **2)** dołożyć należytej staranności w celu zapobieżenia szkodzie w środowisku lub zmniejszenia jej rozmiarów,
 - **3)** na uzasadnione żądanie ratującego przejąć statek lub inne mienie w swoją pieczę, gdy znalazły się w bezpiecznym miejscu.
 
 **Art. 239.**
 
 § 1. W braku umowy wysokość wynagrodzenia określa się, biorąc pod uwagę następujące okoliczności, bez względu na kolejność, w jakiej zostały one wymienione:
 
-- **1)** wartość statku i innego mienia uratowanego;
-- **2)** umiejętności i wysiłki ratujących w celu zapobieżenia szkodzie w środowisku lub zmniejszenia jej rozmiarów;
-- **3)** osiągnięty wynik ratownictwa;
-- **4)** charakter i stopień niebezpieczeństwa;
-- **5)** umiejętności i wysiłki ratujących w celu ratowania statku, innego mienia i życia;
-- **6)** czas poświęcony przez ratujących oraz poniesione przez nich szkody i wydatki;
-- **7)** ryzyko odpowiedzialności i inne niebezpieczeństwa, które zagrażały ratującym i ich sprzętowi;
-- **8)** niezwłoczne świadczenie usług;
-- **9)** szczególne przystosowanie statku ratującego i innego sprzętu do czynności ratowniczych;
+- **1)** wartość statku i innego mienia uratowanego,
+- **2)** umiejętności i wysiłki ratujących w celu zapobieżenia szkodzie w środowisku lub zmniejszenia jej rozmiarów,
+- **3)** osiągnięty wynik ratownictwa,
+- **4)** charakter i stopień niebezpieczeństwa,
+- **5)** umiejętności i wysiłki ratujących w celu ratowania statku, innego mienia i życia,
+- **6)** czas poświęcony przez ratujących oraz poniesione przez nich szkody i wydatki,
+- **7)** ryzyko odpowiedzialności i inne niebezpieczeństwa, które zagrażały ratującym i ich sprzętowi,
+- **8)** niezwłoczne świadczenie usług,
+- **9)** szczególne przystosowanie statku ratującego i innego sprzętu do czynności ratowniczych,
 - **10)** stan sprzętu użytego przez ratującego i jego wartość.
 
 § 2. Przy określaniu wysokości wynagrodzenia uwzględnia się także potrzebę stwarzania zachęty do podejmowania działań ratowniczych.
@@ -1782,11 +1683,11 @@ source: "isap-pdf"
 
 § 1. Przepisy niniejszego działu stosuje się odpowiednio do jednostek pływających Marynarki Wojennej, Straży Granicznej oraz Policji.
 
-§ 2. (uchylony)
+§ 2. Minister Obrony Narodowej i ministrowie właściwi do spraw wewnętrznych oraz finansów publicznych określą, w drodze rozporządzenia, zasady obliczania i przeznaczenia wynagrodzenia za ratownictwo morskie należnego jednostkom pływającym wymienionym w § 1 oraz tryb postępowania w tych sprawach, w sposób stwarzający zachętę dla ich załóg do podejmowania działań ratowniczych.
 
-## TYTUŁ VII Wypadki morskie
+## Tytuł VII Wypadki morskie
 
-### DZIAŁ I Awaria wspólna
+### Dział I Awaria wspólna
 
 **Art. 250.**
 
@@ -1802,7 +1703,9 @@ source: "isap-pdf"
 
 § 2. Straty awarii wspólnej rozdziela się stosownie do § 1, choćby niebezpieczeństwo, które spowodowało nadzwyczajne poświęcenia lub wydatki, zostało zawinione przez któregokolwiek z uczestników awarii wspólnej lub przez osobę trzecią. Jednakże rozdzielenie strat nie pozbawia uczestnika awarii wspólnej prawa zwrotnego poszukiwania od osoby, z której winy strata powstała.
 
-§ 3. Rozdział strat awarii wspólnej przeprowadza się również wtedy, gdy akt awarii wspólnej nie doprowadził do zamierzonego rezultatu, a także gdy poświęcenie objęło cały statek lub cały ładunek.
+§ 3
+
+#### Rozdział strat awarii wspólnej przeprowadza się również wtedy, gdy akt awarii wspólnej nie doprowadził do zamierzonego rezultatu, a także gdy poświęcenie objęło cały statek lub cały ładunek.
 
 **Art. 253.**
 
@@ -1816,17 +1719,6 @@ source: "isap-pdf"
 
 § 1. Ustalenia, czy zachodzi awaria wspólna, obliczenia wysokości strat awarii wspólnej i ich rozdzielenia (dyspasza) dokonuje dyspaszer na zlecenie armatora.
 
-§ 1a. Dyspasza może być świadczona tylko przez dyspaszera wpisanego na listę dyspaszerów. Listę dyspaszerów prowadzi Prezes Krajowej Izby Gospodarczej.
-
-§ 1b. Na listę dyspaszerów wpisuje się dyspaszera, jeżeli spełnia wymagania kwalifikacyjne określone w przepisach wydanych na podstawie § 4.
-
-§ 1c. Prezes Krajowej Izby Gospodarczej skreśla dyspaszera z listy dyspaszerów:
-
-- **1)** na wniosek dyspaszera;
-- **2)** w przypadku utraty wymagań kwalifikacyjnych;
-- **3)** w przypadku stwierdzenia zawinionego, nienależytego wykonywania czynności dyspaszerskich, naruszenia prawa oraz naruszenia zasad etyki zawodowej;
-- **4)** w przypadku śmierci dyspaszera.
-
 § 2. Szczegółowego rozliczenia awarii wspólnej dokonuje dyspaszer stosując, w braku umowy stron, zasady powszechnie przyjęte w międzynarodowym obrocie morskim.
 
 § 3. Zlecenie powinno być udzielone dyspaszerowi przez armatora niezwłocznie po zakończeniu podróży, nie później jednak niż w ciągu jednego miesiąca. W razie zwłoki armatora zlecenie może być udzielone przez innego uczestnika awarii wspólnej.
@@ -1839,7 +1731,7 @@ source: "isap-pdf"
 
 § 2. Bieg przedawnienia przerywa się przez zgłoszenie roszczenia dyspaszerowi wyznaczonemu zgodnie z art. 255 § 3. Przedawnienie biegnie na nowo od dnia doręczenia dyspaszy.
 
-### DZIAŁ II Zderzenie statków
+### Dział II Zderzenie statków
 
 **Art. 257.** Przepisy niniejszego działu normują odpowiedzialność za szkodę wyrządzoną statkowi albo znajdującym się na nim osobom lub rzeczom wskutek zderzenia, które nastąpiło na morzu lub na wodach śródlądowych pomiędzy statkami morskimi albo pomiędzy statkiem morskim a statkiem żeglugi śródlądowej lub wodnosamolotem.
 
@@ -1851,7 +1743,7 @@ source: "isap-pdf"
 
 **Art. 259.**
 
-§ 1. Jeżeli zderzenie nastąpiło z winy kilku statków, każdy z nich odpowiada w stosunku do stopnia swojej winy za szkodę wyrządzoną pozostałym statkom lub mieniu znajdującemu się na nich. Jeżeli stopień winy jest jednakowy albo nie da się ustalić, statki odpowiadają w równych częściach.
+§ 1. Jeżeli zderzenie nastąpiło z winy kilku statków, każdy z nich odpowiada w stosunku do stopnia swojej winy za szkodę wyrządzoną pozostałym statkom lub mieniu znajdującemu się na nich. Jeżeli stopień winy jest jednakowy albo nie da się go ustalić, statki odpowiadają w równych częściach.
 
 § 2. Za szkodę, wynikłą wskutek śmierci, uszkodzenia ciała lub rozstroju zdrowia, statki, które zawiniły zderzenie, odpowiadają solidarnie. Statkowi, który na podstawie solidarnej odpowiedzialności zapłacił część większą niż na niego przypadało, przysługuje zwrotne roszczenie do innych statków o sumę nadpłaconą.
 
@@ -1887,11 +1779,11 @@ source: "isap-pdf"
 
 § 3. Minister Obrony Narodowej i minister właściwy do spraw wewnętrznych w porozumieniu z ministrem właściwym do spraw gospodarki morskiej określą, w drodze rozporządzenia, zasady i tryb działania dowódców jednostek pływających Marynarki Wojennej, Straży Granicznej oraz Policji w razie zderzenia się tych jednostek z innymi statkami, ze szczególnym uwzględnieniem formy i zakresu niesienia pomocy drugiemu statkowi, jego załodze i pasażerom oraz okoliczności i zakresu wykonywania obowiązku bezzwłocznego podawania kapitanowi drugiego statku numeru taktycznego jednostki.
 
-### DZIAŁ III Zanieczyszczenie ze statków
+### Dział III Zanieczyszczenie ze statków
 
 #### Rozdział 1 Zanieczyszczenia różne
 
-**Art. 265.** Z zastrzeżeniem przepisów rozdziału 1a i 2, armator odpowiada za szkodę wyrządzoną komukolwiek zanieczyszczeniem pochodzącym ze statku w związku z przewozem ładunków, eksploatacją statku lub zatapianiem w morzu odpadów i innych substancji.
+**Art. 265.** Z zastrzeżeniem przepisów rozdziału 2, armator odpowiada za szkodę wyrządzoną komukolwiek zanieczyszczeniem pochodzącym ze statku w związku z przewozem ładunków, eksploatacją statku lub zatapianiem w morzu odpadów i innych substancji.
 
 **Art. 266.**
 
@@ -1917,95 +1809,21 @@ source: "isap-pdf"
 
 § 2. Gdyby przywrócenie środowiska morskiego do stanu sprzed zanieczyszczenia było dla armatora niemożliwe lub nadmiernie utrudnione, może on zwolnić się z tego obowiązku przez zwrot niezbędnych kosztów i nakładów, które zostały lub będą musiały być w tym celu poniesione przez organ administracji morskiej lub osoby trzecie.
 
-#### Rozdział 1a Zanieczyszczenia olejami bunkrowymi
-
-**Art. 271a.**
-
-§ 1. Do odpowiedzialności za szkodę wyrządzoną zanieczyszczeniem olejem bunkrowym znajdującym się na pokładzie statku lub pochodzącym ze statku stosuje się postanowienia Międzynarodowej konwencji o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami bunkrowymi, przyjętej przez Międzynarodową Organizację Morską w Londynie w dniu 23 marca 2001 r. (Dz. U. z 2008 r. poz. 939), zwanej dalej „Konwencją bunkrową”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
-
-§ 2. Użyte w przepisach niniejszego rozdziału określenia: „statek”, „właściciel statku”, „olej bunkrowy”, „środki zapobiegawcze”, „szkoda spowodowana zanieczyszczeniem”, „państwo rejestracji statku”, „tonaż brutto” – odpowiadają znaczeniu, jakie im nadano w Konwencji bunkrowej.
-
-§ 3. Przepisy, o których mowa w § 1, mają również zastosowanie do statków, które nie są zarejestrowane w żadnym z państw-stron Konwencji bunkrowej ani nie podnoszą bandery któregokolwiek z tych państw, jeżeli:
-
-- **1)** szkoda spowodowana zanieczyszczeniem powstała na terytorium Rzeczypospolitej Polskiej lub w wyłącznej strefie ekonomicznej Rzeczypospolitej Polskiej;
-- **2)** zastosowano środki zapobiegawcze w celu zapobieżenia szkodzie, o której mowa w pkt 1, lub jej zmniejszenia.
-
-**Art. 271b.**
-
-§ 1. Właściciel statku o polskiej przynależności, o tonażu brutto przekraczającym 1000 ton, jest obowiązany posiadać zabezpieczenie finansowe odpowiedzialności za szkodę spowodowaną zanieczyszczeniem, stwierdzone odpowiednim certyfikatem.
-
-§ 2. Certyfikat wydaje lub poświadcza dyrektor urzędu morskiego, na wniosek właściciela statku.
-
-§ 3. Certyfikat wydaje się w języku polskim i angielskim.
-
-§ 4. Certyfikat jest wydawany na okres, na jaki zostało ustanowione zabezpieczenie finansowe. Jeżeli zabezpieczenie finansowe utraciło ważność przed upływem okresu, na jaki zostało ustanowione, właściciel statku jest obowiązany powiadomić o tym dyrektora urzędu morskiego, który wydał lub poświadczył certyfikat.
-
-§ 5. Certyfikat traci ważność w przypadku utraty ważności zabezpieczenia finansowego, na podstawie którego został wydany.
-
-§ 6. Poświadczeniu podlega certyfikat, jeżeli jest do niego dołączony dokument zabezpieczenia finansowego.
-
-§ 7. Kopię wydanego lub poświadczonego certyfikatu dyrektor urzędu morskiego przesyła właściwemu organowi państwa rejestracji statku.
-
-**Art. 271c.**
-
-§ 1. Dyrektor urzędu morskiego pobiera następujące opłaty:
-
-- **1)** za wydanie certyfikatu – równowartość 30 euro;
-- **2)** za poświadczenie certyfikatu – równowartość 20 euro.
-
-§ 2. Przeliczenia równowartości euro, o której mowa w § 1, na złote dokonuje się według średniego kursu ogłoszonego przez Narodowy Bank Polski dla tej waluty w dniu, odpowiednio, złożenia wniosku o wydanie lub poświadczenie certyfikatu.
-
-**Art. 271d.**
-
-§ 1. Statek, o którym mowa w art. 271b § 1, nie może być używany w żegludze, jeśli nie posiada certyfikatu stwierdzającego zabezpieczenie finansowe odpowiedzialności za szkodę spowodowaną zanieczyszczeniem.
-
-§ 2. Certyfikat powinien być przechowywany na statku.
-
-**Art. 271e.** Statek o tonażu brutto przekraczającym 1000 ton nie może wejść do portu polskiego ani go opuścić, a także korzystać z urządzeń przeładunkowych na terytorium Rzeczypospolitej Polskiej, jeśli nie posiada certyfikatu stwierdzającego zabezpieczenie finansowe odpowiedzialności za szkodę spowodowaną zanieczyszczeniem, wydanego lub poświadczonego przez właściwy organ.
-
-**Art. 271f.** Dyrektor urzędu morskiego może wydać certyfikat stwierdzający zabezpieczenie finansowe odpowiedzialności za szkodę spowodowaną zanieczyszczeniem właścicielowi statku niezarejestrowanego w żadnym z państw-stron Konwencji bunkrowej, jeżeli ten udowodni, że dysponuje wystarczającym zabezpieczeniem finansowym tej odpowiedzialności.
-
-**Art. 271g.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, warunki i tryb wydawania oraz wzór certyfikatu, o którym mowa w art. 271b § 1, mając na uwadze konieczność zapewnienia należytego zabezpieczenia finansowego odpowiedzialności za szkody spowodowane zanieczyszczeniem olejami bunkrowymi oraz kierując się koniecznością, aby wzór certyfikatu odpowiadał wzorowi określonemu w Konwencji bunkrowej.
-
-**Art. 271h.** Kontrolę przestrzegania przepisów o zabezpieczeniu finansowym odpowiedzialności za szkodę spowodowaną zanieczyszczeniem sprawują dyrektorzy urzędów morskich.
-
 #### Rozdział 2 Zanieczyszczenia ze statków przewożących oleje
 
 **Art. 272.**
 
-§ 1. Do odpowiedzialności za szkodę wyrządzoną przez wyciek lub usunięcie oleju ze statku przewożącego olej luzem jako ładunek stosuje się postanowienia Międzynarodowej konwencji o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami, sporządzonej w Brukseli dnia 29 listopada 1969 r. (Dz. U. z 1976 r. poz. 184), zmienionej Protokołem, sporządzonym w Londynie dnia 27 listopada 1992 r. (Dz. U. z 2001 r. poz. 1526), zwanej dalej „Konwencją o odpowiedzialności cywilnej”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
+§ 1. Do odpowiedzialności za szkodę wyrządzoną przez wyciek lub usunięcie oleju ze statku przewożącego olej luzem jako ładunek stosuje się postanowienia Międzynarodowej konwencji o odpowiedzialności cywilnej za szkody spowodowane zanieczyszczeniem olejami, sporządzonej w Brukseli dnia 29 listopada 1969 r. (Dz. U. z 1976 r. Nr 32, poz. 184), zmienionej Protokołem, sporządzonym w Londynie dnia 27 listopada 1992 r. (Dz. U. z 2001 r. Nr 136, poz. 1526), zwanej dalej „Konwencją o odpowiedzialności cywilnej”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
 
-§ 2. Użyte w przepisach niniejszego rozdziału określenia „statek”, „właściciel”, „państwo rejestracji statku”, „olej”, „środki zapobiegawcze”, „szkoda spowodowana zanieczyszczeniem” – odpowiadają znaczeniu, jakie im nadano w Konwencji o odpowiedzialności cywilnej.
+§ 2. Użyte w przepisach niniejszego działu określenia „statek”, „właściciel”, „państwo rejestracji statku”, „olej”, „szkoda spowodowana zanieczyszczeniem” – odpowiadają znaczeniu, jakie im nadano w Konwencji o odpowiedzialności cywilnej.
 
-§ 3. Przepisy, o których mowa w § 1, mają również zastosowanie do statków, które nie są zarejestrowane w żadnym z państw-stron Konwencji o odpowiedzialności cywilnej ani nie podnoszą bandery któregokolwiek z tych państw, jeżeli:
-
-- **1)** szkoda spowodowana zanieczyszczeniem powstała na terytorium Rzeczypospolitej Polskiej lub w wyłącznej strefie ekonomicznej Rzeczypospolitej Polskiej;
-- **2)** zastosowano środki zapobiegawcze w celu zapobieżenia szkodzie, o której mowa w pkt 1, lub jej zmniejszeniu.
+§ 3. Przepisy, o których mowa w § 1, mają również zastosowanie do statków, które nie są zarejestrowane w żadnym z państw-stron Konwencji o odpowiedzialności cywilnej ani nie podnoszą bandery któregokolwiek z tych państw, jeżeli szkoda spowodowana zanieczyszczeniem powstała na terytorium Rzeczypospolitej Polskiej.
 
 **Art. 273.**
 
-§ 1. Właściciel statku o polskiej przynależności, przewożącego więcej niż 2000 ton oleju luzem jako ładunek, jest obowiązany posiadać zabezpieczenie finansowe odpowiedzialności za szkodę spowodowaną zanieczyszczeniem, stwierdzone odpowiednim certyfikatem.
+§ 1. Właściciel statku o polskiej przynależności, przewożącego więcej niż 2 000 ton oleju luzem jako ładunek, jest obowiązany posiadać zabezpieczenie finansowe odpowiedzialności za szkodę spowodowaną zanieczyszczeniem, stwierdzone odpowiednim certyfikatem.
 
-§ 2. Certyfikat wydaje lub poświadcza dyrektor urzędu morskiego, na wniosek właściciela statku.
-
-§ 3. Certyfikat wydaje się w języku polskim i angielskim.
-
-§ 4. Certyfikat jest wydawany na okres, na jaki zostało ustanowione zabezpieczenie finansowe. Jeżeli zabezpieczenie finansowe utraciło ważność przed upływem okresu, na jaki zostało ustanowione, właściciel statku jest obowiązany powiadomić o tym dyrektora urzędu morskiego, który wydał lub poświadczył certyfikat.
-
-§ 5. Certyfikat traci ważność w przypadku utraty ważności zabezpieczenia finansowego, na podstawie którego został wydany.
-
-§ 6. Poświadczeniu podlega certyfikat, jeżeli jest do niego dołączony dokument zabezpieczenia finansowego.
-
-§ 7. Kopię wydanego lub poświadczonego certyfikatu dyrektor urzędu morskiego przesyła właściwemu organowi państwa rejestracji statku.
-
-**Art. 273a.**
-
-§ 1. Dyrektor urzędu morskiego pobiera następujące opłaty:
-
-- **1)** za wydanie certyfikatu – równowartość 30 euro;
-- **2)** za poświadczenie certyfikatu – równowartość 20 euro.
-
-§ 2. Przepis art. 271c § 2 stosuje się odpowiednio.
+§ 2. Certyfikaty, o których mowa w § 1, wystawia dyrektor urzędu morskiego. Za wystawienie lub poświadczenie certyfikatów pobiera się opłaty.
 
 **Art. 274.**
 
@@ -2013,11 +1831,11 @@ source: "isap-pdf"
 
 § 2. Certyfikat powinien być przechowywany na statku.
 
-**Art. 275.** Statek przewożący ponad 2000 ton oleju luzem jako ładunek nie może wejść do portu polskiego ani go opuścić, a także korzystać z urządzeń przeładunkowych na terytorium Rzeczypospolitej Polskiej, jeśli nie posiada certyfikatu stwierdzającego zabezpieczenie finansowe odpowiedzialności za szkodę spowodowaną zanieczyszczeniem, wydanego lub poświadczonego przez właściwy organ.
+**Art. 275.** Żaden statek przewożący ponad 2 000 ton oleju luzem jako ładunek nie może wejść do portu polskiego ani go opuścić, a także korzystać z urządzeń przeładunkowych na terytorium Rzeczypospolitej Polskiej, jeśli nie posiada certyfikatu stwierdzającego zabezpieczenie finansowe odpowiedzialności za szkodę wyrządzoną zanieczyszczeniem, wydanego lub poświadczonego przez właściwy organ państwa rejestracji statku.
 
 **Art. 276.** Dyrektor urzędu morskiego może wydać certyfikat stwierdzający zabezpieczenie finansowe odpowiedzialności za szkodę spowodowaną zanieczyszczeniem właścicielowi statku niezarejestrowanego w żadnym z państw-stron Konwencji o odpowiedzialności cywilnej, jeżeli ten udowodni, że dysponuje wystarczającym zabezpieczeniem finansowym tej odpowiedzialności.
 
-**Art. 277.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, warunki i tryb wydawania oraz wzór certyfikatu, o którym mowa w art. 273 § 1, mając na uwadze konieczność zapewnienia należytego zabezpieczenia finansowego odpowiedzialności za szkody spowodowane zanieczyszczeniem olejami oraz kierując się koniecznością, aby wzór certyfikatu odpowiadał wzorowi określonemu w Konwencji o odpowiedzialności cywilnej.
+**Art. 277.** Minister właściwy do spraw gospodarki morskiej określi, w drodze rozporządzenia, warunki i tryb wydawania lub poświadczania certyfikatów, wzór certyfikatu oraz wysokość pobieranych opłat, uwzględniając wiążące Rzeczpospolitą Polską w tym zakresie przepisy międzynarodowe.
 
 **Art. 278.** Kontrolę przestrzegania przepisów o zabezpieczeniu finansowym odpowiedzialności za szkodę spowodowaną zanieczyszczeniem sprawują dyrektorzy urzędów morskich.
 
@@ -2025,47 +1843,25 @@ source: "isap-pdf"
 
 **Art. 279.**
 
-§ 1. Do dochodzenia roszczeń wobec Międzynarodowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami, zwanego dalej „Międzynarodowym Funduszem”, stosuje się postanowienia Międzynarodowej konwencji o utworzeniu Międzynarodowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami, sporządzonej w Brukseli dnia 18 grudnia 1971 r. (Dz. U. z 1986 r. poz. 79), zmienionej Protokołem, sporządzonym w Londynie dnia 27 listopada 1992 r. (Dz. U. z 2001 r. poz. 1529), wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
+§ 1. Do dochodzenia roszczeń wobec Międzynarodowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami, zwanego dalej „Międzynarodowym Funduszem”, stosuje się postanowienia Międzynarodowej konwencji o utworzeniu Międzynarodowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami, sporządzonej w Brukseli dnia 18 grudnia 1971 r. (Dz. U. z 1986 r. Nr 14, poz. 79), zmienionej Protokołem, sporządzonym w Londynie dnia 27 listopada 1992 r. (Dz. U. z 2001 r. Nr 136, poz. 1529), wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
 
 § 2. Z roszczeniem do Międzynarodowego Funduszu można wystąpić, gdy nie zostało ono zaspokojone na podstawie Konwencji o odpowiedzialności cywilnej, ponieważ:
 
-- **1)** nie istnieje odpowiedzialność za szkodę w myśl Konwencji o odpowiedzialności cywilnej (art. 272 § 1);
-- **2)** właściciel statku lub jego gwarant jest niezdolny do wypełnienia w całości swego zobowiązania;
+- **1)** nie istnieje odpowiedzialność za szkodę w myśl Konwencji o odpowiedzialności cywilnej (art. 272 § 1),
+- **2)** właściciel statku lub jego gwarant jest niezdolny do wypełnienia w całości swego zobowiązania,
 - **3)** wysokość szkody przekracza granice odpowiedzialności właściciela statku.
 
 **Art. 280.**
 
-§ 1. Osoba otrzymująca na terytorium Rzeczypospolitej Polskiej olej przewieziony drogą morską stosownie do postanowień art. 10 Konwencji, o której mowa w art. 279 § 1, w ilości 150 tys. ton lub więcej, uiszcza wkłady na rzecz Międzynarodowego Funduszu zgodnie z art. 10 i art. 15 tej Konwencji.
+§ 1. Osoba otrzymująca na terytorium Rzeczypospolitej Polskiej olej przewieziony drogą morską stosownie do postanowień art. 10 Konwencji, o której mowa w art. 279 § 1, w ilości 150 tys. ton lub więcej, uiszcza wkłady na rzecz Międzynarodowego Funduszu zgodnie z art. 10, 11 i 15 tej konwencji.
 
-§ 2. Każdy, kto otrzymuje z zagranicy lub jakiegokolwiek miejsca położonego na terytorium Rzeczypospolitej Polskiej albo na obszarze wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej olej przewieziony drogą morską stosownie do postanowień § 1, obowiązany jest przekazać ministrowi właściwemu do spraw finansów publicznych, w terminie do dnia 15 stycznia każdego roku, dane o ilościach oleju otrzymanego w ciągu poprzedniego roku kalendarzowego.
+§ 2. Każdy, kto otrzymuje z zagranicy lub jakiegokolwiek miejsca położonego na terytorium Rzeczypospolitej Polskiej albo na obszarze wyłącznej strefy ekonomicznej Rzeczypospolitej Polskiej olej przewieziony drogą morską stosownie do postanowień § 1, obowiązany jest podać do Głównego Urzędu Ceł, w terminie do dnia 15 stycznia każdego roku, dane o ilościach oleju otrzymanego w ciągu poprzedniego roku kalendarzowego.
 
-§ 3. Każdy, kto nie dopełnia obowiązku określonego w § 2 podlega karze pieniężnej w wysokości 1 SDR od tony niezadeklarowanego oleju kontrybucyjnego.
-
-§ 4. Karę pieniężną, o której mowa w § 3, wymierza, w drodze decyzji administracyjnej, dyrektor urzędu morskiego właściwy ze względu na port wyładunku. Tryb wymierzania i ściągania kar pieniężnych regulują przepisy ustawy z dnia 21 marca 1991 r. o obszarach morskich Rzeczypospolitej Polskiej i administracji morskiej (Dz. U. z 2023 r. poz. 960).
-
-§ 5. Minister właściwy do spraw finansów publicznych składa Międzynarodowemu Funduszowi corocznie sprawozdanie, podając nazwę i adres osób, o których mowa w § 1, oraz ilości przewiezionego przez każdą taką osobę drogą morską oleju kontrybucyjnego w ciągu poprzedniego roku kalendarzowego.
-
-§ 6. Minister właściwy do spraw finansów publicznych przekazuje do wiadomości ministra właściwego do spraw gospodarki morskiej sprawozdanie, o którym mowa w § 5.
+§ 3. Główny Urząd Ceł składa Międzynarodowemu Funduszowi corocznie sprawozdanie o ilości przewiezionego drogą morską oleju.
 
 **Art. 281.** W przypadku szkody spowodowanej zanieczyszczeniem olejowym dyrektor urzędu morskiego, na żądanie poszkodowanego, jest obowiązany stwierdzić zaistnienie wypadku i udostępnić dokumentację tej szkody.
 
-#### Rozdział 3a Międzynarodowy Dodatkowy Fundusz Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami
-
-**Art. 281a.** Do dochodzenia roszczeń wobec Międzynarodowego Dodatkowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami, zwanego dalej „Dodatkowym Funduszem”, stosuje się postanowienia Konwencji, o której mowa w art. 279 § 1, uzupełnionej Protokołem, sporządzonym w Londynie dnia 16 maja 2003 r. (Dz. U. z 2009 r. poz. 392), zwanym dalej „Protokołem z 2003 r.”, wraz ze zmianami obowiązującymi od daty ich wejścia w życie w stosunku do Rzeczypospolitej Polskiej, podanymi do publicznej wiadomości we właściwy sposób.
-
-**Art. 281b.**
-
-§ 1. Roszczenie wobec Dodatkowego Funduszu przysługuje każdej osobie, której ustalone roszczenie o naprawienie szkody spowodowanej zanieczyszczeniem nie zostało w pełni zaspokojone przez Międzynarodowy Fundusz, z tego powodu, że całkowita wysokość szkody przekracza, lub istnieje ryzyko iż przekroczy, mający zastosowanie limit odszkodowania ustanowiony w art. 4 ust. 4 Konwencji, o której mowa w art. 279 § 1, w odniesieniu do każdego wypadku.
-
-§ 2. Przez ustalone roszczenie rozumie się roszczenie, o którym mowa w art. 1 ust. 8 Protokołu z 2003 r.
-
-**Art. 281c.** Roszczenie wobec Międzynarodowego Funduszu będzie uznawane za roszczenie wniesione przez tego samego wierzyciela wobec Dodatkowego Funduszu.
-
-**Art. 281d.** Osoba otrzymująca na terytorium Rzeczypospolitej Polskiej olej kontrybucyjny przewieziony drogą morską stosownie do postanowień art. 10 Protokołu z 2003 r., w ilości 150 tys. ton lub więcej, uiszcza wkłady na rzecz Dodatkowego Funduszu, zgodnie z art. 10 tego Protokołu.
-
-**Art. 281e.** Minister właściwy do spraw finansów publicznych informuje Dodatkowy Fundusz o braku osób określonych w art. 281d.
-
-### DZIAŁ IV Mienie zatopione lub znalezione
+### Dział IV Mienie zatopione lub znalezione
 
 **Art. 282.**
 
@@ -2075,11 +1871,11 @@ source: "isap-pdf"
 
 § 3. Jeżeli właściciel mienia w wyznaczonym terminie nie zgłosi się po odbiór mienia albo nie uiści kosztów jego usunięcia, dyrektor urzędu morskiego może sprzedać mienie i z sumy uzyskanej ze sprzedaży pokryć swoje koszty oraz wydatki za przechowywanie i przeprowadzenie sprzedaży, a resztę złożyć do depozytu sądowego w celu wydania jej osobie uprawnionej.
 
-§ 4. (uchylony)
+§ 4. Właściciel mienia odpowiada za koszty i wydatki poniesione przez urząd morski w granicach wartości mienia.
 
 **Art. 283.**
 
-§ 1. Wydobywanie mienia wojskowego lub przysposobionego do celów wojskowych wymaga zezwolenia właściwych organów wojskowych.
+§ 1. Wydobywanie mienia przez właściciela w rejonach umocnionych i w innych obszarach uznanych za szczególnie ważne dla obrony kraju, jak również wydobywanie mienia wojskowego lub przysposobionego do celów wojskowych wymaga zezwolenia właściwych organów wojskowych.
 
 § 2. Jeżeli właściciel mienia zatopionego nie uzyskał zezwolenia na wydobycie tego mienia, może zwrócić się w ciągu 3 miesięcy od dnia otrzymania odmowy do dyrektora urzędu morskiego o zarządzenie w porozumieniu z właściwym organem wojskowym wydobycia tego mienia na koszt właściciela.
 
@@ -2087,7 +1883,7 @@ source: "isap-pdf"
 
 § 1. Jeżeli mienie zatopione bądź opuszczone znajdujące się na mieliźnie lub na powierzchni wody utrudnia żeglugę lub pracę w porcie, na redzie lub drodze wodnej albo zagraża żegludze, dyrektor urzędu morskiego może zarządzić usunięcie przeszkody na koszt właściciela, wyznaczając mu stosowny termin do odbioru mienia za zwrotem poniesionych kosztów.
 
-§ 2. Postanowienie art. 282 § 3 stosuje się odpowiednio.
+§ 2. Postanowienia art. 282 § 3 i 4 stosuje się odpowiednio.
 
 **Art. 285.** Wydobycie cudzego mienia zatopionego w morzu i przywiezienie go na polskie morskie wody wewnętrzne lub polskie morze terytorialne należy niezwłocznie zgłosić urzędowi morskiemu z podaniem czasu, miejsca i okoliczności wydobycia mienia oraz w miarę możności zawiadomić o tym również właściciela, a do czasu wydania mu mienia – odpowiednio je zabezpieczyć.
 
@@ -2119,9 +1915,9 @@ source: "isap-pdf"
 
 **Art. 291.** Minister Sprawiedliwości w porozumieniu z ministrem właściwym do spraw gospodarki morskiej i ministrem właściwym do spraw finansów publicznych określi, w drodze rozporządzenia, sposób postępowania z mieniem, którego właściciel pozostał nieznany, oraz tryb ustalania wysokości i pokrycia należności związanych z wydobyciem, zabezpieczeniem, sprzedażą mienia stosownie do przepisów niniejszego działu, jak również sposób i tryb przeprowadzania przewidzianej w niniejszym dziale sprzedaży mienia, z zastosowaniem przepisów Kodeksu postępowania cywilnego.
 
-## TYTUŁ VIII Ubezpieczenie morskie
+## Tytuł VIII Ubezpieczenie morskie
 
-### DZIAŁ I Umowa ubezpieczenia morskiego
+### Dział I Umowa ubezpieczenia morskiego
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -2149,12 +1945,12 @@ source: "isap-pdf"
 
 § 1. Polisa powinna zawierać:
 
-- **1)** oznaczenie ubezpieczyciela;
-- **2)** oznaczenie przedmiotu ubezpieczenia;
-- **3)** oznaczenie niebezpieczeństw objętych umową ubezpieczenia;
-- **4)** określenie czasu lub podróży, na które zawarto umowę ubezpieczenia;
-- **5)** sumę ubezpieczenia;
-- **6)** miejsce i datę wystawienia polisy;
+- **1)** oznaczenie ubezpieczyciela,
+- **2)** oznaczenie przedmiotu ubezpieczenia,
+- **3)** oznaczenie niebezpieczeństw objętych umową ubezpieczenia,
+- **4)** określenie czasu lub podróży, na które zawarto umowę ubezpieczenia,
+- **5)** sumę ubezpieczenia,
+- **6)** miejsce i datę wystawienia polisy,
 - **7)** podpis ubezpieczyciela.
 
 § 2. Polisa może być wystawiona na imiennie określonego ubezpieczającego (polisa imienna), na zlecenie lub na okaziciela.
@@ -2189,9 +1985,9 @@ source: "isap-pdf"
 
 § 2. Wartość ubezpieczenia ustala się według następujących zasad:
 
-- **1)** wartością ubezpieczenia statku jest wartość statku w chwili rozpoczęcia ubezpieczenia; wartość ta obejmuje również, jeżeli umowa nie stanowi inaczej, wartość jego przynależności, przedmiotów zaopatrzenia statku, a także koszt jego ubezpieczenia;
-- **2)** wartością ubezpieczenia ładunku jest wartość ładunku w miejscu i czasie załadowania łącznie z kosztami ubezpieczenia i dostarczenia ładunku do miejsca przeznaczenia;
-- **3)** wartością ubezpieczenia frachtu jest suma frachtu brutto łącznie z kosztami ubezpieczenia;
+- **1)** wartością ubezpieczenia statku jest wartość statku w chwili rozpoczęcia ubezpieczenia; wartość ta obejmuje również, jeżeli umowa nie stanowi inaczej, wartość jego przynależności, przedmiotów zaopatrzenia statku, a także koszt jego ubezpieczenia,
+- **2)** wartością ubezpieczenia ładunku jest wartość ładunku w miejscu i czasie załadowania łącznie z kosztami ubezpieczenia i dostarczenia ładunku do miejsca przeznaczenia,
+- **3)** wartością ubezpieczenia frachtu jest suma frachtu brutto łącznie z kosztami ubezpieczenia,
 - **4)** wartością ubezpieczenia innych przedmiotów ubezpieczenia, z wyjątkiem zobowiązania z tytułu odpowiedzialności cywilnej, jest kwota, na której utratę jest narażony ubezpieczający w chwili rozpoczęcia ubezpieczenia, łącznie z kosztami ubezpieczenia.
 
 **Art. 301.** Jeżeli strony wymieniły w umowie ubezpieczenia wartość ubezpieczenia (wartość otaksowana), jest ona miarodajna dla określenia odszkodowania ubezpieczeniowego.
@@ -2284,7 +2080,7 @@ source: "isap-pdf"
 
 **Art. 313.** Umowa ubezpieczenia generalnego może być wypowiedziana przez każdą ze stron z zachowaniem trzymiesięcznego terminu.
 
-### DZIAŁ II Wykonanie umowy ubezpieczenia
+### Dział II Wykonanie umowy ubezpieczenia
 
 #### Rozdział 1 Obowiązki ubezpieczającego
 
@@ -2306,9 +2102,9 @@ source: "isap-pdf"
 
 § 2. Przy ubezpieczeniu zawartym na podróż prawo, o którym mowa w § 1, przysługuje ubezpieczycielowi, w szczególności:
 
-- **1)** jeżeli rozpoczęcie lub zakończenie podróży ulega zwłoce z winy ubezpieczającego;
-- **2)** jeżeli podjęto inną podróż zamiast podróży oznaczonej w umowie ubezpieczenia;
-- **3)** jeżeli statek skierowano do innego portu niż przewidziano w umowie ubezpieczenia;
+- **1)** jeżeli rozpoczęcie lub zakończenie podróży ulega zwłoce z winy ubezpieczającego,
+- **2)** jeżeli podjęto inną podróż zamiast podróży oznaczonej w umowie ubezpieczenia,
+- **3)** jeżeli statek skierowano do innego portu niż przewidziano w umowie ubezpieczenia,
 - **4)** jeżeli statek zszedł z właściwej trasy lub zawinął do portu, który nie był brany w rachubę, chyba że zejście z trasy nastąpiło wskutek okoliczności niezależnych od armatora lub kapitana albo w celu ratowania życia ludzkiego lub mienia bądź było konieczne ze względu na bezpieczeństwo statku.
 
 § 3. Jeżeli zmiana niebezpieczeństwa nastąpiła bez zgody ubezpieczającego, umowa ubezpieczenia pozostaje w mocy, jednak ubezpieczyciel może żądać zapłaty dodatkowej składki za zwiększone niebezpieczeństwo.
@@ -2347,8 +2143,8 @@ source: "isap-pdf"
 
 § 1. Przy ubezpieczeniu statku ubezpieczyciel nie odpowiada za szkody powstałe wskutek:
 
-- **1)** wyruszenia w podróż statku niezdatnego do żeglugi, nienależycie wyposażonego i zaopatrzonego, z niedostateczną załogą lub bez niezbędnych dokumentów, chyba że braki te polegały na wadach ukrytych statku lub były spowodowane okolicznościami, którym nie można było zapobiec pomimo zachowania przez ubezpieczającego należytej staranności;
-- **2)** wieku lub zużycia statku;
+- **1)** wyruszenia w podróż statku niezdatnego do żeglugi, nienależycie wyposażonego i zaopatrzonego, z niedostateczną załogą lub bez niezbędnych dokumentów, chyba że braki te polegały na wadach ukrytych statku lub były spowodowane okolicznościami, którym nie można było zapobiec pomimo zachowania przez ubezpieczającego należytej staranności,
+- **2)** wieku lub zużycia statku,
 - **3)** załadowania na statek – za wiedzą ubezpieczającego, a bez wiedzy ubezpieczyciela – materiałów i przedmiotów wybuchowych, łatwo zapalnych lub innych ładunków niebezpiecznych, bez zachowania przepisów obowiązujących przy przewozie ładunków tego rodzaju.
 
 § 2. Przepis § 1 stosuje się odpowiednio przy ubezpieczeniu frachtu.
@@ -2387,7 +2183,7 @@ source: "isap-pdf"
 
 § 2. Ubezpieczający może zakreślić ubezpieczycielowi stosowny termin do złożenia oświadczenia, czy korzysta z uprawnienia przewidzianego w § 1.
 
-§ 3. Mimo zapłaty pełnej sumy ubezpieczenia ubezpieczyciel obowiązany jest zwrócić ponadto przypadające na niego stosownie do art. 327 wydatki, jakie ubezpieczający poniósł lub zobowiązał się ponieść do chwili otrzymania zawiadomienia od ubezpieczyciela, że korzysta z uprawnienia przewidzianego w § 1.
+§ 3. Mimo zapłaty pełnej sumy ubezpieczenia ubezpieczyciel obowiązany jest zwrócić ponadto przypadające na niego stosownie do art. 328 wydatki, jakie ubezpieczający poniósł lub zobowiązał się ponieść do chwili otrzymania zawiadomienia od ubezpieczyciela, że korzysta z uprawnienia przewidzianego w § 1.
 
 § 4. Ubezpieczyciel, który zapłacił pełną sumę ubezpieczenia, nie może żądać przeniesienia na niego praw do przedmiotu ubezpieczenia.
 
@@ -2451,13 +2247,13 @@ source: "isap-pdf"
 
 **Art. 338.** Z zastrzeżeniem wyjątku przewidzianego w art. 329 § 4, ubezpieczyciel, który zapłacił odszkodowanie ubezpieczeniowe za stratę całkowitą w wysokości pełnej sumy ubezpieczenia, może żądać od ubezpieczającego przeniesienia na niego wszelkich praw do przedmiotu ubezpieczenia; jeżeli jednak suma ubezpieczenia była niższa od wartości ubezpieczenia, ubezpieczyciel może żądać przeniesienia praw tylko w odpowiednim stosunku.
 
-## TYTUŁ IX Postępowanie w sprawach związanych z ograniczeniem odpowiedzialności za roszczenia morskie i dochodzeniem roszczeń z tytułu szkód spowodowanych zanieczyszczeniem przez statki
+## Tytuł IX Postępowanie w sprawach związanych z ograniczeniem odpowiedzialności za roszczenia morskie i dochodzeniem roszczeń z tytułu szkód spowodowanych zanieczyszczeniem przez statki
 
-### DZIAŁ I Postępowanie w sprawach o ustanowienie i podział funduszu ograniczenia odpowiedzialności za roszczenia morskie
+### Dział I Postępowanie w sprawach o ustanowienie i podział funduszu ograniczenia odpowiedzialności za roszczenia morskie
 
 **Art. 339.**
 
-§ 1. Postępowanie w sprawach o ustanowienie i podział funduszu ograniczenia odpowiedzialności za roszczenia morskie, zwanego dalej „funduszem”, podlega przepisom Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, ze zmianami wynikającymi z przepisów niniejszego działu oraz Konwencji o ograniczeniu odpowiedzialności.
+§ 1. Postępowanie w sprawach o ustanowienie i podział funduszu ograniczenia odpowiedzialności za roszczenia morskie, zwanego dalej „funduszem”, podlega przepisom Kodeksu postępowania cywilnego o postępowaniu nieprocesowym, ze zmianami wynikającymi z przepisów niniejszego działu oraz Konwencji o ograniczeniu odpowiedzialności za roszczenia morskie, sporządzonej w Londynie dnia 19 listopada 1976 r. (Dz. U. z 1986 r. Nr 35, poz. 175), zwanej dalej „Konwencją o ograniczeniu odpowiedzialności”.
 
 § 2. W sprawach wymienionych w § 1 wyłącznie właściwy jest Sąd Okręgowy w Gdańsku.
 
@@ -2467,9 +2263,9 @@ source: "isap-pdf"
 
 § 2. Wniosek powinien odpowiadać ogólnym warunkom wniosku o wszczęcie postępowania, a ponadto stosownie do okoliczności zawierać:
 
-- **1)** nazwę statku, z którym wiąże się odpowiedzialność, jego port macierzysty oraz określenie stosunku wnioskodawcy do statku;
-- **2)** określenie zdarzenia, z którego wynikają roszczenia, i informacje o postępowaniach zmierzających do ustalenia przebiegu tego zdarzenia;
-- **3)** określenie rodzaju roszczeń i wierzycieli, na których zaspokojenie fundusz ma być przeznaczony, oraz informacje o znanych wnioskodawcy roszczeniach już dochodzonych przed sądem;
+- **1)** nazwę statku, z którym wiąże się odpowiedzialność, jego port macierzysty oraz określenie stosunku wnioskodawcy do statku,
+- **2)** określenie zdarzenia, z którego wynikają roszczenia, i informacje o postępowaniach zmierzających do ustalenia przebiegu tego zdarzenia,
+- **3)** określenie rodzaju roszczeń i wierzycieli, na których zaspokojenie fundusz ma być przeznaczony, oraz informacje o znanych wnioskodawcy roszczeniach już dochodzonych przed sądem,
 - **4)** oświadczenie o gotowości ustanowienia funduszu, uzasadnienie jego wysokości, a także określenie sposobu jego ustanowienia.
 
 § 3. Do wniosku należy dołączyć wyciąg z rejestru okrętowego, obejmujący dane wpływające na wysokość funduszu.
@@ -2558,7 +2354,7 @@ source: "isap-pdf"
 
 **Art. 350.** Koszty postępowania o ustanowienie i o podział funduszu ponosi wnioskodawca. Na pokrycie tych kosztów wnioskodawca wpłaca ustaloną przez sąd zaliczkę, niezależnie od ustanawianego funduszu.
 
-### DZIAŁ II Postępowanie w sprawach roszczeń i ograniczenia odpowiedzialności z tytułu szkód spowodowanych zanieczyszczeniem przez statki
+### Dział II Postępowanie w sprawach roszczeń i ograniczenia odpowiedzialności z tytułu szkód spowodowanych zanieczyszczeniem przez statki
 
 **Art. 351.** W sprawach o roszczenia odszkodowawcze dochodzone na podstawie przepisów tytułu VII działu III wyłącznie właściwy jest Sąd Okręgowy w Gdańsku.
 
@@ -2568,33 +2364,34 @@ source: "isap-pdf"
 
 § 2. Właściciel statku lub osoba dająca zabezpieczenie finansowe ponosi koszty procesu związanego z dochodzeniem roszczenia podlegającego ograniczeniu i odpowiada za odsetki od tego roszczenia ponad granicę odpowiedzialności określoną zgodnie z Konwencją o odpowiedzialności cywilnej; jednakże jeżeli fundusz ograniczenia odpowiedzialności zostanie utworzony przez złożenie do dyspozycji sądu odpowiedniej sumy pieniężnej, to składający nie odpowiada za odsetki powstałe po złożeniu tej sumy.
 
-§ 3. Do postępowania w sprawach o ustanowienie funduszu ograniczenia odpowiedzialności na podstawie:
-
-- **1)** Konwencji o odpowiedzialności cywilnej,
-- **2)** Konwencji bunkrowej – i o podział tego funduszu stosuje się odpowiednio przepisy działu I.
+§ 3. Do postępowania w sprawach o ustanowienie funduszu ograniczenia odpowiedzialności na podstawie Konwencji o odpowiedzialności cywilnej i o podział tego funduszu stosuje się odpowiednio przepisy działu I niniejszego tytułu.
 
 **Art. 353.** Na wniosek osoby tworzącej fundusz lub każdego z wierzycieli sąd wezwie do udziału w postępowaniu Międzynarodowy Fundusz.
 
 **Art. 354.**
 
-§ 1. Orzeczenia wydane na podstawie Konwencji o odpowiedzialności cywilnej są wykonalne w Rzeczypospolitej Polskiej, zgodnie z przepisami Kodeksu postępowania cywilnego oraz rozporządzenia Rady (WE) nr 44/2001 z dnia 22 grudnia 2000 r. w sprawie jurysdykcji i uznawania orzeczeń sądowych oraz ich wykonywania w sprawach cywilnych i handlowych (Dz. Urz. WE L 12 z 16.01.2001, str. 1; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 19, t. 4, str. 42, z późn. zm.).
+§ 1. Orzeczenia wydane na podstawie Konwencji o odpowiedzialności cywilnej są wykonalne w Rzeczypospolitej Polskiej (art. X Konwencji o odpowiedzialności cywilnej), przy zastosowaniu odpowiednich przepisów Kodeksu postępowania cywilnego.
 
 § 2. Do wniosku o nadanie klauzuli wykonalności należy dołączyć:
 
-- **1)** oryginał orzeczenia lub urzędowo poświadczony odpis orzeczenia, a także poświadczone w ten sam sposób tłumaczenie na język polski;
+- **1)** oryginał orzeczenia lub urzędowo poświadczony odpis orzeczenia, a także poświadczone w ten sam sposób tłumaczenie na język polski,
 - **2)** oświadczenie właściwych organów państwa siedziby sądu, który wydał orzeczenie, że zostało ono wydane na podstawie Konwencji o odpowiedzialności cywilnej oraz że jest ono wykonalne w tym państwie.
 
-§ 3. Przepisy § 1 i 2 stosuje się odpowiednio do orzeczeń wydanych na podstawie Konwencji, o której mowa w art. 279 § 1, oraz Protokołu z 2003 r.
+§ 3. Przepisy § 1 i 2 stosuje się odpowiednio do orzeczeń wydanych na podstawie Międzynarodowej konwencji o utworzeniu Międzynarodowego Funduszu Odszkodowań za Szkody Spowodowane Zanieczyszczeniem Olejami.
 
-## TYTUŁ X Przepisy kolizyjne
+## Tytuł X Przepisy kolizyjne
 
 **Art. 355.**
 
-§ 1. (uchylony) § 2. Prawa rzeczowe na statku wpisane w stałym rejestrze statku podlegają prawu państwa tego rejestru.
+§ 1. Prawa rzeczowe na statku podlegają prawu państwa jego bandery.
 
-§ 3. (uchylony) § 4. Do przywilejów na statku i na ładunku stosuje się prawo państwa, w którym dochodzone jest przed sądem roszczenie o zaspokojenie wierzytelności zabezpieczonej przywilejem.
+§ 2. Prawa rzeczowe na statku wpisane w stałym rejestrze statku podlegają prawu państwa tego rejestru.
 
-**Art. 356.** Jeżeli właściwość prawa zależy od miejsca zdarzenia, to za miejsce zdarzenia, które nastąpiło na statku morskim znajdującym się poza terytorium państwa nadbrzeżnego, uważa się państwo jego bandery.
+§ 3. Prawa rzeczowe na statku w budowie podlegają prawu państwa, w którym statek jest budowany.
+
+§ 4. Do przywilejów na statku stosuje się prawo państwa, w którym dochodzone jest przed sądem roszczenie o zaspokojenie wierzytelności zabezpieczonej przywilejem.
+
+**Art. 356.** Do stosunków prawnych wynikających ze zdarzeń, które nastąpiły na statku znajdującym się poza terytorium państwa nadbrzeżnego, stosuje się prawo bandery.
 
 **Art. 357.**
 
@@ -2602,9 +2399,19 @@ source: "isap-pdf"
 
 § 2. Jeżeli wszystkie strony zainteresowane w awarii wspólnej są przynależności polskiej, stosuje się prawo polskie.
 
-**Art. 358.** (uchylony)
+**Art. 358.**
 
-**Art. 359.** (uchylony)
+§ 1. Do roszczeń o wynagrodzenie szkody wynikłej ze zderzenia statków na morskich wodach wewnętrznych lub morzu terytorialnym stosuje się prawo państwa nadbrzeżnego; jeżeli zderzenie nastąpiło na pełnym morzu, stosuje się prawo sądu państwa, który spór rozpoznaje. W razie jednak zderzenia statków podnoszących tę samą banderę, stosuje się prawo tej bandery bez względu na to, na jakich wodach zderzenie nastąpiło.
+
+§ 2. Do roszczeń o wynagrodzenie za ratownictwo udzielone na wodach wewnętrznych lub morzu terytorialnym stosuje się prawo państwa nadbrzeżnego. Do roszczeń o wynagrodzenie za ratownictwo udzielone na pełnym morzu stosuje się prawo sądu, który spór rozpoznaje. Jeżeli jednak zarówno statek ratowany, jak i statek ratujący podnoszą tę samą banderę, stosuje się prawo tej bandery bez względu na to, na jakich wodach ratownictwo nastąpiło.
+
+§ 3. Do podziału wynagrodzenia pomiędzy armatora oraz kapitana i innych członków załogi stosuje się prawo bandery statku ratującego.
+
+**Art. 359.**
+
+§ 1. Strony mogą w umowie określić prawo właściwe dla ich stosunku prawnego związanego z żeglugą morską.
+
+§ 2. Jeżeli stosunek prawny według ustawy lub umowy podlega obcemu prawu, należy je w Rzeczypospolitej Polskiej stosować, chyba że jego stosowanie miałoby skutki sprzeczne z podstawowymi zasadami porządku prawnego Rzeczypospolitej Polskiej.
 
 **Art. 360.** Ustawa wchodzi w życie w terminie i na zasadach określonych ustawą – Przepisy wprowadzające ustawę – Kodeks morski.
 

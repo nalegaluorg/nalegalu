@@ -8,10 +8,10 @@ pos: 547
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# DZIENNIK USTAW RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 kwietnia 2024 r.
+# Rozporządzenie Ministra Rolnictwa i Rozwoju Wsiz dnia 9 kwietnia 2024 r. w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych
 
 | Pole | Wartość |
 |---|---|
@@ -22,12 +22,15 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2024-04-09 |
 | Data wydania | 2024-04-11 |
+| Wejście w życie | 2024-04-18 |
 | Ostatnia zmiana | 2024-04-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000547) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/547/text.pdf) |
 
-Poz. 547 ROZPORZĄDZENIE MINISTRA ROLNICTWA I ROZWOJU WSI z dnia 9 kwietnia 2024 r.
-w sprawie zmiany rozporządzenia zmieniającego rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U.
-z 2023 r. poz. 1980) zarządza się, co następuje: § 1. W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 października 2023 r. zmieniającym rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. poz. 2233) w § 2 liczbę „12” zastępuje się liczbą „24”.
-§ 2. Rozporządzenie wchodzi w życie z dniem 18 kwietnia 2024 r.
-Minister Rolnictwa i Rozwoju Wsi: C. Siekierski
+Treść rozporządzenia
+Na podstawie art. 15 pkt 1 ustawy z dnia 21 grudnia 2000 r. o jakości handlowej artykułów rolno-spożywczych (Dz. U. z 2023 r. poz. 1980) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Rolnictwa i Rozwoju Wsi z dnia 13 października 2023 r. zmieniającym rozporządzenie w sprawie znakowania poszczególnych rodzajów środków spożywczych (Dz. U. poz. 2233) w § 2 liczbę „12” zastępuje się liczbą „24”.
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 18 kwietnia 2024 r.
+1) Minister Rolnictwa i Rozwoju Wsi kieruje działem administracji rządowej – rynki rolne, na podstawie § 1 ust. 2 pkt 4 rozporządzenia Prezesa Rady Ministrów z dnia 18 grudnia 2023 r. w sprawie szczegółowego zakresu działania Ministra Rolnictwa i Rozwoju Wsi (Dz. U. poz. 2706).
 

@@ -8,12 +8,10 @@ pos: 67
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej oraz o prawie pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania
-
-*USTAWA z dnia 17 grudnia 2004 r.*
+# Ustawa z dnia 17 grudnia 2004 r. o prawie pomocy w postępowaniu w sprawach cywilnych prowadzonym w państwach członkowskich Unii Europejskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2004-12-17 |
 | Data wydania | 2005-01-17 |
+| Wejście w życie | 2005-02-01 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20050100067) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2005/67/text.pdf) |
 
@@ -33,32 +32,20 @@ source: "isap-pdf"
 
 1. Ustawa określa:
 
-- **1)** zasady, warunki i tryb przyznawania osobom fizycznym mającym miejsce zamieszkania lub zwykłego pobytu w innym państwie członkowskim Unii Europejskiej prawa pomocy w postępowaniu w sprawach cywilnych, które ma być wszczęte lub jest prowadzone w Polsce, a także prawa pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania;
-- **2)** zasady, warunki i tryb przyznawania osobom fizycznym mającym miejsce zamieszkania lub zwykłego pobytu w Rzeczypospolitej Polskiej prawa pomocy na potrzeby postępowania w sprawach cywilnych, które ma być wszczęte lub jest prowadzone w innym państwie członkowskim Unii Europejskiej, a także prawa pomocy w celu ugodowego załatwienia sporu przed wszczęciem takiego postępowania.
+- **1)** zasady, warunki i tryb przyznawania osobom fizycznym mającym miejsce zamieszkania lub zwykłego pobytu w innym państwie członkowskim Unii Europejskiej prawa pomocy w postępowaniu w sprawach cywilnych, które ma być wszczęte lub jest prowadzone w Polsce;
+- **2)** zasady, warunki i tryb przyznawania osobom fizycznym mającym miejsce zamieszkania lub zwykłego pobytu w Rzeczypospolitej Polskiej prawa pomocy na potrzeby postępowania w sprawach cywilnych, które ma być wszczęte lub jest prowadzone w innym państwie członkowskim Unii Europejskiej.
 
 2. Jeżeli osoba fizyczna ubiegająca się o przyznanie jej prawa pomocy lub korzystająca z tego prawa, zwana dalej „wnioskodawcą”, nie ma obywatelstwa państwa członkowskiego Unii Europejskiej, przepisy ustawy stosuje się do niej wówczas, gdy przebywa na terytorium państwa członkowskiego Unii Europejskiej zgodnie z prawem tego państwa.
 
 3. Państwem członkowskim Unii Europejskiej w rozumieniu ustawy jest każde państwo członkowskie Unii Europejskiej z wyłączeniem Królestwa Danii, zwane dalej „państwem członkowskim”.
 
-**Art. 1a.**
-
-1. Ustawa określa także zasady, warunki i tryb przyznawania prawa pomocy w sprawach alimentacyjnych, w których zastosowanie mają przepisy rozporządzenia Rady (WE) nr 4/2009 z dnia 18 grudnia 2008 r. w sprawie jurysdykcji, prawa właściwego, uznawania i wykonywania orzeczeń oraz współpracy w zakresie zobowiązań alimentacyjnych (Dz. Urz. UE L 7 z 10.01.2009 r., str. 1).
-
-2. W sprawach alimentacyjnych, w których zastosowanie ma rozporządzenie, o którym mowa w ust. 1, zasady, warunki i tryb przyznawania prawa pomocy określone w ustawie stosuje się w kwestiach nieuregulowanych w tym rozporządzeniu.
-
 **Art. 2.** O możliwości ubiegania się o prawo pomocy decyduje miejsce zamieszkania lub zwykłego pobytu w dacie złożenia wniosku o przyznanie tego prawa do organu właściwego według art. 8 lub art. 21. Późniejsza zmiana miejsca zamieszkania lub zwykłego pobytu przez wnioskodawcę nie wpływa na możliwość ubiegania się o przyznanie lub korzystania z prawa pomocy.
 
-**Art. 3.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie przyznania prawa pomocy stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) oraz ustawy z dnia 28 lipca 2005 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2021 r. poz. 2257 i 2328).
-
-**Art. 3a.** Przyznanie prawa pomocy w celu ugodowego załatwienia sporu nie jest równoznaczne z udzieleniem pełnomocnictwa procesowego.
+**Art. 3.** W sprawach nieuregulowanych w ustawie do postępowania w przedmiocie przyznania prawa pomocy stosuje się przepisy ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.) oraz ustawy z dnia 13 czerwca 1967 r. o kosztach sądowych w sprawach cywilnych (Dz. U. z 2002 r. Nr 9, poz. 88, z późn. zm.).
 
 #### Rozdział 2 Prawo pomocy w postępowaniu prowadzonym w Rzeczypospolitej Polskiej
 
-**Art. 4.**
-
-1. Wnioskodawca mający miejsce zamieszkania lub zwykłego pobytu w innym państwie członkowskim może ubiegać się o przyznanie prawa pomocy w postępowaniu, które ma być wszczęte lub jest prowadzone w Rzeczypospolitej Polskiej, w zakresie i na warunkach określonych w przepisach niniejszego rozdziału.
-
-2. Wnioskodawca mający miejsce zamieszkania lub zwykłego pobytu w innym państwie członkowskim może ubiegać się o przyznanie prawa pomocy w celu ugodowego załatwienia sporu przed wszczęciem postępowania w sprawie cywilnej, w której jurysdykcja przysługuje sądom polskim.
+**Art. 4.** Wnioskodawca mający miejsce zamieszkania lub zwykłego pobytu w innym państwie członkowskim może ubiegać się o przyznanie prawa pomocy w postępowaniu, które ma być wszczęte lub jest prowadzone w Rzeczypospolitej Polskiej, w zakresie i na warunkach określonych w przepisach niniejszego rozdziału.
 
 **Art. 5.**
 
@@ -99,10 +86,6 @@ source: "isap-pdf"
 
 1. Wniosek o przyznanie prawa pomocy powinien zawierać oświadczenie wnioskodawcy obejmujące dane o jego stanie rodzinnym, majątku, dochodach i źródłach utrzymania. Do wniosku dołącza się dokumenty potwierdzające zawarte w nim dane oraz dokumenty potwierdzające obywatelstwo, miejsce zamieszkania lub zwykłego pobytu wnioskodawcy, a jeżeli wnioskodawca nie ma obywatelstwa państwa członkowskiego – dokument potwierdzający, że wnioskodawca przebywa na terytorium państwa członkowskiego zgodnie z prawem tego państwa.
 
-1a. Wniosek o przyznanie prawa pomocy w celu ugodowego załatwienia sporu przed wszczęciem postępowania w sprawie cywilnej powinien ponadto zawierać szczegółowe przedstawienie okoliczności faktycznych tej sprawy.
-
-1b. Do wniosku, o którym mowa w ust. 1, dołącza się oświadczenie wnioskodawcy wskazujące, czy wnioskodawcy zostało już wcześniej przyznane prawo pomocy w celu ugodowego załatwienia sporu w tej sprawie, a jeżeli prawo takie było już przyznane, lecz nie doszło do zawarcia ugody, to z jakich przyczyn do zawarcia ugody nie doszło.
-
 2. Wniosek o przyznanie prawa pomocy może być złożony na urzędowym formularzu.
 
 **Art. 10.**
@@ -111,8 +94,6 @@ source: "isap-pdf"
 
 2. Uzupełnienie braków wniosku następuje przez złożenie dodatkowych wyjaśnień lub dokumentów. Dokumentami tymi mogą być w szczególności odpisy zeznań podatkowych, wyciągi lub wykazy z posiadanych rachunków bankowych, depozytów bankowych, papierów wartościowych oraz zaświadczenia o wysokości wynagrodzeń za pracę, honorariów i innych należności i otrzymywanych świadczeń, w tym emerytur, rent i alimentów.
 
-3. Jeżeli wniosek, o którym mowa w art. 9 ust. 1a, nie zawiera przedstawienia okoliczności faktycznych sprawy, sąd wzywa wnioskodawcę do uzupełnienia braków w wyznaczonym terminie, nie dłuższym niż miesiąc.
-
 **Art. 11.** Jeżeli wnioskodawca mimo wezwania nie uzupełni braków wniosku w zakreślonym terminie, sąd rozpoznaje wniosek na podstawie przedstawionych danych.
 
 **Art. 12.**
@@ -120,8 +101,6 @@ source: "isap-pdf"
 1. W przedmiocie wniosku o przyznanie prawa pomocy orzeka sąd.
 
 2. Sądem właściwym do rozpoznania wniosku jest sąd, przed którym ma być wszczęte lub jest prowadzone postępowanie rozpoznawcze. Jeżeli wniosek dotyczy przyznania prawa pomocy w postępowaniu wykonawczym albo egzekucyjnym, właściwy jest sąd rejonowy, w którego obszarze właściwości jest lub ma być wykonane orzeczenie lub prowadzona egzekucja.
-
-2a. Sądem właściwym do rozpoznania wniosku, o którym mowa w art. 9 ust. 1a, jest sąd, który byłby właściwy do rozpoznania sprawy, której dotyczy wniosek.
 
 3. Postanowienie sądu może być wydane na posiedzeniu niejawnym.
 
@@ -143,11 +122,9 @@ source: "isap-pdf"
 
 2. Sąd odmawia przyznania prawa pomocy także w razie oczywistej bezzasadności dochodzonego roszczenia lub obrony praw.
 
-3. Sąd może odmówić przyznania prawa pomocy z przyczyn dotyczących istoty sprawy, jeżeli wcześniej zostało przyznane wnioskodawcy w tej sprawie prawo pomocy w celu ugodowego załatwienia sporu przed wszczęciem postępowania w sprawie cywilnej, lecz do zawarcia ugody nie doszło.
-
 **Art. 16.**
 
-1. Wnioskodawca korzystający z prawa pomocy obejmującego zwolnienie od kosztów sądowych nie wnosi opłat sądowych i nie ponosi wydatków, które ponosi za niego Skarb Państwa w całości lub w części objętej zwolnieniem. Zwolnienie od wydatków obejmuje w szczególności ponoszenie przez Skarb Państwa kosztów tłumaczenia dokumentów niezbędnych do rozstrzygnięcia sprawy, których złożenia wymaga sąd lub inny właściwy organ albo które składa wnioskodawca, a także kosztów podróży i niezbędnych wydatków świadków wezwanych do sądu na żądanie wnioskodawcy, jeżeli nie mogą być przesłuchani w inny sposób, a ponadto zwrot poniesionych przez wnioskodawcę kosztów tłumaczenia dokumentów niezbędnych do rozpatrzenia wniosku o przyznanie prawa pomocy.
+1. Wnioskodawca korzystający z prawa pomocy obejmującego zwolnienie od kosztów sądowych nie wnosi opłat sądowych i nie ponosi wydatków, które ponosi za niego Skarb Państwa w całości lub w części objętej zwolnieniem. Zwolnienie od wydatków obejmuje w szczególności ponoszenie przez Skarb Państwa kosztów tłumaczenia dokumentów niezbędnych do rozstrzygnięcia sprawy, których złożenia wymaga sąd lub inny właściwy organ albo które składa wnioskodawca, a także kosztów podróży i niezbędnych wydatków świadków wezwanych do sądu na żądanie wnioskodawcy, jeżeli nie mogą być przesłuchani w inny sposób.
 
 2. Skarb Państwa ponosi koszty ustanowienia adwokata albo radcy prawnego, które obejmują:
 
@@ -182,11 +159,7 @@ source: "isap-pdf"
 
 #### Rozdział 3 Prawo pomocy w postępowaniu prowadzonym w innym państwie członkowskim
 
-**Art. 21.**
-
-1. Wnioskodawca, który ma miejsce zamieszkania lub zwykłego pobytu w Rzeczypospolitej Polskiej, ubiegający się o prawo pomocy w postępowaniu, które ma być wszczęte lub jest prowadzone w innym państwie członkowskim, może złożyć wniosek o przyznanie tego prawa również za pośrednictwem sądu okręgowego właściwego dla miejsca jego zamieszkania lub zwykłego pobytu w Rzeczypospolitej Polskiej.
-
-2. Wnioskodawca, który ma miejsce zamieszkania lub zwykłego pobytu w Rzeczypospolitej Polskiej, może ubiegać się o przyznanie prawa pomocy w celu ugodowego załatwienia sporu przed wszczęciem postępowania w sprawie cywilnej, w której jurysdykcja przysługuje sądom innego państwa członkowskiego, na warunkach określonych w niniejszym rozdziale.
+**Art. 21.** Wnioskodawca, który ma miejsce zamieszkania lub zwykłego pobytu w Rzeczypospolitej Polskiej, ubiegający się o prawo pomocy w postępowaniu, które ma być wszczęte lub jest prowadzone w innym państwie członkowskim, może złożyć wniosek o przyznanie tego prawa również za pośrednictwem sądu okręgowego właściwego dla miejsca jego zamieszkania lub zwykłego pobytu w Rzeczypospolitej Polskiej.
 
 **Art. 22.**
 
@@ -220,6 +193,9 @@ source: "isap-pdf"
 
 **Art. 26.** Wnioskodawca, który złożył wniosek o przyznanie prawa pomocy w postępowaniu, które ma być wszczęte lub jest prowadzone w innym państwie członkowskim, za pośrednictwem sądu okręgowego, może uzyskać także w Rzeczypospolitej Polskiej prawo pomocy na potrzeby tego postępowania w zakresie:
 
+- **1)** zwolnienia od wydatków obejmujących koszty tłumaczenia wniosku o przyznanie prawa pomocy w innym państwie członkowskim oraz niezbędnych dokumentów uzasadniających ten wniosek;
+- **2)** ustanowienia adwokata albo radcy prawnego w celu udzielenia przez niego wnioskodawcy pomocy prawnej w Rzeczypospolitej Polskiej na potrzeby postępowania, które ma być wszczęte lub jest prowadzone w innym państwie członkowskim, do dnia otrzymania wniosku o przyznanie prawa pomocy przez właściwy organ tego państwa członkowskiego.
+
 **Art. 27.** Skarb Państwa ponosi koszty ustanowienia adwokata albo radcy prawnego oraz tłumaczenia, o którym mowa w art. 26 pkt 1. Przepis art. 16 ust. 2 stosuje się odpowiednio.
 
 **Art. 28.**
@@ -236,5 +212,11 @@ source: "isap-pdf"
 
 **Art. 32.** Minister Sprawiedliwości określi, w drodze rozporządzenia:
 
-**Art. 33.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+- **1)** wzór i sposób udostępnienia urzędowego formularza wniosku o przyznanie prawa pomocy, o którym mowa w art. 9 ust. 2, kierując się wymaganiami przewidzianymi dla wniosków o przyznanie prawa pomocy, potrzebą zawarcia w nich odpowiednich pouczeń ułatwiających wypełnienie wniosku i koniecznością zapewnienia ich dostępności osobom zainteresowanym;
+- **2)** wzór urzędowego formularza przekazania wniosku o przyznanie prawa pomocy, o którym mowa w art. 25 ust. 2, mając na względzie konieczność udostępnienia państwom członkowskim Unii Europejskiej, do których jest kierowany, danych umożliwiających nadanie wnioskowi o przyznanie prawa pomocy prawidłowego biegu.
+
+**Art. 33.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+- **1)** Przepisy niniejszej ustawy wdrażają dyrektywę 2003/8/WE z dnia 27 stycznia 2003 r. przyjętą w celu usprawnienia dostępu do wymiaru sprawiedliwości w sporach transgranicznych poprzez ustanowienie minimalnych wspólnych zasad odnoszących się do pomocy prawnej w sporach o tym charakterze (Dz. Urz. WE L 26 z 31.01.2003). 2) Zmiany wymienionej ustawy zostały ogłoszone w Dz. U. z 1965 r. Nr 15, poz. 113, z 1974 r. Nr 27, poz. 157 i Nr 39, poz. 231, z 1975 r. Nr 45, poz. 234, z 1982 r. Nr 11, poz. 82 i Nr 30, poz. 210, z 1983 r. Nr 5, poz. 33, z 1984 r. Nr 45, poz. 241 i 242, z 1985 r. Nr 20, poz. 86, z 1987 r. Nr 21, poz. 123, z 1988 r. Nr 41, poz. 324, z 1989 r. Nr 4, poz. 21 i Nr 33, poz. 175, z 1990 r. Nr 14, poz. 88, Nr 34, poz. 198, Nr 53, poz. 306, Nr 55, poz. 318 i Nr 79, poz. 464, z 1991 r. Nr 7, poz. 24, Nr 22, poz. 92 i Nr 115, poz. 496, z 1993 r. Nr 12, poz. 53, z 1994 r. Nr 105, poz. 509, z 1995 r. Nr 83, poz. 417, z 1996 r. Nr 24, poz. 110, Nr 43, poz. 189, Nr 73, poz. 350 i Nr 149, poz. 703, z 1997 r. Nr 43, poz. 270, Nr 54, poz. 348, Nr 75, poz. 471, Nr 102, poz. 643, Nr 117, poz. 752, Nr 121, poz. 769 i 770, Nr 133, poz. 882, Nr 139, poz. 934, Nr 140, poz. 940 i Nr 141, poz. 944, z 1998 r. Nr 106, poz. 668 i Nr 117, poz. 757, z 1999 r. Nr 52, poz. 532, z 2000 r. Nr 22, poz. 269 i 271, Nr 48, poz. 552 i 554, Nr 55, poz. 665, Nr 73, poz. 852, Nr 94, poz. 1037, Nr 114, poz. 1191 i 1193 i Nr 122, poz. 1314, 1319 i 1322, z 2001 r. Nr 4, poz. 27, Nr 49, poz. 508, Nr 63, poz. 635, Nr 98, poz. 1069, 1070 i 1071, Nr 123, poz. 1353, Nr 125, poz. 1368 i Nr 138, poz. 1546, z 2002 r. Nr 25, poz. 253, Nr 26, poz. 265, Nr 74, poz. 676, Nr 84, poz. 764, Nr 126, poz. 1069 i 1070, Nr 129, poz. 1102, Nr 153, poz. 1271, Nr 219, poz. 1849 i Nr 240, poz. 2058, z 2003 r. Nr 41, poz. 360, Nr 42, poz. 363, Nr 60, poz. 535, Nr 109, poz. 1035, Nr 119, poz. 1121, Nr 130, poz. 1188, Nr 139, poz. 1323, Nr 199, poz. 1939 i Nr 228, poz. 2255 oraz z 2004 r. Nr 9, poz. 75, Nr 11, poz. 101, Nr 68, poz. 623, Nr 91, poz. 871, Nr 93, poz. 891, Nr 121, poz. 1264, Nr 162, poz. 1691, Nr 169, poz. 1783, Nr 172, poz. 1804, Nr 204, poz. 2091, Nr 210, poz. 2135, Nr 236, poz. 2356 i Nr 237, poz. 2384. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2002 r. Nr 233, poz. 1955, z 2003 r. Nr 45, poz. 391, Nr 96, poz. 874 i Nr 139, poz. 1323 oraz z 2004 r. Nr 210, poz. 2135.
+
 

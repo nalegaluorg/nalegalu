@@ -8,10 +8,10 @@ pos: 1127
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy - Kodeks pracy oraz niektórych innych ustaw.
+# Ustawa z dnia 9 listopada 2000 r. o zmianie ustawy – Kodeks pracy oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,30 +22,273 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2000-11-09 |
 | Data wydania | 2000-12-07 |
+| Wejście w życie | 2001-01-01 |
 | Ostatnia zmiana | 2025-12-12 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20001071127) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/1127/text.pdf) |
 
-**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. ‒ Kodeks pracy (Dz.U. z 1998 r. Nr 21, poz. 94, Nr 106, poz. 668 i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152 oraz z 2000 r. Nr 19, poz. 239 i Nr 43, poz. 489) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, Nr 106, poz. 668i Nr 113, poz. 717, z 1999 r. Nr 99, poz. 1152oraz z 2000 r. Nr 19, poz. 239i Nr 43, poz. 489) wprowadza się następujące zmiany:
 
-**Art. 2.** W ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz.U. Nr 55, poz. 234, z 1994 r. Nr 43, poz. 163, z 1996 r. Nr 1, poz. 2, Nr 24, poz. 110, Nr 61, poz. 283, Nr 75, poz. 355 i Nr 152, poz. 723, z 1997 r. Nr 82, poz. 518, Nr 88, poz. 554, Nr 96, poz. 589 i Nr 121, poz. 769 oraz z 1999 r. Nr 1, poz. 6) wprowadza się następujące zmiany:
+- **1)** w art. 238 § 1 otrzymuje brzmienie: „
 
-**Art. 3.** W ustawie z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz.U. Nr 55, poz. 235, z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769 oraz z 2000 r. Nr 60, poz. 700) 1 wprowadza się następujące zmiany:
+§ 1. Ilekroć w przepisach działu jest mowa o:
 
-**Art. 4.** W ustawie z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz.U. Nr 55, poz. 236 oraz z 1997 r. Nr 82, poz. 518 i Nr 88, poz. 554 oraz z 1999 r. Nr 72, poz. 802) 5 otrzymuje brzmienie: „Art. 5. Pracodawcą rozumieniu ustawy jest podmiot, o którym mowa 3 Kodeksu pracy.”.
+- **1)** ponadzakładowej organizacji związkowej – należy przez to rozumieć organizację związkową będącą ogólnokrajowym związkiem zawodowym, zrzeszeniem (federacją) związków zawodowych lub ogólnokrajową organizacją międzyzwiązkową (konfederacją),
+- **2)** organizacji związkowej reprezentującej pracowników – należy przez to rozumieć organizację związkową zrzeszającą pracowników, dla których układ jest zawierany. Dotyczy to również zrzeszenia (federacji) związków zawodowych, w skład którego wchodzą te organizacje związkowe, a także ogólnokrajowej organizacji międzyzwiązkowej (konfederacji) zrzeszającej takie organizacje związkowe lub zrzeszenia (federacje) związków zawodowych. ” ;
+- **2)** w art. 239 § 3 otrzymuje brzmienie: „
 
-**Art. 5.** Przepisy wykonawcze wydane przed dniem wejścia życie ustawy na podstawie 241 § 6 Kodeksu pracy zachowują moc do czasu wydania na tej podstawie nowych przepisów wykonawczych po wejściu życie ustawy.
+§ 3. Układu nie zawiera się dla:
 
-**Art. 6.** Do układów zbiorowych pracy zgłoszonych do rejestru układów przed dniem wejścia życie ustawy mają odpowiednio zastosowanie przepisy 241 § 2, 241 , 241 oraz 241 Kodeksu pracy brzmieniu obowiązującym przed tym dniem.
+- **1)** członków korpusu służby cywilnej,
+- **2)** pracowników urzędów państwowych zatrudnionych na podstawie mianowania i powołania,
+- **3)** pracowników samorządowych zatrudnionych na podstawie wyboru, mianowania i powołania w: urzędach marszałkowskich, starostwach powiatowych, urzędach gminy, biurach (ich odpowiednikach) związków jednostek samorządu terytorialnego, biurach (ich odpowiednikach) jednostek administracyjnych jednostek samorządu terytorialnego,
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
 
-**Art. 7.** Ponadzakładowe układy zbiorowe pracy zawarte przez statutowe organy podmiotów określonych przepisach wydanych przez Ministra Pracy i Polityki Socjalnej na podstawie 241 § 2 Kodeksu pracy obowiązującego przed dniem wejścia życie ustawy i zarejestrowane przed tym dniem zachowują moc do czasu pracy brzmieniu obowiązującym przed tym dniem.
+- **4)** sędziów i prokuratorów. ” ;
+- **3)** w art. 240: w § 1 w pkt 2 po wyrazie „układu” dodaje się wyrazy „, w tym dotyczące stosowania układu i przestrzegania jego postanowień”, § 3 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
 
-**Art. 9.** (uchylony)
+§ 3. Układ nie może naruszać praw osób trzecich. ” ;
 
-**Art. 10.** (uchylony)
+- **4)** w art. 2411 w pkt 3 przecinek zastępuje się kropką i skreśla się pkt 4;
+- **5)** w art. 2417: § 4 otrzymuje brzmienie: „
+    - **a)**
 
-**Art. 11.** (uchylony)
+§ 4. W razie rozwiązania układu do czasu wejścia w życie nowego układu stosuje się postanowienia układu dotychczasowego, chyba że strony w układzie ustaliły lub w drodze porozumienia ustalą inny termin stosowania postanowień rozwiązanego układu. Przepis art. 2418 § 2 stosuje się. ” , skreśla się § 5;
 
-**Art. 12.** (uchylony)
+- **b)**
+- **6)** w art. 2418 § 1–3 otrzymują brzmienie: „
 
-**Art. 13.** Ustawa wchodzi życie z dniem 1 stycznia 2001 r.
+§ 1. W okresie jednego roku od dnia przejścia zakładu pracy lub jego części na nowego pracodawcę do pracowników stosuje się postanowienia układu, którym byli objęci przed przejściem zakładu pracy lub jego części na nowego pracodawcę, chyba że odrębne przepisy stanowią inaczej. Postanowienia tego układu stosuje się w brzmieniu obowiązującym w dniu przejścia zakładu pracy lub jego części na nowego pracodawcę. Pracodawca może stosować do tych pracowników korzystniejsze warunki niż wynikające z dotychczasowego układu.
+
+§ 2. Po upływie okresu stosowania dotychczasowego układu wynikające z tego układu warunki umów o pracę lub innych aktów stanowiących podstawę nawiązania stosunku pracy stosuje się do upływu okresu wypowiedzenia tych warunków. Przepis art. 24113 § 2 zdanie drugie stosuje się.
+
+§ 3. Jeżeli w przypadkach, o których mowa w § 1, nowy pracodawca przejmuje również inne osoby objęte układem obowiązującym u dotychczasowego pracodawcy, stosuje postanowienia układu dotyczące tych osób przez okres jednego roku od dnia przejęcia. ” ;
+
+- **7)** w art. 2419 § 3 i 4 otrzymują brzmienie: „
+
+§ 3. Strony układu mogą wyrazić zgodę, aby w prawa i obowiązki strony wstąpiła organizacja związkowa, która nie zawarła układu.
+
+§ 4. Organizacja związkowa, która po zawarciu układu stała się reprezentatywna na podstawie art. 24117 lub art. 24125a § 1, może wstąpić w prawa i obowiązki strony układu, składając w tym celu oświadczenie stronom tego układu. Do zakładowej organizacji związkowej art. 24125a § 3–5 stosuje się odpowiednio. ” ;
+
+- **8)** w art. 24111: w § 1 w pkt 1 wyrazy „Ministra Pracy i Polityki Socjalnej” zastępuje się wyrazami „ministra właściwego do spraw pracy”, w § 5 w pkt 1 wyrazy „Sądu Wojewódzkiego – Sądu Pracy i Ubezpieczeń Społecznych w Warszawie” zastępuje się wyrazami „Sądu Okręgowego – Sądu Pracy i Ubezpieczeń Społecznych w Warszawie”, po § 5 dodaje się § 51–55 w brzmieniu: „
+    - **a)**
+    - **b)**
+    - **c)**
+
+§ 51. Osoba mająca interes prawny może, w terminie 90 dni od dnia zarejestrowania układu, wystąpić do organu, który układ zarejestrował, z zastrzeżeniem, że został on zawarty z naruszeniem przepisów o zawieraniu układów zbiorowych pracy. Zastrzeżenie powinno być złożone na piśmie i zawierać uzasadnienie.
+
+§ 52. Organ rejestrujący w ciągu 14 dni po otrzymaniu zastrzeżenia, o którym mowa w § 51, wzywa strony układu do przedstawienia dokumentów i złożenia wyjaśnień niezbędnych do rozpatrzenia zastrzeżenia.
+
+§ 53. W razie stwierdzenia, że układ został zawarty z naruszeniem przepisów o zawieraniu układów zbiorowych pracy, organ rejestrujący wzywa strony układu do usunięcia tej nieprawidłowości w terminie 14 dni, chyba że jej usunięcie nie jest możliwe.
+
+§ 54. W razie gdy:
+
+- **1)** strony układu nie przedstawią w wyznaczonym terminie, nie krótszym niż 30 dni, dokumentów i wyjaśnień, o których mowa w § 52, lub
+- **2)** strony układu w wyznaczonym terminie, nie krótszym niż 30 dni, nie usuną nieprawidłowości, o której mowa w § 53, lub usunięcie tej nieprawidłowości nie jest możliwe, organ rejestrujący wykreśla układ z rejestru układów. Przepis § 5 stosuje się odpowiednio.
+
+§ 55. Warunki umów o pracę lub innych aktów stanowiących podstawę nawiązania stosunku pracy, wynikające z układu wykreślonego z rejestru układów, obowiązują do upływu okresu wypowiedzenia tych warunków. Przepis art. 24113 § 2 zdanie drugie stosuje się. ” , § 6 otrzymuje brzmienie: „
+
+- **d)**
+
+§ 6. Minister właściwy do spraw pracy w celu zapewnienia jednolitych zasad rejestracji układów zbiorowych pracy i prowadzenia rejestru tych układów określi, w drodze rozporządzenia, tryb postępowania w sprawie rejestracji układów zbiorowych pracy, w szczególności warunki składania wniosków o wpis do rejestru układów i o rejestrację układu, zakres informacji objętych tymi wnioskami oraz dokumenty dołączane do wniosków, skutki niezachowania wymogów dotyczących formy i treści wniosków, jak również tryb wykreślenia układu z rejestru, a także sposób prowadzenia rejestru układów i akt rejestrowych oraz wzory klauzul rejestracyjnych i kart rejestrowych. ” ;
+
+- **9)** w art. 24113 w § 2 dodaje się zdanie drugie w brzmieniu: „ Przy wypowiedzeniu dotychczasowych warunków umowy o pracę lub innego aktu stanowiącego podstawę nawiązania stosunku pracy nie mają zastosowania przepisy ograniczające dopuszczalność wypowiadania warunków takiej umowy lub aktu. ” ;
+- **10)** w art. 24114: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Ponadzakładowy układ zbiorowy pracy, zwany dalej «układem ponadzakładowym», zawierają:
+
+- **1)** ze strony pracowników właściwy statutowo organ ponadzakładowej organizacji związkowej,
+- **2)** ze strony pracodawców właściwy statutowo organ organizacji pracodawców – w imieniu zrzeszonych w tej organizacji pracodawców. ” , skreśla się § 2;
+    - **b)**
+
+- **11)** po art. 24114 dodaje się art. 24114a w brzmieniu: „
+
+**Art. 24114a.**
+
+§ 1. W razie gdy ponadzakładowa organizacja związkowa reprezentująca pracowników, dla których ma być zawarty układ ponadzakładowy, wchodzi w skład zrzeszenia (federacji) związków zawodowych lub ogólnokrajowej organizacji międzyzwiązkowej (konfederacji), do zawarcia układu jest upoważniona, z zastrzeżeniem § 2, wyłącznie ta ponadzakładowa organizacja związkowa.
+
+§ 2. Ogólnokrajowa organizacja międzyzwiązkowa (konfederacja) uczestniczy w rokowaniach i zawiera układ ponadzakładowy w miejsce wchodzących w jej skład ponadzakładowych organizacji związkowych, reprezentujących pracowników, dla których układ ten ma być zawarty i które uzyskały reprezentatywność na podstawie art. 24117 § 3, jedynie w razie skierowania do niej umotywowanego pisemnego wniosku w tej sprawie przez co najmniej jedną z pozostałych ponadzakładowych organizacji związkowych prowadzących rokowania w sprawie zawarcia tego układu. Organizacja, do której skierowano wniosek, nie może odmówić przystąpienia do rokowań; odmowa skutkuje pozbawieniem reprezentatywności dla potrzeb określonego układu ponadzakładowego wszystkich organizacji, w miejsce których powinna wstąpić organizacja, do której skierowany został wniosek.
+
+§ 3. W razie gdy organizacja pracodawców zrzeszająca pracodawców, którzy mają być objęci układem ponadzakładowym, wchodzi w skład federacji lub konfederacji, prawo do zawarcia układu przysługuje organizacji, w której pracodawcy są bezpośrednio zrzeszeni. ” ;
+
+- **12)** w art. 24115 pkt 1 otrzymuje brzmienie: „
+- **1)** organizacji pracodawców uprawnionej do zawarcia układu ze strony pracodawców, ” ;
+- **13)** art. 24116 otrzymuje brzmienie: „
+
+**Art. 24116.**
+
+§ 1. Jeżeli pracowników, dla których ma być zawarty układ ponadzakładowy, reprezentuje więcej niż jedna organizacja związkowa, rokowania w celu zawarcia układu prowadzi ich wspólna reprezentacja lub działające wspólnie poszczególne organizacje związkowe.
+
+§ 2. Jeżeli w terminie wyznaczonym przez podmiot występujący z inicjatywą zawarcia układu ponadzakładowego, nie krótszym niż 30 dni od dnia zgłoszenia inicjatywy zawarcia układu, nie wszystkie organizacje związkowe przystąpią do rokowań w trybie określonym w § 1, do prowadzenia rokowań są uprawnione organizacje związkowe, które przystąpiły do rokowań. Rokowania te są prowadzone w trybie określonym w § 1.
+
+§ 3. Warunkiem prowadzenia rokowań, o których mowa w § 2, jest uczestniczenie w nich co najmniej jednej reprezentatywnej ponadzakładowej organizacji związkowej w rozumieniu art. 24117.
+
+§ 4. Jeżeli przed zawarciem układu zostanie utworzona ponadzakładowa organizacja związkowa, ma ona prawo przystąpić do rokowań.
+
+§ 5. Układ ponadzakładowy zawierają wszystkie organizacje związkowe, które prowadziły rokowania nad tym układem, bądź co najmniej wszystkie reprezentatywne organizacje związkowe, w rozumieniu art. 24117, uczestniczące w rokowaniach. ” ;
+
+- **14)** w art. 24117: w § 1 w pkt 2 wyrazy „nie mniej niż pięć tysięcy pracowników” zastępuje się wyrazami „nie mniej jednak niż dziesięć tysięcy pracowników”, w § 2 wyrazy „Sądu Wojewódzkiego w Warszawie” zastępuje się wyrazami „Sądu Okręgowego w Warszawie”;
+    - **a)**
+    - **b)**
+
+- **15)** art. 24118 otrzymuje brzmienie: „
+
+**Art. 24118.**
+
+§ 1. Na wspólny wniosek organizacji pracodawców i ponadzakładowych organizacji związkowych, które zawarły układ ponadzakładowy, minister właściwy do spraw pracy może – gdy wymaga tego ważny interes społeczny – rozszerzyć, w drodze rozporządzenia, stosowanie tego układu w całości lub w części na pracowników zatrudnionych u pracodawcy nieobjętego żadnym układem ponadzakładowym, prowadzącego działalność gospodarczą taką samą lub zbliżoną do działalności pracodawców objętych tym układem, ustalonej na podstawie odrębnych przepisów dotyczących klasyfikacji działalności, po zasięgnięciu opinii tego pracodawcy lub wskazanej przez niego organizacji pracodawców oraz zakładowej organizacji związkowej – o ile taka działa u pracodawcy – a także opinii Komisji do Spraw Układów Zbiorowych Pracy powołanej na podstawie odrębnych przepisów.
+
+§ 2. Wniosek o rozszerzenie stosowania układu ponadzakładowego powinien wskazywać nazwę pracodawcy i jego siedzibę, a także uzasadnienie potrzeby rozszerzenia stosowania układu ponadzakładowego oraz zawierać informacje i dokumenty niezbędne do stwierdzenia wymogów, o których mowa w § 1.
+
+§ 3. Projekt rozporządzenia, o którym mowa w § 1, nie wymaga skierowania do zaopiniowania przez organizacje związkowe i organizacje pracodawców.
+
+§ 4. Rozszerzenie stosowania układu ponadzakładowego obowiązuje nie dłużej niż do czasu objęcia pracodawcy innym układem ponadzakładowym.
+
+§ 5. Do wniosku o uchylenie rozszerzenia stosowania układu stosuje się odpowiednio przepisy § 1–3 oraz art. 2418 § 2. ” ;
+
+- **16)** w art. 24119: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. W razie połączenia lub podziału organizacji związkowej lub organizacji pracodawców, która zawarła układ ponadzakładowy, jej prawa i obowiązki przechodzą na organizację powstałą w wyniku połączenia lub podziału. ” , w § 2 zdanie drugie otrzymuje brzmienie: „ Przepis art. 2418 § 2 stosuje się odpowiednio. ” , skreśla się § 3, po § 3 dodaje się § 4 w brzmieniu: „
+
+- **b)**
+- **c)**
+- **d)**
+
+§ 4. Informacje dotyczące spraw, o których mowa w § 1 i 2, podlegają zgłoszeniu do rejestru układów. ” ;
+
+- **17)** skreśla się art. 24120–24122;
+- **18)** art. 24123 otrzymuje brzmienie: „
+
+**Art. 24123.** Zakładowy układ zbiorowy pracy, zwany dalej «układem zakładowym», zawiera pracodawca i zakładowa organizacja związkowa. ” ;
+
+- **19)** art. 24125 otrzymuje brzmienie: „
+
+**Art. 24125.**
+
+§ 1. Jeżeli pracowników, dla których ma być zawarty układ zakładowy, reprezentuje więcej niż jedna organizacja związkowa, rokowania w celu zawarcia układu prowadzi ich wspólna reprezentacja lub działające wspólnie poszczególne organizacje związkowe.
+
+§ 2. Jeżeli w terminie wyznaczonym przez podmiot występujący z inicjatywą zawarcia układu zakładowego, nie krótszym niż 30 dni od dnia zgłoszenia inicjatywy zawarcia układu, nie wszystkie organizacje związkowe przystąpią do rokowań w trybie określonym w § 1, do prowadzenia rokowań są uprawnione organizacje związkowe, które przystąpiły do rokowań. Rokowania te są prowadzone w trybie określonym w § 1.
+
+§ 3. Warunkiem prowadzenia rokowań, o których mowa w § 2, jest uczestniczenie w nich co najmniej jednej reprezentatywnej zakładowej organizacji związkowej w rozumieniu przepisów art. 24125a.
+
+§ 4. Jeżeli przed zawarciem układu zostanie utworzona zakładowa organizacja związkowa, ma ona prawo przystąpić do rokowań.
+
+§ 5. Układ zakładowy zawierają wszystkie organizacje związkowe, które prowadziły rokowania nad tym układem, bądź przynajmniej wszystkie reprezentatywne organizacje związkowe, w rozumieniu art. 24125a, uczestniczące w rokowaniach. ” ;
+
+- **20)** po art. 24125 dodaje się art. 24125a w brzmieniu: „
+
+§ 1. Reprezentatywną zakładową organizacją związkową jest organizacja związkowa:
+
+- **1)** będąca jednostką organizacyjną albo organizacją członkowską ponadzakładowej organizacji związkowej uznanej za reprezentatywną na podstawie art. 24117 § 1 pkt 1, pod warunkiem że zrzesza ona co najmniej 7% pracowników zatrudnionych u pracodawcy, lub
+- **2)** zrzeszająca co najmniej 10% pracowników zatrudnionych u pracodawcy.
+
+§ 2. Jeżeli żadna z zakładowych organizacji związkowych nie spełnia wymogów, o których mowa w § 1, reprezentatywną zakładową organizacją związkową jest organizacja zrzeszająca największą liczbę pracowników.
+
+§ 3. Przy ustalaniu liczby pracowników zrzeszonych w zakładowej organizacji związkowej, o której mowa w § 1 i 2, uwzględnia się wyłącznie pracowników należących do tej organizacji przez okres co najmniej 6 miesięcy przed przystąpieniem do rokowań w sprawie zawarcia układu zakładowego. W razie gdy pracownik należy do kilku zakładowych organizacji związkowych, uwzględniony może być tylko jako członek jednej wskazanej przez niego organizacji związkowej.
+
+§ 4. Zakładowa organizacja związkowa może przed zawarciem układu zakładowego zgłosić uczestnikom prowadzącym rokowania w sprawie zawarcia tego układu pisemne zastrzeżenie co do spełniania przez inną zakładową organizację związkową kryteriów reprezentatywności, o których mowa w § 1 i 2; prawo zgłoszenia zastrzeżenia przysługuje również pracodawcy.
+
+§ 5. W przypadku, o którym mowa w § 4, zakładowa organizacja związkowa, wobec której zostało zgłoszone zastrzeżenie, występuje do sądu rejonowego – sądu pracy właściwego dla siedziby pracodawcy z wnioskiem o stwierdzenie jej reprezentatywności. Sąd wydaje w tej sprawie orzeczenie w ciągu 30 dni od dnia złożenia wniosku, w trybie przepisów Kodeksu postępowania cywilnego o postępowaniu nieprocesowym. ” ;
+
+- **21)** w art. 24127 § 1 i 2 otrzymują brzmienie: „
+
+§ 1. Ze względu na sytuację finansową pracodawcy strony układu zakładowego mogą zawrzeć porozumienie o zawieszeniu stosowania u danego pracodawcy, w całości lub w części, tego układu oraz układu ponadzakładowego bądź jednego z nich, na okres nie dłuższy niż 3 lata. W razie gdy u pracodawcy obowiązuje jedynie układ ponadzakładowy, porozumienie o zawieszeniu stosowania tego układu lub niektórych jego postanowień mogą zawrzeć strony uprawnione do zawarcia układu zakładowego.
+
+§ 2. Porozumienie, o którym mowa w § 1, podlega zgłoszeniu do rejestru odpowiednio układów zakładowych lub układów ponadzakładowych. Ponadto informację o zawieszeniu stosowania układu ponadzakładowego strony porozumienia przekazują stronom tego układu. ” ;
+
+- **22)** art. 24128 otrzymuje brzmienie: „
+
+**Art. 24128.**
+
+§ 1. Układ zakładowy może obejmować więcej niż jednego pracodawcę, jeżeli pracodawcy ci wchodzą w skład tej samej osoby prawnej.
+
+§ 2. Rokowania nad zawarciem układu zakładowego prowadzą:
+
+- **1)** właściwy organ osoby prawnej, o której mowa w § 1, oraz
+- **2)** wszystkie zakładowe organizacje związkowe działające u pracodawców, z zastrzeżeniem § 3.
+
+§ 3. Jeżeli zakładowe organizacje związkowe należą do tego samego związku, federacji lub konfederacji, do prowadzenia rokowań w ich imieniu jest uprawniony organ wskazany przez ten związek, federację lub konfederację.
+
+§ 4. Jeżeli w terminie wyznaczonym przez podmiot występujący z inicjatywą zawarcia układu zakładowego, nie krótszym niż 30 dni od dnia zgłoszenia inicjatywy zawarcia układu, nie wszystkie organizacje związkowe przystąpią do rokowań, do prowadzenia rokowań są uprawnione organizacje związkowe, które do nich przystąpiły, pod warunkiem uczestniczenia w tych rokowaniach wszystkich organów, o których mowa w § 3, wskazanych przez ponadzakładowe organizacje związkowe reprezentujące pracowników zatrudnionych u pracodawców wchodzących w skład osoby prawnej, reprezentatywne w rozumieniu art. 24117 § 1 pkt 1 i 2 oraz § 3.
+
+§ 5. Układ zakładowy zawierają wszystkie organizacje związkowe, które prowadziły rokowania nad tym układem, bądź co najmniej wszystkie organy, o których mowa w § 3, wskazane przez ponadzakładowe organizacje związkowe reprezentujące pracowników zatrudnionych u pracodawców wchodzących w skład osoby prawnej, reprezentatywne w rozumieniu art. 24117 § 1 pkt 1 i 2 oraz § 3.
+
+§ 6. Przepisy § 1–5 stosuje się odpowiednio do jednostki nieposiadającej osobowości prawnej, w skład której wchodzi więcej niż jeden pracodawca. ” ;
+
+- **23)** w art. 24129: skreśla się § 1, 4 i 5, w § 3 zdanie drugie otrzymuje brzmienie: „ Przepis art. 2418 § 2 stosuje się odpowiednio. ”
+    - **a)**
+    - **b)**
+
+**Art. 2.** W ustawie z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. Nr 55, poz. 234, z 1994 r. Nr 43, poz. 163, z 1996 r. Nr 1, poz. 2, Nr 24, poz. 110, Nr 61, poz. 283, Nr 75, poz. 355i Nr 152, poz. 723, z 1997 r. Nr 82, poz. 518, Nr 88, poz. 554, Nr 96, poz. 589i Nr 121, poz. 769oraz z 1999 r. Nr 1, poz. 6) wprowadza się następujące zmiany:
+
+- **1)** po art. 33 dodaje się art. 331 w brzmieniu: „
+
+**Art. 331.**
+
+1. Pracodawca, na pisemny wniosek zakładowej organizacji związkowej i za pisemną zgodą pracownika, jest obowiązany pobierać z wynagrodzenia pracownika składkę związkową w zadeklarowanej przez niego wysokości.
+
+2. Pracodawca jest obowiązany niezwłocznie przekazywać kwoty pobranych składek związkowych na rachunek bankowy wskazany przez zakładową organizację związkową. ” ;
+
+- **2)** art. 34 otrzymuje brzmienie: „
+
+**Art. 34.**
+
+1. Przepisy art. 26–331 stosuje się do międzyzakładowej organizacji związkowej obejmującej swoim działaniem pracodawcę, z zastrzeżeniem ust. 2 i art. 341.
+
+2. Przy ustalaniu prawa do zwolnienia z obowiązku świadczenia pracy, o którym mowa w art. 31 ust. 1, uwzględnia się łączną liczbę członków międzyzakładowej organizacji związkowej zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji. ” ;
+
+- **3)** po art. 34 dodaje się art. 341 w brzmieniu: „
+
+**Art. 341.**
+
+1. Pracodawcy objęci działaniem międzyzakładowej organizacji związkowej ponoszą koszty, w tym koszty wynagrodzeń i składek na ubezpieczenia społeczne, związane z zatrudnianiem pracownika zwolnionego:
+
+- **1)** z obowiązku świadczenia pracy na okres kadencji w zarządzie międzyzakładowej organizacji związkowej – na podstawie art. 31 ust. 1 w związku z art. 34 ust. 2,
+- **2)** od pracy zawodowej z zachowaniem prawa do wynagrodzenia – na podstawie art. 31 ust. 3, odpowiednio do udziału liczby członków tej organizacji zatrudnionych u danego pracodawcy w łącznej liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji – w przeliczeniu na pełny wymiar czasu pracy.
+
+2. Zarząd międzyzakładowej organizacji związkowej przedstawia pracodawcy, który zwolni pracownika lub pracowników z obowiązku świadczenia pracy lub od pracy zawodowej z zachowaniem prawa do wynagrodzenia, informacje o liczbie członków tej organizacji zatrudnionych u wszystkich pracodawców objętych działaniem tej organizacji oraz u każdego z tych pracodawców – w przeliczeniu na pełny wymiar czasu pracy, według stanu na ostatni dzień miesiąca.
+
+3. Zarząd międzyzakładowej organizacji związkowej przedstawia informacje, o których mowa w ust. 2, w terminie do 10 dnia miesiąca następującego po miesiącu, w którym nastąpiło zwolnienie pracownika lub pracowników z obowiązku świadczenia pracy lub od pracy zawodowej z zachowaniem prawa do wynagrodzenia.
+
+4. Sposób i tryb ponoszenia kosztów, o których mowa w ust. 1, określa każdy pracodawca, który zwolni pracownika lub pracowników z obowiązku świadczenia pracy lub od pracy zawodowej z zachowaniem prawa do wynagrodzenia, w zakresie dotyczącym kosztów związanych z zatrudnianiem tego pracownika lub tych pracowników. ” ;
+
+- **4)** w art. 35 w ust. 1 w pkt 3 na końcu dodaje się przecinek oraz dodaje się pkt 4 w brzmieniu: „
+- **4)** nie dopełnia obowiązków określonych w art. 331 i 341 ” .
+
+**Art. 3.** W ustawie z dnia 23 maja 1991 r. o organizacjach pracodawców (Dz. U. Nr 55, poz. 235, z 1996 r. Nr 34, poz. 148, z 1997 r. Nr 121, poz. 769i z 2000 r. Nr 60, poz. 700) w art. 1 wprowadza się następujące zmiany:
+
+- **1)** ust. 2 otrzymuje brzmienie: „
+
+2. Pracodawcą w rozumieniu ustawy jest podmiot, o którym mowa w art. 3 Kodeksu pracy. ” ;
+
+- **2)** skreśla się ust. 3.
+
+**Art. 4.** W ustawie z dnia 23 maja 1991 r. o rozwiązywaniu sporów zbiorowych (Dz. U. Nr 55, poz. 236, z 1997 r. Nr 82, poz. 518i Nr 88, poz. 554oraz z 1999 r. Nr 72, poz. 802) art. 5 otrzymuje brzmienie: „
+
+**Art. 5.** Pracodawcą w rozumieniu ustawy jest podmiot, o którym mowa w art. 3 Kodeksu pracy. ” Przepisy wykonawcze wydane przed dniem wejścia w życie ustawy na podstawie art. 24111 § 6 Kodeksu pracy zachowują moc do czasu wydania na tej podstawie nowych przepisów wykonawczych po wejściu w życie ustawy.
+
+**Art. 6.** Do układów zbiorowych pracy zgłoszonych do rejestru układów przed dniem wejścia w życie ustawy mają odpowiednio zastosowanie przepisy art. 24114 § 2, art. 24116, art. 24117 oraz art. 24125 Kodeksu pracy w brzmieniu obowiązującym przed tym dniem.
+
+**Art. 7.** Ponadzakładowe układy zbiorowe pracy zawarte przez statutowe organy podmiotów określonych w przepisach wydanych przez Ministra Pracy i Polityki Socjalnej na podstawie art. 24114 § 2 Kodeksu pracy obowiązującego przed dniem wejścia w życie ustawy i zarejestrowane przed tym dniem zachowują moc do czasu ich rozwiązania, a podmioty, które je zawarły, mają w tym okresie uprawnienia przysługujące stronom ponadzakładowego układu zbiorowego pracy.
+
+**Art. 8.** Z dniem wejścia w życie ustawy przestają być reprezentatywne w rozumieniu ustawy ponadzakładowe organizacje związkowe, których reprezentatywność została stwierdzona na podstawie art. 24117 § 1 pkt 2 Kodeksu pracy w brzmieniu obowiązującym przed tym dniem.
+
+**Art. 9.** Do dnia 31 grudnia 2003 r. ponadzakładowy układ zbiorowy pracy ze strony pracodawców zawiera:
+
+- **1)** właściwy minister lub centralny organ administracji rządowej – w imieniu pracodawców zatrudniających pracowników państwowych jednostek sfery budżetowej niezrzeszonych w organizacji pracodawców,
+- **2)** odpowiednio wójt (burmistrz, prezydent miasta), starosta, marszałek województwa oraz przewodniczący zarządu związku międzygminnego lub powiatowego – w imieniu pracodawców zatrudniających pracowników samorządowych jednostek sfery budżetowej niezrzeszonych w organizacji pracodawców.
+
+**Art. 10.** W razie zniesienia urzędu ministra lub centralnego organu administracji rządowej prawa i obowiązki ministra lub centralnego organu administracji rządowej, który zawarł układ ponadzakładowy, przechodzą na ministra lub centralny organ administracji rządowej przejmujący zakres jego działania.
+
+**Art. 11.** Przepisy art. 2418 § 1–3 Kodeksu pracy stosuje się odpowiednio do ponadzakładowego układu zbiorowego pracy w razie gdy organ wymieniony w art. 9, który zawarł taki układ, przestał pełnić wobec pracodawcy objętego tym układem funkcję organu prowadzącego lub nadzorującego. Nie dotyczy to przypadków, o których mowa w art. 10.
+
+**Art. 12.** Ponadzakładowy układ zbiorowy pracy, zawarty przez organy określone w art. 9 oraz w art. 24114 § 1 pkt 2 lit. b) i c) Kodeksu pracy w brzmieniu obowiązującym przed dniem wejścia w życie ustawy, obowiązuje do dnia 31 grudnia 2005 r.; nie obowiązuje on jednak u tych pracodawców, których pracownicy objęci zostaną przed tym terminem ponadzakładowym układem zbiorowym pracy zawartym przez organizację pracodawców. Przepis art. 2418 § 2 Kodeksu pracy stosuje się.
+
+**Art. 13.** Ustawa wchodzi w życie z dniem 1 stycznia 2001 r.
 

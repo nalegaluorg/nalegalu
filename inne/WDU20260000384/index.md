@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o ewidencji ludności
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 20 marca 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-03-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000384) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/384/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 12 marca 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o ewidencji ludności
 1. Na podstawie art. 16 ust. 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 24 września 2010 r. o ewidencji ludności (Dz. U. z 2025 r. poz. 274), z uwzględnieniem stanu prawnego na dzień 10 marca 2026 r. oraz zmian wprowadzonych:
 1) ustawą z dnia 25 czerwca 2025 r. o zmianie ustawy o informatyzacji działalności podmiotów realizujących zadania publiczne oraz niektórych innych ustaw (Dz. U. poz. 1006);
 2) ustawą z dnia 25 lipca 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191);
@@ -40,11 +40,58 @@ source: "isap-pdf"
 
 **Art. 8.** „4. Do spraw, o których mowa w art. 23o oraz art. 51 ust. 1 i 2 ustawy zmienianej w art. 4, w brzmieniu dotychczasowym, wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się art. 23o oraz art. 51 ust. 1 i 2 ustawy zmienianej w art. 4, w brzmieniu nadanym niniejszą ustawą.” „Art. 11. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 
+- **1)** art. 3 pkt 2 lit. a i b oraz pkt 3, art. 4 pkt 2, 4 i 5 oraz art. 9, które wchodzą w życie z dniem 30 czerwca 2026 r.;
+- **2)** art. 6, który wchodzi w życie z dniem 17 kwietnia 2026 r.”;
+- **2)** art. 5 oraz art. 6 ustawy z dnia 25 lipca 2025 r. o zmianie ustawy Prawo bankowe oraz niektórych innych ustaw (Dz. U. poz. 1191), które stanowią: „Art. 5. Bank i spółdzielcza kasa oszczędnościowo-kredytowa posiadające w dniu wejścia w życie niniejszej ustawy dostęp do danych na podstawie decyzji, o której mowa w art. 51 ust. 2 pkt 1 ustawy zmienianej w art. 4, w brzmieniu dotychczasowym, uzyskują dostęp do danych określonych w art. 49 ust. 2aa ustawy zmienianej w art. 4 bez konieczności składania pisemnego wniosku do ministra właściwego do spraw informatyzacji.
+
 **Art. 6.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+
+- **3)** art. 3 ustawy z dnia 5 sierpnia 2025 r. o zmianie ustawy o ubezpieczeniach obowiązkowych, Ubezpieczeniowym Funduszu Gwarancyjnym i Polskim Biurze Ubezpieczycieli Komunikacyjnych oraz ustawy o ewidencji ludności (Dz. U. poz. 1176), który stanowi: „Art. 3. Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.”;
+- **4)** art. 15 ustawy z dnia 5 sierpnia 2025 r. o uchyleniu ustawy o Centralnej Informacji Emerytalnej (Dz. U. poz. 1216), który stanowi: „Art. 15. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 2 pkt 6, art. 3 pkt 2, art. 4 pkt 2 lit. c i pkt 3, art. 6 pkt 4, art. 7 pkt 5 i art. 12 pkt 2 lit. b, które wchodzą w życie z dniem 1 stycznia 2026 r.”;
+- **5)** art. 29 ustawy z dnia 12 września 2025 r. o zmianie niektórych ustaw w celu weryfikacji prawa do świadczeń na rzecz rodziny dla cudzoziemców oraz o warunkach pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. poz. 1301), który stanowi: „Art. 29. Ustawa wchodzi w życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+- **1)** art. 5, art. 6, art. 10 pkt 11 i 14 oraz art. 19, które wchodzą w życie z dniem 1 stycznia 2026 r.;
+- **2)** art. 4, art. 7, art. 9 pkt 1 i 3–5, art. 10 pkt 13 lit. b oraz art. 11, które wchodzą w życie z dniem 1 lutego 2026 r.;
+- **3)** art. 10 pkt 3 lit. c, która wchodzi w życie z dniem 1 marca 2026 r.;
+- **4)** art. 10 pkt 7 lit. a i c–j, które wchodzą w życie z dniem 1 listopada 2025 r.;
+- **5)** art. 10 pkt 18 i 19, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”;
+- **6)** art. 12, art. 17 i art. 19 ustawy z dnia 21 listopada 2025 r. o zmianie ustawy o cudzoziemcach oraz niektórych innych ustaw (Dz. U. poz. 1794), które stanowią: „Art. 12. Do postępowań w sprawach uregulowanych w ustawach zmienianych niniejszą ustawą wszczętych i niezakończonych przed dniem wejścia w życie art. 1 pkt 3–5, 8–41, 44 lit. b, pkt 47–49, 50 i 52, art. 2, art. 5–7, art. 8 pkt 1 lit. b oraz c, art. 10, art. 11, art. 13, art. 14 oraz art. 18 ust. 1 i 2 stosuje się przepisy dotychczasowe.” „Art. 17. 1. Minister właściwy do spraw wewnętrznych ogłosi w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski” komunikat określający dzień wdrożenia rozwiązań technicznych umożliwiających stosowanie przepisów:
+- **1)** art. 3 pkt 2a, art. 7 ust. 4, art. 13 pkt 11, 17–18b, 18d–19a i 27–30, art. 64a ust. 1 i 10–12, art. 104 ust. 1–1b, art. 105–106l, art. 107 ust. 1, art. 108 ust. 1 pkt 1 i ust. 3–10, art. 112a ust. 2 pkt 3, ust. 3 pkt 2 i ust. 3a, art. 114 ust. 1 pkt 4 i ust. 4b, art. 120a ust. 1–3, art. 139l ust. 2, art. 139t ust. 2, art. 168 ust. 2, art. 168a ust. 2, art. 202–203i, art. 204 ust. 1, art. 206 ust. 1 pkt 1 i ust. 3–9, art. 210 ust. 2 pkt 3, art. 218a–219i, art. 222 ust. 1, art. 222a–222g, art. 225a–225i, art. 228 pkt 2, art. 244 ust. 3, art. 246 ust. 3, art. 248 ust. 1–2a, 4 i 5, art. 279 oraz art. 282 ustawy zmienianej w art. 1, w brzmieniu nadanym niniejszą ustawą;
+- **2)** art. 12d ust. 3a i 6–8 ustawy zmienianej w art. 2, w brzmieniu nadanym niniejszą ustawą;
+- **3)** art. 8 pkt 24, art. 10 ust. 8, art. 23i ust. 1a, art. 23j ust. 2 pkt 2 lit. b oraz art. 43 ust. 3 i 5 ustawy zmienianej w art. 5, w brzmieniu nadanym niniejszą ustawą;
+- **4)** art. 4 ust. 2 pkt 5 ustawy zmienianej w art. 6, w brzmieniu nadanym niniejszą ustawą;
+- **5)** art. 343a ust. 1 pkt 3 ustawy zmienianej w art. 7, w brzmieniu nadanym niniejszą ustawą;
+- **6)** art. 42 ust. 16 ustawy zmienianej w art. 8, w brzmieniu nadanym niniejszą ustawą;
+- **7)** art. 1 ust. 3 pkt 5 ustawy zmienianej w art. 10, w brzmieniu nadanym niniejszą ustawą;
+- **8)** art. 3 ust. 1 pkt 18 i ust. 3 pkt 2 ustawy zmienianej w art. 11, w brzmieniu nadanym niniejszą ustawą.
+
+2. Komunikat ogłasza się w terminie co najmniej 14 dni przed dniem wdrożenia rozwiązań technicznych określonym w tym komunikacie.” „Art. 19. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
+
+- **1)** art. 9 i art. 17, które wchodzą w życie z dniem następującym po dniu ogłoszenia;
+- **2)** art. 1 pkt 3–5, 8–41, 44 lit. b, pkt 47–50 i 52, art. 2, art. 5–7, art. 8 pkt 1 lit. b oraz c, art. 10, art. 11, art. 13, art. 14 oraz art. 18 ust. 1 i 2, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 17;
+- **3)** art. 1 pkt 42, 43, 44 lit. a, pkt 45, 46, 51, 59 lit. a tiret pierwsze, pkt 60 lit. a, pkt 61 lit. a i pkt 63, które wchodzą w życie z dniem 1 kwietnia 2026 r.;
+- **4)** art. 8 pkt 2 i 3, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”;
+- **7)** art. 54 ustawy z dnia 23 stycznia 2026 r. o wygaszeniu rozwiązań wynikających z ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz o zmianie niektórych innych ustaw (Dz. U. poz. 203), który stanowi: „Art. 54. Ustawa wchodzi w życie z dniem 5 marca 2026 r., z wyjątkiem:
+- **1)** art. 17 pkt 3 lit. d tiret drugie i pkt 51 w zakresie uchylenia art. 110, które wchodzą w życie z dniem 1 stycznia 2027 r.;
+- **2)** art. 17 pkt 46 i 51 w zakresie uchylenia art. 113, które wchodzą w życie z dniem 5 marca 2027 r.;
+- **3)** art. 14, który wchodzi w życie z dniem 1 września 2027 r.;
+- **4)** art. 17 pkt 22–31, które wchodzą w życie z dniem określonym w komunikacie, o którym mowa w art. 33 ustawy z dnia 15 maja 2024 r. o zmianie ustawy o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa oraz niektórych innych ustaw (Dz. U. poz. 854).”. Marszałek Sejmu: W. Czarzasty USTAWA z dnia 24 września 2010 r. o ewidencji ludności
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa określa:
+
+- **1)** zasady i sposób prowadzenia ewidencji ludności w Rzeczypospolitej Polskiej;
+- **2)** zakres i zasady rejestracji danych gromadzonych w Powszechnym Elektronicznym Systemie Ewidencji Ludności i w rejestrach mieszkańców;
+- **3)** zasady i tryb nadawania numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **4)** zasady wykonywania obowiązku meldunkowego przez obywateli polskich i cudzoziemców;
+- **5)** zasady udostępniania danych z Powszechnego Elektronicznego Systemu Ewidencji Ludności oraz rejestrów, o których mowa w pkt 2;
+- **6)** zasady i tryb zastrzegania i cofania zastrzeżenia numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **7)** zasady i sposób prowadzenia rejestru zastrzeżeń numerów Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **8)** zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów Powszechnego Elektronicznego Systemu Ewidencji Ludności;
+- **9)** zasady i tryb nadawania numeru Powszechnego Elektronicznego Systemu Ewidencji Ludności beneficjentom ochrony czasowej;
+- **10)** zasady i tryb zarządzania statusem beneficjenta ochrony czasowej;
+- **11)** zasady i sposób prowadzenia rejestru beneficjentów ochrony czasowej;
+- **12)** zasady i tryb udostępniania danych z rejestru beneficjentów ochrony czasowej.
 
 **Art. 2.** Ewidencja ludności polega na rejestracji określonych w ustawie podstawowych danych identyfikujących tożsamość oraz status administracyjnoprawny osób fizycznych.
 
@@ -118,6 +165,45 @@ source: "isap-pdf"
 
 **Art. 8.** W rejestrze PESEL i rejestrach mieszkańców gromadzone są następujące dane:
 
+- **1)** nazwisko i imię (imiona);
+- **2)** nazwisko rodowe;
+- **3)** imiona i nazwiska rodowe rodziców;
+- **3a)** numery PESEL rodziców, jeżeli zostały im nadane;
+- **4)** data urodzenia;
+- **5)** miejsce urodzenia;
+- **6)** kraj urodzenia;
+- **7)** stan cywilny;
+- **8)** oznaczenie aktu urodzenia i urzędu stanu cywilnego, w którym został on sporządzony;
+- **9)** płeć;
+- **10)** numer PESEL;
+- **11)** obywatelstwo albo status bezpaństwowca;
+- **12)** imię i nazwisko rodowe oraz numer PESEL małżonka, jeżeli został mu nadany;
+- **13)** data zawarcia związku małżeńskiego, oznaczenie aktu małżeństwa i urzędu stanu cywilnego, w którym został on sporządzony, data rozwiązania związku małżeńskiego, sygnatura akt i oznaczenie sądu, który rozwiązał małżeństwo, sygnatura akt i oznaczenie sądu, który ustalił nieistnienie małżeństwa, sygnatura akt i oznaczenie sądu, który unieważnił małżeństwo, data zgonu małżonka albo data znalezienia jego zwłok, oznaczenie jego aktu zgonu i urzędu stanu cywilnego, w którym ten akt został sporządzony;
+- **14)** adres i data zameldowania na pobyt stały;
+- **15)** kraj miejsca zamieszkania;
+- **16)** kraj poprzedniego miejsca zamieszkania;
+- **17)** data wymeldowania z miejsca pobytu stałego;
+- **18)** adres i data zameldowania na pobyt czasowy oraz data upływu deklarowanego terminu pobytu;
+- **19)** data wymeldowania z miejsca pobytu czasowego;
+- **20)** data wyjazdu poza granice Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy i wskazanie kraju wyjazdu;
+- **20a)** przewidywany okres pobytu poza granicami Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy;
+- **21)** data powrotu z wyjazdu poza granice Rzeczypospolitej Polskiej trwającego dłużej niż 6 miesięcy;
+- **22)** seria, numer i data ważności ostatniego wydanego dowodu osobistego obywatela polskiego oraz oznaczenie organu wydającego dokument;
+- **23)** seria, numer i data ważności ostatniego wydanego paszportu obywatela polskiego;
+- **24)** seria, numer i data ważności ważnego dokumentu podróży cudzoziemca lub innego ważnego dokumentu potwierdzającego tożsamość i obywatelstwo, a w przypadku osoby, o której mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz. 203), oznaczenie dokumentu, na podstawie którego dokonano ustalenia tożsamości osoby;
+- **24)** seria, numer i data ważności ważnego dokumentu podróży cudzoziemca lub innego ważnego dokumentu potwierdzającego tożsamość i obywatelstwo albo innego ważnego dokumentu potwierdzającego tożsamość w przypadku, o którym mowa w art. 10 ust. 8, a w przypadku osoby, o której mowa w art. 1 ust. 1 ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa (Dz. U. z 2025 r. poz. 337, 620, 621, 1301 i 1794 oraz z 2026 r. poz. 203), oznaczenie dokumentu, na podstawie którego dokonano ustalenia tożsamości osoby;
+- **24a)** status cudzoziemca oznaczony jako:
+    - **a)** UE w przypadku cudzoziemca będącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej,
+    - **b)** CUE w przypadku cudzoziemca będącego członkiem rodziny cudzoziemca, o którym mowa w lit. a, niebędącego obywatelem państwa członkowskiego Unii Europejskiej, obywatelem państwa członkowskiego Europejskiego Porozumienia o Wolnym Handlu (EFTA) strony umowy o Europejskim Obszarze Gospodarczym lub obywatelem Konfederacji Szwajcarskiej,
+    - **c)** NUE w przypadku cudzoziemca niewymienionego w lit. a i b,
+    - **c)** NUE w przypadku cudzoziemca niewymienionego w lit. a, b, d oraz e,
+    - **d)** UKR w przypadku beneficjenta ochrony czasowej, któremu nadano numer PESEL na podstawie art. 110a ust. 1 ustawy z dnia 13 czerwca 2003 r. o udzielaniu cudzoziemcom ochrony na terytorium Rzeczypospolitej Polskiej (Dz. U. z 2025 r. poz. 223, 389, 619, 621 i 1794 oraz z 2026 r. poz. 203);
+    - **e)** CUKR w przypadku osoby, która zmieniła status UKR w trybie określonym w art. 42 ust. 13, art. 42c lub art. 42d ustawy z dnia 12 marca 2022 r. o pomocy obywatelom Ukrainy w związku z konfliktem zbrojnym na terytorium tego państwa;
+
+- **24b)** przyczyna nadania lub utraty statusu, o którym mowa w pkt 24a lit. d;
+- **25)** (uchylony)
+- **26)** data zgonu albo data znalezienia zwłok, numer aktu zgonu i oznaczenie urzędu stanu cywilnego, w którym ten akt został sporządzony.
+
 **Art. 9.**
 
 1. W stosunku do osób, o których mowa w art. 7 ust. 1 pkt 1, gromadzi się dane wymienione w art. 8 pkt 1–3, 4–23 i 26, a dane, o których mowa w art. 8 pkt 3a o ile są dostępne.
@@ -188,6 +274,11 @@ source: "isap-pdf"
 **Art. 12a.** Danych i zapisów zgromadzonych w rejestrze PESEL i rejestrach mieszkańców nie usuwa się, z zastrzeżeniem art. 10 ust. 6 i 6a.
 
 **Art. 13.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, uwzględniając potrzebę zapewnienia ochrony danych osobowych i ich ochrony przed nieuprawnionym ujawnieniem i dostępem, różnice w zapisach imion i nazwisk cudzoziemców w różnych alfabetach, a także konieczność zapewnienia Agencji Bezpieczeństwa Wewnętrznego możliwości realizacji zadań wynikających z art. 35 ust. 4 ustawy z dnia 24 maja 2002 r. o Agencji Bezpieczeństwa Wewnętrznego oraz Agencji Wywiadu (Dz. U. z 2025 r. poz. 902 i 1366 oraz z 2026 r. poz. 26), określi, w drodze rozporządzenia:
+
+- **1)** tryb rejestracji danych w rejestrze PESEL oraz w rejestrach mieszkańców, z uwzględnieniem przypadków szczególnych;
+- **2)** tryb przekazywania danych pomiędzy rejestrami mieszkańców a rejestrem PESEL;
+- **3)** tryb postępowania wyjaśniającego i usuwania niezgodności danych, o których mowa w art. 11, w przypadku ich stwierdzenia;
+- **4)** sposób zapisu i gromadzenia w rejestrach danych o imionach i nazwiskach cudzoziemców.
 
 **Art. 14.** Minister właściwy do spraw informatyzacji, uwzględniając potrzebę zapewnienia ochrony danych osobowych, określi, w drodze rozporządzenia, tryb i terminy przekazywania danych pomiędzy rejestrem PESEL a rejestrami centralnymi, o których mowa w art. 10 ust. 2.
 
@@ -279,6 +370,11 @@ source: "isap-pdf"
 2. Osoba, której zmieniono numer PESEL, nie może posługiwać się poprzednio nadanym numerem PESEL, od chwili powiadomienia o zmianie.
 
 **Art. 23.** Minister właściwy do spraw informatyzacji, uwzględniając potrzebę zapewnienia ochrony danych osobowych oraz ograniczony zakres danych cudzoziemców gromadzonych w rejestrze PESEL, określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku o nadanie numeru PESEL;
+- **2)** formę i tryb powiadomienia o nadaniu lub zmianie numeru PESEL, w tym wzór powiadomienia;
+- **3)** tryb postępowania z danymi osób, którym sporządzono nowy akt urodzenia;
+- **4)** sposób obliczania liczby kontrolnej, o której mowa w art. 15 ust. 2.
 
 #### Rozdział 3a Rejestr zastrzeżeń numerów PESEL, zasady i tryb udostępniania danych z rejestru zastrzeżeń numerów PESEL oraz zasady i tryb zastrzegania i cofania zastrzeżenia numeru PESEL
 
@@ -504,6 +600,11 @@ source: "isap-pdf"
 - **2)** odmawia udostępniania danych w drodze weryfikacji, jeżeli nie zostały spełnione warunki, o których mowa w art. 48 ust. 1 pkt 1 i 2, albo cofa zgodę na ich udostępnianie, jeżeli warunki te przestały być spełniane, w odniesieniu do rejestru zastrzeżeń numerów PESEL w drodze decyzji administracyjnej.
 
 **Art. 23p.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** wzór wniosku, o którym mowa w art. 23e ust. 2 pkt 2,
+- **2)** wzór wniosku, o którym mowa w art. 23f ust. 1 pkt 1,
+- **3)** wzór wniosku, o którym mowa w art. 23m ust. 2,
+- **4)** sposób wypełnienia wniosku, o którym mowa w pkt 1 i 2 uwzględniając potrzebę zapewnienia ochrony danych osobowych.
 
 #### Rozdział 4 Obowiązek meldunkowy obywateli polskich
 
@@ -1198,13 +1299,26 @@ source: "isap-pdf"
 
 **Art. 52.** Minister właściwy do spraw informatyzacji, w porozumieniu z ministrem właściwym do spraw wewnętrznych, określi w drodze rozporządzenia:
 
+- **1)** wzór wniosku o udostępnienie danych z rejestru mieszkańców oraz rejestru PESEL, o którym mowa w art. 47 ust. 1,
+- **2)** wzór uproszczonego wniosku o udostępnianie danych z rejestru mieszkańców oraz rejestru PESEL, o którym mowa w art. 48 ust. 1,
+- **3)** wzór wniosku o udostępnianie danych z rejestru PESEL, o którym mowa w art. 49 ust. 1,
+- **4)** tryb uzyskiwania zgody, o której mowa w art. 46 ust. 2 pkt 3 uwzględniając konieczność wykazania przez podmioty, o których mowa w art. 46 ust. 2 pkt 1, interesu prawnego w uzyskaniu danych jednostkowych w rozumieniu art. 47 ust. 4, lub interesu faktycznego w uzyskaniu danych w drodze weryfikacji w przypadkach, o których mowa w art. 49 ust. 2–2aa, oraz warunki, o których mowa w art. 48 ust. 1.
+
 **Art. 53.** Udostępnienie danych z rejestru mieszkańców oraz rejestru PESEL następuje:
+
+- **1)** dla podmiotów, o których mowa w art. 46 ust. 1, art. 46 ust. 2 pkt 4, oraz ministra właściwego do spraw wewnętrznych nieodpłatnie;
+- **2)** dla podmiotów, o których mowa w art. 46 ust. 2 pkt 1–3 odpłatnie.
+- **2)** dla podmiotów, o których mowa w art. 46 ust. 2 pkt 1–3 i art. 49a ust. 1 odpłatnie.
 
 **Art. 54.** Osoby i jednostki organizacyjne, o których mowa w art. 46 ust. 2 pkt 1, są zwolnione z opłat w przypadku udostępnienia z rejestru mieszkańców oraz rejestru PESEL danych niezbędnych do sporządzenia aktu poświadczenia dziedziczenia.
 
 **Art. 55.** Opłaty pobrane za udostępnienie danych stanowią dochód budżetu państwa.
 
 **Art. 56.** Rada Ministrów określi, w drodze rozporządzenia:
+
+- **1)** wysokość, sposób i terminy uiszczania opłaty za udostępnienie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL, a także za udostępnianie danych za pomocą urządzeń teletransmisji, w drodze weryfikacji, o której mowa w art. 49 ust. 1, oraz sposób dokumentowania uiszczenia opłaty,
+- **1)** wysokość, sposób i terminy uiszczania opłaty za udostępnianie danych jednostkowych z rejestru mieszkańców oraz rejestru PESEL, za udostępnianie danych za pomocą urządzeń teletransmisji danych, w drodze weryfikacji, o której mowa w art. 49 ust. 1, a także za udostępnianie serii, numeru i daty ważności ważnego dowodu osobistego, o którym mowa w art. 49a ust. 1, oraz sposób dokumentowania uiszczenia opłaty,
+- **2)** sposób obliczania wysokości oraz sposób i terminy uiszczania opłaty za udostępnianie danych podmiotom, o których mowa w art. 46 ust. 2 pkt 2, a także sposób dokumentowania uiszczenia opłaty uwzględniając, że wysokość opłaty powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych. mając na uwadze sposób udostępniania danych, a także uwzględniając, że wysokość opłaty powinna być zróżnicowana w zależności od sposobu i zakresu udostępniania danych, a sposób i terminy uiszczania opłat nie powinny stwarzać nadmiernych obciążeń dla podmiotów występujących o udostępnianie danych.
 
 **Art. 57.**
 
@@ -1223,6 +1337,10 @@ source: "isap-pdf"
 5. Podmiot kontrolowany w zakresie spełnienia warunków, o których mowa w art. 46 ust. 2 pkt 1 lub art. 48 ust. 1, jest obowiązany udostępnić dokumenty i urządzenia, o których mowa w ust. 4, oraz zapewnić warunki i środki niezbędne do przeprowadzenia kontroli, w tym swobodny dostęp do pomieszczeń.
 
 **Art. 58.** Minister właściwy do spraw informatyzacji określi, w drodze rozporządzenia:
+
+- **1)** sposób i tryb przeprowadzania kontroli korzystania z dostępu do danych za pomocą teletransmisji danych, w drodze weryfikacji,
+- **2)** wzór upoważnienia do przeprowadzania kontroli,
+- **3)** wzór protokołu kontroli biorąc pod uwagę wymagania, o których mowa w art. 46 ust. 2 pkt 1 i art. 48 ust. 1.
 
 #### Rozdział 7 Przepisy karne
 
@@ -1259,6 +1377,9 @@ source: "isap-pdf"
 #### Rozdział 9 Przepisy przejściowe i końcowe
 
 **Art. 69.** Postępowania administracyjne wszczęte na podstawie ustawy z dnia 10 kwietnia 1974 r. o ewidencji ludności i dowodach osobistych (Dz. U. z 2006 r. poz. 993, z późn. zm. ) i niezakończone przed dniem wejścia w życie niniejszej ustawy, w sprawach indywidualnych o:
+
+- **1)** zameldowanie, uchylenie czynności materialno-technicznej zameldowania oraz wymeldowanie, udostępnienie danych ze zbioru PESEL i gminnych zbiorów meldunkowych prowadzi się na podstawie niniejszej ustawy;
+- **2)** udostępnienie danych z wojewódzkich zbiorów meldunkowych umarza się.
 
 **Art. 70.**
 

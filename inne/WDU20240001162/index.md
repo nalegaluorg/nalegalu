@@ -8,12 +8,10 @@ pos: 1162
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych W celu przeciwdziałania uzależnieniu od używania tytoniu i wyrobów tytoniowych oraz ochrony zdrowia przed jego następstwami stanowi się, co następuje:
-
-*USTAWA z dnia 9 listopada 1995 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 23 lipca 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
 
 | Pole | Wartość |
 |---|---|
@@ -27,11 +25,88 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-07-04 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001162) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1162/text.pdf) |
 
-**Art. 1.** Organy administracji rządowej i samorządu terytorialnego są obowiązane do podejmowania działań zmierzających do ochrony zdrowia przed następstwami używania tytoniu oraz mogą wspierać w tym zakresie działalność medycznych samorządów zawodowych, organizacji społecznych, fundacji, instytucji i zakładów pracy, a także współdziałać z kościołami i innymi związkami wyznaniowymi.
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych
+Załącznik – Biblioteka obrazów stosowanych w mieszanych ostrzeżeniach zdrowotnych
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. z 2023 r. poz. 700), z uwzględnieniem zmian wprowadzonych ustawą z dnia 12 kwietnia 2024 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 649) oraz zmian wynikających z przepisów ogłoszonych przed dniem 18 lipca 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 2 ustawy z dnia 12 kwietnia 2024 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 649), który stanowi:
+„
 
-**Art. 2.** Użyte w ustawie określenia oznaczają:
+**Art. 2.** Ustawa wchodzi w życie z dniem 20 maja 2024 r. ” . Załącznik – Tekst jednolity ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych[1) [I)] Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/40/UE z dania 3 kwietnia 2014 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich w sprawie produkcji, prezentowania i sprzedaży wyrobów tytoniowych i powiązanych wyrobów oraz uchylającą dyrektywę 2001/37/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 1, Dz. Urz. UE L 360 z 17.12.2014, str. 22, Dz. Urz. UE L 150 z 17.06.2015, str. 24 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 4). [I)] Dodany przez art. 1 pkt 1 ustawy z dnia 12 kwietnia 2024 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 649), która weszła w życie z dniem 20 maja 2024 r.](#gloss-0:1:) W celu przeciwdziałania uzależnieniu od używania tytoniu i wyrobów tytoniowych oraz ochrony zdrowia przed jego następstwami stanowi się, co następuje:
 
-**Art. 2a.**
+**Art. 1.** Organy administracji rządowej i samorządu terytorialnego są obowiązane do podejmowania działań zmierzających do ochrony zdrowia przed następstwami używania tytoniu oraz mogą wspierać w tym zakresie działalność medycznych samorządów zawodowych, organizacji społecznych, fundacji, instytucji i zakładów pracy, a także współdziałać z kościołami i innymi związkami wyznaniowymi. Użyte w ustawie określenia oznaczają:
+
+- **1)** aromat charakterystyczny – wyraźnie wyczuwalny zapach lub smak inny niż zapach lub smak tytoniu, wynikający z zastosowania dodatku lub kombinacji dodatków, w tym zapach lub smak owoców, przypraw, ziół, alkoholu, słodyczy, mentolu lub wanilii, który jest odczuwalny przed spożyciem wyrobu tytoniowego lub w trakcie spożywania;
+- **2)** cygaretka – rodzaj małego cygara o maksymalnej wadze jednostkowej 3 g;
+- **3)** cygaro – zrolowany tytoń, który może być spożywany w drodze procesu spalania, przeznaczony do palenia wyłącznie w postaci: tytoniu zrolowanego o zewnętrznym owinięciu z naturalnego tytoniu, tytoniu zrolowanego z poszarpanym, wymieszanym wkładem, owiniętego liściem tytoniu w naturalnym kolorze cygara z odtworzonego tytoniu pokrywającym wyrób w całości, łącznie z filtrem, tam, gdzie zachodzi taka konieczność, ale nie ustnik, w przypadku cygar z ustnikiem, gdzie waga sztuki, wyłączając filtr lub ustnik, wynosi nie mniej niż 2,3 g i nie więcej niż 10 g, a obwód równy przynajmniej jednej trzeciej długości wynosi nie mniej niż 34 mm;
+    - **a)**
+    - **b)**
+
+- **4)** dodatek – substancję inną niż tytoń, dodaną do wyrobu tytoniowego, jego opakowania jednostkowego lub opakowania zbiorczego;
+- **5)** dystrybutor – przedsiębiorcę uczestniczącego w procesie dostarczania lub udostępniania papierosów elektronicznych lub pojemników zapasowych na dowolnym etapie, którego działalność nie wpływa na właściwości wyrobów związane z bezpieczeństwem ich używania;
+- **6)** importer – właściciela wyrobów tytoniowych lub powiązanych wyrobów, które zostały wprowadzone na terytorium Unii Europejskiej, lub osobę mającą prawo do rozporządzania tymi wyrobami;
+- **7)** konsument – osobę fizyczną działającą w celach niezwiązanych z jej działalnością handlową, gospodarczą, rzemieślniczą lub zawodową;
+- **8)** maksymalny poziom – maksymalną ilość substancji, która może być zawarta w wyrobie tytoniowym, lub maksymalną ilość substancji wydzielanych przez wyrób tytoniowy mierzoną w miligramach, z tym że zawartość lub poziom może wynosić 0;
+- **9)** mieszane ostrzeżenie zdrowotne – ostrzeżenie zdrowotne składające się z połączenia ostrzeżenia tekstowego i odpowiadającej mu fotografii lub ilustracji;
+- **10)** nikotyna – alkaloidy nikotynowe;
+- **11)** nowatorski wyrób tytoniowy – wyrób tytoniowy inny niż papieros, tytoń do samodzielnego skręcania papierosów, tytoń fajkowy, tytoń do fajki wodnej, cygaro, cygaretka, tytoń do żucia, tytoń do nosa lub tytoń do stosowania doustnego;
+- **12)** opakowanie jednostkowe – najmniejsze wprowadzane do obrotu pojedyncze opakowanie wyrobu tytoniowego lub powiązanego wyrobu;
+- **13)** opakowanie zbiorcze – każde opakowanie, w którym wprowadza się do obrotu wyroby tytoniowe lub powiązane wyroby, zawierające opakowanie jednostkowe lub zbiór opakowań jednostkowych, z tym że przezroczyste osłony nie są uważane za opakowanie zbiorcze;
+- **14)** ostrzeżenie zdrowotne – ostrzeżenie dotyczące niekorzystnego wpływu wyrobu na zdrowie ludzkie lub innych niepożądanych konsekwencji jego spożycia, w tym ostrzeżenia tekstowe, mieszane ostrzeżenia zdrowotne, ostrzeżenia ogólne i wiadomości informacyjne;
+- **15)** palarnia – wyodrębnione konstrukcyjnie od innych pomieszczeń i ciągów komunikacyjnych pomieszczenie, odpowiednio oznaczone, służące wyłącznie do palenia wyrobów tytoniowych, w tym nowatorskich wyrobów tytoniowych, lub papierosów elektronicznych, zaopatrzone w wywiewną wentylację mechaniczną lub system filtracyjny w taki sposób, aby dym tytoniowy, para z papierosów elektronicznych lub substancje uwalniane za pomocą nowatorskiego wyrobu tytoniowego nie przenikały do innych pomieszczeń;
+- **16)** palenie nowatorskich wyrobów tytoniowych – spożycie substancji uwalnianych za pomocą nowatorskiego wyrobu tytoniowego;
+- **17)** palenie papierosów elektronicznych – spożycie pary zawierającej nikotynę, wydzielanej przez papieros elektroniczny;
+- **18)** pojemnik zapasowy – naczynie z płynem zawierającym nikotynę, który można wykorzystać do ponownego napełnienia papierosa elektronicznego;
+- **19)** papieros – zrolowany tytoń, który może być spożywany w drodze procesu spalania; za papierosy uznaje się: tytoń zrolowany nadający się do palenia w tej postaci, który nie jest cygarem albo cygaretką, tytoń zrolowany, który w drodze nieprzemysłowej obróbki jest umieszczany w tutkach z bibuły papierosowej, tytoń zrolowany, który w drodze prostej, nieprzemysłowej obróbki jest owijany w bibułę papierosową;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **20)** papieros elektroniczny – wyrób, który może być wykorzystywany do spożycia pary zawierającej nikotynę za pomocą ustnika, lub wszystkie elementy tego wyrobu, w tym kartridże, zbiorniki i urządzenia bez kartridża lub zbiornika; papierosy elektroniczne mogą być jednorazowego użytku albo wielokrotnego napełniania za pomocą pojemnika zapasowego lub zbiornika lub do wielokrotnego ładowania za pomocą kartridżów jednorazowych;
+- **21)** powiązany wyrób – papieros elektroniczny, pojemnik zapasowy oraz wyrób ziołowy do palenia;
+- **22)** producent – osobę fizyczną, osobę prawną lub jednostkę organizacyjną nieposiadającą osobowości prawnej, która produkuje wyrób lub posiada zaprojektowany i wyprodukowany wyrób, i udostępnia ten wyrób do obrotu pod własną nazwą (firmą) lub własnym znakiem handlowym;
+- **23)** promocja wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych: publiczne rozdawanie wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych, organizowanie degustacji wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych, organizowanie premiowanej sprzedaży wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych lub konkursów opartych na ich zakupie oraz innych form publicznego zachęcania do ich nabywania lub używania, bez względu na formę dotarcia do adresata, oferowanie wyrobów tytoniowych konsumentom po obniżonej cenie w stosunku do ceny wydrukowanej na opakowaniu jednostkowym;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+
+- **24)** punkt detaliczny – punkt, w którym wyroby tytoniowe, papierosy elektroniczne lub pojemniki zapasowe są wprowadzane do obrotu, w tym przez osobę fizyczną;
+- **25)** reklama wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych: rozpowszechnianie komunikatów, wizerunków marek wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych, rekwizytów tytoniowych lub symboli z nimi związanych, rozpowszechnianie nazw lub symboli graficznych podmiotów produkujących wyroby tytoniowe, papierosy elektroniczne, pojemniki zapasowe lub rekwizyty tytoniowe, nieróżniących się od nazw i symboli graficznych wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych, rekwizytów tytoniowych lub symboli z nimi związanych służących popularyzowaniu marek wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych, z wyłączeniem informacji używanych do celów handlowych w relacjach pomiędzy podmiotami zajmującymi się produkcją, dystrybucją i handlem wyrobami tytoniowymi, papierosami elektronicznymi, pojemnikami zapasowymi lub rekwizytami tytoniowymi;
+    - **a)**
+    - **b)**
+
+- **26)** rekwizyty tytoniowe – artykuły i przyrządy przeznaczone do używania tytoniu lub wyrobów tytoniowych, z wyłączeniem zapalniczek i zapałek, takie jak papierośnice, cygarniczki, bibułki papierosowe, urządzenia do zwijania papierosów, fajki oraz przybory do ich czyszczenia i nabijania, popielniczki, obcinacze do cygar, oraz artykuły i przyrządy przeznaczone do używania papierosów elektronicznych lub pojemników zapasowych;
+- **27)** składnik – tytoń, dodatek, a także wszystkie substancje lub elementy występujące w gotowym wyrobie tytoniowym lub powiązanym wyrobie, w tym papier, filtr, tusz, kapsułki i kleje;
+- **28)** sponsorowanie – wspieranie w formie finansowej lub rzeczowej działalności osób fizycznych, osób prawnych lub jednostek organizacyjnych nieposiadających osobowości prawnej związane z eksponowaniem nazw wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych i podmiotów produkujących takie wyroby, a także ich symboli graficznych;
+- **29)** substancje smoliste – surowy, bezwodny, beznikotynowy kondensat dymu tytoniowego;
+- **30)** środek aromatyzujący – dodatek nadający zapach lub smak;
+- **31)** tajemnica handlowa – tajemnicę przedsiębiorstwa w rozumieniu przepisów o zwalczaniu nieuczciwej konkurencji;
+- **32)** tlenek węgla – bezbarwny, bezwonny gaz, który powstaje w wyniku niepełnego spalania substancji organicznych, występujący w fazie gazowej dymu papierosowego;
+- **33)** toksyczność – stopień, w jakim dana substancja może wywołać szkodliwe skutki dla organizmu człowieka, w tym skutki rozłożone w czasie, zwykle będące następstwem regularnego lub stałego spożycia takiej substancji lub narażenia na jej działanie;
+- **34)** torebka – opakowanie jednostkowe tytoniu do samodzielnego skręcania papierosów w formie prostokątnej kieszeni z klapką przykrywającą zamknięcie albo w formie stojącej torebki;
+- **35)** transgraniczna sprzedaż na odległość – sprzedaż konsumentom wyrobów na odległość, w przypadku której w momencie zamawiania wyrobu w punkcie detalicznym konsument znajduje się w państwie członkowskim Unii Europejskiej innym niż państwo członkowskie lub państwo trzecie, w którym znajduje się siedziba punktu detalicznego; uważa się, że siedziba punktu detalicznego znajduje się w państwie członkowskim: w przypadku osoby fizycznej – gdy miejsce prowadzenia przez nią działalności znajduje się w tym państwie członkowskim, w innych przypadkach – gdy punkt detaliczny ma swoją siedzibę, zarząd lub miejsce prowadzenia działalności, włączając oddział, agencję lub innego rodzaju zakład, w tym państwie członkowskim;
+    - **a)**
+    - **b)**
+
+- **36)** tytoń – liście oraz inne naturalne, przetworzone lub nieprzetworzone części roślin tytoniu, w tym tytoń ekspandowany i tytoń odtworzony;
+- **37)** tytoń do fajki wodnej – wyrób tytoniowy, który może być spożywany w fajce wodnej; tytoń do fajki wodnej uważa się za wyrób tytoniowy do palenia; jeżeli dany wyrób może być wykorzystywany w fajkach wodnych i jako tytoń do samodzielnego skręcania papierosów, uznaje się go za tytoń do samodzielnego skręcania papierosów;
+- **38)** tytoń do nosa – wyrób tytoniowy bezdymny, który może być zażywany przez nos;
+- **39)** tytoń do samodzielnego skręcania papierosów – tytoń, z którego konsumenci lub punkty detaliczne mogą zrobić papierosy;
+- **40)** tytoń do stosowania doustnego – wszystkie wyroby tytoniowe do stosowania doustnego, z wyjątkiem tych przeznaczonych do inhalacji albo żucia, wytworzone całkowicie lub częściowo z tytoniu, w postaci proszku, cząstek lub też połączenia tych postaci, szczególnie takie, które są porcjowane w saszetki lub dostępne w perforowanych saszetkach;
+- **41)** tytoń do żucia – wyrób tytoniowy bezdymny przeznaczony wyłącznie do żucia;
+- **42)** tytoń fajkowy – tytoń, który może być spożywany w drodze procesu spalania, przeznaczony wyłącznie do użycia w fajce;
+- **43)** właściwości CMR – właściwości rakotwórcze, mutagenne lub działające szkodliwie na rozrodczość człowieka;
+- **44)** właściwości uzależniające – potencjał farmakologiczny substancji w zakresie wywoływania stanu, który wpływa na zdolność osoby do kontrolowania swojego zachowania, zwykle przez pobudzenie układu nagrody lub złagodzenie objawów odstawienia;
+- **45)** wprowadzanie do obrotu – udostępnianie wyrobów, niezależnie od miejsca ich produkcji, konsumentom na terytorium Rzeczypospolitej Polskiej, za opłatą lub nieodpłatnie, w tym w drodze sprzedaży na odległość; w przypadku transgranicznej sprzedaży na odległość za miejsce wprowadzenia do obrotu wyrobu uznaje się państwo członkowskie Unii Europejskiej, w którym znajduje się konsument;
+- **46)** wydzielane substancje – substancje uwalniane podczas używania tytoniu lub wyrobu tytoniowego zgodnie z przeznaczeniem, takie jak substancje znajdujące się w dymie, lub substancje uwalniane w procesie używania wyrobów tytoniowych bezdymnych;
+- **47)** wyrób tytoniowy do palenia – wyrób tytoniowy inny niż wyrób tytoniowy bezdymny;
+- **48)** wyrób tytoniowy – wyrób przeznaczony do spożycia przez konsumentów, składający się, nawet częściowo, z tytoniu, w tym zmodyfikowanego genetycznie;
+- **49)** wyrób tytoniowy bezdymny – wyrób tytoniowy, z którym nie wiąże się proces spalania, w tym tytoń do żucia, tytoń do nosa i tytoń do stosowania doustnego;
+- **50)** wyrób ziołowy do palenia – wyrób na bazie roślin, ziół lub owoców, który nie zawiera tytoniu i może być spożywany w drodze procesu spalania.
 
 1. Do spraw objętych ustawą stosuje się akty Komisji Europejskiej wydane na podstawie kompetencji delegowanych przez Parlament Europejski i Radę, o których mowa w ustawie, zwane dalej „aktami delegowanymi”.
 
@@ -39,25 +114,31 @@ source: "isap-pdf"
 
 **Art. 3.** Ochrona zdrowia przed następstwami używania tytoniu realizowana jest przez kształtowanie polityki zdrowotnej, ekonomicznej i społecznej, do której należy:
 
-**Art. 3a.**
+- **1)** ochrona prawa osób niepalących do życia w środowisku wolnym od dymu tytoniowego, pary z papierosów elektronicznych i substancji uwalnianych za pomocą nowatorskich wyrobów tytoniowych;
+- **2)** promocja zdrowia przez propagowanie stylu życia wolnego od nałogu palenia papierosów, używania innych wyrobów tytoniowych oraz palenia papierosów elektronicznych;
+- **2a)** działalność wychowawcza i informacyjna;
+- **3)** tworzenie warunków ekonomicznych i prawnych zachęcających do ograniczenia używania tytoniu;
+- **4)** informowanie o szkodliwości palenia tytoniu na opakowaniach wyrobów tytoniowych;
+- **5)** obniżanie norm dopuszczalnych zawartości substancji szkodliwych w wyrobach tytoniowych;
+- **6)** leczenie i rehabilitacja osób uzależnionych od tytoniu.
 
 1. Prezes Biura do spraw Substancji Chemicznych, zwany dalej „Prezesem Biura”:
 
 - **1)** przekazuje Komisji Europejskiej informacje, o których mowa w art. 7c ust. 6, art. 11a ust. 3 i 4 oraz art. 11f ust. 2,
 - **2)** przedstawia Komisji Europejskiej wnioski, o których mowa w art. 7d ust. 5 i 9,
 - **3)** zasięga opinii niezależnego panelu doradczego na podstawie art. 7d ust. 8,
-- **4)** udostępnia Komisji Europejskiej oraz organom innych państw członkowskich Unii Europejskiej informacje, o których mowa w art. 8ab ust. 2 oraz art. 11d ust. 3 – także w postaci elektronicznej, bez konieczności stosowania kwalifikowanego podpisu elektronicznego albo podpisu zaufanego.
+- **4)** udostępnia Komisji Europejskiej oraz organom innych państw członkowskich Unii Europejskiej informacje, o których mowa w art. 8ab ust. 2 oraz art. 11d ust. 3 także w postaci elektronicznej, bez konieczności stosowania kwalifikowanego podpisu elektronicznego albo podpisu zaufanego.
 
 2. Doręczenia producentowi lub importerowi:
 
 - **1)** pism w postępowaniach administracyjnych, o których mowa w art. 8a ust. 5b, art. 11a ust. 1, art. 11b ust. 11, art. 11f ust. 1 i 3 oraz art. 15a ust. 2,
-- **2)** wezwań, o których mowa w art. 3a ust. 5, art. 7d ust. 3 i 4, art. 8aa ust. 6 i 8, art. 8ab ust. 5, art. 10 ust. 7 pkt 1 i ust. 8, art. 11b ust. 7 i 9 oraz art. 11e ust. 5 – dokonuje się na adres udostępniony przez producenta lub importera w rejestrze ustanowionym na podstawie decyzji wykonawczej Komisji (UE) 2015/2183 z dnia 24 listopada 2015 r. ustanawiającej wspólny format zgłaszania papierosów elektronicznych i pojemników zapasowych (Dz. Urz. UE L 309 z 26.11.2015, str. 15), zwanej dalej „decyzją wykonawczą Komisji (UE) 2015/2183”, albo decyzji wykonawczej Komisji (UE) 2015/2186 z dnia 25 listopada 2015 r. ustanawiającej format przekazywania i udostępniania informacji o wyrobach tytoniowych (Dz. Urz. UE L 312 z 27.11.2015, str. 5), zwanej dalej „decyzją wykonawczą Komisji (UE) 2015/2186”, chyba że producent lub importer udostępnił inny adres do doręczeń na terytorium Rzeczypospolitej Polskiej. Jeżeli ostatni udostępniony w rejestrze adres został wykreślony jako niezgodny z rzeczywistym stanem rzeczy i nie został udostępniony nowy adres, adres wykreślony uznaje się za adres udostępniony w rejestrze.
+- **2)** wezwań, o których mowa w art. 3a ust. 5, art. 7d ust. 3 i 4, art. 8aa ust. 6 i 8, art. 8ab ust. 5, art. 10 ust. 7 pkt 1 i ust. 8, art. 11b ust. 7 i 9 oraz art. 11e ust. 5 dokonuje się na adres udostępniony przez producenta lub importera w rejestrze ustanowionym na podstawie decyzji wykonawczej Komisji (UE) 2015/2183 z dnia 24 listopada 2015 r. ustanawiającej wspólny format zgłaszania papierosów elektronicznych i pojemników zapasowych (Dz. Urz. UE L 309 z 26.11.2015, str. 15), zwanej dalej „decyzją wykonawczą Komisji (UE) 2015/2183”, albo decyzji wykonawczej Komisji (UE) 2015/2186 z dnia 25 listopada 2015 r. ustanawiającej format przekazywania i udostępniania informacji o wyrobach tytoniowych (Dz. Urz. UE L 312 z 27.11.2015, str. 5), zwanej dalej „decyzją wykonawczą Komisji (UE) 2015/2186”, chyba że producent lub importer udostępnił inny adres do doręczeń na terytorium Rzeczypospolitej Polskiej. Jeżeli ostatni udostępniony w rejestrze adres został wykreślony jako niezgodny z rzeczywistym stanem rzeczy i nie został udostępniony nowy adres, adres wykreślony uznaje się za adres udostępniony w rejestrze.
 
 3. W postępowaniach administracyjnych, o których mowa w ust. 2 pkt 1, składanie przez stronę wyjaśnień może być prowadzone w języku angielskim i może być przekazywane w postaci elektronicznej, bez konieczności stosowania kwalifikowanego podpisu elektronicznego albo podpisu zaufanego.
 
-4. Dokumentacja, o której mowa w art. 8a ust. 1, 2, 4, 5, 5a i 6, art. 8aa ust. 5, art. 11a ust. 3 i 4, art. 11b ust. 5, 9 i 10, art. 11d ust. 1, art. 11e ust. 1, 4 i 5, art. 11h ust. 1 i 2 oraz art. 11ha ust. 1 i 2, może być sporządzona w języku angielskim bez konieczności tłumaczenia jej na język polski.
+4. Dokumentacja, o której mowa w art. 8a ust. 1, 2, 4, 5, 5a i 6, art. 8aa ust. 5, art. 11a ust. 3 i 4, art. 11b ust. 5, 9 i 10, art. 11d ust. 1, art. 11e ust. 1, 4 i 5 oraz art. 11h ust. 1 i 2, może być sporządzona w języku angielskim bez konieczności tłumaczenia jej na język polski.
 
-5. Na żądanie Prezesa Biura składający wyjaśnienia, o których mowa w ust. 3, lub przedkładający dokumentację, o której mowa w art. 8a ust. 1, 2, 4, 5, 5a i 6, art. 8aa ust. 5, art. 11a ust. 3 i 4, art. 11b ust. 5, 9 i 10, art. 11d ust. 1, art. 11e ust. 1, 4 i 5, art. 11h ust. 1 i 2 oraz art. 11ha ust. 1 i 2, dostarcza ich tłumaczenie na język polski.
+5. Na żądanie Prezesa Biura składający wyjaśnienia, o których mowa w ust. 3, lub przedkładający dokumentację, o której mowa w art. 8a ust. 1, 2, 4, 5, 5a i 6, art. 8aa ust. 5, art. 11a ust. 3 i 4, art. 11b ust. 5, 9 i 10, art. 11d ust. 1, art. 11e ust. 1, 4 i 5 oraz art. 11h ust. 1 i 2, dostarcza ich tłumaczenie na język polski.
 
 **Art. 4.** (uchylony)
 
@@ -84,8 +165,6 @@ source: "isap-pdf"
 3. (uchylony)
 
 4. Rada gminy może ustalić, w drodze uchwały, dla terenu gminy inne niż wymienione w ust. 1 miejsca przeznaczone do użytku publicznego jako strefy wolne od dymu tytoniowego, pary z papierosów elektronicznych i substancji uwalnianych za pomocą nowatorskiego wyrobu tytoniowego.
-
-**Art. 5a.**
 
 1. Właściciel lub zarządzający może wyłączyć spod zakazu określonego w art. 5 indywidualne pokoje w obiektach służących celom mieszkalnym.
 
@@ -127,24 +206,22 @@ source: "isap-pdf"
 
 **Art. 6.**
 
-1. Zabrania się udostępniania wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych osobom do lat 18. W punkcie detalicznym umieszcza się widoczną i czytelną informację o treści: „Zakaz sprzedaży wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych osobom do lat 18 (art. 6 ust. 1 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych).”.
+1. Zabrania się udostępniania wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych osobom do lat 18. W punkcie detalicznym umieszcza się widoczną i czytelną informację o treści: „Zakaz sprzedaży wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych osobom do lat 18 (art. 6 ust. 1 ustawy z dnia 9 listopada 1995 r. o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych)”.
 
-2. W przypadku wątpliwości co do pełnoletniości kupującego wyroby tytoniowe, woreczki nikotynowe, papierosy elektroniczne lub pojemniki zapasowe sprzedawca może zażądać okazania dokumentu potwierdzającego wiek.
+1a. W przypadku wątpliwości co do pełnoletniości kupującego wyroby tytoniowe, papierosy elektroniczne lub pojemniki zapasowe sprzedawca może zażądać okazania dokumentu potwierdzającego wiek.
 
-3. Zabrania się wprowadzania do obrotu wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych na terenie podmiotów wykonujących działalność leczniczą w rozumieniu przepisów o działalności leczniczej, jednostek organizacyjnych systemu oświaty, o których mowa w przepisach o systemie oświaty, oraz obiektów sportowo-rekreacyjnych.
+2. Zabrania się wprowadzania do obrotu wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych na terenie podmiotów wykonujących działalność leczniczą w rozumieniu przepisów o działalności leczniczej, szkół i placówek oświatowo-wychowawczych oraz obiektów sportowo-rekreacyjnych.
 
-4. Zabrania się wprowadzania do obrotu wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych oraz ich części w automatach.
+3. Zabrania się wprowadzania do obrotu wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych oraz ich części w automatach.
 
-5. Zabrania się sprzedaży papierosów w opakowaniach zawierających mniej niż dwadzieścia sztuk oraz luzem bez opakowania.
+4. Zabrania się sprzedaży papierosów w opakowaniach zawierających mniej niż dwadzieścia sztuk oraz luzem bez opakowania.
 
-6. Zabrania się wprowadzania do obrotu wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych oraz ich części w systemie samoobsługowym, z wyjątkiem sklepów wolnocłowych.
+5. Zabrania się wprowadzania do obrotu wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych oraz ich części w systemie samoobsługowym, z wyjątkiem sklepów wolnocłowych.
 
-7. Na terytorium Rzeczypospolitej Polskiej mogą być wprowadzane do obrotu wyłącznie:
+6. Na terytorium Rzeczypospolitej Polskiej mogą być wprowadzane do obrotu wyłącznie:
 
 - **1)** wyroby tytoniowe i powiązane wyroby spełniające wymagania określone w ustawie oraz aktach delegowanych;
 - **2)** wyroby tytoniowe i powiązane wyroby, wobec których spełniono obowiązki sprawozdawcze i informacyjne określone w ustawie.
-
-**Art. 6a.**
 
 1. Opakowanie jednostkowe papierosów powinno mieć kształt prostopadłościanu. Opakowanie jednostkowe tytoniu do samodzielnego skręcania papierosów powinno mieć kształt prostopadłościanu lub walca lub mieć formę torebki. Dopuszcza się zastosowanie zaokrąglonych lub ukośnie ściętych krawędzi, z tym że ostrzeżenie zdrowotne powinno zajmować taką samą powierzchnię jak na opakowaniu jednostkowym bez takich krawędzi.
 
@@ -156,13 +233,7 @@ source: "isap-pdf"
 
 1. Zabrania się produkcji i wprowadzania do obrotu tytoniu do stosowania doustnego.
 
-2. (uchylony)
-
-**Art. 7a.** Zabrania się stosowania w procesie produkcji wyrobów tytoniowych dodatków zwiększających właściwości uzależniające od nikotyny.
-
-**Art. 7b.** (uchylony)
-
-**Art. 7c.**
+2. (uchylony) Zabrania się stosowania w procesie produkcji wyrobów tytoniowych dodatków zwiększających właściwości uzależniające od nikotyny. (uchylony)
 
 1. Zabrania się wprowadzania do obrotu, produkcji i importu w celu wprowadzania do obrotu wyrobów tytoniowych:
 
@@ -184,8 +255,6 @@ source: "isap-pdf"
 5. Do wyrobów tytoniowych stosuje się odpowiednio przepisy określone w rozporządzeniu (WE) nr 1907/2006 Parlamentu Europejskiego i Rady z dnia 18 grudnia 2006 r. w sprawie rejestracji, oceny, udzielania zezwoleń i stosowanych ograniczeń w zakresie chemikaliów (REACH) i utworzenia Europejskiej Agencji Chemikaliów, zmieniającym dyrektywę 1999/45/WE oraz uchylającym rozporządzenie Rady (EWG) nr 793/93 i rozporządzenie Komisji (WE) nr 1488/94, jak również dyrektywę Rady 76/769/EWG i dyrektywy Komisji 91/155/EWG, 93/67/EWG, 93/105/WE i 2000/21/WE (Dz. Urz. UE L 396 z 30.12.2006, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 1907/2006”.
 
 6. Prezes Biura informuje Komisję Europejską o zmianie przepisów ustanawiających zakazy, o których mowa w ust. 1.
-
-**Art. 7d.**
 
 1. Prezes Biura jest uprawniony do dokonywania oceny, czy dany wyrób tytoniowy:
 
@@ -215,26 +284,25 @@ source: "isap-pdf"
 
 10. Minister właściwy do spraw zdrowia w przypadku wydania przez Komisję Europejską aktu wykonawczego, o którym mowa w ust. 9, określi, w drodze rozporządzenia, dodatki objęte tym aktem wykonawczym, mając na celu ochronę konsumentów przed uzależnieniem oraz toksycznością wyrobów tytoniowych i ich właściwościami CMR na etapie spożycia.
 
-**Art. 7e.**
+1. Zakazu wprowadzania do obrotu wyrobów tytoniowych o aromacie charakterystycznym określonego w art. 7c ust. 1 pkt 1 oraz zakazu określonego w art. 7c ust. 4 nie stosuje się do wyrobów tytoniowych innych niż papierosy i tytoń do samodzielnego skręcania papierosów.
 
-1. Zakazu wprowadzania do obrotu wyrobów tytoniowych o aromacie charakterystycznym określonego w art. 7c ust. 1 pkt 1 oraz zakazu określonego w art. 7c ust. 4 nie stosuje się do wyrobów tytoniowych innych niż papierosy, tytoń do samodzielnego skręcania papierosów i podgrzewane wyroby tytoniowe.
+2. Akty delegowane określają zniesienie zwolnienia określonego w ust. 1 w odniesieniu do konkretnej kategorii wyrobu, o którym mowa w ust. 1. Zabrania się sprzedaży na odległość, w tym transgranicznej sprzedaży na odległość:
 
-2. Akty delegowane określają zniesienie zwolnienia określonego w ust. 1 w odniesieniu do konkretnej kategorii wyrobu, o którym mowa w ust. 1.
-
-**Art. 7f.** Zabrania się sprzedaży na odległość, w tym transgranicznej sprzedaży na odległość:
+- **1)** wyrobów tytoniowych;
+- **2)** papierosów elektronicznych i pojemników zapasowych oraz ich części.
 
 **Art. 8.**
 
-1. Zabrania się reklamy wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych i promocji wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych oraz reklamy i promocji produktów imitujących te wyroby, lub symboli związanych z używaniem tytoniu, wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych, w szczególności:
+1. Zabrania się reklamy wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych i promocji wyrobów tytoniowych, papierosów elektronicznych, pojemników zapasowych lub rekwizytów tytoniowych oraz reklamy i promocji produktów imitujących te wyroby, lub symboli związanych z używaniem tytoniu, wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych, w szczególności:
 
 - **1)** w telewizji, radiu, kinach, podmiotach leczniczych, szkołach i placówkach oświatowo-wychowawczych, w prasie dziecięcej i młodzieżowej, na terenie obiektów sportowo-rekreacyjnych oraz w innych miejscach publicznych;
 - **2)** w prasie innej niż wymieniona w pkt 1;
 - **3)** na plakatach, w tym plakatach wielkoformatowych;
 - **4)** w środkach usług informatycznych.
 
-2. Zabrania się sponsorowania przez firmę tytoniową, w tym producenta lub importera wyrobów tytoniowych oraz producenta lub importera powiązanych wyrobów, działalności sportowej, kulturalnej, oświatowej, zdrowotnej i społecznopolitycznej.
+2. Zabrania się sponsorowania przez firmę tytoniową, w tym producenta lub importera wyrobów tytoniowych oraz producenta lub importera powiązanych wyrobów, działalności sportowej, kulturalnej, oświatowej, zdrowotnej i społeczno-politycznej.
 
-3. Zabrania się eksponowania w punkcie detalicznym przedmiotów imitujących opakowania wyrobów tytoniowych oraz przedmiotów imitujących opakowania woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych.
+3. Zabrania się eksponowania w punkcie detalicznym przedmiotów imitujących opakowania wyrobów tytoniowych oraz przedmiotów imitujących opakowania papierosów elektronicznych lub pojemników zapasowych.
 
 4. Etykiety opakowania jednostkowego i opakowania zbiorczego oraz wyrób tytoniowy nie mogą zawierać jakichkolwiek elementów lub mieć cech, które:
 
@@ -248,8 +316,6 @@ source: "isap-pdf"
 
 6. Elementy lub cechy, które są zakazane zgodnie z ust. 4 i 5, obejmują w szczególności teksty, symbole, nazwy, znaki towarowe i oznaczenia graficzne.
 
-**Art. 8a.**
-
 1. Producent lub importer wyrobów tytoniowych jest obowiązany do przekazania Prezesowi Biura jednorazowej informacji, w podziale na marki i rodzaje, dotyczącej:
 
 - **1)** wykazu wszystkich składników, z podaniem ich ilości, używanych do produkcji wyrobu tytoniowego, w porządku malejącym według masy każdego ze składników zawartych w danym wyrobie tytoniowym;
@@ -262,7 +328,7 @@ source: "isap-pdf"
 
 4. Do wykazu składników, o którym mowa w ust. 1 pkt 1, należy dołączyć:
 
-- **1)** oświadczenie określające powody użycia takich składników w wyrobach tytoniowych wraz z informacją, czy składniki zostały zarejestrowane na podstawie rozporządzenia nr 1907/2006, oraz klasyfikację tych składników zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającym i uchylającym dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającym rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.), zwanym dalej „rozporządzeniem nr 1272/2008”;
+- **1)** oświadczenie określające powody użycia takich składników w wyrobach tytoniowych wraz z informacją, czy składniki zostały zarejestrowane na podstawie rozporządzenia nr 1907/2006, oraz klasyfikację tych składników zgodnie z rozporządzeniem Parlamentu Europejskiego i Rady (WE) nr 1272/2008 z dnia 16 grudnia 2008 r. w sprawie klasyfikacji, oznakowania i pakowania substancji i mieszanin, zmieniającym i uchylającym dyrektywy 67/548/EWG i 1999/45/WE oraz zmieniającym rozporządzenie (WE) nr 1907/2006 (Dz. Urz. UE L 353 z 31.12.2008, str. 1, z późn. zm.);
 - **2)** istotne dane toksykologiczne dotyczące tych składników w postaci spalonej lub niespalonej, w zależności od przypadku, ze szczególnym odniesieniem do ich wpływu na zdrowie konsumentów, przy uwzględnieniu w szczególności ich skutków uzależniających;
 - **3)** dokument techniczny przedstawiający ogólny opis używanych dodatków i ich właściwości – w przypadku papierosów i tytoniu do samodzielnego skręcania papierosów.
 
@@ -276,14 +342,16 @@ source: "isap-pdf"
 5b. W przypadku gdy dokumentacja, o której mowa w ust. 5a, w zakresie danego rodzaju lub marki wyrobu tytoniowego:
 
 - **1)** nie odpowiada wymogom określonym w ust. 1, 4 i 5 lub
-- **2)** zawiera dane wskazujące na niezgodność wyrobu tytoniowego z ustawą lub aktami delegowanymi – Prezes Biura stwierdza to naruszenie, w drodze decyzji.
+- **2)** zawiera dane wskazujące na niezgodność wyrobu tytoniowego z ustawą lub aktami delegowanymi Prezes Biura stwierdza to naruszenie, w drodze decyzji.
 
 5c. Prezes Biura podaje do publicznej wiadomości informację o wydaniu decyzji, o której mowa w ust. 5b, przez ogłoszenie w Biuletynie Informacji Publicznej na swojej stronie podmiotowej rodzaju lub marki wyrobu tytoniowego oraz nazwy producenta lub importera.
 
 6. Producent i importer wyrobów tytoniowych jest obowiązany do przekazywania w postaci elektronicznej Prezesowi Biura do dnia 31 marca każdego roku, za rok poprzedni:
 
 - **1)** dostępnych mu analiz w zakresie badania rynku i preferencji różnych grup konsumentów, w tym młodych ludzi i innych osób aktualnie używających wyrobów tytoniowych, dotyczących składników i wydzielanych substancji, jak również streszczeń wszystkich badań rynkowych przeprowadzonych przy okazji wprowadzania do obrotu nowych wyrobów tytoniowych;
-- **2)** danych dotyczących wielkości ich sprzedaży w podziale na marki i rodzaje, w sztukach lub w kilogramach, w podziale według państw członkowskich Unii Europejskiej. Art. 8aa. 1. Wykaz priorytetowy dodatków zawartych w papierosach i tytoniu do samodzielnego skręcania papierosów określa decyzja wykonawcza Komisji (UE) 2016/787 z dnia 18 maja 2016 r. ustanawiająca wykaz priorytetowy podlegających zwiększonym obowiązkom sprawozdawczym dodatków zawartych w papierosach i tytoniu do samodzielnego skręcania papierosów (Dz. Urz. UE L 131 z 20.05.2015, str. 88).
+- **2)** danych dotyczących wielkości ich sprzedaży w podziale na marki i rodzaje, w sztukach lub w kilogramach, w podziale według państw członkowskich Unii Europejskiej.
+
+1. Wykaz priorytetowy dodatków zawartych w papierosach i tytoniu do samodzielnego skręcania papierosów określa decyzja wykonawcza Komisji (UE) 2016/787 z dnia 18 maja 2016 r. ustanawiająca wykaz priorytetowy podlegających zwiększonym obowiązkom sprawozdawczym dodatków zawartych w papierosach i tytoniu do samodzielnego skręcania papierosów (Dz. Urz. UE L 131 z 20.05.2015, str. 88).
 
 2. Producent i importer papierosów i tytoniu do samodzielnego skręcania papierosów zawierających dodatek, który znajduje się w wykazie, o którym mowa w ust. 1, jest obowiązany do przeprowadzenia kompleksowego badania w celu stwierdzenia, czy dodatek:
 
@@ -306,7 +374,9 @@ source: "isap-pdf"
 
 9. Minister właściwy do spraw zdrowia ogłasza, w drodze obwieszczenia, wykaz instytutów badawczych, o których mowa w ust. 7.
 
-10. Przepisów ust. 1–9 nie stosuje się do mikroprzedsiębiorstw, małych i średnich przedsiębiorstw w rozumieniu zalecenia Komisji 2003/361/WE z dnia 6 maja 2003 r. dotyczącego definicji przedsiębiorstw mikro-, małych i średnich (notyfikowanego jako dokument nr C(2003) 1422) (Dz. Urz. UE L 124 z 20.05.2003, str. 36), zwanego dalej „zaleceniem 2003/361/WE”, jeżeli sprawozdanie sporządził inny producent lub importer. Art. 8ab. 1. Informacje uzyskane przez Prezesa Biura na podstawie art. 8a ust. 1–5 i art. 8aa są udostępniane w Biuletynie Informacji Publicznej, z uwzględnieniem ochrony tajemnicy handlowej.
+10. Przepisów ust. 1–9 nie stosuje się do mikroprzedsiębiorstw, małych i średnich przedsiębiorstw w rozumieniu zalecenia Komisji 2003/361/WE z dnia 6 maja 2003 r. dotyczącego definicji przedsiębiorstw mikro-, małych i średnich (notyfikowanego jako dokument nr C(2003) 1422) (Dz. Urz. UE L 124 z 20.05.2003, str. 36), zwanego dalej „zaleceniem 2003/361/WE”, jeżeli sprawozdanie sporządził inny producent lub importer.
+
+1. Informacje uzyskane przez Prezesa Biura na podstawie art. 8a ust. 1–5 i art. 8aa są udostępniane w Biuletynie Informacji Publicznej, z uwzględnieniem ochrony tajemnicy handlowej.
 
 2. Prezes Biura zapewnia dostęp do informacji uzyskanych na podstawie art. 8a i art. 8aa, z uwzględnieniem ochrony tajemnicy handlowej, Komisji Europejskiej oraz organom innych państw członkowskich Unii Europejskiej właściwym do uzyskiwania tych informacji.
 
@@ -324,9 +394,7 @@ source: "isap-pdf"
 
 5. Producent lub importer wnosi na rachunek bankowy wskazany przez Prezesa Biura, w terminie 14 dni od dnia otrzymania wezwania do wniesienia opłaty, opłatę roczną za otrzymywanie, przechowywanie, przetwarzanie, analizę i publikowanie informacji dotyczących wyrobów tytoniowych, przekazanych na podstawie art. 8a i art. 8aa w wysokości przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego. Opłata stanowi dochód budżetu państwa.
 
-6. Format przekazywania i udostępniania informacji o wyrobach tytoniowych, o których mowa w art. 8a i art. 8aa, określa decyzja wykonawcza Komisji (UE) 2015/2186.
-
-**Art. 8b.** (uchylony)
+6. Format przekazywania i udostępniania informacji o wyrobach tytoniowych, o których mowa w art. 8a i art. 8aa, określa decyzja wykonawcza Komisji (UE) 2015/2186. (uchylony)
 
 **Art. 9.**
 
@@ -346,11 +414,9 @@ source: "isap-pdf"
 
 8. Ostrzeżenia zdrowotne powinny być otoczone czarną ramką o szerokości 1 mm w obrębie płaszczyzny przeznaczonej na te ostrzeżenia.
 
-**Art. 9a.**
+1. Na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych do palenia zamieszcza się następujące ostrzeżenie ogólne: „ Palenie zabija – rzuć teraz! ” .
 
-1. Na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych do palenia zamieszcza się następujące ostrzeżenie ogólne: „Palenie zabija – rzuć teraz!”.
-
-2. Na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych do palenia zamieszcza się następującą wiadomość informacyjną: „Dym tytoniowy zawiera ponad 70 substancji powodujących raka”.
+2. Na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych do palenia zamieszcza się następującą wiadomość informacyjną: „ Dym tytoniowy zawiera ponad 70 substancji powodujących raka ” .
 
 3. W przypadku wydania aktu delegowanego określającego inne brzmienie wiadomości informacyjnej określonej w ust. 2 na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych do palenia zamieszcza się wiadomość informacyjną określoną w tym akcie delegowanym.
 
@@ -363,8 +429,6 @@ source: "isap-pdf"
 - **1)** drukowane czarną, pogrubioną czcionką Helvetica na białym tle;
 - **2)** wyśrodkowane w obszarze przeznaczonym do ich umieszczenia, a na opakowaniach jednostkowych w kształcie prostopadłościanu i opakowaniach zbiorczych są umieszczone równolegle do bocznych krawędzi opakowania jednostkowego lub opakowania zbiorczego.
 
-**Art. 9b.**
-
 1. Na każdym opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych do palenia zamieszcza się mieszane ostrzeżenia zdrowotne, które:
 
 - **1)** zawierają jedno z ostrzeżeń tekstowych wymienionych w załączniku do ustawy oraz odpowiadającą mu kolorową fotografię z biblioteki obrazów w tym załączniku;
@@ -372,9 +436,9 @@ source: "isap-pdf"
 - **3)** zajmują 65 % zewnętrznego obszaru zarówno przedniej, jak i tylnej płaszczyzny opakowania jednostkowego i opakowania zbiorczego, z tym że na opakowaniach w kształcie walca powinny znajdować się dwa mieszane ostrzeżenia zdrowotne znajdujące się w równej odległości od siebie, a każde ostrzeżenie zdrowotne zajmuje 65 % przypadającej na nie połowy zaokrąglonej płaszczyzny;
 - **4)** są widoczne w takiej samej formie na obu stronach opakowania jednostkowego i opakowania zbiorczego;
 - **5)** są widoczne przy górnej krawędzi opakowania jednostkowego i opakowania zbiorczego i są umieszczone w tym samym kierunku co wszystkie inne informacje umieszczone na tej płaszczyźnie opakowania;
-- **6)** w przypadku opakowań jednostkowych papierosów mają następujące wymiary:
-    - **a)** wysokość nie mniejszą niż 44 mm,
-    - **b)** szerokość nie mniejszą niż 52 mm.
+- **6)** w przypadku opakowań jednostkowych papierosów mają następujące wymiary: wysokość nie mniejszą niż 44 mm, szerokość nie mniejszą niż 52 mm.
+    - **a)**
+    - **b)**
 
 2. Informacje, o których mowa w ust. 1 pkt 2, umieszcza i aktualizuje minister właściwy do spraw zdrowia na stronie internetowej obsługującego go urzędu.
 
@@ -385,15 +449,13 @@ source: "isap-pdf"
 5. W przypadku gdy akty delegowane określą:
 
 - **1)** treść ostrzeżeń tekstowych inną niż wymienione w załączniku do ustawy,
-- **2)** zmianę biblioteki obrazów stosowanych w mieszanych ostrzeżeniach zdrowotnych określonych w załączniku do ustawy – stosuje się mieszane ostrzeżenia zdrowotne określone w tych aktach delegowanych.
+- **2)** zmianę biblioteki obrazów stosowanych w mieszanych ostrzeżeniach zdrowotnych określonych w załączniku do ustawy stosuje się mieszane ostrzeżenia zdrowotne określone w tych aktach delegowanych.
 
 6. Szczegółowy sposób umieszczania mieszanych ostrzeżeń zdrowotnych na opakowaniach wyrobów tytoniowych do palenia określa decyzja wykonawcza Komisji (UE) 2015/1842 z dnia 9 października 2015 r. w sprawie specyfikacji technicznych dotyczących układu, wyglądu i kształtu mieszanych ostrzeżeń dla wyrobów tytoniowych do palenia (Dz. Urz. UE L 267 z 14.10.2015, str. 5).
 
 7. Producent i importer wyrobów tytoniowych jest obowiązany do stosowania zestawów z biblioteki obrazów stosowanych w mieszanych ostrzeżeniach zdrowotnych określonych w załączniku do ustawy lub aktach delegowanych zawierających informacje, o których mowa w ust. 1 pkt 2, w formacie przekazanym przez Komisję Europejską.
 
 8. Minister właściwy do spraw zdrowia udostępnia producentom i importerom wyrobów tytoniowych w postaci elektronicznej, w formacie przekazanym przez Komisję Europejską zestawy, o których mowa w ust. 7.
-
-**Art. 9c.**
 
 1. W przypadku opakowań papierosów i tytoniu do samodzielnego skręcania papierosów w opakowaniach o kształcie prostopadłościanu ostrzeżenie ogólne należy umieścić w dolnej części jednej z bocznych płaszczyzn opakowania jednostkowego, a wiadomość informacyjną w dolnej części innej bocznej płaszczyzny. Ostrzeżenia zdrowotne powinny mieć szerokość co najmniej 20 mm.
 
@@ -405,9 +467,7 @@ source: "isap-pdf"
 
 5. Szczegółowy sposób umiejscowienia ostrzeżenia ogólnego i wiadomości informacyjnej na torebce określa decyzja wykonawcza Komisji (UE) 2015/1735 z dnia 24 września 2015 r. w sprawie dokładnego umiejscowienia ostrzeżenia ogólnego i wiadomości informacyjnej na torebkach z tytoniem do samodzielnego skręcania papierosów (Dz. Urz. UE L 252 z 29.09.2015, str. 49).
 
-**Art. 9d.**
-
-1. Na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych bezdymnych zamieszcza się następujące ostrzeżenie zdrowotne:
+1. Na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych bezdymnych zamieszcza się następujące ostrzeżenie zdrowotne: „ Ten wyrób tytoniowy szkodzi Twojemu zdrowiu i powoduje uzależnienie ” .
 
 2. W przypadku gdy akt delegowany określi brzmienie ostrzeżenia zdrowotnego inne niż określone w ust. 1, na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów tytoniowych bezdymnych zamieszcza się ostrzeżenie zdrowotne określone w tym akcie delegowanym.
 
@@ -420,9 +480,7 @@ source: "isap-pdf"
 - **1)** być widoczne na dwóch największych płaszczyznach opakowania jednostkowego i opakowania zbiorczego;
 - **2)** zajmować 30 % płaszczyzny opakowania jednostkowego i opakowania zbiorczego.
 
-**Art. 9e.**
-
-1. Na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów ziołowych do palenia zamieszcza się następujące ostrzeżenie zdrowotne: „Palenie tego produktu szkodzi Twojemu zdrowiu”.
+1. Na opakowaniu jednostkowym i opakowaniu zbiorczym wyrobów ziołowych do palenia zamieszcza się następujące ostrzeżenie zdrowotne: „ Palenie tego produktu szkodzi Twojemu zdrowiu ” .
 
 2. Ostrzeżenie zdrowotne, o którym mowa w ust. 1, powinno być umieszczone na przedniej i tylnej zewnętrznej płaszczyźnie opakowania jednostkowego i na opakowaniu zbiorczym.
 
@@ -430,9 +488,7 @@ source: "isap-pdf"
 
 4. Ostrzeżenie zdrowotne, o którym mowa w ust. 1, powinno zajmować 30 % obszaru opakowania jednostkowego i opakowania zbiorczego.
 
-5. Opakowania jednostkowe i opakowania zbiorcze wyrobów ziołowych do palenia nie mogą zawierać żadnych elementów lub cech określonych w art. 8 ust. 4 pkt 1, 2 i 4 oraz nie należy podawać na nich informacji, że wyrób nie zawiera dodatków lub środków aromatyzujących.
-
-**Art. 9f.** Wygląd opakowania jednostkowego i opakowania zbiorczego wyrobów tytoniowych przeznaczonych dla konsumentów na terytorium Rzeczypospolitej Polskiej powinien spełniać wymagania określone w ustawie lub aktach delegowanych.
+5. Opakowania jednostkowe i opakowania zbiorcze wyrobów ziołowych do palenia nie mogą zawierać żadnych elementów lub cech określonych w art. 8 ust. 4 pkt 1, 2 i 4 oraz nie należy podawać na nich informacji, że wyrób nie zawiera dodatków lub środków aromatyzujących. Wygląd opakowania jednostkowego i opakowania zbiorczego wyrobów tytoniowych przeznaczonych dla konsumentów na terytorium Rzeczypospolitej Polskiej powinien spełniać wymagania określone w ustawie lub aktach delegowanych.
 
 **Art. 10.**
 
@@ -470,8 +526,6 @@ source: "isap-pdf"
 10. Akty delegowane określają maksymalny poziom wydzielanych przez papierosy substancji innych niż określone w ust. 1 oraz substancji wydzielanych przez wyroby tytoniowe inne niż papierosy oraz metody ich pomiaru.
 
 11. Minister właściwy do spraw zdrowia informuje Komisję Europejską o laboratoriach określonych w przepisach wydanych na podstawie ust. 9.
-
-**Art. 10a.**
 
 1. Producent lub importer wyrobów tytoniowych przeznaczonych na rynek Unii Europejskiej jest obowiązany do zapewnienia oznaczenia opakowania jednostkowego wyrobów tytoniowych niepowtarzalnym identyfikatorem drukowanym lub umieszczanym w sposób nieusuwalny i trwały.
 
@@ -526,7 +580,9 @@ source: "isap-pdf"
 
 16. Przetwarzanie danych osobowych przechowywanych i udostępnianych przez ośrodek odbywa się na zasadach określonych w przepisach o ochronie danych osobowych.
 
-17. (uchylony) Art. 10aa. 1. Niepowtarzalny identyfikator jest generowany i wydawany przez podmiot wydający identyfikatory, którym jest jednoosobowa spółka Skarbu Państwa, której przedmiotem działalności jest wytwarzanie blankietów dokumentów, druków zabezpieczonych i znaków akcyzy, mająca siedzibę oraz zakład produkcyjny na terytorium Rzeczypospolitej Polskiej, która posiada system zarządzania bezpieczeństwem potwierdzony certyfikatem zgodności z normą ISO: 14298:2013.
+17. (uchylony)
+
+1. Niepowtarzalny identyfikator jest generowany i wydawany przez podmiot wydający identyfikatory, którym jest jednoosobowa spółka Skarbu Państwa, której przedmiotem działalności jest wytwarzanie blankietów dokumentów, druków zabezpieczonych i znaków akcyzy, mająca siedzibę oraz zakład produkcyjny na terytorium Rzeczypospolitej Polskiej, która posiada system zarządzania bezpieczeństwem potwierdzony certyfikatem zgodności z normą ISO: 14298:2013.
 
 2. Maksymalna opłata za wygenerowanie i wydanie jednego niepowtarzalnego identyfikatora przez podmiot wydający identyfikatory, o którym mowa w ust. 1, w:
 
@@ -560,16 +616,14 @@ source: "isap-pdf"
 - **1)** wyznaczy podmiot wydający identyfikatory, o którym mowa w ust. 1, mając na względzie możliwości organizacyjno-techniczne tego podmiotu zapewniające sprawne wykonywanie jego zadań;
 - **2)** określi postać niepowtarzalnego identyfikatora w formie nośnika fizycznego, uwzględniając konieczność zapewnienia sprawnego funkcjonowania systemu identyfikowalności oraz czytelności tego identyfikatora.
 
-**Art. 10b.**
-
 1. Producent lub importer jest obowiązany do zapewnienia zabezpieczenia opakowań jednostkowych wyrobów tytoniowych odpornym na ingerencję zabezpieczeniem złożonym z widocznego i niewidocznego elementu, zgodnie z przepisami decyzji wykonawczej Komisji (UE) 2018/576 z dnia 15 grudnia 2017 r. w sprawie norm technicznych dotyczących zabezpieczeń umieszczanych na wyrobach tytoniowych (Dz. Urz. UE L 96 z 16.04.2018, str. 57), zwanej dalej „decyzją wykonawczą Komisji (UE) 2018/576”.
 
 2. Zabezpieczeniem, o którym mowa w ust. 1, jest:
 
 - **1)** znak akcyzy, o którym mowa w ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2023 r. poz. 1542, 1598 i 1723), albo
-- **2)** inne zabezpieczenie, o którym mowa w art. 3 decyzji wykonawczej Komisji (UE) 2018/576, w przypadku opakowań jednostkowych wyrobów tytoniowych:
-    - **a)** sprzedawanych w wolnych obszarach celnych podróżnym udającym się do krajów trzecich,
-    - **b)** niebędących wyrobami akcyzowymi w rozumieniu ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
+- **2)** inne zabezpieczenie, o którym mowa w art. 3 decyzji wykonawczej Komisji (UE) 2018/576, w przypadku opakowań jednostkowych wyrobów tytoniowych: sprzedawanych w wolnych obszarach celnych podróżnym udającym się do krajów trzecich, niebędących wyrobami akcyzowymi w rozumieniu ustawy z dnia 6 grudnia 2008 r. o podatku akcyzowym.
+    - **a)**
+    - **b)**
 
 3. Znak akcyzy jest nanoszony zgodnie z przepisami ustawy, o której mowa w ust. 2 pkt 1.
 
@@ -579,15 +633,7 @@ source: "isap-pdf"
 
 6. Minister właściwy do spraw finansów publicznych określi, w drodze rozporządzenia, rodzaje elementów potwierdzających autentyczność, o których mowa w art. 3 decyzji wykonawczej Komisji (UE) 2018/576, w przypadku zabezpieczenia umieszczanego na opakowaniach jednostkowych wyrobów tytoniowych, o których mowa w ust. 2 pkt 2, uwzględniając potrzebę zapewnienia sprawnego funkcjonowania systemu identyfikowalności.
 
-**Art. 11.** Leczenie uzależnienia od używania tytoniu jest finansowane na zasadach określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych.
-
-**Art. 11a.**
-
-1. Nowatorskie wyroby tytoniowe mogą być udostępniane po raz pierwszy w celu dalszej sprzedaży albo udostępniane po raz pierwszy w celu wprowadzenia do obrotu po uzyskaniu zezwolenia Prezesa Biura wydawanego w drodze decyzji, na podstawie zgłoszenia producenta lub importera.
-
-2. Zgłoszenia nowatorskich wyrobów tytoniowych dokonuje się w postaci elektronicznej, w terminie co najmniej 6 miesięcy przed dniem planowanego udostępnienia, o którym mowa w ust. 1.
-
-3. Do zgłoszenia wprowadzanego do obrotu nowatorskiego wyrobu tytoniowego dołącza się:
+**Art. 11.** Leczenie uzależnienia od używania tytoniu jest finansowane na zasadach określonych w przepisach o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych. 1. Nowatorskie wyroby tytoniowe mogą być udostępniane po raz pierwszy w celu dalszej sprzedaży albo udostępniane po raz pierwszy w celu wprowadzenia do obrotu po uzyskaniu zezwolenia Prezesa Biura wydawanego w drodze decyzji, na podstawie zgłoszenia producenta lub importera. 2. Zgłoszenia nowatorskich wyrobów tytoniowych dokonuje się w postaci elektronicznej, w terminie co najmniej 6 miesięcy przed dniem planowanego udostępnienia, o którym mowa w ust. 1. 3. Do zgłoszenia wprowadzanego do obrotu nowatorskiego wyrobu tytoniowego dołącza się:
 
 - **1)** jego szczegółowy opis;
 - **2)** instrukcję jego użytkowania;
@@ -610,8 +656,6 @@ source: "isap-pdf"
 9. Zezwolenie może zostać wydane wyłącznie na nowatorski wyrób tytoniowy spełniający wymagania określone dla wyrobu tytoniowego do palenia albo wyrobu tytoniowego bezdymnego.
 
 10. Jeżeli na potrzeby wydania zezwolenia ma być przeprowadzone badanie nowatorskiego wyrobu tytoniowego, przeprowadza się je w laboratorium posiadającym akredytację w odpowiednim zakresie uzyskaną zgodnie z przepisami dotyczącymi systemów oceny zgodności lub w laboratoriach powołanych do realizacji zadań z zakresu ochrony zdrowia publicznego w ramach Państwowej Inspekcji Sanitarnej albo Inspekcji Farmaceutycznej.
-
-**Art. 11b.**
 
 1. Papierosy elektroniczne i pojemniki zapasowe mogą być udostępniane po raz pierwszy w celu dalszej sprzedaży albo udostępniane po raz pierwszy w celu wprowadzenia do obrotu po dokonaniu przez producenta lub importera zgłoszenia oraz wyznaczeniu osoby prawnej lub fizycznej do kontaktu na terytorium Unii Europejskiej.
 
@@ -645,7 +689,7 @@ source: "isap-pdf"
 11. W przypadku gdy dokumentacja, o której mowa w ust. 10, w zakresie danego rodzaju lub marki papierosa elektronicznego lub pojemnika zapasowego:
 
 - **1)** nie odpowiada wymogom określonym w ust. 5 lub
-- **2)** zawiera dane wskazujące na niezgodność papierosa elektronicznego lub pojemnika zapasowego z ustawą lub aktami delegowanymi – Prezes Biura stwierdza to naruszenie, w drodze decyzji.
+- **2)** zawiera dane wskazujące na niezgodność papierosa elektronicznego lub pojemnika zapasowego z ustawą lub aktami delegowanymi Prezes Biura stwierdza to naruszenie, w drodze decyzji.
 
 12. Prezes Biura podaje do publicznej wiadomości informację o wydaniu decyzji, o której mowa w ust. 11, przez ogłoszenie w Biuletynie Informacji Publicznej na swojej stronie podmiotowej rodzaju lub marki papierosa elektronicznego lub pojemnika zapasowego oraz nazwy producenta lub importera.
 
@@ -660,19 +704,17 @@ source: "isap-pdf"
 
 16. W przypadku modyfikacji papierosa elektronicznego lub pojemnika zapasowego powodującej zmianę informacji, o których mowa w ust. 5 pkt 2–5, producent lub importer jest obowiązany do dokonania nowego zgłoszenia. Przepisy ust. 2–15 oraz art. 3a ust. 2, 4 i 5 stosuje się odpowiednio.
 
-**Art. 11c.**
-
 1. Papierosy elektroniczne lub pojemniki zapasowe powinny spełniać następujące wymagania:
 
-- **1)** płyn zawierający nikotynę i płyn niezawierający nikotyny powinny być umieszczone wyłącznie w specjalnie przeznaczonych do tego pojemnikach zapasowych, których pojemność nie może przekraczać 10 ml, a w przypadku papierosów elektronicznych jednorazowego użytku lub kartridżów jednorazowych pojemność kartridżów jednorazowych lub zbiorniczków nie może przekraczać 2 ml;
+- **1)** płyn zawierający nikotynę powinien być umieszczony wyłącznie w specjalnie przeznaczonych do tego pojemnikach zapasowych, których pojemność nie może przekraczać 10 ml, a w przypadku papierosów elektronicznych jednorazowego użytku lub kartridżów jednorazowych pojemność kartridżów jednorazowych lub zbiorniczków nie może przekraczać 2 ml;
 - **2)** zawartość nikotyny w płynie nie może przekraczać 20 mg/ml;
-- **3)** płyn zawierający nikotynę i płyn niezawierający nikotyny nie mogą zawierać dodatków wymienionych w art. 7c ust. 3;
-- **4)** do produkcji płynu zawierającego nikotynę i płynu niezawierającego nikotyny wykorzystuje się jedynie składniki o wysokiej czystości, a substancje inne niż składniki, o których mowa w art. 11b ust. 5 pkt 2, mogą być obecne w płynie zawierającym nikotynę i płynie niezawierającym nikotyny w śladowych ilościach, jeżeli nie ma technicznych możliwości wyeliminowania takich śladowych ilości podczas produkcji;
-- **5)** w płynach zawierających nikotynę, oprócz nikotyny, i w płynach niezawierających nikotyny wykorzystuje się jedynie składniki, które – w postaci podgrzanej lub niepodgrzanej – nie zagrażają ludzkiemu zdrowiu;
+- **3)** płyn zawierający nikotynę nie może zawierać dodatków wymienionych w art. 7c ust. 3;
+- **4)** do produkcji płynu zawierającego nikotynę zostały wykorzystane jedynie składniki o wysokiej czystości, a substancje inne niż składniki, o których mowa w art. 11b ust. 5 pkt 2, były obecne w płynie zawierającym nikotynę w śladowych ilościach, jeżeli nie ma technicznych możliwości wyeliminowania takich śladowych ilości podczas produkcji;
+- **5)** w płynach zawierających nikotynę oprócz nikotyny zostały wykorzystane jedynie składniki, które – w postaci podgrzanej lub niepodgrzanej – nie zagrażają ludzkiemu zdrowiu;
 - **6)** nikotyna w papierosach elektronicznych powinna być dawkowana w jednolity sposób w normalnych warunkach użytkowania;
 - **7)** powinny być zabezpieczone przed dziećmi, powinny mieć zabezpieczenie uniemożliwiające ich przypadkowe otwarcie oraz zabezpieczenie przed rozbiciem i przeciekaniem oraz posiadać mechanizm zapewniający ponowne napełnianie bez wycieków.
 
-2. Normy techniczne mechanizmu ponownego napełniania papierosów elektronicznych, które mogą być wykorzystywane do spożycia pary zawierającej nikotynę, i pojemników zapasowych z płynem zawierającym nikotynę określa decyzja wykonawcza Komisji (UE) 2016/586 z dnia 14 kwietnia 2016 r. w sprawie norm technicznych mechanizmu ponownego napełniania papierosów elektronicznych (Dz. Urz. UE L 101 z 16.04.2016, str. 15). Decyzję tę stosuje się odpowiednio do określenia norm technicznych mechanizmu ponownego napełniania papierosów elektronicznych, które mogą być wykorzystywane do spożycia pary niezawierającej nikotyny, i pojemników zapasowych z płynem niezawierającym nikotyny.
+2. Normy techniczne mechanizmów ponownego napełniania papierosów elektronicznych i pojemników zapasowych określa decyzja wykonawcza Komisji (UE) 2016/586 z dnia 14 kwietnia 2016 r. w sprawie norm technicznych mechanizmu ponownego napełniania papierosów elektronicznych (Dz. Urz. UE L 101 z 16.04.2016, str. 15).
 
 3. Na opakowaniu jednostkowym i opakowaniu zbiorczym papierosów elektronicznych i pojemników zapasowych powinien być zamieszczony wykaz wszystkich składników wyrobu w porządku malejącym według masy, zawartość nikotyny w wyrobie i jej ilość w przyjmowanej dawce, numer serii i ostrzeżenia dotyczące ochrony przed dziećmi oraz powinna być dołączona do opakowania jednostkowego papierosów elektronicznych i pojemników zapasowych ulotka z instrukcją w języku polskim.
 
@@ -689,9 +731,7 @@ source: "isap-pdf"
 
 6. Na opakowaniu jednostkowym i opakowaniu zbiorczym papierosów elektronicznych i pojemników zapasowych wprowadzanym do obrotu producent lub importer jest obowiązany do zamieszczenia w sposób widoczny, czytelny i trwały ostrzeżenia zdrowotnego sformułowanego w języku polskim.
 
-7. Na opakowaniach, o których mowa w ust. 6, w przypadku papierosów elektronicznych, które mogą być wykorzystywane do spożycia pary zawierającej nikotynę, i pojemników zapasowych z płynem zawierającym nikotynę zamieszcza się następujące ostrzeżenie zdrowotne: „Wyrób zawiera nikotynę, która powoduje szybkie uzależnienie.”.
-
-7a. Na opakowaniach, o których mowa w ust. 6, w przypadku papierosów elektronicznych, które mogą być wykorzystywane wyłącznie do spożycia pary niezawierającej nikotyny, i pojemników zapasowych z płynem niezawierającym nikotyny zamieszcza się następujące ostrzeżenie zdrowotne: „Wyrób szkodliwy dla zdrowia.”.
+7. Na opakowaniach, o których mowa w ust. 6, zamieszcza się następujące ostrzeżenie zdrowotne: „ Wyrób zawiera nikotynę, która powoduje szybkie uzależnienie. ” .
 
 8. Ostrzeżenie zdrowotne jest:
 
@@ -709,8 +749,6 @@ source: "isap-pdf"
 
 12. Producent lub importer papierosów elektronicznych lub pojemników zapasowych jest obowiązany do wyznaczenia osoby prawnej lub fizycznej do kontaktu na terytorium Unii Europejskiej w celu udzielania informacji o wprowadzanych do obrotu papierosach elektronicznych lub pojemnikach zapasowych.
 
-**Art. 11d.**
-
 1. Producent i importer papierosów elektronicznych lub pojemników zapasowych jest obowiązany do przekazywania Prezesowi Biura corocznego sprawozdania zawierającego:
 
 - **1)** wyczerpujące dane na temat wielkości sprzedaży, w podziale na marki i rodzaje wyrobu;
@@ -724,8 +762,6 @@ source: "isap-pdf"
 
 4. Prezes Biura monitoruje rozwój rynku papierosów elektronicznych oraz rozwój rynku pojemników zapasowych, biorąc pod uwagę wszystkie dowody wskazujące, że stosowanie papierosów elektronicznych i pojemników zapasowych prowadzi do uzależnienia od nikotyny, a ostatecznie do spożycia wyrobów tytoniowych.
 
-**Art. 11e.**
-
 1. Producent, importer lub dystrybutor papierosów elektronicznych lub pojemników zapasowych jest obowiązany do ustanowienia i utrzymywania systemu zbierania informacji o wszystkich podejrzewanych i niepożądanych dla zdrowia ludzkiego działaniach tych wyrobów.
 
 2. W celu realizacji obowiązku określonego w ust. 1 producent, importer lub dystrybutor papierosów elektronicznych lub pojemników zapasowych jest obowiązany przechowywać informacje, o których mowa w ust. 1, oraz przekazywać je niezwłocznie Prezesowi Biura.
@@ -736,24 +772,18 @@ source: "isap-pdf"
 
 5. Prezes Biura może zażądać od producentów, importerów lub dystrybutorów papierosów elektronicznych lub pojemników zapasowych dodatkowych informacji dotyczących papierosów elektronicznych lub pojemników zapasowych, w szczególności w zakresie ich bezpieczeństwa i jakości lub wszystkich działań niepożądanych.
 
-**Art. 11f.**
-
-1. W przypadku gdy Prezes Biura stwierdzi lub ma uzasadnione powody do stwierdzenia, że określone papierosy elektroniczne, które mogą być wykorzystywane do spożycia pary zawierającej nikotynę, lub pojemniki zapasowe z płynem zawierającym nikotynę albo dany rodzaj papierosów elektronicznych, które mogą być wykorzystywane do spożycia pary zawierającej nikotynę, lub pojemników zapasowych z płynem zawierającym nikotynę mogą stanowić poważne zagrożenia dla zdrowia ludzkiego, w drodze decyzji wstrzymuje ich wytwarzanie lub wprowadzanie do obrotu lub nakazuje wycofanie ich z obrotu na czas niezbędny do dokonania oceny przez Komisję Europejską.
+1. W przypadku gdy Prezes Biura stwierdzi lub ma uzasadnione powody do stwierdzenia, że określone papierosy elektroniczne lub pojemniki zapasowe albo dany rodzaj papierosów elektronicznych lub pojemników zapasowych mogą stanowić poważne zagrożenia dla zdrowia ludzkiego, wstrzymuje, w drodze decyzji, ich wytwarzanie lub wprowadzanie do obrotu lub nakazuje wycofanie z obrotu na czas niezbędny dla dokonania oceny przez Komisję Europejską.
 
 2. O wydaniu decyzji, o której mowa w ust. 1, i podjętych w związku z tym działaniach Prezes Biura niezwłocznie informuje Komisję Europejską w celu dokonania oceny oraz właściwe organy innych państw członkowskich Unii Europejskiej.
 
 3. Po uzyskaniu oceny Komisji Europejskiej Prezes Biura niezwłocznie:
 
 - **1)** uchyla dotychczasową decyzję, o której mowa w ust. 1, w przypadku gdy Komisja Europejska uzna podjęte działania za nieuzasadnione, albo
-- **2)** wydaje decyzję o całkowitym wstrzymaniu wytwarzania lub wprowadzania do obrotu lub nakazującą wycofanie z obrotu określonych papierosów elektronicznych, które mogą być wykorzystywane do spożycia pary zawierającej nikotynę, lub pojemników zapasowych z płynem zawierającym nikotynę albo danego rodzaju papierosów elektronicznych, które mogą być wykorzystywane do spożycia pary zawierającej nikotynę, lub pojemników zapasowych z płynem zawierającym nikotynę, w przypadku gdy Komisja Europejska uzna podjęte działania za uzasadnione.
+- **2)** wydaje decyzję o całkowitym wstrzymaniu wytwarzania lub wprowadzania do obrotu lub nakazuje wycofanie z obrotu określonych papierosów elektronicznych lub pojemników zapasowych albo danego rodzaju papierosów elektronicznych lub pojemników zapasowych, w przypadku gdy Komisja Europejska uzna podjęte działania za uzasadnione.
 
 4. Prezes Biura podaje do publicznej wiadomości informację o wydaniu decyzji, o których mowa w ust. 1 i 3, przez ogłoszenie w Biuletynie Informacji Publicznej nazwy lub rodzaju wyrobu oraz nazwy producenta lub importera.
 
-5. Akty delegowane określają zakaz wprowadzania do obrotu określonych papierosów elektronicznych, które mogą być wykorzystywane do spożycia pary zawierającej nikotynę, lub pojemników zapasowych z płynem zawierającym nikotynę albo danego rodzaju papierosów elektronicznych, które mogą być wykorzystywane do spożycia pary zawierającej nikotynę, lub pojemników zapasowych z płynem zawierającym nikotynę.
-
-**Art. 11g.** Przepisów ustawy dotyczących papierosów elektronicznych i pojemników zapasowych nie stosuje się do papierosów elektronicznych i pojemników zapasowych, na które należy uzyskać pozwolenie na dopuszczenie do obrotu na podstawie przepisów Prawa farmaceutycznego lub które podlegają wymaganiom określonym w przepisach o wyrobach medycznych.
-
-**Art. 11h.**
+5. Akty delegowane określają zakaz wprowadzania do obrotu określonych papierosów elektronicznych lub pojemników zapasowych lub danego rodzaju papierosów elektronicznych lub pojemników zapasowych. Przepisów ustawy dotyczących papierosów elektronicznych i pojemników zapasowych nie stosuje się do papierosów elektronicznych i pojemników zapasowych, na które należy uzyskać pozwolenie na dopuszczenie do obrotu na podstawie przepisów Prawa farmaceutycznego lub które podlegają wymaganiom określonym w przepisach o wyrobach medycznych.
 
 1. Producent lub importer wyrobów ziołowych do palenia przekazuje Prezesowi Biura wykaz wszystkich składników, z podaniem ich ilości, używanych do produkcji tych wyrobów, w podziale na marki i rodzaje.
 
@@ -765,63 +795,43 @@ source: "isap-pdf"
 
 5. Producent lub importer wyrobów ziołowych do palenia, przedkładając informacje zgodnie z ust. 1–3, wskazuje informacje, które uznaje za tajemnicę handlową.
 
-6. Format przekazywania i udostępniania informacji o wyrobach ziołowych do palenia określa decyzja wykonawcza Komisji (UE) 2015/2186. Art. 11ha. 1. Producent lub importer woreczków nikotynowych przekazuje Prezesowi Biura wykaz wszystkich składników, z podaniem ich ilości, używanych do produkcji tych wyrobów, w podziale na marki i rodzaje.
+6. Format przekazywania i udostępniania informacji o wyrobach ziołowych do palenia określa decyzja wykonawcza Komisji (UE) 2015/2186.
 
-2. Producent lub importer woreczków nikotynowych informuje Prezesa Biura w przypadku zmiany składu wyrobu wpływającej na informacje przekazywane na podstawie ust. 1.
-
-3. Informacje, o których mowa w ust. 1 i 2, są przekazywane Prezesowi Biura co najmniej 6 miesięcy przed dniem wprowadzenia do obrotu nowych lub zmodyfikowanych woreczków nikotynowych.
-
-4. Informacje, o których mowa w ust. 1 i 2, są publikowane w Biuletynie Informacji Publicznej na stronie urzędu obsługującego Prezesa Biura, z uwzględnieniem ochrony tajemnicy handlowej.
-
-5. Producent lub importer woreczków nikotynowych, przedkładając informacje zgodnie z ust. 1–3, wskazuje informacje, które uznaje za tajemnicę handlową.
-
-6. Producent lub importer wnosi na rachunek bankowy wskazany przez Prezesa Biura, w terminie 14 dni od dnia otrzymania wezwania do wniesienia opłaty, opłatę roczną za otrzymywanie, przechowywanie, przetwarzanie, analizę i publikowanie informacji dotyczących woreczków nikotynowych, przekazanych na podstawie ust. 1 i 2 w wysokości przeciętnego miesięcznego wynagrodzenia w sektorze przedsiębiorstw bez wypłat nagród z zysku za ubiegły rok ogłaszanego, w drodze obwieszczenia, przez Prezesa Głównego Urzędu Statystycznego. Opłata stanowi dochód budżetu państwa.
-
-7. Format przekazywania i udostępniania informacji o woreczkach nikotynowych określa decyzja wykonawcza Komisji (UE) 2015/2186. Art. 11hb. 1. Woreczki nikotynowe powinny spełniać następujące wymagania:
-
-- **1)** zawartość nikotyny w woreczku nikotynowym nie może przekraczać 20 mg/g;
-- **2)** woreczek nikotynowy nie może zawierać dodatków wymienionych w art. 7c ust. 3;
-- **3)** w procesie produkcji woreczków nikotynowych nie stosuje się składników zwiększających właściwości uzależniające od nikotyny.
-
-2. Na opakowaniu jednostkowym i opakowaniu zbiorczym woreczków nikotynowych zamieszcza się następujące ostrzeżenie zdrowotne: „Ten wyrób szkodzi Twojemu zdrowiu i powoduje uzależnienie.”.
-
-3. Ostrzeżenie zdrowotne, o którym mowa w ust. 2, jest:
-
-- **1)** drukowane czarną, pogrubioną czcionką Helvetica na białym tle;
-- **2)** wyśrodkowane w obszarze przeznaczonym do jego umieszczenia, a na opakowaniach jednostkowych w kształcie prostopadłościanu i opakowaniach zbiorczych jest umieszczone równolegle do bocznych krawędzi opakowania jednostkowego lub opakowania zbiorczego.
-
-4. Tekst ostrzeżenia zdrowotnego, o którym mowa w ust. 2, powinien być równoległy względem tekstu głównego na płaszczyźnie zarezerwowanej dla tego ostrzeżenia.
-
-5. Ostrzeżenie zdrowotne, o którym mowa w ust. 2, powinno:
-
-- **1)** być widoczne na dwóch największych płaszczyznach opakowania jednostkowego i opakowania zbiorczego;
-- **2)** zajmować 30 % płaszczyzny opakowania jednostkowego i opakowania zbiorczego.
-
-6. Opakowania jednostkowe i opakowania zbiorcze woreczków nikotynowych nie mogą mieć elementów lub cech, o których mowa w art. 8 ust. 4– 6, z wyjątkiem art. 8 ust. 4 pkt 1 w zakresie informacji o zawartości nikotyny oraz art. 8 ust. 4 pkt 3 w zakresie informacji o środkach aromatyzujących. Art. 11hc. 1. Przepisów ustawy dotyczących woreczków nikotynowych nie stosuje się do woreczków nikotynowych, w przypadku których należy uzyskać pozwolenie na dopuszczenie do obrotu na podstawie przepisów Prawa farmaceutycznego lub które podlegają wymaganiom określonym w przepisach o wyrobach medycznych.
-
-2. Do woreczków nikotynowych stosuje się rozporządzenie nr 1907/2006 oraz rozporządzenie nr 1272/2008.
-
-**Art. 11i.**
-
-1. Nieopłacone, opłacone w części lub nieopłacone w terminie należności budżetowe wynikające z opłat stanowiących dochód budżetu państwa określone w art. 7d ust. 4, art. 8aa ust. 8, art. 8ab ust. 5, art. 10 ust. 8 i art. 11ha ust. 6 podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
+1. Nieopłacone, opłacone w części lub nieopłacone w terminie należności budżetowe wynikające z opłat stanowiących dochód budżetu państwa określone w art. 7d ust. 4, art. 8aa ust. 8, art. 8ab ust. 5 i art. 10 ust. 8 podlegają ściągnięciu w trybie przepisów o postępowaniu egzekucyjnym w administracji.
 
 2. Prezes Biura jest wierzycielem uprawnionym do żądania wykonania w drodze egzekucji administracyjnej należności, o których mowa w ust. 1.
 
-**Art. 11j.** Kontrolę przestrzegania przez przedsiębiorców przepisów ustawy w zakresie niezastrzeżonym dla innych organów przeprowadza Inspekcja Handlowa, działając na podstawie ustawy z dnia 15 grudnia 2000 r. o Inspekcji Handlowej (Dz. U. z 2025 r. poz. 229).
-
 **Art. 12.** Kto:
 
-**Art. 12a.** Kto umieszcza na opakowaniu jednostkowym lub opakowaniu zbiorczym lub na wyrobie tytoniowym jakiekolwiek elementy lub cechy, o których mowa w art. 8 ust. 4, podlega grzywnie do 200 000 zł albo karze ograniczenia wolności, albo obu tym karom łącznie.
-
-**Art. 12b.** Kto w procesie produkcji wyrobów tytoniowych stosuje dodatki zwiększające właściwości uzależniające od nikotyny tych wyrobów, podlega grzywnie do 500 000 zł albo karze ograniczenia wolności albo obu tym karom łącznie.
-
-**Art. 12c.** Kto:
+- **1)** reklamuje lub promuje wyroby lub produkty wbrew postanowieniom art. 8 ust. 1,
+- **2)** sponsoruje działalność sportową, kulturalną, oświatową, zdrowotną lub społeczno-polityczną wbrew postanowieniom art. 8 ust. 2,
+- **3)** eksponuje w punkcie detalicznym przedmioty imitujące opakowania wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych wbrew postanowieniom art. 8 ust. 3,
+- **4)** na opakowaniu jednostkowym lub opakowaniu zbiorczym wyrobów tytoniowych umieszcza jakiekolwiek elementy lub cechy, które sugerują korzyści ekonomiczne, o których mowa w art. 8 ust. 5,
+- **5)** produkuje lub wprowadza do obrotu tytoń do stosowania doustnego,
+- **6)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe w opakowaniach, na których nie zamieszczono ostrzeżenia zdrowotnego lub z ostrzeżeniem zdrowotnym wbrew postanowieniom art. 9–9f,
+- **7)** wprowadza do obrotu wyroby tytoniowe w opakowaniach, na których nie zamieszczono ostrzeżenia zdrowotnego sformułowanego w języku polskim,
+- **8)** produkuje lub importuje wyroby tytoniowe, w których maksymalny poziom wydzielanych substancji smolistych, nikotyny i tlenku węgla w dymie papierosowym przekracza wartości, o których mowa w art. 10 ust. 1 i 2, podlega grzywnie do 200 000 zł albo karze ograniczenia wolności, albo obu tym karom łącznie. Kto umieszcza na opakowaniu jednostkowym lub opakowaniu zbiorczym lub na wyrobie tytoniowym jakiekolwiek elementy lub cechy, o których mowa w art. 8 ust. 4, podlega grzywnie do 200 000 zł albo karze ograniczenia wolności, albo obu tym karom łącznie. Kto w procesie produkcji wyrobów tytoniowych stosuje dodatki zwiększające właściwości uzależniające od nikotyny tych wyrobów, podlega grzywnie do 500 000 zł albo karze ograniczenia wolności albo obu tym karom łącznie. Kto:
+- **1)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe, których opakowanie jednostkowe nie spełnia wymagań określonych w art. 6a,
+- **2)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe wbrew zakazom, o których mowa w art. 7c ust. 1, 3 lub 4,
+- **3)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe zawierające dodatki określone w przepisach wydanych na podstawie art. 7d ust. 6 lub 10,
+- **4)** produkuje lub importuje w celu wprowadzenia do obrotu wyroby tytoniowe, w których poziom zawartości dodatków przekracza wartości określone w przepisach, o których mowa w art. 7d ust. 7,
+- **5)** nie stosuje się do zakazów sprzedaży na odległość, o których mowa w art. 7f,
+- **5a)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu wyroby tytoniowe, nie dopełniając obowiązku przekazania jednorazowej informacji, o której mowa w art. 8a ust. 1, odnośnie ich rodzaju lub marki,
+- **5b)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu wyroby tytoniowe, w stosunku do których została wydana decyzja na podstawie art. 8a ust. 5b,
+- **6)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu opakowanie jednostkowe wyrobów tytoniowych nieoznaczone drukowanym lub umieszczonym w sposób nieusuwalny i trwały niepowtarzalnym identyfikatorem, o którym mowa w art. 10a ust. 1,
+- **7)** nie dopełnia obowiązków, o których mowa w art. 10a ust. 6, 7 lub 9 lub art. 10b ust. 1,
+- **8)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu nowatorski wyrób tytoniowy bez zezwolenia, o którym mowa w art. 11a ust. 1,
+- **9)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu papierosy elektroniczne i pojemniki zapasowe, nie dopełniając obowiązku zgłoszenia, o którym mowa w art. 11b ust. 1 i 16,
+- **9a)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu papierosy elektroniczne lub pojemniki zapasowe, w stosunku do których została wydana decyzja na podstawie art. 11b ust. 11,
+- **10)** produkuje lub importuje w celu wprowadzenia do obrotu papierosy elektroniczne lub pojemniki zapasowe, które nie spełniają wymagań określonych w art. 11c ust. 1–11,
+- **11)** nie stosuje się do nakazów lub zakazów, o których mowa w art. 11f ust. 1 i ust. 3 pkt 2 lub ust. 5,
+- **12)** udostępnia po raz pierwszy w celu dalszej sprzedaży albo udostępnia po raz pierwszy w celu wprowadzenia do obrotu wyroby ziołowe do palenia, nie dopełniając obowiązku przekazania wykazu składników, o którym mowa w art. 11h ust. 1, odnośnie ich rodzaju lub marki, podlega grzywnie do 200 000 zł albo karze ograniczenia wolności, albo obu tym karom łącznie.
 
 **Art. 13.**
 
 1. Kto:
 
-- **1)** wprowadza do obrotu wyroby tytoniowe, woreczki nikotynowe, papierosy elektroniczne lub pojemniki zapasowe lub nie umieszcza informacji o zakazie ich sprzedaży wbrew przepisom art. 6 ust. 1, 3–6,
+- **1)** wprowadza do obrotu wyroby tytoniowe, papierosy elektroniczne lub pojemniki zapasowe lub nie umieszcza informacji o zakazie ich sprzedaży wbrew przepisom art. 6 ust. 1, 2–5,
 - **2)** będąc właścicielem lub zarządzającym obiektem lub środkiem transportu, wbrew przepisom art. 5 ust. 1a nie umieszcza informacji o zakazie palenia, podlega karze grzywny do 2000 zł.
 
 2. Kto pali wyroby tytoniowe, nowatorskie wyroby tytoniowe lub papierosy elektroniczne wbrew postanowieniom art. 5, podlega karze grzywny do 500 zł.
@@ -832,13 +842,11 @@ source: "isap-pdf"
 
 **Art. 15.**
 
-1. W razie popełnienia czynu określonego w art. 12 pkt 5–8, art. 12a–12c lub w art. 13 ust. 1 pkt 1 sąd może orzec przepadek wyrobów tytoniowych lub woreczków nikotynowych stanowiących przedmiot czynu zabronionego, choćby nie stanowiły one własności sprawcy.
+1. W razie popełnienia czynu określonego w art. 12 pkt 5–8, art. 12a-12c lub w art. 13 ust. 1 pkt 1 sąd może orzec przepadek wyrobów tytoniowych stanowiących przedmiot czynu zabronionego, choćby nie stanowiły one własności sprawcy.
 
-2. W razie popełnienia czynu określonego w art. 12 pkt 3 sąd może orzec przepadek przedmiotów imitujących opakowania wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych stanowiących przedmiot czynu zabronionego, choćby nie stanowiły one własności sprawcy.
+2. W razie popełnienia czynu określonego w art. 12 pkt 3 sąd może orzec przepadek przedmiotów imitujących opakowania wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych stanowiących przedmiot czynu zabronionego, choćby nie stanowiły one własności sprawcy.
 
-3. Sąd może orzec przepadek wyrobów tytoniowych, woreczków nikotynowych, przedmiotów imitujących opakowania wyrobów tytoniowych, woreczków nikotynowych, papierosów elektronicznych lub pojemników zapasowych niebędących własnością sprawcy, jeżeli ich właściciel lub inna osoba uprawniona, nie zachowując ostrożności wymaganej w danych okolicznościach, przewidywała albo mogła przewidzieć, że mogą one służyć lub być przeznaczone do popełnienia przestępstwa.
-
-**Art. 15a.**
+3. Sąd może orzec przepadek wyrobów tytoniowych, przedmiotów imitujących opakowania wyrobów tytoniowych, papierosów elektronicznych lub pojemników zapasowych niebędących własnością sprawcy, jeżeli ich właściciel lub inna osoba uprawniona, nie zachowując ostrożności wymaganej w danych okolicznościach, przewidywała albo mogła przewidzieć, że mogą one służyć lub być przeznaczone do popełnienia przestępstwa.
 
 1. Karze pieniężnej w wysokości od 1000 do 100 000 zł podlega podmiot, który:
 
@@ -849,8 +857,7 @@ source: "isap-pdf"
 - **4)** nie przekazuje lub nie przekazuje w terminie nowych lub zaktualizowanych informacji dotyczących analiz, badań i innych informacji, o których mowa w art. 11a ust. 4;
 - **5)** nie przekazuje lub nie przekazuje w terminie sprawozdania, o którym mowa w art. 11d ust. 1;
 - **6)** nie dopełnia obowiązków, o których mowa w art. 11e;
-- **7)** nie przekazuje lub nie przekazuje w terminie wykazu składników, o którym mowa w art. 11h ust. 2;
-- **8)** nie przekazuje lub nie przekazuje w terminie wykazu składników, o którym mowa w art. 11ha ust. 2.
+- **7)** nie przekazuje lub nie przekazuje w terminie wykazu składników, o którym mowa w art. 11h ust. 2.
 
 2. Karę pieniężną nakłada, w drodze decyzji administracyjnej, Prezes Biura.
 
@@ -862,5 +869,8 @@ source: "isap-pdf"
 
 **Art. 16.** (pominięty)
 
-**Art. 17.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia . Załącznik do ustawy z dnia 9 listopada 1995 r. (Dz. U. z 2024 r. poz.
+**Art. 17.** Ustawa wchodzi w życie po upływie 3 miesięcy od dnia ogłoszenia.
+
+- **1)** [I)] Niniejsza ustawa wdraża dyrektywę Parlamentu Europejskiego i Rady 2014/40/UE z dania 3 kwietnia 2014 r. w sprawie zbliżenia przepisów ustawowych, wykonawczych i administracyjnych państw członkowskich w sprawie produkcji, prezentowania i sprzedaży wyrobów tytoniowych i powiązanych wyrobów oraz uchylającą dyrektywę 2001/37/WE (Dz. Urz. UE L 127 z 29.04.2014, str. 1, Dz. Urz. UE L 360 z 17.12.2014, str. 22, Dz. Urz. UE L 150 z 17.06.2015, str. 24 oraz Dz. Urz. UE L 283 z 03.11.2022, str. 4). [I)] Dodany przez art. 1 pkt 1 ustawy z dnia 12 kwietnia 2024 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 649), która weszła w życie z dniem 20 maja 2024 r. 2) W brzmieniu ustalonym przez art. 1 pkt 2 lit. a ustawy z dnia 12 kwietnia 2024 r. o zmianie ustawy o ochronie zdrowia przed następstwami używania tytoniu i wyrobów tytoniowych (Dz. U. poz. 649), która weszła w życie z dniem 20 maja 2024 r. 3) W brzmieniu ustalonym przez art. 1 pkt 2 lit. b ustawy, o której mowa w odnośniku 2. 4) Ustawa została ogłoszona w dniu 30 stycznia 1996 r. Załącznik – Biblioteka obrazów stosowanych w mieszanych ostrzeżeniach zdrowotnych patrz oryginał
+
 

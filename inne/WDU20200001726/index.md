@@ -1,0 +1,239 @@
+---
+title: "Rozporządzenie Ministra Obrony Narodowej z dnia 25 września 2020 r. zmieniające rozporządzenie w sprawie warunków krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które Siły Zbrojne Rzeczypospolitej Polskiej są odpowiedzialne"
+address: WDU20200001726
+eli: DU/2020/1726
+publisher: DU
+year: 2020
+pos: 1726
+act_type: Rozporządzenie
+status: akt objęty tekstem jednolitym
+domain: null
+source: "eli-html"
+---
+
+# Rozporządzenie Ministra Obrony Narodowejz dnia 25 września 2020 r. zmieniające rozporządzenie w sprawie warunków krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które Siły Zbrojne Rzeczypospolitej Polskiej są odpowiedzialne
+
+| Pole | Wartość |
+|---|---|
+| Adres publikacyjny | Dz.U. 2020 poz. 1726 |
+| ISAP | WDU20200001726 |
+| Typ aktu | Rozporządzenie |
+| Status | akt objęty tekstem jednolitym |
+| W mocy | tak |
+| Data ogłoszenia | 2020-09-25 |
+| Data wydania | 2020-10-07 |
+| Wejście w życie | 2020-10-22 |
+| Ostatnia zmiana | 2024-03-14 |
+| Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20200001726) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2020/1726/text.pdf) |
+
+Treść rozporządzenia
+Na podstawie art. 8 ust. 2 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2020 r. poz. 154 i 875) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Ministra Obrony Narodowej z dnia 9 listopada 2012 r. w sprawie warunków krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które Siły Zbrojne Rzeczypospolitej Polskiej są odpowiedzialne (Dz. U. poz. 1364) wprowadza się następujące zmiany:
+1)
+tytuł rozporządzenia otrzymuje brzmienie: „ w sprawie warunków krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne ” ;
+2)
+w § 1 pkt 1 otrzymuje brzmienie:
+„
+1)
+warunki krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne;
+” ;
+3)
+w § 2 ust. 1 otrzymuje brzmienie:
+„
+1.
+Przewóz drogowy towarów niebezpiecznych, realizowany przez pojazdy sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne, zwanymi dalej „środkami transportu”, wymagający uzyskania zezwolenia, o którym mowa w art. 18 ust. 1 ustawy z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych, monitorują właściwe jednostki organizacyjne za pomocą teleinformatycznego systemu monitorowania przemieszczania wojsk.
+” ;
+4)
+§ 3 otrzymuje brzmienie:
+„
+§ 3.
+1.
+Przewóz drogowy towarów niebezpiecznych należących do Sił Zbrojnych Rzeczypospolitej Polskiej niepodlegający obowiązkowi uzyskania zezwolenia wojskowego na przejazd drogowy można wykonywać pojazdami dopuszczonymi do ruchu drogowego, zgodnie z ustawą z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2020 r. poz. 110, 284, 568, 695, 1087 i 1517), oraz, jeżeli tak stanowi Umowa europejska dotycząca międzynarodowego przewozu drogowego towarów niebezpiecznych (ADR), sporządzona w Genewie dnia 30 września 1957 r. (Dz. U. z 2019 r. poz. 769 i 2471), zwana dalej „ADR”, na podstawie dodatkowych badań technicznych potwierdzonych przez okręgową stację kontroli pojazdów lub wojskową okręgową stację kontroli pojazdów.
+2.
+Przewóz drogowy towarów niebezpiecznych należących do sił zbrojnych państw obcych można wykonywać pojazdami należącymi do sił zbrojnych państw obcych lub pojazdami, za które te siły są odpowiedzialne, jeżeli pojazdy spełniają warunki techniczne dotyczące przewozu towarów niebezpiecznych wymagane dla tych pojazdów w państwie, w którym pojazd jest zarejestrowany.
+” ;
+5)
+po § 3 dodaje się § 3a-3c w brzmieniu:
+„
+§ 3a.
+W krajowym przewozie towarów niebezpiecznych dopuszcza się stosowanie zbiorników służących do napędu pojazdów oraz zbiorników przenośnych o pojemności większej niż określona w 1.1.3.3 (a) ADR.
+§ 3b.
+1.
+W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które te Siły są odpowiedzialne w stanie gotowości obronnej państwa czasu kryzysu lub czasu wojny, określonych w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej (Dz. U. z 2019 r. poz. 1541 i 2020 oraz z 2020 r. poz. 374):
+1)
+członkowie załogi pojazdu przewożący towary niebezpieczne przechodzą wyłącznie szkolenie stanowiskowe;
+2)
+prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie dokumentów zdawczo-odbiorczych;
+3)
+dopuszcza się zwiększenie dopuszczalnej masy netto towarów klasy 1 na pojazd, o której mowa w 7.5.5.2.1 ADR, przy czym masa brutto przewożonych towarów niebezpiecznych nie może przekroczyć dopuszczalnej ładowności pojazdu;
+4)
+dopuszcza się przewóz oraz przejazd sprzętu wojskowego wraz z przysługującymi mu normami należności stanowiącymi towary niebezpieczne;
+5)
+nie stosuje się przepisów § 3, § 22, § 23 pkt 4, § 24 i § 25 oraz § 28.
+2.
+Przepis ust. 1 stosuje się do przewozu towarów niebezpiecznych w stanie stałej gotowości obronnej państwa, określonej w przepisach wydanych na podstawie art. 6 ust. 2 pkt 3 ustawy z dnia 21 listopada 1967 r. o powszechnym obowiązku obrony Rzeczypospolitej Polskiej, w przypadku:
+1)
+zarządzenia kontroli mającej na celu sprawdzenie gotowości jednostki wojskowej (jednostek wojskowych) do podjęcia działań zgodnie z przeznaczeniem lub 2) przeprowadzenia szkolenia mającego na celu sprawdzenie gotowości jednostki wojskowej (jednostek wojskowych) do podjęcia działań zgodnie z przeznaczeniem – po uzyskaniu przez dowódcę (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej zgody Szefa Sztabu Generalnego Wojska Polskiego na przeprowadzenie tej kontroli lub tego szkolenia.
+3.
+Zgoda Szefa Sztabu Generalnego Wojska Polskiego, o której mowa w ust. 2, jest wydawana na wniosek dowódcy (szefa) jednostki organizacyjnej Sił Zbrojnych Rzeczypospolitej Polskiej, który zawiera:
+1)
+nazwę i adres jednostki wojskowej organizującej przewóz towarów niebezpiecznych;
+2)
+termin przewozu;
+3)
+trasę przejazdu;
+4)
+uzasadnienie wykonania przewozu;
+5)
+identyfikację przewożonego towaru niebezpiecznego wraz z określeniem jego masy w kilogramach lub objętości w litrach.
+§ 3c.
+W przypadku przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych państw obcych lub środkami transportu, za które te siły zbrojne są odpowiedzialne:
+1)
+członkowie załogi pojazdu przewożący towary niebezpieczne przechodzą wyłącznie szkolenie stanowiskowe;
+2)
+prowadzi się dokumentację przewozową towarów niebezpiecznych w zakresie umożliwiającym ich identyfikację przez wskazanie:
+a)
+numeru rozpoznawczego towaru niebezpiecznego (UN), zgodnego z ADR,
+b)
+prawidłowej nazwy przewozowej,
+c)
+klasy towaru niebezpiecznego, a w przypadku klasy 1 także kodu klasyfikacyjnego,
+d)
+wzoru nalepek ostrzegawczych;
+3)
+dopuszcza się zwiększenie dopuszczalnej masy netto towarów klasy 1 na pojazd, o której mowa w 7.5.5.2.1 ADR, przy czym masa brutto przewożonych towarów niebezpiecznych nie może przekroczyć dopuszczalnej ładowności pojazdu;
+4)
+dopuszcza się przewóz oraz przejazd sprzętu wojskowego wraz z przysługującymi mu normami należności stanowiącymi towary niebezpieczne.
+” ;
+6)
+§ 5 i § 6 otrzymują brzmienie:
+„
+§ 5.
+Wojskowy Dozór Techniczny, zwany dalej „WDT”, dokonuje sprawdzenia, na zasadach określonych w ustawie, urządzeń transportowych należących do Sił Zbrojnych Rzeczypospolitej Polskiej w zakresie spełnienia postanowień rozporządzenia oraz sporządza protokoły przeprowadzonego badania, a w przypadku pozytywnego wyniku badania wydaje decyzję dopuszczającą urządzenie transportowe do eksploatacji.
+§ 6.
+Sprawdzenia w zakresie spełniania dodatkowych wymagań technicznych, określonych w ADR, dotyczących wyposażenia lub przystosowania pojazdów do przewozu towarów niebezpiecznych, dokonuje uprawniony diagnosta w dodatkowym badaniu technicznym pojazdu przeznaczonego do przewozu niektórych towarów niebezpiecznych wykonywanym w okręgowej stacji kontroli pojazdów lub stacji kontroli pojazdów, o której mowa w przepisach wydanych na podstawie art. 86 ust. 4 ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym.
+” ;
+7)
+§ 9 otrzymuje brzmienie:
+„
+§ 9.
+Badania okresowe należy wykonywać nie rzadziej niż co 6 lat w zakresie: rewizji zewnętrznej, rewizji wewnętrznej, próby ciśnieniowej i próby szczelności.
+” ;
+8)
+w § 10 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+„
+2.
+Badania pośrednie cystern wyłączonych z użytkowania na okres dłuższy niż 12 miesięcy i poddanych zabiegom konserwacyjnym, potwierdzonym wyciągiem z rozkazu właściwego dowódcy, przeprowadza się w zakresie rewizji zewnętrznej.
+” ;
+9)
+§ 11 otrzymuje brzmienie:
+„
+§ 11.
+W przypadku gdy stan bezpieczeństwa zbiornika lub jego wyposażenia uległ zmianie na skutek uszkodzenia, naprawy lub wymiany wyposażenia eksploatacyjnego, przeprowadza się badanie doraźne (nadzwyczajne) w zakresie określonym przez WDT. Zakres badania doraźnego (nadzwyczajnego) nie powinien wykraczać poza zakres badania okresowego, o którym mowa w § 9.
+” ;
+10)
+w § 12 dotychczasową treść oznacza się jako ust. 1 i dodaje się ust. 2 w brzmieniu:
+„
+2.
+Eksploatujący zapewnia wykonywanie i dokumentowanie pomiarów rezystancji uziemienia przed każdym badaniem, o którym mowa w ust. 1, o ile w instrukcji eksploatacji cysterny nie określono innych terminów.
+” ;
+11)
+w § 13 ust. 4 otrzymuje brzmienie:
+„
+4.
+Zaświadczenie wystawia kierownik jednostki organizacyjnej odpowiedzialnej za cysternę lub osoba przez niego upoważniona na podstawie pomiarów wykonanych przez odpowiednio przeszkoloną osobę wyposażoną w odpowiednie urządzenie kontrolne do określania dopuszczalnego stężenia i innych parametrów koniecznych do określenia atmosfery wewnątrz zbiornika.
+” ;
+12)
+w § 14:
+a)
+ust. 3 otrzymuje brzmienie:
+„
+3.
+Próbę ciśnieniową należy wykonywać jako próbę hydrauliczną. W technicznie uzasadnionych przypadkach, na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, za zgodą Szefa WDT, próbę hydrauliczną można zastąpić inną próbą lub badaniem innego rodzaju, jeżeli metodyka przeprowadzenia takiej próby lub takiego badania została uzgodniona z Szefem WDT.
+” ,
+b)
+dodaje się ust. 5 w brzmieniu:
+„
+5.
+Wynik próby ciśnieniowej uznaje się za pozytywny, jeżeli w czasie próby nie stwierdzono:
+1)
+nieszczelności połączeń i wyposażenia;
+2)
+spadku ciśnienia podczas przeprowadzenia próby;
+3)
+widocznej trwałej deformacji zbiornika lub wyposażenia.
+” ;
+13)
+po § 14 dodaje się § 14a w brzmieniu:
+„
+§ 14a.
+Na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za cysternę badanie, o którym mowa w § 9 albo 10, może być przeprowadzone w okresie do sześciu miesięcy wcześniej przed wyznaczonym terminem, pod warunkiem, że termin badania zostanie uzgodniony z Szefem WDT na co najmniej 14 dni przed nowym terminem badania.
+” ;
+14)
+w § 15 w ust. 5 zdanie trzecie otrzymuje brzmienie: „ W uzasadnionych przypadkach, na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, za zgodą Szefa WDT, próba szczelności może zostać przeprowadzona w inny sposób, jeżeli metodyka przeprowadzania takiej próby została uzgodniona z Szefem WDT. ” ;
+15)
+w § 21 w ust. 8 pkt 7 otrzymuje brzmienie:
+„
+7)
+pojemność w m3 lub dm3- dla zbiorników wielokomorowych – pojemność każdej komory, a następnie inne oznaczenia po spełnieniu wymogów określonych w 6.8.2.5.1 ADR;
+” ;
+16)
+w § 24 ust. 3 otrzymuje brzmienie:
+„
+3.
+Sprawdzenia, o którym mowa w ust. 2, dokonuje się po przedstawieniu przez użytkownika pojazdu aktualnego protokołu wydanego przez WDT, zaświadczającego o pozytywnym wyniku badania urządzenia podlegającego dozorowi technicznemu, zainstalowanego na tym pojeździe.
+” ;
+17)
+w § 25:
+a)
+ust. 1 i 2 otrzymują brzmienie:
+„
+1.
+Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych wystawia WDT na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej złożony w postaci papierowej lub elektronicznej.
+2.
+Do wniosku, o którym mowa w ust. 1, kierownik jednostki organizacyjnej odpowiedzialnej za pojazd lub osoba przez niego upoważniona dołącza zaświadczenie o pozytywnym wyniku przeprowadzonego dodatkowego badania technicznego pojazdu, wydane przez właściwą stację kontroli pojazdów.
+” ,
+b)
+po ust. 3 dodaje się ust. 3a w brzmieniu:
+„
+3a.
+Termin ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych określa się na podstawie dokumentów wystawionych przez WDT oraz stację kontroli pojazdów. Termin ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych nie może być dłuższy niż termin następnego badania urządzenia technicznego, określony w protokole badania przeprowadzonego przez WDT oraz następny termin badania pojazdu, określony w zaświadczenia o przeprowadzonym dodatkowym badaniu technicznym pojazdu przeznaczonego do przewozu niektórych towarów niebezpiecznych.
+” ,
+c)
+ust. 4 otrzymuje brzmienie:
+„
+4.
+W przypadku utraty wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych WDT wydaje wtórnik tego świadectwa na pisemny wniosek kierownika jednostki organizacyjnej odpowiedzialnej za pojazd lub osoby przez niego upoważnionej, złożony w postaci papierowej lub elektronicznej.
+” ,
+d)
+po ust. 4 dodaje się ust. 4a w brzmieniu:
+„
+4a.
+W przypadku gdy pojazd został wycofany z eksploatacji lub przekazany innemu eksploatującemu, albo po upływie terminu ważności wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych oraz w przypadku zmiany istotnych cech konstrukcyjnych pojazdu, świadectwo lub jego wtórnik zwraca się niezwłocznie jednostce organizacyjnej WDT, która je wystawiła.
+” ;
+18)
+po § 25 dodaje się § 25a w brzmieniu:
+„
+§ 25a.
+Nie wystawia się świadectwa, o którym mowa w § 25, dla pojazdów wyłączonych z użytkowania na okres dłuższy niż 12 miesięcy i poddanych zabiegom konserwacyjnym.
+” ;
+19)
+w § 26 ust. 1 otrzymuje brzmienie:
+„
+1.
+Warunkiem przedłużenia ważności wojskowego świadectwa dopuszczenia pojazdu do przewozu towarów niebezpiecznych jest posiadanie aktualnego protokołu przeprowadzonego badania urządzenia technicznego, wydanego przez WDT oraz przedstawienie aktualnego zaświadczenia o pozytywnym wyniku przeprowadzonego dodatkowego badania technicznego pojazdu, wydanego przez stację kontroli pojazdów i oryginału wojskowego świadectwa dopuszczenia do przewozu towarów niebezpiecznych, o którego przedłużenie ważności występuje wnioskodawca.
+” ;
+20)
+w § 27 ust. 2 otrzymuje brzmienie:
+„
+2.
+Sprawdzenia spełnienia przez statki dodatkowych wymagań technicznych, o których mowa w ust. 1, dokonuje WDT na zasadach określonych w ustawie i wystawia protokół przeprowadzonego badania.
+” ;
+21)
+użyte w załącznikach do rozporządzenia w różnych przypadkach wyrazy „rozporządzenia Ministra Obrony Narodowej z dnia 9 listopada 2012 r. w sprawie warunków krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do Sił Zbrojnych Rzeczypospolitej Polskiej lub środkami transportu, za które Siły Zbrojne Rzeczypospolitej Polskiej są odpowiedzialne (Dz. U. poz. 1364)”, zastępuje się użytymi w różnych przypadkach wyrazami „rozporządzenia Ministra Obrony Narodowej z dnia 9 listopada 2012 r. w sprawie warunków krajowego przewozu towarów niebezpiecznych środkami transportu należącymi do sił zbrojnych lub środkami transportu, za które siły zbrojne są odpowiedzialne (Dz. U. poz. 1364 oraz z 2020 r. poz. 1726).”.
+§ 2.
+Wojskowe świadectwo dopuszczenia do przewozu towarów niebezpiecznych wystawione lub przedłużone przed dniem wejścia w życie niniejszego rozporządzenia zachowuje ważność przez okres, na który zostało wystawione lub przedłużone.
+§ 3.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+

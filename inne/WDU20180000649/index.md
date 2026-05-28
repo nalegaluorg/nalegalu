@@ -8,12 +8,10 @@ pos: 649
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej
-
-*USTAWA z dnia 6 marca 2018 r.*
+# Ustawa z dnia 6 marca 2018 r. o zasadach uczestnictwa przedsiębiorców zagranicznych i innych osób zagranicznych w obrocie gospodarczym na terytorium Rzeczypospolitej Polskiej
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-03-06 |
 | Data wydania | 2018-03-30 |
+| Wejście w życie | 2018-04-30 |
 | Ostatnia zmiana | 2026-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180000649) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/649/text.pdf) |
-
-Oddziały przedsiębiorców zagranicznych
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -45,6 +42,23 @@ Oddziały przedsiębiorców zagranicznych
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
 
+- **1)** działalność gospodarcza – działalność gospodarczą w rozumieniu art. 3 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. poz. 646);
+- **2)** minister – ministra właściwego do spraw gospodarki;
+- **3)** nadrzędny interes publiczny – wartość podlegającą ochronie, w szczególności porządek publiczny, bezpieczeństwo publiczne, bezpieczeństwo państwa, zdrowie publiczne, utrzymanie równowagi finansowej systemu zabezpieczenia społecznego, ochrona konsumentów, usługobiorców i pracowników, uczciwość w transakcjach handlowych, zwalczanie nadużyć, ochrona środowiska naturalnego i miejskiego, zdrowie zwierząt, własność intelektualna, cele polityki społecznej i kulturalnej oraz ochrona narodowego dziedzictwa historycznego i artystycznego;
+- **4)** oddział – wyodrębnioną i samodzielną organizacyjnie część działalności gospodarczej, wykonywaną przez przedsiębiorcę poza siedzibą przedsiębiorcy lub głównym miejscem wykonywania działalności;
+- **5)** osoba zagraniczna: osobę fizyczną nieposiadającą obywatelstwa polskiego, osobę prawną z siedzibą za granicą, jednostkę organizacyjną niebędącą osobą prawną posiadającą zdolność prawną, z siedzibą za granicą;
+    - **a)**
+    - **b)**
+    - **c)**
+
+- **6)** państwo członkowskie – inne niż Rzeczpospolita Polska państwo członkowskie Unii Europejskiej lub państwo członkowskie Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stronę umowy o Europejskim Obszarze Gospodarczym;
+- **7)** przedsiębiorca zagraniczny – osobę zagraniczną wykonującą działalność gospodarczą za granicą oraz obywatela polskiego wykonującego działalność gospodarczą za granicą;
+- **8)** usługa – świadczenie wykonywane przez usługodawcę z państwa członkowskiego na własny rachunek, zwykle za wynagrodzeniem, w szczególności usługi budowlane, handlowe oraz usługi świadczone w ramach wykonywanego zawodu;
+- **9)** usługobiorca – osobę fizyczną, osobę prawną albo jednostkę organizacyjną nieposiadającą osobowości prawnej, korzystającą lub zamierzającą skorzystać z usługi świadczonej przez usługodawcę z państwa członkowskiego;
+- **10)** usługodawca z państwa członkowskiego – przedsiębiorcę zagranicznego z państwa członkowskiego, który wykonuje działalność gospodarczą zgodnie z obowiązującymi w tym państwie przepisami, a na terytorium Rzeczypospolitej Polskiej czasowo oferuje lub świadczy usługę;
+- **11)** właściwy organ – właściwy w sprawach podejmowania, wykonywania lub zakończenia świadczenia usługi organ administracji publicznej, organ samorządu zawodowego oraz inny organ władzy publicznej;
+- **12)** zawód regulowany – zawód regulowany w rozumieniu art. 5 pkt 4 ustawy z dnia 22 grudnia 2015 r. o zasadach uznawania kwalifikacji zawodowych nabytych w państwach członkowskich Unii Europejskiej (Dz. U. z 2016 r. poz. 65 oraz z 2018 r. poz. 650).
+
 #### Rozdział 2 Działalność gospodarcza osób zagranicznych
 
 **Art. 4.**
@@ -53,28 +67,22 @@ Oddziały przedsiębiorców zagranicznych
 
 2. Obywatele innych państw niż państwa członkowskie, którzy:
 
-- **1)** posiadają w Rzeczypospolitej Polskiej: o cudzoziemcach (Dz. U. z 2024 r. poz. 769, 1222 i 1688),
-    - **a)** zezwolenie na pobyt stały,
-    - **b)** zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej,
-    - **c)** zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 127, art. 137a, art. 144, art. 151 ust. 1, art. 159 ust. 1 lub art. 186 ust. 1 pkt 3, 4 i 7 ustawy z dnia 12 grudnia 2013 r.
-    - **d)** status uchodźcy,
-    - **e)** ochronę uzupełniającą,
-    - **f)** zgodę na pobyt ze względów humanitarnych lub zgodę na pobyt tolerowany,
-    - **g)** zezwolenie na pobyt czasowy i pozostają w związku małżeńskim zawartym z obywatelem polskim zamieszkałym na terytorium Rzeczypospolitej Polskiej,
-    - **h)** zezwolenie na pobyt czasowy w celu wykonywania działalności gospodarczej, udzielone ze względu na kontynuowanie prowadzonej już działalności gospodarczej na podstawie wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+- **1)** posiadają w Rzeczypospolitej Polskiej: zezwolenie na pobyt stały, zezwolenie na pobyt rezydenta długoterminowego Unii Europejskiej, zezwolenie na pobyt czasowy udzielone w związku z okolicznością, o której mowa w art. 144, art. 159 ust. 1 lub art. 186 ust. 1 pkt 3 i 4 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach (Dz. U. z 2017 r. poz. 2206 i 2282 oraz z 2018 r. poz. 107 i 138), status uchodźcy, ochronę uzupełniającą, zgodę na pobyt ze względów humanitarnych lub zgodę na pobyt tolerowany, zezwolenie na pobyt czasowy i pozostają w związku małżeńskim zawartym z obywatelem polskim zamieszkałym na terytorium Rzeczypospolitej Polskiej, zezwolenie na pobyt czasowy w celu wykonywania działalności gospodarczej, udzielone ze względu na kontynuowanie prowadzonej już działalności gospodarczej na podstawie wpisu do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
 
 - **2)** korzystają w Rzeczypospolitej Polskiej z ochrony czasowej,
 - **3)** posiadają ważną Kartę Polaka,
-- **4)** są członkami rodziny, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2024 r. poz. 633 i 1688), dołączającymi do obywateli państw, o których mowa w ust. 1, lub przebywającymi z nimi,
-- **5)** przebywają na terytorium Rzeczypospolitej Polskiej [na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej] <na podstawie art. 108 ust. 1 pkt 2, art. 206 ust. 1 pkt 2 lub art. 222a ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach>, jeżeli bezpośrednio przed złożeniem wniosku byli uprawnieni do podejmowania i wykonywania działalności gospodarczej na podstawie ust. 2 pkt 1 lit. c i g,
-- **6)** są uczestnikami organizowanych lub współorganizowanych przez podmioty, o których mowa w art. 3 ustawy z dnia 11 sierpnia 2021 r. o otwartych danych i ponownym wykorzystywaniu informacji sektora publicznego (Dz. U. z 2023 r. poz. 1524), programów wsparcia dla cudzoziemców w zakresie podejmowania i wykonywania działalności gospodarczej na terytorium Rzeczypospolitej Polskiej – mogą podejmować i wykonywać działalność gospodarczą na terytorium Rzeczypospolitej Polskiej na takich samych zasadach jak obywatele polscy.
+- **4)** są członkami rodziny, w rozumieniu art. 2 pkt 4 ustawy z dnia 14 lipca 2006 r. o wjeździe na terytorium Rzeczypospolitej Polskiej, pobycie oraz wyjeździe z tego terytorium obywateli państw członkowskich Unii Europejskiej i członków ich rodzin (Dz. U. z 2017 r. poz. 900 oraz z 2018 r. poz. 650), dołączającymi do obywateli państw, o których mowa w ust. 1, lub przebywającymi z nimi,
+- **5)** przebywają na terytorium Rzeczypospolitej Polskiej na podstawie art. 108 ust. 1 pkt 2 lub art. 206 ust. 1 pkt 2 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach lub na podstawie umieszczonego w dokumencie podróży odcisku stempla, który potwierdza złożenie wniosku o udzielenie zezwolenia na pobyt rezydenta długoterminowego Unii Europejskiej, jeżeli bezpośrednio przed złożeniem wniosku byli uprawnieni do podejmowania i wykonywania działalności gospodarczej na podstawie ust. 2 pkt 1 lit. c i g mogą podejmować i wykonywać działalność gospodarczą na terytorium Rzeczypospolitej Polskiej na takich samych zasadach jak obywatele polscy.
 
-3. Osoby zagraniczne inne niż wymienione w ust. 1 i 2 mają prawo do podejmowania i wykonywania działalności gospodarczej wyłącznie w formie spółki komandytowej, spółki komandytowo-akcyjnej, spółki z ograniczoną odpowiedzialnością, prostej spółki akcyjnej i spółki akcyjnej, a także do przystępowania do takich spółek oraz obejmowania bądź nabywania ich udziałów lub akcji, o ile umowy międzynarodowe nie stanowią inaczej.
-
-3a. Prawo do podejmowania i wykonywania działalności gospodarczej w formie spółki z ograniczoną odpowiedzialnością, prostej spółki akcyjnej i spółki akcyjnej, o którym mowa w ust. 3, nie obejmuje prawa do:
-
-- **1)** spełniania powtarzających się świadczeń niepieniężnych, o których mowa w art. 176 lub art. 356 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), lub
-- **2)** świadczenia pracy lub usług w zamian za akcje prostej spółki akcyjnej.
+3. Osoby zagraniczne inne niż wymienione w ust. 1 i 2 mają prawo do podejmowania i wykonywania działalności gospodarczej wyłącznie w formie spółki: komandytowej, komandytowo-akcyjnej, z ograniczoną odpowiedzialnością i akcyjnej, a także do przystępowania do takich spółek oraz obejmowania bądź nabywania ich udziałów lub akcji, o ile umowy międzynarodowe nie stanowią inaczej.
 
 4. Członek rodziny, w rozumieniu art. 159 ust. 3 ustawy z dnia 12 grudnia 2013 r. o cudzoziemcach, osoby zagranicznej, do której odnoszą się umowy międzynarodowe, o których mowa w ust. 3, posiadający zezwolenie na pobyt czasowy, może podejmować i wykonywać działalność gospodarczą na takich samych zasadach jak ta osoba zagraniczna.
 
@@ -83,8 +91,6 @@ Oddziały przedsiębiorców zagranicznych
 6. Właściwy organ, dokonując oceny spełnienia wymogów niezbędnych do podjęcia i wykonywania działalności gospodarczej na terytorium Rzeczypospolitej Polskiej, uznaje wymogi, jakie spełnił przedsiębiorca zagraniczny z państwa członkowskiego, aby na terytorium tego państwa mógł podjąć lub wykonywać działalność gospodarczą, w szczególności uznaje certyfikaty, zaświadczenia lub inne dokumenty wydane przez właściwy organ państwa członkowskiego, które potwierdzają spełnienie warunków podjęcia i wykonywania działalności gospodarczej.
 
 7. Właściwy organ uznaje ubezpieczenia i gwarancje odpowiedzialności zawodowej wydane w państwach członkowskich, w zakresie, w jakim spełniają warunki określone w przepisach odrębnych ustaw.
-
-8. Szef Kancelarii Prezesa Rady Ministrów zamieszcza w Biuletynie Informacji Publicznej na stronie podmiotowej Kancelarii Prezesa Rady Ministrów wykaz programów, o których mowa w ust. 2 pkt 6. <9. Osoby zagraniczne składające wniosek o wpis do Centralnej Ewidencji i Informacji o Działalności Gospodarczej są obowiązane do posiadania numeru PESEL, a jeżeli nie został im nadany – do posiadania niepowtarzalnego identyfikatora nadanego przez państwo członkowskie Unii Europejskiej do celów transgranicznej identyfikacji, o którym mowa w rozporządzeniu wykonawczym Komisji (UE) 2015/1501 z dnia 8 września 2015 r. w sprawie ram interoperacyjności na podstawie art. 12 ust. 8 rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 910/2014 w sprawie identyfikacji elektronicznej i usług zaufania w odniesieniu do transakcji elektronicznych na rynku wewnętrznym (Dz. Urz. UE L 235 z 09.09.2015, str. 1, z późn. zm. ).>
 
 #### Rozdział 3 Transgraniczna działalność usługowa
 
@@ -114,7 +120,7 @@ Oddziały przedsiębiorców zagranicznych
 - **1)** zapewnienia niezależności i bezstronności wykonywania zawodu regulowanego, jak również zagwarantowania zgodności z etyką zawodową i zasadami postępowania zawodowego;
 - **2)** zagwarantowania niezależności i bezstronności świadczenia usług w zakresie certyfikacji, akredytacji, nadzoru technicznego, wykonywania badań lub prób.
 
-3. Przepisy ust. 1 i 2 nie wyłączają stosowania przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616).
+3. Przepisy ust. 1 i 2 nie wyłączają stosowania przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2017 r. poz. 229, 1089 i 1132 oraz z 2018 r. poz. 650).
 
 **Art. 8.**
 
@@ -137,9 +143,9 @@ Oddziały przedsiębiorców zagranicznych
 - **1)** firmę, adres siedziby albo adres miejsca zamieszkania i głównego miejsca wykonywania działalności;
 - **2)** organ rejestrowy i numer w rejestrze, w którym usługodawca z państwa członkowskiego jest zarejestrowany jako przedsiębiorca, albo informację o wpisie do Centralnej Ewidencji i Informacji o Działalności Gospodarczej;
 - **3)** adres poczty elektronicznej lub inne dane umożliwiające bezpośredni kontakt z usługodawcą z państwa członkowskiego;
-- **4)** wskazanie: dotyczącej usług na rynku wewnętrznym (Dz. Urz. UE L 376 z 27.12.2006, str. 36) właściwego dla usługodawcy;
-    - **a)** organu lub podmiotu, który wydał koncesję, zezwolenie lub certyfikat, lub dokonał wpisu do rejestru albo wydał inny dokument uprawniający usługodawcę z państwa członkowskiego do świadczenia usługi, lub
-    - **b)** pojedynczego punktu kontaktowego w rozumieniu art. 6 dyrektywy Parlamentu Europejskiego i Rady 2006/123/WE z dnia 12 grudnia 2006 r.
+- **4)** wskazanie: organu lub podmiotu, który wydał koncesję, zezwolenie lub certyfikat, lub dokonał wpisu do rejestru albo wydał inny dokument uprawniający usługodawcę z państwa członkowskiego do świadczenia usługi, lub pojedynczego punktu kontaktowego w rozumieniu art. 6 dyrektywy Parlamentu Europejskiego i Rady 2006/123/WE z dnia 12 grudnia 2006 r. dotyczącej usług na rynku wewnętrznym (Dz. Urz. UE L 376 z 27.12.2006, str. 36) właściwego dla usługodawcy;
+    - **a)**
+    - **b)**
 
 - **5)** wskazanie samorządu zawodowego, do którego należy usługodawca z państwa członkowskiego, tytułu zawodowego oraz państwa, w którym przyznano ten tytuł;
 - **6)** główne cechy usługi;
@@ -167,59 +173,55 @@ Oddziały przedsiębiorców zagranicznych
 
 1. Przepisów niniejszego rozdziału oraz przepisów rozdziału 6 nie stosuje się do świadczenia usług, o których mowa w:
 
-- **1)** ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2024 r. poz. 1262);
-- **2)** ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2024 r. poz.
-- **1001)** ;
-- **3)** ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2022 r. poz. 1722 oraz z 2024 r. poz. 96 i 1222);
-- **4)** ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2024 r. poz. 1287 i 1897), z wyłączeniem świadczenia usług w zakresie kształcenia podyplomowego;
-- **5)** ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796);
-- **6)** art. 75a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2024 r. poz. 1251);
-- **7)** ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2021 r. poz. 1995 oraz z 2024 r. poz. 1907);
-- **8)** ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277, 1343, 1452 i 1910) ;
-- **9)** ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2025 r. poz.
-- **18)** ;
-- **10)** art. 7 ust. 1 ustawy z dnia 13 czerwca 2019 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2023 r. poz. 1743);
-- **11)** art. 5 ust. 1 i art. 5b ust. 1 i 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2024 r. poz. 1539, 1544 i 1855);
-- **12)** ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2024 r. poz.
-- **686)** ;
-- **13)** ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2023 r. poz. 1309);
-- **14)** ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2023 r. poz. 2110, z 2024 r. poz. 731 i 1222 oraz z 2025 r. poz. 31), z wyłączeniem świadczenia usług polegających na szkoleniu personelu lotniczego w celu uzyskania licencji członka personelu lotniczego oraz usług innych niż przewóz lotniczy;
-- **15)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2024 r. poz. 697 i 731);
-- **16)** ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2024 r. poz. 1491, 1761 i 1940), z wyłączeniem świadczenia usług w ramach wykonywanej działalności gospodarczej, o której mowa w art. 9 ust. 1 tej ustawy, przez organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 tej ustawy;
-- **17)** ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2024 r. poz. 1283 i 1572), z wyłączeniem świadczenia usług w ramach wykonywanej działalności gospodarczej, o której mowa w art. 67 tej ustawy, oraz usług świadczonych osobom potrzebującym przez podmioty niepubliczne wyłonione przez jednostki samorządu terytorialnego, w drodze zamówień publicznych;
-- **18)** ustawie z dnia 12 lipca 2024 r. – Prawo komunikacji elektronicznej (Dz. U. poz. 1221);
-- **19)** ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2024 r. poz. 146, 858, 1222, 1593, 1615 i 1915);
-- **20)** ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2023 r. poz. 130);
-- **21)** ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183, z późn. zm. ) ;
-- **22)** ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2024 r. poz. 1420 i 1572);
-- **23)** ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2024 r. poz. 652 i 1222);
-- **24)** ustawie z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2024 r. poz. 597);
-- **25)** ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2023 r. poz. 227 oraz z 2024 r. poz. 1473);
-- **26)** ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2024 r. poz. 799 i 1897);
-- **27)** ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2024 r. poz. 814, 854 i 1897), z wyłączeniem świadczenia usług w zakresie kształcenia podyplomowego;
-- **28)** ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2024 r. poz. 1068 i 1933);
-- **29)** ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2024 r. poz. 643), z wyłączeniem świadczenia usług w zakresie prowadzenia kursów;
-- **30)** ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2023 r. poz. 1640 oraz z 2024 r. poz. 467, 1222 i 1717), w zakresie świadczenia powszechnych usług pocztowych;
-- **31)** ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2023 r. poz. 2257);
-- **32)** ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2024 r. poz. 737, 854, 1562, 1635 i 1933), z wyłączeniem działalności oświatowej, o której mowa w art. 170 ust. 2 tej ustawy, oraz w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2024 r. poz. 750, 854, 1473 i 1933);
-- **33)** ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. z 2024 r. poz. 1035 i 1863) w zakresie wykonywania zawodu przez biegłego rewidenta oraz świadczenia usług przez firmy audytorskie związanych z wykonywaniem czynności rewizji finansowej;
-- **34)** ustawie z dnia 15 czerwca 2018 r. o zbiorowym zarządzaniu prawami autorskimi i prawami pokrewnymi (Dz. U. z 2024 r. poz. 1665).
+- **1)** ustawie z dnia 15 listopada 1984 r. – Prawo przewozowe (Dz. U. z 2017 r. poz. 1983);
+- **2)** ustawie z dnia 14 lutego 1991 r. – Prawo o notariacie (Dz. U. z 2017 r. poz. 2291 oraz z 2018 r. poz. 398);
+- **3)** ustawie z dnia 29 grudnia 1992 r. o radiofonii i telewizji (Dz. U. z 2017 r. poz. 1414 i 2111 oraz z 2018 r. poz. 650);
+- **4)** ustawie z dnia 5 grudnia 1996 r. o zawodach lekarza i lekarza dentysty (Dz. U. z 2018 r. poz. 617 i 650), z wyłączeniem świadczenia usług w zakresie kształcenia podyplomowego;
+- **5)** ustawie z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2017 r. poz. 1933);
+- **6)** art. 75a ustawy z dnia 20 czerwca 1997 r. – Prawo o ruchu drogowym (Dz. U. z 2017 r. poz. 1260, z późn. zm.);
+- **7)** ustawie z dnia 22 sierpnia 1997 r. o ochronie osób i mienia (Dz. U. z 2017 r. poz. 2213 oraz z 2018 r. poz. 138 i 650);
+- **8)** ustawie z dnia 29 sierpnia 1997 r. o komornikach sądowych i egzekucji (Dz. U. z 2017 r. poz. 1277, 1343, 1452 i 1910 oraz z 2018 r. poz. 398);
+- **9)** ustawie z dnia 21 grudnia 2000 r. o żegludze śródlądowej (Dz. U. z 2017 r. poz. 2128);
+- **10)** art. 6 ust. 1 ustawy z dnia 22 czerwca 2001 r. o wykonywaniu działalności gospodarczej w zakresie wytwarzania i obrotu materiałami wybuchowymi, bronią, amunicją oraz wyrobami i technologią o przeznaczeniu wojskowym lub policyjnym (Dz. U. z 2017 r. poz. 290 oraz z 2018 r. poz. 138, 398 i 650);
+- **11)** art. 5 ust. 1 i art. 5b ust. 1 i 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2017 r. poz. 2200 oraz z 2018 r. poz. 12, 79, 138 i 650);
+- **12)** ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2017 r. poz. 2211 oraz z 2018 r. poz. 650);
+- **13)** ustawie z dnia 18 września 2001 r. – Kodeks morski (Dz. U. z 2016 r. poz. 66 oraz z 2018 r. poz. 650);
+- **14)** ustawie z dnia 3 lipca 2002 r. – Prawo lotnicze (Dz. U. z 2017 r. poz. 959 i 1089 oraz z 2018 r. poz. 138 i 650), z wyłączeniem świadczenia usług polegających na szkoleniu personelu lotniczego w celu uzyskania licencji członka personelu lotniczego oraz usług innych niż przewóz lotniczy;
+- **15)** ustawie z dnia 28 marca 2003 r. o transporcie kolejowym (Dz. U. z 2017 r. poz. 2117 i 2361 oraz z 2018 r. poz. 650);
+- **16)** ustawie z dnia 24 kwietnia 2003 r. o działalności pożytku publicznego i o wolontariacie (Dz. U. z 2018 r. poz. 450 i 650), z wyłączeniem świadczenia usług w ramach wykonywanej działalności gospodarczej, o której mowa w art. 9 ust. 1 tej ustawy, przez organizacje pozarządowe oraz podmioty wymienione w art. 3 ust. 3 tej ustawy;
+- **17)** ustawie z dnia 12 marca 2004 r. o pomocy społecznej (Dz. U. z 2017 r. poz. 1769 i 1985 oraz z 2018 r. poz. 650), z wyłączeniem świadczenia usług w ramach wykonywanej działalności gospodarczej, o której mowa w art. 67 tej ustawy, oraz usług świadczonych osobom potrzebującym przez podmioty niepubliczne wyłonione przez jednostki samorządu terytorialnego, w drodze zamówień publicznych;
+- **18)** ustawie z dnia 16 lipca 2004 r. – Prawo telekomunikacyjne (Dz. U. z 2017 r. poz. 1907 i 2201 oraz z 2018 r. poz. 106, 138 i 650);
+- **19)** ustawie z dnia 27 sierpnia 2004 r. o świadczeniach opieki zdrowotnej finansowanych ze środków publicznych (Dz. U. z 2017 r. poz. 1938, z późn. zm.);
+- **20)** ustawie z dnia 30 czerwca 2005 r. o kinematografii (Dz. U. z 2018 r. poz. 597);
+- **21)** ustawie z dnia 27 lipca 2005 r. – Prawo o szkolnictwie wyższym (Dz. U. z 2017 r. poz. 2183 i 2201 oraz z 2018 r. poz. 138, 398 i 650);
+- **22)** ustawie z dnia 28 lipca 2005 r. o lecznictwie uzdrowiskowym, uzdrowiskach i obszarach ochrony uzdrowiskowej oraz o gminach uzdrowiskowych (Dz. U. z 2017 r. poz. 1056);
+- **23)** ustawie z dnia 8 września 2006 r. o Państwowym Ratownictwie Medycznym (Dz. U. z 2017 r. poz. 2195 oraz z 2018 r. poz. 650);
+- **24)** ustawie z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2018 r. poz. 435 i 650);
+- **25)** ustawie z dnia 19 listopada 2009 r. o grach hazardowych (Dz. U. z 2018 r. poz. 165 i 650);
+- **26)** ustawie z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2018 r. poz. 160, 138 i 650);
+- **27)** ustawie z dnia 15 lipca 2011 r. o zawodach pielęgniarki i położnej (Dz. U. z 2018 r. poz. 123 i 650), z wyłączeniem świadczenia usług w zakresie kształcenia podyplomowego;
+- **28)** ustawie z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r. poz. 181);
+- **29)** ustawie z dnia 19 sierpnia 2011 r. o przewozie towarów niebezpiecznych (Dz. U. z 2018 r. poz. 169 i 650), z wyłączeniem świadczenia usług w zakresie prowadzenia kursów;
+- **30)** ustawie z dnia 23 listopada 2012 r. – Prawo pocztowe (Dz. U. z 2017 r. poz. 1481 oraz z 2018 r. poz. 106, 138 i 650), w zakresie świadczenia powszechnych usług pocztowych;
+- **31)** ustawie z dnia 5 sierpnia 2015 r. o pracy na morzu (Dz. U. z 2018 r. poz. 616);
+- **32)** ustawie z dnia 14 grudnia 2016 r. – Prawo oświatowe (Dz. U. z 2017 r. poz. 59, 949 i 2203 oraz z 2018 r. poz. 650), z wyłączeniem działalności oświatowej, o której mowa w art. 170 ust. 2 tej ustawy, oraz w ustawie z dnia 7 września 1991 r. o systemie oświaty (Dz. U. z 2017 r. poz. 2198, 2203 i 2361);
+- **33)** ustawie z dnia 11 maja 2017 r. o biegłych rewidentach, firmach audytorskich oraz nadzorze publicznym (Dz. U. poz. 1089 oraz z 2018 r. poz. 398) w zakresie wykonywania zawodu przez biegłego rewidenta oraz świadczenia usług przez firmy audytorskie związanych z wykonywaniem czynności rewizji finansowej.
 
 2. Przepisów niniejszego rozdziału nie stosuje się w zakresie:
 
-- **1)** regulowanym ustawami podatkowymi w rozumieniu art. 3 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2023 r. poz. 2383 i 2760 oraz z 2024 r. poz. 879, 1685 i 1831);
+- **1)** regulowanym ustawami podatkowymi w rozumieniu art. 3 pkt 1 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2017 r. poz. 201, z późn. zm.);
 - **2)** regulowanym przepisami celnymi oraz przepisami określającymi zasady przywozu i wywozu towarów do Unii Europejskiej lub z Unii Europejskiej w zakresie realizowanym przez organy Krajowej Administracji Skarbowej, w szczególności związanymi z realizacją polityki rolnej i handlowej.
 
 3. Przepisów niniejszego rozdziału nie stosuje się do:
 
-- **1)** usług finansowych świadczonych przez podmioty wykonujące działalność na rynku finansowym na podstawie przepisów wymienionych w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2024 r. poz. 135);
-- **2)** usług finansowych takich jak usługi z zakresu działalności kredytowej, doradztwa inwestycyjnego, obsługi papierów wartościowych oraz innych usług finansowych, o których mowa w załączniku nr I do dyrektywy Parlamentu Europejskiego i Rady 2013/36/UE z dnia 26 czerwca 2013 r. w sprawie warunków dopuszczenia instytucji kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi, zmieniającej dyrektywę 2002/87/WE i uchylającej dyrektywy 2006/48/WE oraz 2006/49/WE (Dz. Urz. UE L 176 z 27.06.2013, str. 338, z późn. zm. ), określającym wykaz rodzajów działalności podlegających wzajemnemu uznawaniu.
+- **1)** usług finansowych świadczonych przez podmioty wykonujące działalność na rynku finansowym na podstawie przepisów wymienionych w art. 1 ust. 2 ustawy z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2018 r. poz. 621 i 650);
+- **2)** usług finansowych, takich jak usługi z zakresu działalności kredytowej, doradztwa inwestycyjnego, obsługi papierów wartościowych oraz innych usług finansowych, o których mowa w załączniku nr I do dyrektywy 2013/36/UE Parlamentu Europejskiego i Rady z dnia 26 czerwca 2013 r. w sprawie warunków dopuszczenia instytucji kredytowych do działalności oraz nadzoru ostrożnościowego nad instytucjami kredytowymi i firmami inwestycyjnymi, zmieniającej dyrektywę 2002/87/WE i uchylającej dyrektywy 2006/48/WE oraz 2006/49/WE (Dz. Urz. UE L 176 z 27.06.2013, str. 338, z późn. zm.), określającym wykaz rodzajów działalności podlegających wzajemnemu uznawaniu.
 
 4. Przepisy niniejszego rozdziału nie wyłączają stosowania przepisów z zakresu prawa pracy i ubezpieczeń społecznych.
 
-**Art. 13.** W sprawach określonych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 4 ust. 6 i 7 niniejszej ustawy, art. 27–32 i art. 44 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców oraz przepisy działu III ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. z 2022 r. poz. 541 oraz z 2024 r. poz. 1841).
+**Art. 13.** W sprawach określonych w niniejszym rozdziale stosuje się odpowiednio przepisy art. 4 ust. 6 i 7 niniejszej ustawy, art. 27–32 i art. 44 ust. 1 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców oraz przepisy działu III ustawy z dnia 6 marca 2018 r. o Centralnej Ewidencji i Informacji o Działalności Gospodarczej i Punkcie Informacji dla Przedsiębiorcy (Dz. U. poz. 647).
 
-#### Rozdział 4
+#### Rozdział 4 Oddziały przedsiębiorców zagranicznych
 
 **Art. 14.**
 
@@ -235,7 +237,14 @@ Oddziały przedsiębiorców zagranicznych
 
 **Art. 18.** Niezależnie od obowiązków określonych w przepisach o Krajowym Rejestrze Sądowym przedsiębiorca zagraniczny jest obowiązany:
 
+- **1)** jeżeli działa na podstawie aktu założycielskiego, umowy lub statutu – złożyć ich odpisy do akt rejestrowych oddziału wraz z uwierzytelnionym tłumaczeniem na język polski; w przypadku gdy przedsiębiorca zagraniczny utworzył na terytorium Rzeczypospolitej Polskiej więcej niż jeden oddział, złożenie tych dokumentów może nastąpić w aktach jednego z oddziałów, z tym że w aktach rejestrowych pozostałych oddziałów należy złożyć kopie tych dokumentów oraz wskazać ten oddział, w którego aktach złożono oryginały tych dokumentów, wraz z oznaczeniem sądu, w którym znajdują się akta, i numeru oddziału w rejestrze;
+- **2)** jeżeli istnieje lub wykonuje działalność na podstawie wpisu do rejestru – złożyć do akt rejestrowych oddziału odpis z tego rejestru wraz z uwierzytelnionym tłumaczeniem na język polski; w przypadku gdy przedsiębiorca zagraniczny utworzył na terytorium Rzeczypospolitej Polskiej więcej niż jeden oddział, złożenie tych dokumentów może nastąpić w aktach jednego z oddziałów, z tym że w aktach rejestrowych pozostałych oddziałów należy złożyć kopie tych dokumentów oraz wskazać ten oddział, w którego aktach złożono oryginały tych dokumentów, wraz z oznaczeniem sądu, w którym znajdują się akta, i numeru oddziału w rejestrze.
+
 **Art. 19.** Przedsiębiorca zagraniczny, który utworzył oddział, jest obowiązany:
+
+- **1)** używać do oznaczenia oddziału oryginalnej nazwy przedsiębiorcy zagranicznego wraz z przetłumaczoną na język polski nazwą formy prawnej przedsiębiorcy oraz dodaniem wyrazów „oddział w Polsce”;
+- **2)** prowadzić dla oddziału oddzielną rachunkowość w języku polskim zgodnie z przepisami o rachunkowości;
+- **3)** zgłaszać ministrowi wszelkie zmiany stanu faktycznego i prawnego w zakresie okoliczności, o których mowa w art. 20 ust. 1 pkt 2, w terminie 14 dni od dnia ich wystąpienia.
 
 **Art. 20.**
 
@@ -252,7 +261,7 @@ Oddziały przedsiębiorców zagranicznych
 
 4. Doręczenia decyzji wydanej na podstawie ust. 1 pkt 4 dokonuje się na adres siedziby oddziału wskazany we wpisie oddziału przedsiębiorcy zagranicznego w rejestrze przedsiębiorców.
 
-5. Do postępowania likwidacyjnego, o którym mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96) o likwidacji spółki z ograniczoną odpowiedzialnością.
+5. Do postępowania likwidacyjnego, o którym mowa w ust. 2, stosuje się odpowiednio przepisy ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2017 r. poz. 1577 oraz z 2018 r. poz. 398 i 650) o likwidacji spółki z ograniczoną odpowiedzialnością.
 
 6. Przepisów ust. 1–5 nie stosuje się do przedsiębiorców zagranicznych z państw członkowskich.
 
@@ -272,7 +281,7 @@ Oddziały przedsiębiorców zagranicznych
 
 1. Utworzenie i prowadzenie przedstawicielstwa wymaga wpisu do rejestru przedstawicielstw przedsiębiorców zagranicznych, zwanego dalej „rejestrem przedstawicielstw”, prowadzonego przez ministra.
 
-2. Utworzenie i prowadzenie przedstawicielstwa przez bank zagraniczny lub instytucję kredytową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863) nie wymaga wpisu do rejestru przedstawicielstw.
+2. Utworzenie i prowadzenie przedstawicielstwa przez bank zagraniczny lub instytucję kredytową w rozumieniu ustawy z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2017 r. poz. 1876, z późn. zm.) nie wymaga wpisu do rejestru przedstawicielstw.
 
 **Art. 25.**
 
@@ -297,7 +306,7 @@ Oddziały przedsiębiorców zagranicznych
 
 3. Jeżeli wniosek zawiera braki formalne, minister wzywa wnioskodawcę do jego uzupełnienia w terminie nie krótszym niż 7 dni od dnia doręczenia wezwania. Wyznaczony termin na uzupełnienie wniosku, na umotywowany wniosek przedsiębiorcy zagranicznego złożony przed upływem tego terminu, może zostać przedłużony. W przypadku nieusunięcia braków formalnych w wyznaczonym terminie wniosek pozostawia się bez rozpoznania.
 
-4. Dokumenty, o których mowa w ust. 2, sporządzone w języku obcym, przedstawia się wraz z tłumaczeniem na język polski, sporządzonym i poświadczonym przez tłumacza przysięgłego albo sprawdzonym i poświadczonym przez tłumacza przysięgłego, wykonującego zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2019 r. poz. 1326), lub przez tłumacza przysięgłego z państwa członkowskiego lub Konfederacji Szwajcarskiej.
+4. Dokumenty, o których mowa w ust. 2, sporządzone w języku obcym, przedstawia się wraz z tłumaczeniem na język polski, sporządzonym i poświadczonym przez tłumacza przysięgłego albo sprawdzonym i poświadczonym przez tłumacza przysięgłego, wykonującego zawód tłumacza przysięgłego na warunkach określonych w ustawie z dnia 25 listopada 2004 r. o zawodzie tłumacza przysięgłego (Dz. U. z 2017 r. poz. 1505), lub przez tłumacza przysięgłego z państwa członkowskiego lub Konfederacji Szwajcarskiej.
 
 5. Dołączony do wniosku o wpis do rejestru przedstawicielstw dokument, o którym mowa w ust. 2 pkt 1, poświadcza się przez apostille, jeżeli przedsiębiorca zagraniczny działa na terytorium państwa będącego stroną Konwencji znoszącej wymóg legalizacji zagranicznych dokumentów urzędowych, sporządzonej w Hadze dnia 5 października 1961 r. (Dz. U. z 2005 r. poz. 938), albo przez legalizację, jeżeli przedsiębiorca zagraniczny działa na terytorium państwa niebędącego stroną tej konwencji.
 
@@ -358,7 +367,7 @@ Oddziały przedsiębiorców zagranicznych
 
 1. Minister wykreśla przedstawicielstwo z rejestru na wniosek przedsiębiorcy zagranicznego.
 
-2. Do wykreślenia, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572) o postępowaniu uproszczonym.
+2. Do wykreślenia, o którym mowa w ust. 1, stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2017 r. poz. 1257 oraz z 2018 r. poz. 149 i 650) o postępowaniu uproszczonym.
 
 #### Rozdział 6 Współpraca międzynarodowa właściwych organów w zakresie świadczenia usług
 
@@ -391,7 +400,7 @@ Oddziały przedsiębiorców zagranicznych
 1. Właściwy organ, na wniosek właściwego organu z państwa członkowskiego, przekazuje informacje dotyczące:
 
 - **1)** postępowań dyscyplinarnych, karnych i administracyjnych,
-- **2)** rozstrzygnięć dotyczących niewypłacalności lub upadłości usługodawcy związanych z nadużyciami finansowymi – w zakresie, w jakim odnoszą się one bezpośrednio do kompetencji usługodawcy z państwa członkowskiego lub jego wiarygodności zawodowej.
+- **2)** rozstrzygnięć dotyczących niewypłacalności lub upadłości usługodawcy związanych z nadużyciami finansowymi w zakresie, w jakim odnoszą się one bezpośrednio do kompetencji usługodawcy z państwa członkowskiego lub jego wiarygodności zawodowej.
 
 2. W przypadku konieczności przekazania informacji, o których mowa w ust. 1, przed uprawomocnieniem się wyroku lub decyzji właściwy organ informuje wnioskującego o przysługujących usługodawcy środkach odwoławczych.
 

@@ -8,10 +8,10 @@ pos: 1974
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 23 października 2017 r.
+# Rozporządzenie Ministra Kultury i Dziedzictwa Narodowegoz dnia 10 października 2017 r. w sprawie zmiany nazwy Archiwum Państwowego w Elblągu z siedzibą w Malborku
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,17 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2017-10-10 |
 | Data wydania | 2017-10-23 |
+| Wejście w życie | 2018-01-01 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20170001974) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2017/1974/text.pdf) |
 
-Poz. 1974 ROZPORZĄDZENIE MINISTRA KULTURY I DZIEDZICTWA NARODOWEGO z dnia 10 października 2017 r.
-w sprawie zmiany nazwy Archiwum Państwowego w Elblągu z siedzibą w Malborku Na podstawie art. 24 ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U.
-z 2016 r. poz. 1506 i 1948 oraz z 2017 r. poz. 1086) zarządza się, co następuje: § 1. Archiwum Państwowe w Elblągu z siedzibą w Malborku otrzymuje nazwę „Archiwum Państwowe w Malborku”.
-§ 2. Organizację oraz szczegółowy zakres działania Archiwum Państwowego w Malborku określi statut nadany przez Naczelnego Dyrektora Archiwów Państwowych.
-§ 3. Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
-Minister Kultury i Dziedzictwa Narodowego: P. Gliński
+Treść rozporządzenia
+Na podstawie art. 24 ust. 1 ustawy z dnia 14 lipca 1983 r. o narodowym zasobie archiwalnym i archiwach (Dz. U. z 2016 r. poz. 1506 i 1948 oraz z 2017 r. poz. 1086) zarządza się, co następuje:
+§ 1.
+Archiwum Państwowe w Elblągu z siedzibą w Malborku otrzymuje nazwę „Archiwum Państwowe w Malborku”.
+§ 2.
+Organizację oraz szczegółowy zakres działania Archiwum Państwowego w Malborku określi statut nadany przez Naczelnego Dyrektora Archiwów Państwowych.
+§ 3.
+Rozporządzenie wchodzi w życie z dniem 1 stycznia 2018 r.
+1) Minister Kultury i Dziedzictwa Narodowego kieruje działem administracji rządowej – kultura i ochrona dziedzictwa narodowego, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 17 listopada 2015 r. w sprawie szczegółowego zakresu działania Ministra Kultury i Dziedzictwa Narodowego (Dz. U. poz. 1894).
 

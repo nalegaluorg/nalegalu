@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o odwróconym kredycie hipotecznym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 kwietnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 kwietnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-05-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000573) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/573/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 23 kwietnia 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o odwróconym kredycie hipotecznym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 października 2014 r. o odwróconym kredycie hipotecznym (Dz. U. z 2023 r. poz. 152), z uwzględnieniem zmiany wprowadzonej ustawą z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146) oraz zmian wynikających z przepisów ogłoszonych przed dniem 16 kwietnia 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 76 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146), który stanowi: „Art. 76. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 65, art. 67 i art. 75, które wchodzą życie z dniem następującym po dniu ogłoszenia;
@@ -142,7 +142,7 @@ o odwróconym kredycie hipotecznym
 
 **Art. 12.**
 
-1. Kredytobiorca może bez podania przyczyny odstąpić od umowy odwróconego kredytu hipotecznego, terminie 30 dni od dnia jej zawarcia. Termin do odstąpienia uważa się za zachowany, jeżeli kredytobiorca złoży oświadczenie o odstąpieniu od umowy przed upływem tego terminu pod wskazany przez kredytodawcę adres lub nada je placówce pocztowej operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wyśle je na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych. wej lub sądów.
+1. Kredytobiorca może bez podania przyczyny odstąpić od umowy odwróconego kredytu hipotecznego, terminie 30 dni od dnia jej zawarcia. Termin do odstąpienia uważa się za zachowany, jeżeli kredytobiorca złoży oświadczenie o odstąpieniu od umowy przed upływem tego terminu pod wskazany przez kredytodawcę adres lub nada je placówce pocztowej operatora pocztowego rozumieniu ustawy z dnia 23 listopada 2012 r. Prawo pocztowe (Dz. U. z 2025 r. poz. 366) albo placówce podmiotu zajmującego się doręczaniem korespondencji na terenie Unii Europejskiej albo wyśle je na adres do doręczeń elektronicznych, o którym mowa art. 2 pkt 1 ustawy z dnia 18 listopada 2020 r. o doręczeniach elektronicznych. jątkiem niepodlegających zwrotowi opłat lub ich części poniesionych przez bank na rzecz organów administracji państwowej lub sądów.
 
 3. Kredytobiorca zwraca bankowi wypłaconą kwotę odwróconego kredytu hipotecznego wraz z odsetkami należnymi do dnia odstąpienia od umowy odwróconego kredytu hipotecznego, nie później niż terminie 30 dni od dnia złożenia oświadczenia o odstąpieniu od umowy.
 
@@ -166,6 +166,9 @@ o odwróconym kredycie hipotecznym
 
 **Art. 15.** W przypadku gdy bank nie wykonuje obowiązku, o którym mowa art. 8, lub sporządza umowę odwróconego kredytu hipotecznego niezgodnie z wymogami, o których mowa art. 10, kredytobiorca, po złożeniu bankowi pisemnego oświadczenia, może:
 
+- **1)** żądać od banku zapłaty dziesiątej części odsetek i innych kosztów należnych od wypłaconej części odwróconego kredytu hipotecznego albo
+- **2)** wypowiedzieć umowę odwróconego kredytu hipotecznego i spłacić całkowitą kwotę do zapłaty bez dziesiątej części odsetek i innych kosztów.
+
 **Art. 16.**
 
 1. W okresie trwania umowy odwróconego kredytu hipotecznego kredytobiorca jest zobowiązany odniesieniu do nieruchomości lub lokalu, o których mowa art. 6 ust. 1:
@@ -185,12 +188,15 @@ o odwróconym kredycie hipotecznym
 1. Bank może wypowiedzieć umowę odwróconego kredytu hipotecznego, wyłącznie jeżeli:
 
 - **1)** została wszczęta egzekucja z nieruchomości lub z prawa, o którym mowa art. 4 ust. 2, stanowiących zabezpieczenie odwróconego kredytu hipotecznego, przez innego niż ten bank wierzyciela, przy czym o istnieniu tej wierzytelności bank nie wiedział dniu zawarcia umowy odwróconego kredytu hipotecznego, lub
-- **2)** kredytobiorca przeniósł na osoby trzecie własność nieruchomości lub prawo, o którym mowa art. 4 ust. 2, stanowiące zabezpieczenie odwróconego kredytu hipotecznego, bez zgody banku, przypadku gdy umowie odwróconego kredytu hipotecznego strony zastrzegły obowiązek niezbywania własności tej nieruchomości lub tego prawa bez zgody banku, lub
+- **2)** kredytobiorca przeniósł na osoby trzecie własność nieruchomości lub prawo, o którym mowa art. 4 ust. 2, stanowiące zabezpieczenie odwróconego kredytu hipotecznego, bez zgody banku, przypadku gdy umowie odwróconego kredytu hipotecznego strony zastrzegły obowiązek niezbywania własności tej nieruchomości lub tego prawa bez zgody banku, lub istotnemu zmniejszeniu, lub
 - **4)** kredytobiorca odmówił udzielenia bankowi upoważnienia przypadku, o którym mowa art. 16 ust. 4.
 
 2. Okres wypowiedzenia przez bank umowy odwróconego kredytu hipotecznego wynosi 30 dni.
 
 **Art. 18.** W przypadku wypowiedzenia umowy odwróconego kredytu hipotecznego z przyczyn, o których mowa art. 17 ust. 1:
+
+- **1)** pkt 1 lub 2 bank wstrzymuje wypłatę odwróconego kredytu hipotecznego;
+- **2)** pkt 3 lub 4 bank może wstrzymać wypłatę odwróconego kredytu hipotecznego.
 
 **Art. 19.**
 
@@ -252,6 +258,12 @@ o odwróconym kredycie hipotecznym
 5. Do przeniesienia przez kuratora własności nieruchomości lub prawa, o którym mowa art. 4 ust. 2, stanowiących zabezpieczenie odwróconego kredytu hipotecznego, na rzecz banku nie stosuje się art. 19 ust. 6 ustawy z dnia 28 lipca 1983 r. o podatku od spadków i darowizn (Dz. U. z 2024 r. poz. 1837).
 
 **Art. 27.** Umowę o przeniesienie własności nieruchomości lub prawa, o którym mowa art. 4 ust. 2, stanowiących zabezpieczenie odwróconego kredytu hipotecznego, bank zawiera:
+
+- **1)** ze spadkobiercami kredytobiorcy;
+- **2)** z wykonawcą testamentu, jeżeli został powołany;
+- **3)** z kuratorem spadku, jeżeli został ustanowiony, a spadkobiercy nie uzyskali jeszcze stwierdzenia nabycia spadku albo poświadczenia dziedziczenia;
+- **4)** z kuratorem, jeżeli został ustanowiony;
+- **5)** z osobą trzecią, jeżeli zostały przeniesione na nią własność nieruchomości lub prawo, o którym mowa art. 4 ust. 2, stanowiące zabezpieczenie odwróconego kredytu hipotecznego.
 
 **Art. 28.**
 

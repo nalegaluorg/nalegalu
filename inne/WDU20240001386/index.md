@@ -8,12 +8,10 @@ pos: 1386
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
-
-*USTAWA z dnia 13 stycznia 2023 r.*
+# Obwieszczenie Marszałka Sejmu Rzeczypospolitej Polskiejz dnia 11 września 2024 r. w sprawie ogłoszenia jednolitego tekstu ustawy o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
 
 | Pole | Wartość |
 |---|---|
@@ -27,7 +25,47 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-10-08 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240001386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/1386/text.pdf) |
 
+Treść obwieszczenia
+Załącznik – Tekst jednolity ustawy z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej (Dz. U. poz. 203), z uwzględnieniem zmian wprowadzonych ustawą z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834) oraz zmian wynikających z przepisów ogłoszonych przed dniem 22 sierpnia 2024 r.
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje:
+1)
+art. 21–23 ustawy z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej (Dz. U. poz. 203), które stanowią:
+„
+
+**Art. 21.** W ustawie z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym (Dz. U. z 2023 r. poz. 30) w art. 16a dodaje się ust. 4 w brzmieniu: „ 4. Organ właściwy może, w drodze umowy, powierzyć Funduszowi Transformacji Województwa Śląskiego Spółce Akcyjnej, o której mowa w art. 1 pkt 1 ustawy z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej (Dz. U. poz. 203), wykonywanie zadań związanych z przygotowaniem lub realizacją przedsięwzięć w ramach partnerstwa publiczno-prywatnego. ” .
+
+**Art. 22.** W ustawie z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933 oraz z 2022 r. poz. 807, 872, 1459, 1512 i 2463) w art. 2 w pkt 8 dodaje się lit. f w brzmieniu: „
+
+Fundusz Transformacji Województwa Śląskiego Spółkę Akcyjną z siedzibą w Katowicach; ” .
+
+- **f)**
+
+**Art. 23.** W ustawie z dnia 4 lipca 2019 r. o systemie instytucji rozwoju (Dz. U. z 2022 r. poz. 2183 i 2185) wprowadza się następujące zmiany:
+
+- **1)** w art. 2 dodaje się ust. 4 w brzmieniu: „
+
+4. Fundusz Transformacji Województwa Śląskiego Spółka Akcyjna, z siedzibą w Katowicach, o której mowa w ustawie z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej (Dz. U. poz. 203), może realizować zadania we współpracy z instytucjami rozwoju. ” ;
+
+- **2)** w art. 4 po ust. 3 dodaje się ust. 3a w brzmieniu: „
+
+3a. Przewodniczący Rady może zapraszać do udziału w pracach Rady prezesa zarządu Funduszu Transformacji Województwa Śląskiego Spółki Akcyjnej, z siedzibą w Katowicach, bez prawa głosu.”. ” ; ” ;
+
+- **2)** art. 84 ustawy z dnia 15 maja 2024 r. o zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834), który stanowi: „
+
+**Art. 84.** Ustawa wchodzi w życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
+
+- **1)** art. 65 ust. 2 i art. 73 ust. 2, które wchodzą w życie z dniem ogłoszenia;
+- **2)** art. 47 i art. 82, które wchodzą w życie z dniem następującym po dniu ogłoszenia. ” . Załącznik – Tekst jednolity ustawy z dnia 13 stycznia 2023 r. o Funduszu Transformacji Województwa Śląskiego Spółce Akcyjnej
+
 **Art. 1.** Ustawa określa:
+
+- **1)** cel działania Funduszu Transformacji Województwa Śląskiego Spółki Akcyjnej z siedzibą w Katowicach, zwanego dalej „Funduszem”;
+- **2)** instrumenty służące realizacji celu Funduszu;
+- **3)** organizację Funduszu.
 
 **Art. 2.**
 
@@ -41,16 +79,16 @@ source: "isap-pdf"
 
 1. Fundusz realizuje cel, o którym mowa w art. 2 ust. 2, zgodnie ze Strategią Funduszu Transformacji Województwa Śląskiego, zwaną dalej „Strategią”, określającą w szczególności:
 
-- **1)** wnioski z analizy i diagnozy sytuacji rynkowej w zakresie:
-    - **a)** występowania luk rynkowych wynikających z wygaszania działalności wydobywczej węgla kamiennego,
-    - **b)** realizacji inwestycji,
-    - **c)** rozwoju innowacyjnych technologii,
-    - **d)** poziomu rozwoju przedsiębiorczości,
-    - **e)** wykorzystywania instrumentów finansowych przez przedsiębiorców,
-    - **f)** rynku pracy,
-    - **g)** współpracy międzynarodowej z przedsiębiorcami zagranicznymi,
-    - **h)** usług edukacyjnych, społecznych i zdrowotnych,
-    - **i)** potrzeb transportowych;
+- **1)** wnioski z analizy i diagnozy sytuacji rynkowej w zakresie: występowania luk rynkowych wynikających z wygaszania działalności wydobywczej węgla kamiennego, realizacji inwestycji, rozwoju innowacyjnych technologii, poziomu rozwoju przedsiębiorczości, wykorzystywania instrumentów finansowych przez przedsiębiorców, rynku pracy, współpracy międzynarodowej z przedsiębiorcami zagranicznymi, usług edukacyjnych, społecznych i zdrowotnych, potrzeb transportowych;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
+    - **g)**
+    - **h)**
+    - **i)**
 
 - **2)** zidentyfikowanie obszarów, które wymagają wsparcia w ramach realizacji celu, o którym mowa w art. 2 ust. 2;
 - **3)** wskaźniki realizacji celu, o którym mowa w art. 2 ust. 2;
@@ -94,9 +132,9 @@ source: "isap-pdf"
 1. Fundusz realizuje cel, o którym mowa w art. 2 ust. 2, w szczególności przez:
 
 - **1)** obejmowanie lub nabywanie udziałów, akcji, warrantów subskrypcyjnych, obligacji lub wierzytelności oraz przystępowanie do spółek osobowych;
-- **2)** udzielanie przedsiębiorcom, osobom fizycznym, jednostkom samorządu terytorialnego lub organizacjom pozarządowym:
-    - **a)** pożyczek, gwarancji i poręczeń,
-    - **b)** wsparcia, w tym w formach bezzwrotnych.
+- **2)** udzielanie przedsiębiorcom, osobom fizycznym, jednostkom samorządu terytorialnego lub organizacjom pozarządowym: pożyczek, gwarancji i poręczeń, wsparcia, w tym w formach bezzwrotnych.
+    - **a)**
+    - **b)**
 
 2. W ramach realizacji celu, o którym mowa w art. 2 ust. 2, Fundusz może wykonywać zadania:
 
@@ -111,7 +149,7 @@ source: "isap-pdf"
 
 **Art. 8.**
 
-1. Fundusz udziela wsparcia finansowego, w szczególności mikroprzedsiębiorcom oraz małym i średnim przedsiębiorcom, spełniającym warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ).
+1. Fundusz udziela wsparcia finansowego, w szczególności mikroprzedsiębiorcom oraz małym i średnim przedsiębiorcom, spełniającym warunki określone w załączniku I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu o funkcjonowaniu Unii Europejskiej (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.).
 
 2. Wsparcie finansowe, o którym mowa w ust. 1, stanowiące pomoc państwa spełniającą przesłanki określone w art. 107 ust. 1 Traktatu o funkcjonowaniu Unii Europejskiej, przeznacza się na:
 
@@ -133,7 +171,7 @@ source: "isap-pdf"
 4. Rada Ministrów może określić, w drodze rozporządzenia, szczegółowe:
 
 - **1)** przeznaczenie i warunki udzielania wsparcia finansowego, o którym mowa w ust. 2,
-- **2)** warunki wypłaty wynagrodzenia, o którym mowa w ust. 3 – mając na uwadze dopuszczalność i warunki udzielania pomocy państwa, określone przez właściwe organy Unii Europejskiej.
+- **2)** warunki wypłaty wynagrodzenia, o którym mowa w ust. 3 mając na uwadze dopuszczalność i warunki udzielania pomocy państwa, określone przez właściwe organy Unii Europejskiej.
 
 **Art. 9.**
 
@@ -238,7 +276,7 @@ source: "isap-pdf"
 
 5. Emisja skarbowych papierów wartościowych, o których mowa w ust. 1, następuje z dniem zarejestrowania skarbowych papierów wartościowych w depozycie papierów wartościowych oraz w kwocie równej wartości nominalnej wyemitowanych papierów wartościowych.
 
-6. Do emisji skarbowych papierów wartościowych, o których mowa w ust. 1, nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm. ) ani przepisów wydanych na podstawie art. 97 tej ustawy.
+6. Do emisji skarbowych papierów wartościowych, o których mowa w ust. 1, nie stosuje się przepisów art. 98 i art. 102 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych (Dz. U. z 2023 r. poz. 1270, z późn. zm.) ani przepisów wydanych na podstawie art. 97 tej ustawy.
 
 **Art. 13.**
 
@@ -268,7 +306,7 @@ source: "isap-pdf"
 - **12)** regionalne porty lotnicze,
 - **13)** infrastrukturę zdrowotną, w tym profilaktyczną,
 - **14)** naprawienie szkód spowodowanych klęskami żywiołowymi i zdarzeniami nadzwyczajnymi,
-- **15)** zadania powierzone przez organy administracji rządowej, inne jednostki wykonujące zadania publiczne lub jednostki samorządu terytorialnego – pod warunkiem że przedsięwzięcie jest podjęte w ramach realizacji celu, o którym mowa w art. 2 ust. 2.
+- **15)** zadania powierzone przez organy administracji rządowej, inne jednostki wykonujące zadania publiczne lub jednostki samorządu terytorialnego pod warunkiem że przedsięwzięcie jest podjęte w ramach realizacji celu, o którym mowa w art. 2 ust. 2.
 
 2. Finansowanie, o którym mowa w ust. 1, przeznacza się na spłatę zobowiązań zaciągniętych na potrzeby realizacji przedsięwzięć, o których mowa w ust. 1.
 
@@ -285,13 +323,13 @@ source: "isap-pdf"
 1. Przychodami Funduszu mogą być:
 
 - **1)** dotacje podmiotowe;
-- **2)** dotacje celowe na: o partnerstwie publiczno-prywatnym;
-    - **a)** wykonywanie zadań z zakresu udzielania wsparcia, w tym w formie bezzwrotnej,
-    - **b)** realizację pożyczek, gwarancji i poręczeń,
-    - **c)** realizację programu, o którym mowa w art. 7 ust. 3,
-    - **d)** realizację programów,
-    - **e)** realizację programu okołogórniczego,
-    - **f)** wykonywanie zadań, o których mowa w art. 7 ust. 2 pkt 1, związanych z przygotowaniem lub realizacją przedsięwzięć w ramach partnerstwa publiczno-prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r.
+- **2)** dotacje celowe na: wykonywanie zadań z zakresu udzielania wsparcia, w tym w formie bezzwrotnej, realizację pożyczek, gwarancji i poręczeń, realizację programu, o którym mowa w art. 7 ust. 3, realizację programów, realizację programu okołogórniczego, wykonywanie zadań, o których mowa w art. 7 ust. 2 pkt 1, związanych z przygotowaniem lub realizacją przedsięwzięć w ramach partnerstwa publiczno-prywatnego w rozumieniu ustawy z dnia 19 grudnia 2008 r. o partnerstwie publiczno-prywatnym;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
+    - **e)**
+    - **f)**
 
 - **3)** środki pochodzące z budżetu Unii Europejskiej oraz inne środki pochodzące ze źródeł zagranicznych, niepodlegające zwrotowi, oraz odsetki od nich, o ile odrębne przepisy lub umowy dotyczące przekazania lub wykorzystania tych środków nie stanowią inaczej.
 
@@ -304,9 +342,7 @@ source: "isap-pdf"
 
 4. Fundusz prowadzi wyodrębnioną ewidencję dla działań finansowanych ze środków, o których mowa w ust. 1, oraz działalności gospodarczej, w tym jest obowiązany do prawidłowego przypisywania przychodów i kosztów na podstawie metod mających obiektywne uzasadnienie.
 
-5. Zasady prowadzenia wyodrębnionej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem środków, o którym mowa w ust. 4, Fundusz określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz.
-
-- **619)** .
+5. Zasady prowadzenia wyodrębnionej ewidencji oraz metody przypisywania przychodów i kosztów zgodnie z podziałem środków, o którym mowa w ust. 4, Fundusz określa w dokumentacji, o której mowa w art. 10 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, 295 i 1598 oraz z 2024 r. poz. 619).
 
 6. W zakresie nieuregulowanym w ust. 1–4 stosuje się odpowiednio przepisy art. 150–152 ustawy z dnia 27 sierpnia 2009 r. o finansach publicznych.
 
@@ -335,36 +371,17 @@ source: "isap-pdf"
 
 - **1)** po jednym przedstawicielu Prezesa Rady Ministrów, ministra właściwego do spraw aktywów państwowych, ministra właściwego do spraw budżetu, ministra właściwego do spraw finansów publicznych, ministra właściwego do spraw gospodarki, ministra właściwego do spraw gospodarki surowcami energetycznymi, ministra właściwego do spraw klimatu oraz ministra właściwego do spraw rozwoju regionalnego;
 - **2)** dwóch przedstawicieli wyznaczonych przez zarząd województwa śląskiego;
-- **3)** trzech członków, po jednym przedstawicielu reprezentatywnej organizacji związkowej stanowiącej stronę pracowników w wojewódzkiej radzie dialogu społecznego utworzonej w województwie śląskim zgodnie z art. 41 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), jeżeli została utworzona.
+- **3)** trzech członków, po jednym przedstawicielu reprezentatywnej organizacji związkowej stanowiącej stronę pracowników w wojewódzkiej radzie dialogu społecznego utworzonej w województwie śląskim zgodnie z art. 41 ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm.), jeżeli została utworzona.
 
 2. Członków rady nadzorczej Funduszu powołuje, na wniosek podmiotów, o których mowa w ust. 1, walne zgromadzenie Funduszu.
 
 3. Rada nadzorcza Funduszu jest zdolna do wykonywania swoich zadań i podejmowania uchwał, jeżeli liczba jej członków wynosi nie mniej niż 6 osób.
 
-4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób. Art. 21–23. (pominięte)
-
-**Art. 23a.**
-
-1. Fundusz może udzielać jednostkom samorządu terytorialnego oraz samorządowym osobom prawnym, które realizują przedsięwzięcia w zakresie usuwania skutków powodzi na obszarze gmin określonych w przepisach wydanych na podstawie art. 1 ust. 2 ustawy z dnia 16 września 2011 r. o szczególnych rozwiązaniach związanych z usuwaniem skutków powodzi (Dz. U. z 2024 r. poz. 654 i 1473) w związku z powodzią we wrześniu 2024 r.:
-
-- **1)** gwarancji i poręczeń,
-- **2)** wsparcia, w tym w formach bezzwrotnych – zwanych dalej „wsparciem nadzwyczajnym”.
-
-2. Wsparcie nadzwyczajne może być udzielone na realizację przedsięwzięć określonych w ust. 1 polegających na rozbiórce, odbudowie, przebudowie, nadbudowie lub remoncie zniszczonych lub uszkodzonych budynków użyteczności publicznej oraz zniszczonej lub uszkodzonej infrastruktury technicznej.
-
-3. Szczegółowe warunki udzielenia wsparcia nadzwyczajnego, w tym jego formę, wysokość, zasady rozliczeń oraz obowiązki sprawozdawcze, określa umowa zawarta między Funduszem a jednostką samorządu terytorialnego lub samorządową osobą prawną otrzymującą wsparcie nadzwyczajne.
-
-4. Umowy, o których mowa w ust. 3, mogą być zawierane do dnia 31 grudnia 2026 r.
-
-5. Do wsparcia nadzwyczajnego nie stosuje się przepisów art. 2 ust. 2, art. 3 i art. 8–10.
-
-6. Finansowanie uzyskane przez Fundusz na skutek przekazania skarbowych papierów wartościowych, o których mowa w art. 12 ust. 1, lub udzielenia poręczeń lub gwarancji, o których mowa w art. 13 ust. 1, może być również przeznaczone na udzielanie wsparcia nadzwyczajnego.
-
-7. Zmiana sposobu wykorzystania finansowania i środków, o których mowa w ust. 6, wymaga uzyskania zgody ministra właściwego do spraw finansów publicznych.
+4. W przypadku gdy liczba członków rady nadzorczej Funduszu wynosi mniej niż 7 osób, w terminie 30 dni podejmuje się czynności w celu uzupełnienia składu do 7 osób. (pominięte)
 
 **Art. 24.**
 
-1. W związku z wykonywaniem zadań wynikających z ustawy w roku 2023 Prezes Rady Ministrów przeznaczy, z Funduszu Inwestycji Kapitałowych, o którym mowa w przepisach ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933, z późn. zm. ), środki w wysokości do 500 mln zł na nabycie i objęcie akcji w podwyższonym kapitale zakładowym Funduszu Transformacji Województwa Śląskiego Spółki Akcyjnej – spółki zależnej Agencji Rozwoju Przemysłu Spółki Akcyjnej.
+1. W związku z wykonywaniem zadań wynikających z ustawy w roku 2023 Prezes Rady Ministrów przeznaczy, z Funduszu Inwestycji Kapitałowych, o którym mowa w przepisach ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym (Dz. U. z 2021 r. poz. 1933, z późn. zm.), środki w wysokości do 500 mln zł na nabycie i objęcie akcji w podwyższonym kapitale zakładowym Funduszu Transformacji Województwa Śląskiego Spółki Akcyjnej – spółki zależnej Agencji Rozwoju Przemysłu Spółki Akcyjnej.
 
 2. Nabycie i objęcie akcji, o których mowa w ust. 1, następuje na zasadach i w trybie określonych w przepisach ustawy z dnia 16 grudnia 2016 r. o zasadach zarządzania mieniem państwowym.
 
@@ -395,5 +412,5 @@ source: "isap-pdf"
 
 3. W przypadku gdy wielkość wydatków po pierwszym półroczu danego roku budżetowego wyniesie więcej niż 65 % limitu wydatków przewidzianych na dany rok, dysponent środków obniża wielkość środków przeznaczonych na wydatki w drugim półroczu o kwotę stanowiącą różnicę między wielkością tego limitu a kwotą przekroczenia wydatków.
 
-**Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 28.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

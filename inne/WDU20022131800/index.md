@@ -8,12 +8,10 @@ pos: 1800
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
-
-*USTAWA z dnia 30 października 2002 r.*
+# Ustawa z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2002-10-30 |
 | Data wydania | 2002-12-16 |
+| Wejście w życie | 2002-12-24 |
 | Ostatnia zmiana | 2026-03-05 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20022131800) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2002/1800/text.pdf) |
 
@@ -33,10 +32,10 @@ source: "isap-pdf"
 
 **Art. 2.**
 
-1. Restrukturyzacją mogą być objęci przedsiębiorcy w rozumieniu art. 2 ust. 2 i 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. poz. 1178, z późn. zm. ) :
+1. Restrukturyzacją mogą być objęci przedsiębiorcy w rozumieniu art. 2 ust. 2 i 3 ustawy z dnia 19 listopada 1999 r. – Prawo działalności gospodarczej (Dz. U. Nr 101, poz. 1178, z 2000 r. Nr 86, poz. 958 i Nr 114, poz. 1193, z 2001 r. Nr 49, poz. 509, Nr 67, poz. 679, Nr 102, poz. 1115 i Nr 147, poz. 1643 oraz z 2002 r. Nr 1, poz. 2, Nr 115, poz. 995 i Nr 130, poz. 1112):
 
-- **1)** którzy znajdują się w trudnej sytuacji ekonomicznej, w rozumieniu art. 15 ust. 2 ustawy z dnia 27 lipca 2002 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. poz. 1177 i 1271 oraz z 2003 r. poz. 1537, 1840, 1850 i 2261) ; oraz
-- **2)** u których liczba osób świadczących pracę na podstawie stosunku pracy – na dzień 30 czerwca 2002 r. – przekracza 1000.
+- **1)** którzy znajdują się w trudnej sytuacji ekonomicznej, w rozumieniu art. 15 ust. 2 ustawy z dnia 27 lipca 2002 r. o warunkach dopuszczalności i nadzorowaniu pomocy publicznej dla przedsiębiorców (Dz. U. Nr 141, poz. 1177), oraz
+- **2)** u których liczba osób świadczących pracę na podstawie stosunku pracy – na dzień 30 czerwca 2002 r. – przekracza 1 000.
 
 2. Przepisów ustawy nie stosuje się do przedsiębiorców:
 
@@ -50,7 +49,7 @@ source: "isap-pdf"
 2. Restrukturyzacja może obejmować:
 
 - **1)** zobowiązania cywilnoprawne według stanu na dzień 30 czerwca 2002 r.;
-- **2)** zobowiązania publicznoprawne na zasadach określonych w rozdziale 5 lub 5a;
+- **2)** zobowiązania publicznoprawne na zasadach określonych w rozdziale 5;
 - **3)** majątek;
 - **4)** zatrudnienie.
 
@@ -60,12 +59,12 @@ source: "isap-pdf"
 
 2. Postępowania restrukturyzacyjne prowadzone przez przedsiębiorcę na podstawie przepisów ustaw:
 
-- **1)** z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. poz. 1112, z 2001 r. poz. 41 i 1802, z 2002 r. poz. 1826 i 2020 oraz z 2003 r. poz. 844) ,
-- **2)** z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. z 2020 r. poz. 1663),
-- **3)** z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. z 2024 r. poz. 1835),
-- **4)** z dnia 8 września 2000 r. o komercjalizacji i restrukturyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. z 2024 r. poz. 561 oraz z 2025 r. poz. 1661),
-- **5)** z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. z 2020 r. poz. 2216),
-- **6)** z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz. U. z 2020 r. poz. 2183), zwanej dalej „ustawą o restrukturyzacji należności publicznoprawnych” – podlegają zawieszeniu, z zastrzeżeniem art. 30 ust. 1, z dniem wydania postanowienia, o którym mowa w art. 10 ust. 1 pkt 1.
+- **1)** z dnia 26 listopada 1998 r. o dostosowaniu górnictwa węgla kamiennego do funkcjonowania w warunkach gospodarki rynkowej oraz szczególnych uprawnieniach i zadaniach gmin górniczych (Dz. U. Nr 162, poz. 1112 oraz z 2001 r. Nr 5, poz. 41 i Nr 154, poz. 1802),
+- **2)** z dnia 7 października 1999 r. o wspieraniu restrukturyzacji przemysłowego potencjału obronnego i modernizacji technicznej Sił Zbrojnych Rzeczypospolitej Polskiej (Dz. U. Nr 83, poz. 932, z 2000 r. Nr 119, poz. 1250 oraz z 2001 r. Nr 76, poz. 805 i Nr 100, poz. 1080),
+- **3)** z dnia 14 lipca 2000 r. o restrukturyzacji finansowej górnictwa siarki (Dz. U. Nr 74, poz. 856),
+- **4)** z dnia 8 września 2000 r. o komercjalizacji, restrukturyzacji i prywatyzacji przedsiębiorstwa państwowego „Polskie Koleje Państwowe” (Dz. U. Nr 84, poz. 948, z 2001 r. Nr 100, poz. 1086 i Nr 154, poz. 1802 oraz z 2002 r. Nr 205, poz. 1730),
+- **5)** z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali (Dz. U. Nr 111, poz. 1196),
+- **6)** z dnia 30 sierpnia 2002 r. o restrukturyzacji niektórych należności publicznoprawnych od przedsiębiorców (Dz. U. Nr 155, poz. 1287), zwanej dalej „ustawą o restrukturyzacji należności publicznoprawnych” podlegają zawieszeniu, z zastrzeżeniem art. 30 ust. 1, z dniem wydania postanowienia, o którym mowa w art. 10 ust. 1 pkt 1.
 
 **Art. 5.**
 
@@ -97,6 +96,9 @@ source: "isap-pdf"
 
 **Art. 9.** Minister właściwy do spraw gospodarki:
 
+- **1)** sprawuje nadzór nad wykonaniem ustawy;
+- **2)** jest organem wyższego stopnia wobec Prezesa Agencji w zakresie decyzji wydanych na podstawie ustawy.
+
 **Art. 10.**
 
 1. Prezes Agencji:
@@ -109,7 +111,6 @@ source: "isap-pdf"
 - **6)** wydaje decyzję o umorzeniu postępowania restrukturyzacyjnego;
 - **7)** sprawuje nadzór nad realizacją postępowania restrukturyzacyjnego przez przedsiębiorcę;
 - **8)** wydaje decyzję o przyznaniu lub pozbawieniu spółki statusu spółki w restrukturyzacji;
-- **8a)** wydaje decyzję zatwierdzającą plan spłaty przejętych zobowiązań przez Operatora, o którym mowa w art. 32e, a także zakres ich umorzeń;
 - **9)** sprawuje nadzór nad realizacją planu restrukturyzacji przez spółkę, której przyznano status spółki w restrukturyzacji, zwaną dalej „spółką w restrukturyzacji”;
 - **10)** wykonuje inne zadania określone w ustawie.
 
@@ -120,7 +121,7 @@ source: "isap-pdf"
 - **3)** przedsiębiorców, w stosunku do których wydano decyzje o umorzeniu postępowania restrukturyzacyjnego;
 - **4)** spółek w restrukturyzacji.
 
-3. Listy, o których mowa w ust. 2, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski B” .
+3. Listy, o których mowa w ust. 2, podlegają ogłoszeniu w Dzienniku Urzędowym Rzeczypospolitej Polskiej „Monitor Polski B”.
 
 4. Prezes Agencji sporządza półroczne i roczne sprawozdania z realizacji postępowań restrukturyzacyjnych i kosztów tych postępowań oraz przedkłada je ministrowi właściwemu do spraw gospodarki oraz Prezesowi Urzędu Ochrony Konkurencji i Konsumentów – odpowiednio w terminie do dnia 31 lipca oraz w terminie do dnia 28 lutego następnego roku.
 
@@ -157,7 +158,7 @@ source: "isap-pdf"
 2. Do wniosku, o którym mowa w ust. 1, należy dołączyć:
 
 - **1)** wyciąg z księgi udziałów – w przypadku spółki z ograniczoną odpowiedzialnością;
-- **2)** wykaz akcjonariuszy, którzy posiadają więcej niż 5 % akcji [imiennych] spółki akcyjnej albo więcej niż 5 % akcji prostej spółki akcyjnej, wraz z informacją o wielkości udziału w kapitale zakładowym spółki akcyjnej, a w przypadku prostej spółki akcyjnej – w ogólnej liczbie akcji, przysługującego Skarbowi Państwa i spółkom, w których Skarb Państwa ma co najmniej 50 % akcji lub udziałów;
+- **2)** wykaz akcjonariuszy, którzy posiadają więcej niż 5% akcji imiennych, wraz z informacją o wielkości udziału w kapitale zakładowym Skarbu Państwa i spółek, w których Skarb Państwa ma co najmniej 50% akcji lub udziałów;
 - **3)** sprawozdanie finansowe w rozumieniu przepisów o rachunkowości, sporządzone na dzień 30 czerwca 2002 r., oraz sprawozdanie o przychodach, kosztach i wyniku finansowym sporządzone w ramach obowiązków statystycznych, ostatnie przed dniem złożenia wniosku;
 - **4)** kopię ewidencji środków trwałych oraz inwestycji długoterminowych w rozumieniu przepisów o rachunkowości, wraz z informacją o ustanowionych na nich obciążeniach;
 - **5)** spis dłużników z podaniem wysokości długu każdego z nich, według stanu bieżącego i na dzień 30 czerwca 2002 r., oraz listę zabezpieczeń;
@@ -182,7 +183,7 @@ source: "isap-pdf"
 
 2. W przypadku, o którym mowa w ust. 1, Prezes Agencji wzywa przedsiębiorcę, którego dotyczy wniosek, do wyrażenia, w terminie 14 dni, pisemnej zgody na wszczęcie postępowania restrukturyzacyjnego oraz przekazania informacji, o których mowa w art. 13 ust. 1 pkt 6–8 i w ust. 2.
 
-3. W przypadku, o którym mowa w ust. 1, przedsiębiorca przekazuje Prezesowi Agencji w terminie niedłuższym niż 3 miesiące od dnia wyrażenia pisemnej zgody, o której mowa w ust. 2, dokumenty i informacje, o których mowa w art. 13 ust. 3.
+3. W przypadku, o którym mowa w ust. 1, przedsiębiorca przekazuje Prezesowi Agencji w terminie nie dłuższym niż 3 miesiące od dnia wyrażenia pisemnej zgody, o której mowa w ust. 2, dokumenty i informacje, o których mowa w art. 13 ust. 3.
 
 4. W przypadku niewyrażenia przez przedsiębiorcę zgody na wszczęcie postępowania restrukturyzacyjnego w terminie określonym w ust. 2, Prezes Agencji pozostawia wniosek organu założycielskiego bez rozpoznania.
 
@@ -238,20 +239,17 @@ source: "isap-pdf"
 - **3)** termin dokonania zabezpieczenia kosztów postępowania restrukturyzacyjnego;
 - **4)** wskazanie składników majątku, które mają stanowić zabezpieczenie kosztów postępowania restrukturyzacyjnego;
 - **5)** termin zakończenia postępowania restrukturyzacyjnego;
-- **6)** zatwierdzenie planu restrukturyzacji;
-- **7)** spis zobowiązań publicznoprawnych objętych restrukturyzacją na szczególnych zasadach, o których mowa w rozdziale 5a;
-- **8)** wskazanie Operatora, o którym mowa w art. 32e;
-- **9)** wskazanie składników majątku, które mają być przeniesione na własność Operatora.
+- **6)** zatwierdzenie planu restrukturyzacji.
 
 2. Postępowanie restrukturyzacyjne powinno być zakończone w terminie 24 miesięcy od dnia wydania decyzji o restrukturyzacji.
 
-3. Jeżeli w decyzji o restrukturyzacji określono termin krótszy niż wymieniony w ust. 2, na wniosek przedsiębiorcy może on być przedłużony, jednak niedłużej niż do terminu, o którym mowa w ust. 2.
+3. Jeżeli w decyzji o restrukturyzacji określono termin krótszy niż wymieniony w ust. 2, na wniosek przedsiębiorcy może on być przedłużony, jednak nie dłużej niż do terminu, o którym mowa w ust. 2.
 
 **Art. 20.** Jeżeli przewidywane koszty postępowania restrukturyzacyjnego są rażąco wysokie w stosunku do możliwych do osiągnięcia efektów restrukturyzacji, Prezes Agencji umarza postępowanie restrukturyzacyjne.
 
 **Art. 21.**
 
-1. Przedsiębiorca, który uzyskał decyzję o restrukturyzacji może wystąpić z wnioskiem o udzielenie pożyczki lub poręczenia.
+1. Przedsiębiorca, który uzyskał decyzję o restrukturyzacji, może wystąpić z wnioskiem o udzielenie pożyczki lub poręczenia.
 
 2. Wniosek o udzielenie pożyczki lub poręczenia zawiera informacje, o których mowa w art. 13 ust. 1, oraz określa:
 
@@ -281,7 +279,7 @@ source: "isap-pdf"
 
 **Art. 23.**
 
-1. Ugoda restrukturyzacyjna jest zawarta, jeżeli opowiedzą się za nią wierzyciele wierzytelności cywilnoprawnych mający łącznie ponad 50 % ogólnej sumy wierzytelności przysługujących wierzycielom wymienionym w spisie, o którym mowa w art. 13 ust. 2 pkt 7.
+1. Ugoda restrukturyzacyjna jest zawarta, jeżeli opowiedzą się za nią wierzyciele wierzytelności cywilnoprawnych mający łącznie ponad 50% ogólnej sumy wierzytelności przysługujących wierzycielom wymienionym w spisie, o którym mowa w art. 13 ust. 2 pkt 7.
 
 2. Ugoda restrukturyzacyjna wiąże wszystkich wierzycieli wierzytelności cywilnoprawnych wymienionych w spisie, o którym mowa w art. 13 ust. 2 pkt 7.
 
@@ -289,16 +287,16 @@ source: "isap-pdf"
 
 1. Przedmiotem ugody restrukturyzacyjnej może być:
 
-- **1)** restrukturyzacja zobowiązań cywilnoprawnych polegająca w szczególności na:
-    - **a)** umorzeniu tych zobowiązań w całości lub w części,
-    - **b)** rozłożeniu spłaty tych zobowiązań na raty,
-    - **c)** odroczeniu spłaty tych zobowiązań;
+- **1)** restrukturyzacja zobowiązań cywilnoprawnych polegająca w szczególności na: umorzeniu tych zobowiązań w całości lub w części, rozłożeniu spłaty tych zobowiązań na raty, odroczeniu spłaty tych zobowiązań;
+    - **a)**
+    - **b)**
+    - **c)**
 
-- **2)** zobowiązanie się wierzycieli do podjęcia działań w celu wsparcia realizacji planu restrukturyzacji, w szczególności przez:
-    - **a)** objęcie udziałów albo akcji,
-    - **b)** zamianę wierzytelności na obligacje lub inne tytuły obligacyjne,
-    - **c)** zawarcie umów o współpracę,
-    - **d)** udzielenie przedsiębiorcy kredytów, pożyczek, gwarancji lub poręczeń.
+- **2)** zobowiązanie się wierzycieli do podjęcia działań w celu wsparcia realizacji planu restrukturyzacji, w szczególności przez: objęcie udziałów albo akcji, zamianę wierzytelności na obligacje lub inne tytuły obligacyjne, zawarcie umów o współpracę, udzielenie przedsiębiorcy kredytów, pożyczek, gwarancji lub poręczeń.
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
 2. Warunki ugody restrukturyzacyjnej mogą być zróżnicowane, w zakresie wskazanym w ust. 1 pkt 1, w stosunku do określonych grup wierzycieli – z zachowaniem równoprawnego traktowania uczestników ugody.
 
@@ -308,7 +306,7 @@ source: "isap-pdf"
 
 2. Przedsiębiorca przekazuje ugodę restrukturyzacyjną Prezesowi Agencji w terminie 7 dni od dnia jej zawarcia.
 
-3. Ugoda restrukturyzacyjna może być wypowiedziana w czasie postępowania restrukturyzacyjnego tylko z ważnych powodów, jeżeli wypowiedzenia dokonają wierzyciele wierzytelności cywilnoprawnych mający łącznie ponad 50 % ogólnej sumy wierzytelności objętych ugodą.
+3. Ugoda restrukturyzacyjna może być wypowiedziana w czasie postępowania restrukturyzacyjnego tylko z ważnych powodów, jeżeli wypowiedzenia dokonają wierzyciele wierzytelności cywilnoprawnych mający łącznie ponad 50% ogólnej sumy wierzytelności objętych ugodą.
 
 4. W przypadku wypowiedzenia ugody restrukturyzacyjnej Prezes Agencji umarza postępowanie restrukturyzacyjne.
 
@@ -319,11 +317,11 @@ source: "isap-pdf"
 2. Wysokość umorzonych zobowiązań cywilnoprawnych, z wyjątkiem odsetek, w tym skapitalizowanych, stanowi koszt uzyskania przychodu wierzyciela przedsiębiorcy objętego restrukturyzacją, w rozumieniu przepisów o podatku dochodowym:
 
 - **1)** w całości, gdy wierzytelność była uprzednio zaliczona do przychodów należnych;
-- **2)** w 50 %, gdy wierzytelność powstała w wyniku udzielenia kredytu lub pożyczki przez bank lub jednostkę organizacyjną uprawnioną do udzielania kredytów lub pożyczek, na podstawie odrębnych ustaw regulujących zasady ich funkcjonowania, oraz Agencję.
+- **2)** w 50%, gdy wierzytelność powstała w wyniku udzielenia kredytu lub pożyczki przez bank lub jednostkę organizacyjną uprawnioną do udzielania kredytów lub pożyczek, na podstawie odrębnych ustaw regulujących zasady ich funkcjonowania, oraz Agencję.
 
 #### Rozdział 5 Restrukturyzacja finansowa należności publicznoprawnych
 
-**Art. 27.** Restrukturyzacja należności publicznoprawnych jest dokonywana w zakresie, na zasadach i w trybie określonych w przepisach ustawy o restrukturyzacji należności publicznoprawnych, z zastrzeżeniem przepisów niniejszego rozdziału i rozdziału 5a.
+**Art. 27.** Restrukturyzacja należności publicznoprawnych jest dokonywana w zakresie, na zasadach i w trybie określonych przepisami ustawy o restrukturyzacji należności publicznoprawnych, z zastrzeżeniem przepisów niniejszego rozdziału.
 
 **Art. 28.** Do wniosku, o którym mowa w art. 13 ust. 1, albo zgody, o której mowa w art. 14 ust. 2, przedsiębiorca dołącza kopie wniosków o wszczęcie postępowania restrukturyzacyjnego, o których mowa w art. 12 ustawy o restrukturyzacji należności publicznoprawnych, skierowanych do właściwych organów restrukturyzacyjnych, zwanych dalej „organami restrukturyzacyjnymi należności publicznoprawnych”, albo oświadczenie, że nie korzysta z restrukturyzacji należności publicznoprawnych.
 
@@ -358,120 +356,13 @@ source: "isap-pdf"
 
 1. W przypadku otrzymania odpisu decyzji, o której mowa w art. 30 ust. 1 pkt 4, organ restrukturyzacyjny należności publicznoprawnych wydaje decyzję stwierdzającą umorzenie należności publicznoprawnych, jeżeli spełnione są warunki, o których mowa w art. 10 ust. 1 pkt 3 ustawy o restrukturyzacji należności publicznoprawnych.
 
-2. Decyzja o umorzeniu należności publicznoprawnych jest wydawana w terminie 45 dni od dnia otrzymania odpisu decyzji, o której mowa w art. 30 ust. 1 pkt
-
-4.
+2. Decyzja o umorzeniu należności publicznoprawnych jest wydawana w terminie 45 dni od dnia otrzymania odpisu decyzji, o której mowa w art. 30 ust. 1 pkt 4.
 
 3. W przypadku otrzymania odpisu postanowienia albo decyzji, o których mowa w art. 30 ust. 1 pkt 1 i 2, organ restrukturyzacyjny należności publicznoprawnych podejmuje zawieszone postępowanie.
 
 4. W przypadku otrzymania odpisu decyzji, o której mowa w art. 30 ust. 1 pkt 3, organ restrukturyzacyjny należności publicznoprawnych wydaje decyzję o umorzeniu postępowania restrukturyzacyjnego należności publicznoprawnych.
 
 **Art. 32.** Do przedsiębiorcy, wobec którego Prezes Agencji wydał decyzję o zakończeniu postępowania restrukturyzacyjnego, nie stosuje się przepisów o opłacie restrukturyzacyjnej, o której mowa w ustawie o restrukturyzacji należności publicznoprawnych.
-
-#### Rozdział 5a Restrukturyzacja niektórych należności publicznoprawnych na szczególnych zasadach
-
-**Art. 32a.**
-
-1. Restrukturyzacji niektórych należności publicznoprawnych na szczególnych zasadach, zwanej dalej „restrukturyzacją na szczególnych zasadach”, podlegają znane na dzień 30 czerwca 2003 r. następujące należności publicznoprawne:
-
-- **1)** z tytułu podatków wobec budżetu państwa, należności celnych oraz wpłat z zysku na rzecz Skarbu Państwa,
-- **2)** z tytułu składek na ubezpieczenia społeczne w części finansowanej przez płatnika, Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych,
-- **3)** wobec Funduszu Gwarantowanych Świadczeń Pracowniczych oraz Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych – niepodlegające restrukturyzacji albo w stosunku do których nie zostało wszczęte postępowanie restrukturyzacyjne na podstawie przepisów ustawy o restrukturyzacji należności publicznoprawnych;
-- **4)** z tytułu opłat za gospodarcze korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 31 stycznia 1980 r. o ochronie i kształtowaniu środowiska (Dz. U. z 1994 r. poz. 196, z późn. zm. ), opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2008 r. poz. 150, z późn. zm. ) oraz opłat za szczególne korzystanie z wód w rozumieniu przepisów ustawy z dnia 24 października 1974 r. – Prawo wodne (Dz. U. poz. 230, z późn. zm. ) stanowiących przychody Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz dochody budżetów powiatów i budżetów gmin;
-- **5)** z tytułu administracyjnych kar pieniężnych określonych w przepisach ustaw wymienionych w pkt 4;
-- **6)** z tytułu opłat za użytkowanie wieczyste gruntów Skarbu Państwa w części stanowiącej dochód budżetu państwa;
-- **7)** z tytułu odsetek za zwłokę, opłaty prolongacyjnej, opłaty dodatkowej, kosztów upomnienia oraz kosztów egzekucyjnych, od zaległości wymienionych w pkt 1–
-
-6.
-
-2. Nie podlegają restrukturyzacji zaległości z tytułu składki na ubezpieczenie emerytalne.
-
-3. Nie podlegają restrukturyzacji również zaległości podatkowe i celne określone w decyzji właściwego organu podatkowego lub organu celnego oraz należności z tytułu składek na ubezpieczenia społeczne, składek na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych, wpłat do Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych oraz opłat i kar dla Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej, wojewódzkich funduszy ochrony środowiska i gospodarki wodnej oraz budżetów powiatów i budżetów gmin, oraz opłat za użytkowanie wieczyste gruntów Skarbu Państwa, określone w wyniku postępowania kontrolnego, jeżeli zaległości te zostały określone jako wynikające z czynności prawnych mających na celu obejście przepisów podatkowych, o należnościach celnych, o ubezpieczeniach społecznych lub przepisów dotyczących wymiaru i poboru tych należności.
-
-**Art. 32b.** Znane na dzień 30 czerwca 2003 r. zaległości we wpłatach składek na ubezpieczenie emerytalne, składek na ubezpieczenia społeczne w części finansowanej przez ubezpieczonego oraz składek na ubezpieczenie zdrowotne, wraz z odsetkami za zwłokę, podlegają spłacie przez przedsiębiorcę, który złożył wniosek, o którym mowa w art. 32g ust. 1, w terminie 24 miesięcy od dnia wydania decyzji o restrukturyzacji.
-
-**Art. 32c.**
-
-1. Restrukturyzację na szczególnych zasadach stosuje się odpowiednio do należności od przedsiębiorców z tytułu zobowiązań podatkowych stanowiących dochody budżetów jednostek samorządu terytorialnego, jeżeli organ stanowiący właściwej jednostki samorządu terytorialnego podejmie, na wniosek przedsiębiorcy, uchwałę o restrukturyzacji tych należności.
-
-2. Restrukturyzacja należności jednostek samorządu terytorialnego na podstawie niniejszego rozdziału nie uprawnia tych jednostek do rekompensaty ubytku ich dochodów z tego tytułu przez budżet państwa.
-
-**Art. 32d.** Warunkiem restrukturyzacji na szczególnych zasadach jest wydanie przez Prezesa Agencji postanowienia o wszczęciu postępowania restrukturyzacyjnego, o którym mowa w art. 10 ust. 1 pkt 1, oraz przeniesienie przez przedsiębiorcę na Operatora własności części majątku, nieobciążonego hipoteką lub zastawem na rzecz osób trzecich niebędących organem restrukturyzacyjnym należności publicznoprawnych, zwanym dalej „Wierzycielem”, stanowiącego równowartość co najmniej 25 % kwoty należności zgłoszonych do restrukturyzacji.
-
-**Art. 32e.**
-
-1. Prezes Agencji, przed wskazaniem Operatora w decyzji o restrukturyzacji, jest obowiązany uzyskać zgodę spółki na pełnienie przez nią funkcji Operatora.
-
-2. Operator nie może posiadać, na dzień wydania decyzji o restrukturyzacji, zaległości z tytułu podatków stanowiących dochód budżetu państwa oraz składek na ubezpieczenia społeczne.
-
-3. Operatorem może być wyłącznie spółka kapitałowa, w której Skarb Państwa lub Agencja posiada 100 % udziałów lub akcji, albo Skarb Państwa i Agencja posiadają łącznie 100 % udziałów lub akcji.
-
-**Art. 32f.**
-
-1. Restrukturyzacja na szczególnych zasadach polega na:
-
-- **1)** przejęciu od przedsiębiorcy przez Operatora:
-    - **a)** zobowiązań przedsiębiorcy, o których mowa w art. 32a ust. 1 lub art. 32c ust. 1,
-    - **b)** składników majątku przedsiębiorcy,
-
-- **2)** umorzeniu Operatorowi przejętych zobowiązań przedsiębiorcy – na warunkach określonych w niniejszym rozdziale.
-
-2. Przejęcie przez Operatora zobowiązań przedsiębiorcy następuje z mocy prawa z dniem przeniesienia na niego własności składników majątku według ich wartości księgowej; z tym dniem wygasają także zabezpieczenia tych zobowiązań na majątku lub prawach przedsiębiorcy, ustanowione przez Wierzyciela.
-
-3. Przedsiębiorca nie odpowiada za zobowiązania przejęte przez Operatora. Odmienne zastrzeżenie umowne jest nieważne.
-
-**Art. 32g.**
-
-1. Przedsiębiorca składa do Prezesa Agencji wniosek o restrukturyzację na szczególnych zasadach.
-
-2. Wniosek, o którym mowa w ust. 1, powinien zawierać informacje określone w art. 13 ust. 1 pkt 1–3.
-
-3. Przedsiębiorca, składając wniosek, o którym mowa w ust. 1, jest obowiązany dołączyć do niego zmiany wprowadzone do planu restrukturyzacji, o którym mowa w art. 13 ust. 3 pkt 1, zawierające:
-
-- **1)** wskazanie składników majątku proponowanych do przeniesienia na własność Operatora;
-- **2)** spis zobowiązań publicznoprawnych proponowanych do objęcia restrukturyzacją na szczególnych zasadach, ze wskazaniem Wierzycieli oraz zabezpieczeń tych zobowiązań;
-- **3)** aktualizację określenia stanu ekonomicznego przedsiębiorcy, jaki ma być osiągnięty po przeprowadzeniu postępowania restrukturyzacyjnego;
-- **4)** informację o podjęciu uchwały, o której mowa w art. 32c ust. 1.
-
-**Art. 32h.**
-
-1. Decyzja o restrukturyzacji w części dotyczącej restrukturyzacji na szczególnych zasadach wymaga zgody Wierzyciela. Prezes Agencji przekazuje decyzję Wierzycielowi i Operatorowi.
-
-2. Wyrażenie przez Wierzyciela zgody, o której mowa w ust. 1, oznacza zgodę na wygaśnięcie ustanowionych przez niego zabezpieczeń, o których mowa w art. 32f ust. 2.
-
-**Art. 32i.**
-
-1. W terminie 9 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy Operator jest obowiązany do przedłożenia Prezesowi Agencji uzgodnionego z Wierzycielami planu spłaty przejętych zobowiązań publicznoprawnych wraz ze wskazaniem zobowiązań przewidzianych do umorzenia.
-
-2. Plan spłaty przejętych zobowiązań, o którym mowa w ust. 1, a także zakres ich umorzeń zatwierdza, w drodze decyzji, Prezes Agencji. Decyzję Prezes Agencji przekazuje niezwłocznie Wierzycielowi.
-
-3. Umorzenie zobowiązań przypadających poszczególnym Wierzycielom dokonywane jest proporcjonalnie do udziału należności każdego z Wierzycieli w ogólnej kwocie zobowiązań podlegających umorzeniu.
-
-4. Decyzję o umorzeniu należności publicznoprawnych wymienionych w decyzji, o której mowa w ust. 2, wydaje Wierzyciel w zakresie wynikającym z tej decyzji, po wykonaniu przez Operatora planu spłaty przejętych przez niego zobowiązań.
-
-5. (uchylony)
-
-**Art. 32j.**
-
-1. Operator przekazuje Wierzycielom środki pieniężne określone w art. 32i, uzyskane w wyniku gospodarowania przejętym majątkiem i jego zbycia, pomniejszone o koszty poniesione z tych tytułów.
-
-2. Operator dokonuje podziału środków pieniężnych, o których mowa w ust. 1, na zaspokojenie zobowiązań przypadających poszczególnym Wierzycielom, proporcjonalnie do udziału należności każdego z tych Wierzycieli w ogólnej kwocie przejętych przez niego zobowiązań.
-
-3. Operator jest obowiązany do prowadzenia odrębnej ewidencji przychodów i wydatków związanych z gospodarowaniem i zbyciem przejętego majątku.
-
-**Art. 32k.**
-
-1. W okresie 12 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy wobec tego Operatora:
-
-- **1)** nie może być ogłoszona upadłość;
-- **2)** nie stosuje się przepisów o obowiązku zgłoszenia wniosku o ogłoszenie upadłości;
-- **3)** nie wymierza się i nie pobiera opłat za korzystanie ze środowiska w rozumieniu przepisów ustawy z dnia 27 kwietnia 2001 r. – Prawo ochrony środowiska (Dz. U. z 2025 r. poz. 647, 1080, 1812 i 1863) od przejętego majątku;
-- **4)** nie nalicza się odsetek za zwłokę od przejętych zobowiązań;
-- **5)** nie wszczyna się i nie prowadzi postępowania egzekucyjnego dotyczącego przejętych zobowiązań.
-
-2. W okresie 12 miesięcy od dnia przejęcia przez Operatora zobowiązań przedsiębiorcy do nabywcy majątku przejętego przez Operatora nie stosuje się przepisów art. 112 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ).
-
-**Art. 32l.** W dniu przejęcia przez Operatora składników majątku i zobowiązań przedsiębiorcy na zasadach określonych w niniejszym rozdziale oraz w dniu zbycia tego majątku i spłaty tych zobowiązań przez Operatora, a także ich umorzenia w trybie art. 32i ust. 4, nie rozpoznaje się przychodów podatkowych oraz kosztów uzyskania przychodów.
 
 #### Rozdział 6 Restrukturyzacja majątku
 
@@ -481,7 +372,7 @@ source: "isap-pdf"
 
 1. Przeniesienie własności, o którym mowa w art. 33, może dotyczyć składników majątku, które nie są i nie będą wykorzystywane w działalności gospodarczej przedsiębiorcy i są zbędne dla prawidłowego przeprowadzenia i zakończenia postępowania restrukturyzacyjnego zgodnie z planem restrukturyzacji.
 
-2. Przeniesienie własności składników majątku następuje w drodze umowy zawartej między przedsiębiorcą i Skarbem Państwa reprezentowanym przez ministra właściwego do spraw aktywów państwowych, w terminie określonym w decyzji o restrukturyzacji.
+2. Przeniesienie własności składników majątku następuje w drodze umowy zawartej między przedsiębiorcą i Skarbem Państwa reprezentowanym przez ministra właściwego do spraw Skarbu Państwa, w terminie określonym w decyzji o restrukturyzacji.
 
 3. Wartość przeniesionych składników majątku przez przedsiębiorcę na rzecz Skarbu Państwa na podstawie ustawy stanowi koszt uzyskania przychodu przedsiębiorcy w rozumieniu przepisów o podatku dochodowym od osób prawnych.
 
@@ -493,7 +384,7 @@ source: "isap-pdf"
 
 **Art. 36.**
 
-1. Agencja może utworzyć spółki kapitałowe, wnosząc, na pokrycie ich kapitału zakładowego albo pokrycie akcji prostej spółki akcyjnej, składniki majątku, o których mowa w art. 35.
+1. Agencja może utworzyć spółki kapitałowe, wnosząc, na pokrycie ich kapitału zakładowego, składniki majątku, o których mowa w art. 35.
 
 2. W przypadku utworzenia spółek, o których mowa w ust. 1, poprzez wniesienie wkładów niepieniężnych zarówno w momencie objęcia udziałów albo akcji, jak również w momencie ich odpłatnego zbycia nie rozpoznaje się przychodów podatkowych oraz kosztów uzyskania przychodów.
 
@@ -509,11 +400,11 @@ source: "isap-pdf"
 
 2. Świadczenia, o których mowa w ust. 1, mogą być przyznane przez pracodawcę tylko jeden raz, na wniosek pracownika, jeżeli przed dniem złożenia wniosku pracownik ten nie korzystał z takich świadczeń oraz oświadczy, że nie będzie z nich korzystał w przyszłości.
 
-3. Świadczenie na przekwalifikowanie – kontrakt szkoleniowy jest przyznawane przez pracodawcę na okres niedłuższy niż 6 miesięcy, na wniosek pracownika, który oświadczy, że wyraża zgodę na rozwiązanie stosunku pracy po zakończeniu okresu, na który to świadczenie przyznano, i rozpocznie szkolenie.
+3. Świadczenie na przekwalifikowanie – kontrakt szkoleniowy jest przyznawane przez pracodawcę na okres nie dłuższy niż 6 miesięcy, na wniosek pracownika, który oświadczy, że wyraża zgodę na rozwiązanie stosunku pracy po zakończeniu okresu, na który to świadczenie przyznano, i rozpocznie szkolenie.
 
 4. W okresie korzystania ze świadczenia na przekwalifikowanie – kontraktu szkoleniowego pracownikowi przysługuje jednorazowe bezpłatne szkolenie, finansowane z Funduszu Pracy.
 
-5. Finansowanie z Funduszu Pracy świadczeń, o których mowa w ust. 4, odbywa się jak dla poszukujących pracy, o których mowa w art. 2 pkt 24 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620, 1746 i 1794).
+5. Finansowanie z Funduszu Pracy świadczeń, o których mowa w ust. 4, odbywa się jak dla osób poszukujących pracy, o których mowa w art. 16 ust. 10 pkt 3 ustawy z dnia 14 grudnia 1994 r. o zatrudnieniu i przeciwdziałaniu bezrobociu (Dz. U. z 2001 r. Nr 6, poz. 56, Nr 42, poz. 475, Nr 89, poz. 973, Nr 100, poz. 1080, Nr 122, poz. 1323 i 1325, Nr 128, poz. 1405 i Nr 154, poz. 1793 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 675, Nr 113, poz. 984, Nr 199, poz. 1673 i Nr 200, poz. 1679).
 
 6. Środki Funduszu Pracy na finansowanie świadczeń, o których mowa w ust. 4, są przekazywane staroście sprawującemu zwierzchnictwo nad powiatowym urzędem pracy właściwym miejscowo dla przedsiębiorcy, przez dysponenta Funduszu Pracy, z posiadanej rezerwy, na wniosek tego starosty.
 
@@ -533,7 +424,7 @@ source: "isap-pdf"
 
 2. Przepis ust. 1 stosuje się odpowiednio do zatrudniania osób na podstawie umowy zlecenia, umowy o dzieło, umowy agencyjnej oraz kontraktu menedżerskiego.
 
-**Art. 39.** Po uprawomocnieniu się decyzji o restrukturyzacji do stosunków pracy w zakładzie pracy przedsiębiorcy stosuje się odpowiednio przepisy odrębnych ustaw regulujących skutki ogłoszenia upadłości w zakresie stosunków pracy.
+**Art. 39.** Po uprawomocnieniu się decyzji o restrukturyzacji, do stosunków pracy w zakładzie pracy przedsiębiorcy stosuje się odpowiednio przepisy odrębnych ustaw regulujących skutki ogłoszenia upadłości w zakresie stosunków pracy, w szczególności art. 361 Kodeksu pracy oraz art. 7a ustawy z dnia 28 grudnia 1989 r. o szczególnych zasadach rozwiązywania z pracownikami stosunków pracy z przyczyn dotyczących zakładu pracy (Dz. U. z 2002 r. Nr 112, poz. 980, Nr 135, poz. 1146 i Nr 200, poz. 1679).
 
 **Art. 40.**
 
@@ -544,9 +435,9 @@ source: "isap-pdf"
 3. Program, o którym mowa w ust. 1, może przewidywać finansowanie z Funduszu Pracy kosztów:
 
 - **1)** szkolenia,
-- **2)** części wynagrodzeń i składek na ubezpieczenia społeczne – pracowników, o których mowa w ust. 2.
+- **2)** części wynagrodzeń i składek na ubezpieczenia społeczne pracowników, o których mowa w ust. 2.
 
-4. Finansowanie z Funduszu Pracy kosztów, o których mowa w ust. 3, może odbywać się przez okres i w wysokości przewidzianych w przepisach o rynku pracy i służbach zatrudnienia, z tym że finansowanie części wynagrodzeń i składek na ubezpieczenia społeczne jest dokonywane na zasadach określonych dla prac interwencyjnych.
+4. Finansowanie z Funduszu Pracy kosztów, o których mowa w ust. 3, może odbywać się przez okres i w wysokości przewidzianych w przepisach o zatrudnieniu i przeciwdziałaniu bezrobociu, z tym że finansowanie części wynagrodzeń i składek na ubezpieczenia społeczne jest dokonywane na zasadach określonych dla prac interwencyjnych.
 
 5. Środki Funduszu Pracy na finansowanie kosztów, o których mowa w ust. 3, są przekazywane staroście sprawującemu zwierzchnictwo nad powiatowym urzędem pracy właściwym dla miejsca położenia majątku, o którym mowa w ust. 1, przez dysponenta Funduszu Pracy z posiadanej rezerwy, na wniosek tego starosty.
 
@@ -563,8 +454,8 @@ source: "isap-pdf"
 - **1)** wykonywania planu restrukturyzacji;
 - **2)** wykonywania ugody restrukturyzacyjnej;
 - **3)** terminowego regulowania bieżących zobowiązań publicznoprawnych, z zastrzeżeniem ust. 2;
-- **4)** (uchylony)
-- **5)** składania Prezesowi Agencji kwartalnych sprawozdań z realizacji obowiązków wymienionych w pkt 1–3.
+- **4)** nieprzekraczania maksymalnego rocznego wskaźnika przyrostu przeciętnego miesięcznego wynagrodzenia ustalonego na zasadach określonych w przepisach o negocjacyjnym systemie kształtowania przyrostu przeciętnych wynagrodzeń u przedsiębiorców;
+- **5)** składania Prezesowi Agencji kwartalnych sprawozdań z realizacji obowiązków wymienionych w pkt 1–4.
 
 2. W przypadku realizacji restrukturyzacji należności publicznoprawnych, zgodnie z przepisami rozdziału 5, przedsiębiorca powinien spełniać warunki wymagane ustawą o restrukturyzacji należności publicznoprawnych do stwierdzenia umorzenia należności publicznoprawnych podlegających restrukturyzacji na podstawie tej ustawy.
 
@@ -588,6 +479,11 @@ source: "isap-pdf"
 2. Decyzja, o której mowa w ust. 1, podlega natychmiastowemu wykonaniu.
 
 **Art. 44.** Decyzja o zakończeniu postępowania restrukturyzacyjnego zawiera w szczególności:
+
+- **1)** oznaczenie przedsiębiorcy;
+- **2)** miejsce zamieszkania albo siedzibę przedsiębiorcy;
+- **3)** stwierdzenie zakończenia postępowania restrukturyzacyjnego;
+- **4)** rozstrzygnięcie o wysokości kosztów postępowania restrukturyzacyjnego i sposobach ich pokrycia.
 
 **Art. 45.**
 
@@ -656,7 +552,7 @@ source: "isap-pdf"
 
 **Art. 50.** Prezes Agencji przesyła odpis decyzji o nadaniu lub pozbawieniu spółki statusu spółki w restrukturyzacji właściwemu dla tej spółki organowi podatkowemu oraz innemu organowi lub podmiotowi będącemu wierzycielem publicznoprawnym.
 
-**Art. 51.** Do spółki w restrukturyzacji nie stosuje się art. 7 ust. 3 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. ).
+**Art. 51.** Do spółki w restrukturyzacji nie stosuje się art. 7 ust. 3 pkt 4 ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, Nr 60, poz. 700 i 703, Nr 86, poz. 958, Nr 103, poz. 1100, Nr 117, poz. 1228 i Nr 122, poz. 1315 i 1324, z 2001 r. Nr 106, poz. 1150, Nr 110, poz. 1190 i Nr 125, poz. 1363 oraz z 2002 r. Nr 25, poz. 253, Nr 74, poz. 676, Nr 93, poz. 820, Nr 141, poz. 1179, Nr 169, poz. 1384, Nr 199, poz. 1672 i Nr 200, poz. 1684).
 
 **Art. 52.** Przepisy art. 46–51 stosuje się odpowiednio do łączenia przedsiębiorstw państwowych w rozumieniu przepisów o przedsiębiorstwach państwowych oraz do łączenia spółdzielni w rozumieniu przepisów prawa spółdzielczego.
 
@@ -674,7 +570,11 @@ source: "isap-pdf"
 
 #### Rozdział 12 Finansowanie postępowania restrukturyzacyjnego
 
-**Art. 56.** (uchylony)
+**Art. 56.**
+
+1. Minister właściwy do spraw Skarbu Państwa, ze środka specjalnego pozostającego w jego dyspozycji, utworzonego na podstawie art. 56 ust. 1 pkt 2 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji przedsiębiorstw państwowych (Dz. U. z 2002 r. Nr 171, poz. 1397), podwyższa kapitał zakładowy Agencji o kwotę stanowiącą 1/3 tego środka, z przeznaczeniem na finansowanie zadań określonych w ustawie, z zastrzeżeniem art. 58.
+
+2. Podwyższenie kapitału zakładowego Agencji, o którym mowa w ust. 1, następuje corocznie, nie dłużej jednak niż do czasu zakończenia postępowań restrukturyzacyjnych przeprowadzanych na podstawie niniejszej ustawy.
 
 **Art. 57.**
 
@@ -692,13 +592,17 @@ source: "isap-pdf"
 
 **Art. 58.** Źródłem pokrycia kosztów, o których mowa w art. 57, są w szczególności:
 
-**Art. 59.** Agencja przedstawia co 6 miesięcy ministrowi właściwemu do spraw gospodarki, ministrowi właściwemu do spraw aktywów państwowych rozliczenie kosztów realizacji zadań określonych w ustawie według źródeł ich pokrycia określonych w art. 58.
+- **1)** przychody finansowe uzyskane z tytułu pożyczek i poręczeń udzielanych przez Agencję ze środków pochodzących ze źródła, o którym mowa w art. 56 ust. 1;
+- **2)** majątek przekazany Agencji zgodnie z art. 35 i 55;
+- **3)** środki uzyskane przez Agencję ze sprzedaży bądź zagospodarowania składników majątku przekazanych przez Skarb Państwa zgodnie z art. 35.
+
+**Art. 59.** Agencja przedstawia co 6 miesięcy ministrowi właściwemu do spraw gospodarki oraz ministrowi właściwemu do spraw Skarbu Państwa rozliczenie kosztów realizacji zadań określonych w ustawie według źródeł ich pokrycia określonych w art. 58.
 
 #### Rozdział 13 Zmiany w przepisach obowiązujących, przepisy przejściowe i końcowe
 
-**Art. 60.** (pominięty)
+**Art. 60.** W ustawie z dnia 8 stycznia 1993 r. o podatku od towarów i usług oraz o podatku akcyzowym (Dz. U. Nr 11, poz. 50, Nr 28, poz. 127 i Nr 129, poz. 599, z 1994 r. Nr 132, poz. 670, z 1995 r. Nr 44, poz. 231 i Nr 142, poz. 702 i 703, z 1996 r. Nr 137, poz. 640, z 1997 r. Nr 111, poz. 722, Nr 123, poz. 776 i 780, Nr 137, poz. 926, Nr 141, poz. 943 i Nr 162, poz. 1104, z 1998 r. Nr 139, poz. 905 i Nr 161, poz. 1076, z 1999 r. Nr 50, poz. 499, Nr 57, poz. 596 i Nr 95, poz. 1100, z 2000 r. Nr 68, poz. 805 i Nr 105, poz. 1107, z 2001 r. Nr 12, poz. 92, Nr 39, poz. 459, Nr 56, poz. 580, Nr 63, poz. 639, Nr 80, poz. 858, Nr 90, poz. 995, Nr 106, poz. 1150 i Nr 122, poz. 1324 oraz z 2002 r. Nr 19, poz. 185, Nr 41, poz. 365, Nr 86, poz. 794, Nr 153, poz. 1272 i Nr 169, poz. 1387) w art. 7 po ust. 3 dodaje się ust. 4 w brzmieniu: „ 4. Zwalnia się od podatku od towarów i usług czynności, o których mowa w art. 34 ust. 1, art. 35, art. 36 ust. 1 i w art. 55 ustawy z dnia 30 października 2002 r. o pomocy publicznej dla przedsiębiorców o szczególnym znaczeniu dla rynku pracy (Dz. U. Nr 213, poz. 1800). ” .
 
-**Art. 61.** (uchylony)
+**Art. 61.** Przepis art. 56 ust. 1 w zakresie podwyższenia kapitału zakładowego Agencji stosuje się począwszy od 2002 r.
 
-**Art. 62.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia .
+**Art. 62.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 

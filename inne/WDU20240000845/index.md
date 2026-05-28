@@ -8,10 +8,10 @@ pos: 845
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, 7 czerwca 2024 OBWIESZCZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 28 maja 2024 ogłoszenia jednolitego tekstu tablic oznaczających zakaz przebywania pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu
+# Obwieszczenie Ministra Spraw Wewnętrznych i Administracjiz dnia 28 maja 2024 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Spraw Wewnętrznych i Administracji w sprawie tablic oznaczających zakaz przebywania w pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu
 
 | Pole | Wartość |
 |---|---|
@@ -25,13 +25,30 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-06-10 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20240000845) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2024/845/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy 20 lipca 2000 o ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. 2019 1461) ogłasza się załączniku niniejszego obwieszczenia jednolity tekst rozporządzenia 15 lutego 2023 tablic oznaczających zakaz przebywania pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu (Dz. 331), uwzględnieniem zmiany wprowadzonej rozporządzeniem 21 czerwca 2023 zmieniającym rozporządzenie tablic oznaczających zakaz przebywania pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu (Dz. 1222).
-2. Podany załączniku niniejszego obwieszczenia tekst jednolity nie obejmuje 21 czerwca 2023 zmieniającego rozporządzenie tablic oznaczających zakaz przebywania pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu (Dz. 1222), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem następującym po dniu ogłoszenia.”.
-Minister Administracji: wz. C. Mroczek ROZPORZĄDZENIE MINISTRA SPRAW WEWNĘTRZNYCH I ADMINISTRACJI 15 lutego 2023 tablic oznaczających zakaz przebywania pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego Świnoujściu Na podstawie art. 27b ust. ustawy 4 września 2008 o ochronie żeglugi portów morskich (Dz. 2024
-597) zarządza się, co następuje:
-1. Rozporządzenie określa wzory tablic oznaczających obszar objęty zakazem, o którym mowa art. 27a ust. ustawy 4 września 2008 o ochronie żeglugi portów morskich, oraz sposób ich utrzymywania przez właściwego miejscowo komendanta oddziału Straży Granicznej.
-2. Ustala się wzory tablic oznaczających obszar objęty zakazem przebywania, które są określone załączniku rozporządzenia.
-3. Utrzymywanie tablic, o których mowa 2, przez właściwego miejscowo komendanta oddziału Straży Granicznej polega na ich ustawianiu dobrze widocznych miejscach, wymianie razie uszkodzenia lub zniszczenia oraz na bieżącej konserwacji.
-4. Rozporządzenie wchodzi życie dniem 23 lutego 2023 WZORY WZO Y TABLIC TAB I OZNACZAJĄCYCH OZ ACZA Ą YC OBSZAR O ZA OBJĘTY O JĘTY ZAKAZEM ZA AZEM PRZEBYWANIA P ZEBYWAN A Tablica kształcie prostokąta o wymiarach 300 × 600 mm, koloru czerwonego, białym paskiem o szerokości 6 mm odległości 6 mm od krawędzi napisem koloru białego. Litery: wielkość 120 pkt, odstęp między wierszami (interlinia) 40 mm, czcionka Arial wyboldowany.
-Tablica kształcie prostokąta o wymiarach 150 × 300 mm, koloru czerwonego, białym paskiem o szerokości 3 mm odległości 3 mm od krawędzi napisem koloru białego. Litery: wielkość 62 pkt, odstęp między wierszami (interlinia) 20 mm, czcionka Arialwyboldowany.
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2023 r. w sprawie tablic oznaczających zakaz przebywania w pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu
+Załącznik – Wzory tablic oznaczających obszar objęty zakazem przebywania
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2023 r. w sprawie tablic oznaczających zakaz przebywania w pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. poz. 331), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającym rozporządzenie w sprawie tablic oznaczających zakaz przebywania w pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. poz. 1222).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Spraw Wewnętrznych i Administracji z dnia 21 czerwca 2023 r. zmieniającego rozporządzenie w sprawie tablic oznaczających zakaz przebywania w pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu (Dz. U. poz. 1222), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem następującym po dniu ogłoszenia.
+” .
+1) Minister Spraw Wewnętrznych i Administracji kieruje działem administracji rządowej – sprawy wewnętrzne, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
+Załącznik – Rozporządzenie Ministra Spraw Wewnętrznych i Administracji z dnia 15 lutego 2023 r. w sprawie tablic oznaczających zakaz przebywania w pobliżu terminala regazyfikacyjnego skroplonego gazu ziemnego w Świnoujściu
+Na podstawie art. 27b ust. 2 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich (Dz. U. z 2024 r. poz. 597) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa wzory tablic oznaczających obszar objęty zakazem, o którym mowa w art. 27a ust. 1 ustawy z dnia 4 września 2008 r. o ochronie żeglugi i portów morskich, oraz sposób ich utrzymywania przez właściwego miejscowo komendanta oddziału Straży Granicznej.
+§ 2.
+Ustala się wzory tablic oznaczających obszar objęty zakazem przebywania, które są określone w załączniku do rozporządzenia.
+§ 3.
+Utrzymywanie tablic, o których mowa w § 2, przez właściwego miejscowo komendanta oddziału Straży Granicznej polega na ich ustawianiu w dobrze widocznych miejscach, wymianie w razie uszkodzenia lub zniszczenia oraz na bieżącej konserwacji.
+§ 4.
+Rozporządzenie wchodzi w życie z dniem 23 lutego 2023 r.
+1) Na dzień ogłoszenia obwieszczenia w Dzienniku Ustaw Rzeczypospolitej Polskiej działem administracji rządowej – sprawy wewnętrzne kieruje Minister Spraw Wewnętrznych i Administracji, na podstawie § 1 ust. 2 pkt 2 rozporządzenia Prezesa Rady Ministrów z dnia 16 maja 2024 r. w sprawie szczegółowego zakresu działania Ministra Spraw Wewnętrznych i Administracji (Dz. U. poz. 738).
+Załącznik – Wzory tablic oznaczających obszar objęty zakazem przebywania
+patrz oryginał
 

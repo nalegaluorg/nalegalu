@@ -8,12 +8,10 @@ pos: 1569
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego
-
-*USTAWA z dnia 19 grudnia 2008 r.*
+# Ustawa z dnia 19 grudnia 2008 r. o postępowaniu kompensacyjnym w podmiotach o szczególnym znaczeniu dla polskiego przemysłu stoczniowego
 
 | Pole | Wartość |
 |---|---|
@@ -24,6 +22,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2008-12-19 |
 | Data wydania | 2008-12-29 |
+| Wejście w życie | 2009-01-06 |
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20082331569) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2008/1569/text.pdf) |
 
@@ -50,7 +49,7 @@ source: "isap-pdf"
 
 **Art. 6.**
 
-1. W zakresie nieuregulowanym w ustawie do postępowania kompensacyjnego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2024 r. poz. 572 oraz z 2025 r. poz. 769).
+1. W zakresie nieuregulowanym w ustawie do postępowania kompensacyjnego stosuje się przepisy ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2000 r. Nr 98, poz. 1071, z późn. zm.).
 
 2. Decyzje i postanowienia wydane w toku postępowania kompensacyjnego są natychmiast wykonalne.
 
@@ -58,7 +57,12 @@ source: "isap-pdf"
 
 **Art. 7.** Organami właściwymi w sprawach kompensacji są: minister właściwy do spraw Skarbu Państwa oraz Prezes Zarządu Agencji Rozwoju Przemysłu S.A., zwany dalej „Prezesem Agencji”. Stroną w postępowaniu kompensacyjnym jest stocznia.
 
-**Art. 8.** Minister właściwy do spraw Skarbu Państwa :
+**Art. 8.** Minister właściwy do spraw Skarbu Państwa:
+
+- **1)** sprawuje nadzór nad wszczęciem i przebiegiem postępowania kompensacyjnego;
+- **2)** jest organem wyższego stopnia w stosunku do Prezesa Agencji;
+- **3)** powołuje obserwatora, zgodnie z procedurą opisaną w art. 10 ust. 1;
+- **4)** wykonuje inne zadania określone w ustawie.
 
 **Art. 9.**
 
@@ -75,21 +79,21 @@ source: "isap-pdf"
 
 1. Minister właściwy do spraw Skarbu Państwa powołuje, spośród kandydatów uzgodnionych z Komisją Europejską, obserwatora zwanego dalej „obserwatorem”. W przypadku konieczności zakończenia wykonywania zadań przez obserwatora z uzasadnionych powodów, w tym ze względu na powstały konflikt interesów, minister właściwy do spraw Skarbu Państwa może dokonać zmiany obserwatora po uprzednim uzyskaniu zgody Komisji Europejskiej.
 
-2. Obserwator monitoruje przebieg postępowania kompensacyjnego, a w szczególności proces przygotowania i przeprowadzenia sprzedaży składników majątku w otwartym, przejrzystym, niedyskryminacyjnym, bezwarunkowym przetargu, przeprowadzonym z zachowaniem warunków uczciwej konkurencji. Obserwator może zatrudnić do swej pomocy ekspertów, jeżeli uzna to za konieczne lub wskazane do wypełnienia jego zadań, pod warunkiem, że wynagrodzenie oraz inne koszty poniesione w związku z tym przez niego są uzasadnione i uzgodnione z ministrem właściwym do spraw Skarbu Państwa .
+2. Obserwator monitoruje przebieg postępowania kompensacyjnego, a w szczególności proces przygotowania i przeprowadzenia sprzedaży składników majątku w otwartym, przejrzystym, niedyskryminacyjnym, bezwarunkowym przetargu, przeprowadzonym z zachowaniem warunków uczciwej konkurencji. Obserwator może zatrudnić do swej pomocy ekspertów, jeżeli uzna to za konieczne lub wskazane do wypełnienia jego zadań, pod warunkiem, że wynagrodzenie oraz inne koszty poniesione w związku z tym przez niego są uzasadnione i uzgodnione z ministrem właściwym do spraw Skarbu Państwa.
 
-3. Obserwatorem może być wyłącznie osoba, która posiada licencję syndyka, lub osoby, o których mowa w art. 25 ustawy z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego (Dz. U. z 2022 r. poz. 1007).
+3. Obserwatorem może być wyłącznie osoba, która posiada licencję syndyka, lub osoby, o których mowa w art. 25 ustawy z dnia 15 czerwca 2007 r. o licencji syndyka (Dz. U. Nr 123, poz. 850).
 
-4. Z tytułu udziału w postępowaniu kompensacyjnym obserwator otrzymuje wynagrodzenie miesięczne w wysokości określonej w przepisach art. 8 pkt 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. z 2019 r. poz. 2136), płatne w ciężar kosztów postępowania kompensacyjnego.
+4. Z tytułu udziału w postępowaniu kompensacyjnym obserwator otrzymuje wynagrodzenie miesięczne w wysokości określonej w przepisach art. 8 pkt 8 ustawy z dnia 3 marca 2000 r. o wynagradzaniu osób kierujących niektórymi podmiotami prawnymi (Dz. U. Nr 26, poz. 306, z późn. zm.), płatne w ciężar kosztów postępowania kompensacyjnego.
 
-5. Obserwator podlega ograniczeniom i wymaganiom określonym dla osób, o których mowa w art. 1 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2025 r. poz. 499).
+5. Obserwator podlega ograniczeniom i wymaganiom określonym dla osób, o których mowa w art. 1 ustawy z dnia 21 sierpnia 1997 r. o ograniczeniu prowadzenia działalności gospodarczej przez osoby pełniące funkcje publiczne (Dz. U. z 2006 r. Nr 216, poz. 1584 oraz z 2008 r. Nr 223, poz. 1458).
 
-6. Obserwator jest zobowiązany do przekazywania Komisji Europejskiej miesięcznych raportów z monitorowania postępowania kompensacyjnego. Kopie raportów obserwator przekazuje ministrowi właściwemu do spraw Skarbu Państwa . Raporty sporządzane przez obserwatora zawierają w szczególności opis:
+6. Obserwator jest zobowiązany do przekazywania Komisji Europejskiej miesięcznych raportów z monitorowania postępowania kompensacyjnego. Kopie raportów obserwator przekazuje ministrowi właściwemu do spraw Skarbu Państwa. Raporty sporządzane przez obserwatora zawierają w szczególności opis:
 
 - **1)** najistotniejszych czynności podjętych przez niego w wykonaniu jego zadań oraz najistotniejszych planowanych czynności;
 - **2)** problemów pojawiających się w związku z przeprowadzeniem procedury sprzedaży składników majątku stoczni;
 - **3)** procesu dokonywania podziału, wyceny i sprzedaży poszczególnych zespołów składników majątku stoczni, w tym informacje dotyczące procesu wyboru nabywców poszczególnych zespołów składników majątkowych stoczni.
 
-7. W przypadku powzięcia wiadomości o przeszkodach w przeprowadzeniu procesu sprzedaży poszczególnych zespołów składników majątku stoczni, mogących uniemożliwić przeprowadzenie postępowania kompensacyjnego, obserwator informuje o nich niezwłocznie Komisję Europejską i powiadamia ministra właściwego do spraw Skarbu Państwa .
+7. W przypadku powzięcia wiadomości o przeszkodach w przeprowadzeniu procesu sprzedaży poszczególnych zespołów składników majątku stoczni, mogących uniemożliwić przeprowadzenie postępowania kompensacyjnego, obserwator informuje o nich niezwłocznie Komisję Europejską i powiadamia ministra właściwego do spraw Skarbu Państwa.
 
 8. Minister właściwy do spraw Skarbu Państwa zapewnia obserwatorowi odpowiednie warunki do prawidłowego wykonywania jego zadań, dostarczając odpowiedniej pomocy i informacji. Obserwator ma dostęp do wszelkich dokumentów, ksiąg, personelu, pomieszczeń, zakładów, urządzeń technicznych stoczni oraz informacji, które są niezbędne do prawidłowego wykonywania jego zadań.
 
@@ -107,10 +111,10 @@ source: "isap-pdf"
 
 **Art. 12.**
 
-1. Postępowanie kompensacyjne może być wszczęte w stosunku do stoczni w związku ze spełnieniem przesłanek określonych w art. 88 ust. 2 Traktatu ustanawiającego Wspólnotę Europejską (Dz. U. z 2004 r. poz. 864/2) oraz gdy:
+1. Postępowanie kompensacyjne może być wszczęte w stosunku do stoczni w związku ze spełnieniem przesłanek określonych w art. 88 ust. 2 Traktatu ustanawiającego Wspólnotę Europejską (Dz. U. z 2004 r. Nr 90, poz. 864/2) oraz gdy:
 
-- **1)** prawa osób trzecich ustanowione na majątku stoczni na zabezpieczenie ich wierzytelności przekraczają ponad połowę wartości księgowej aktywów netto w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2023 r. poz. 120, z późn. zm. );
-- **2)** stocznia, z powodu utraty wiarygodności kredytowej, nie ma możliwości pozyskania zewnętrznego finansowania swojej bieżącej działalności lub inwestycji z innych źródeł niż z udzielonej stoczni pomocy publicznej w rozumieniu przepisów ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2025 r. poz. 468).
+- **1)** prawa osób trzecich ustanowione na majątku stoczni na zabezpieczenie ich wierzytelności przekraczają ponad połowę wartości księgowej aktywów netto w rozumieniu przepisów ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2002 r. Nr 76, poz. 694, z późn. zm.);
+- **2)** stocznia, z powodu utraty wiarygodności kredytowej, nie ma możliwości pozyskania zewnętrznego finansowania swojej bieżącej działalności lub inwestycji z innych źródeł niż z udzielonej stoczni pomocy publicznej w rozumieniu przepisów ustawy z dnia 30 kwietnia 2004 r. o postępowaniu w sprawach dotyczących pomocy publicznej (Dz. U. z 2007 r. Nr 59, poz. 404 oraz z 2008 r. Nr 93, poz. 585).
 
 2. Wniosek o wszczęcie postępowania kompensacyjnego składają w imieniu stoczni osoby uprawnione do reprezentacji stoczni samodzielnie lub wspólnie z innymi osobami. Wniosek może zgłosić również każdy z wierzycieli stoczni albo organ lub podmiot, który udzielił stoczni pomocy publicznej o wartości przekraczającej 100 000 euro. Wniosek składa się w terminie 7 dni od dnia wejścia w życie ustawy.
 
@@ -232,13 +236,13 @@ source: "isap-pdf"
 - **3)** wzywa wierzycieli stoczni do zgłoszenia wierzytelności w wyznaczonym terminie, nie krótszym niż miesiąc od dnia obwieszczenia postanowienia;
 - **4)** wzywa osoby, którym przysługują prawa oraz prawa i roszczenia osobiste ciążące na nieruchomości należącej do stoczni, jeżeli nie zostały ujawnione przez wpis w księdze wieczystej, do ich zgłoszenia w wyznaczonym terminie, nie krótszym niż miesiąc od dnia obwieszczenia postanowienia, pod rygorem utraty prawa powoływania się na nie w postępowaniu kompensacyjnym.
 
-3. Wszczęcie postępowania kompensacyjnego skutkuje uznaniem stoczni za pracodawcę, o którym mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. z 2025 r. poz. 433 i 620).
+3. Wszczęcie postępowania kompensacyjnego skutkuje uznaniem stoczni za pracodawcę, o którym mowa w art. 3 ust. 1 pkt 1 ustawy z dnia 13 lipca 2006 r. o ochronie roszczeń pracowniczych w razie niewypłacalności pracodawcy (Dz. U. Nr 158, poz. 1121).
 
 4. Postępowanie kompensacyjne wszczyna się w dniu wydania postanowienia o wszczęciu postępowania kompensacyjnego.
 
 5. Postanowienie o wszczęciu postępowania kompensacyjnego Prezes Agencji podaje niezwłocznie do publicznej wiadomości przez zamieszczenie ogłoszenia w prasie ogólnokrajowej i w prasie lokalnej oraz przez obwieszczenie w Monitorze Sądowym i Gospodarczym, ze skutkiem zwołania zgromadzenia wierzycieli, o którym mowa w ust. 2 pkt 2, oraz ze skutkiem doręczenia wezwań, o których mowa w ust. 2 pkt 3 i 4, w dacie obwieszczenia.
 
-6. Postanowienie o wszczęciu postępowania kompensacyjnego doręcza się tymczasowemu nadzorcy oraz osobie, która złożyła wniosek o wszczęcie postępowania kompensacyjnego. Postanowienie o wszczęciu postępowania kompensacyjnego doręcza się także ministrowi właściwemu do spraw Skarbu Państwa , obserwatorowi i przedstawicielom pracowników, o których mowa w art. 11 ust. 1.
+6. Postanowienie o wszczęciu postępowania kompensacyjnego doręcza się tymczasowemu nadzorcy oraz osobie, która złożyła wniosek o wszczęcie postępowania kompensacyjnego. Postanowienie o wszczęciu postępowania kompensacyjnego doręcza się także ministrowi właściwemu do spraw Skarbu Państwa, obserwatorowi i przedstawicielom pracowników, o których mowa w art. 11 ust. 1.
 
 7. O wszczęciu postępowania kompensacyjnego powiadamia się właściwy urząd skarbowy i właściwy oddział Zakładu Ubezpieczeń Społecznych, przy zastosowaniu środków bezpośredniego przekazu informacji, takich jak telefon, faks, poczta elektroniczna.
 
@@ -274,7 +278,7 @@ source: "isap-pdf"
 
 4. Członkowie rady wierzycieli oraz ich zastępcy pełnią swoje obowiązki osobiście albo przez swoje organy.
 
-5. Członek rady wierzycieli oraz jego zastępca może również działać przez pełnomocnika, a gdy członkiem rady wierzycieli jest organ administracji publicznej, także przez osobę wyznaczoną przez ten organ. Pełnomocnictwo powinno być udzielone na piśmie z podpisem notarialnie poświadczonym. Pełnomocnictwo udzielone adwokatowi lub radcy prawnemu nie wymaga notarialnego poświadczenia podpisu.
+5. Członek rady wierzycieli oraz jego zastępca może również działać przez pełnomocnika, a gdy członkiem rady wierzycieli jest organ administracji publicznej, także przez osobę wyznaczoną przez ten organ. Pełnomocnictwo powinno być udzielone na piśmie z podpisem notarialnie poświadczonym. Pełnomocnictwo udzielone adwokatowi lub racicy prawnemu nie wymaga notarialnego poświadczenia podpisu.
 
 6. Członkowi rady wierzycieli oraz jego zastępcy przysługuje prawo do zwrotu koniecznych wydatków związanych z jego udziałem w posiedzeniu rady wierzycieli. Zwrot wydatków wchodzi w skład kosztów postępowania.
 
@@ -318,8 +322,8 @@ source: "isap-pdf"
 
 4. Sprzedaży, o której mowa w ust. 3, nie podlegają:
 
-- **1)** mienie, które jest wyłączone od egzekucji według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2024 r. poz. 1568 i 1841 oraz z 2025 r. poz. 620, 1172, 1302 i 1518);
-- **2)** należące do stoczni akcje spółek publicznych w rozumieniu art. 4 § 1 pkt 6 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. z 2024 r. poz. 18 i 96), nieobciążone zabezpieczeniem ustanowionym na rzecz osób trzecich, przy czym akcje te podlegają sprzedaży w trybie określonym w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722, z późn. zm. );
+- **1)** mienie, które jest wyłączone od egzekucji według przepisów ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. Nr 43, poz. 296, z późn. zm.);
+- **2)** należące do stoczni akcje spółek publicznych w rozumieniu art. 4 § 1 pkt 6 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych (Dz. U. Nr 94, poz. 1037, z późn. zm.), nieobciążone zabezpieczeniem ustanowionym na rzecz osób trzecich, przy czym akcje te podlegają sprzedaży w trybie określonym w ustawie z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. Nr 183, poz. 1538, z 2006 r. Nr 104, poz. 708 i Nr 157, poz. 1119 oraz z 2008 r. Nr 171, poz. 1056);
 - **3)** nieściągalne wierzytelności w rozumieniu przepisów o rachunkowości;
 - **4)** mienie przewłaszczone na zabezpieczenie roszczeń osób trzecich z tytułu udzielonych kredytów, pożyczek, poręczeń lub gwarancji;
 - **5)** mienie stoczni objęte postępowaniem sądowym lub administracyjnym, jeżeli zarządca kompensacji odmówił wstąpienia do postępowania sądowego lub administracyjnego, dotyczącego tego mienia lub gdy wystąpił z tego postępowania.
@@ -422,7 +426,7 @@ source: "isap-pdf"
 
 **Art. 42.**
 
-1. Zastrzeżone w umowie sprzedaży na rzecz sprzedawcy prawo własności nie wygasa z powodu wszczęcia postępowania kompensacyjnego, jeżeli jest skuteczne wobec jego wierzycieli według przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. z 2025 r. poz. 1071, 1172 i 1508).
+1. Zastrzeżone w umowie sprzedaży na rzecz sprzedawcy prawo własności nie wygasa z powodu wszczęcia postępowania kompensacyjnego, jeżeli jest skuteczne wobec jego wierzycieli według przepisów ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny (Dz. U. Nr 16, poz. 93, z późn. zm.).
 
 2. Zastrzeżenie w umowie przeniesienia prawa własności na rzecz sprzedawcy oraz umowa przeniesienia własności rzeczy, wierzytelności lub innego prawa, zawarte w celu zabezpieczenia wierzytelności, są skuteczne tylko w przypadku, gdy umowa została zawarta przed wszczęciem postępowania kompensacyjnego w formie pisemnej z datą pewną.
 
@@ -532,7 +536,7 @@ source: "isap-pdf"
 
 3. Od dnia złożenia wniosku o wszczęcie postępowania kompensacyjnego przez stocznię do stoczni nie stosuje się przepisów o obowiązku złożenia wniosku o ogłoszenie upadłości.
 
-4. Z dniem złożenia wniosku o wszczęcie postępowania kompensacyjnego członkowie organów stoczni są zwolnieni z wszelkiej odpowiedzialności określonej w odrębnych przepisach prawa, wynikającej z niewypełnienia obowiązku złożenia wniosku o ogłoszenie upadłości. W szczególności członkowie zarządu stoczni są zwolnieni z odpowiedzialności określonej w art. 116 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2025 r. poz. 111, z późn. zm. ) oraz z odpowiedzialności określonej w art. 299 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
+4. Z dniem złożenia wniosku o wszczęcie postępowania kompensacyjnego członkowie organów stoczni są zwolnieni z wszelkiej odpowiedzialności określonej w odrębnych przepisach prawa, wynikającej z niewypełnienia obowiązku złożenia wniosku o ogłoszenie upadłości. W szczególności członkowie zarządu stoczni są zwolnieni z odpowiedzialności określonej w art. 116 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2005 r. Nr 8, poz. 60, z późn. zm.) oraz z odpowiedzialności określonej w art. 299 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych.
 
 **Art. 59.** Zarządca kompensacji może, po zasięgnięciu opinii rady wierzycieli, spełniać świadczenia wynikające z zobowiązań powstałych po dniu wszczęcia postępowania kompensacyjnego oraz z zobowiązań powstałych przed wszczęciem postępowania kompensacyjnego, jeżeli jest to niezbędne do prowadzenia działalności gospodarczej, w celu ochrony wartości majątku stoczni podlegającego sprzedaży. Powyższe czynności nie mogą prowadzić do zawarcia umów o budowę nowych statków.
 
@@ -552,7 +556,7 @@ source: "isap-pdf"
 
 **Art. 64.**
 
-1. Zarządcą kompensacji może być osoba fizyczna posiadająca licencję syndyka lub osoby, o których mowa w art. 25 ustawy z dnia 15 czerwca 2007 r. o licencji doradcy restrukturyzacyjnego lub osoba, która prowadziła likwidację.
+1. Zarządcą kompensacji może być osoba fizyczna posiadająca licencję syndyka lub osoby, o których mowa w art. 25 ustawy z dnia 15 czerwca 2007 r. o licencji syndyka lub osoba, która prowadziła likwidację.
 
 2. Zarządcą kompensacji może być również spółka handlowa, która prowadziła likwidację lub, której wspólnicy ponoszący odpowiedzialność za zobowiązania spółki bez ograniczenia całym swoim majątkiem albo przynajmniej jeden z członków zarządu reprezentujący spółkę posiada uprawnienia, o których mowa w ust. 1.
 
@@ -603,7 +607,7 @@ source: "isap-pdf"
 
 **Art. 69.**
 
-1. Zarządca kompensacji składa radzie wierzycieli, obserwatorowi oraz ministrowi właściwemu do spraw Skarbu Państwa , nie rzadziej niż raz na miesiąc, sprawozdanie ze swoich czynności oraz sprawozdanie rachunkowe z uzasadnieniem.
+1. Zarządca kompensacji składa radzie wierzycieli, obserwatorowi oraz ministrowi właściwemu do spraw Skarbu Państwa, nie rzadziej niż raz na miesiąc, sprawozdanie ze swoich czynności oraz sprawozdanie rachunkowe z uzasadnieniem.
 
 2. Po zakończeniu swojej działalności zarządca kompensacji składa podmiotom, o których mowa w ust. 1, sprawozdanie ostateczne obejmujące sprawozdanie ze swoich czynności oraz sprawozdanie rachunkowe.
 
@@ -661,11 +665,19 @@ source: "isap-pdf"
 
 5. Podziału majątku stoczni dokonuje się na zespoły składników tak, aby były one atrakcyjne dla kupujących – w celu osiągnięcia maksymalizacji wpływów z ich sprzedaży.
 
-6. Do zleceń, o których mowa w ust. 1, nie stosuje się przepisów o komercjalizacji i prywatyzacji. Wybór biegłych odbywa się w drodze przetargu.
+6. Do zleceń, o których mowa w ust. 1, nie stosuje się przepisów o zamówieniach publicznych oraz o komercjalizacji i prywatyzacji. Wybór biegłych odbywa się w drodze przetargu.
 
 **Art. 77.** Po zakończeniu badania sprawozdania finansowego, sporządzeniu projektu podziału majątku stoczni na zespoły składników oraz dokonaniu wyceny wartości rynkowej majątku stoczni, o których mowa w art. 76 ust. 1, jednak nie później niż w terminie 2 miesięcy od dnia wszczęcia postępowania kompensacyjnego, zarządca kompensacji sporządza:
 
+- **1)** plan sprzedaży;
+- **2)** spis znanych na dzień sporządzenia planu sprzedaży zobowiązań publicznoprawnych, z podziałem na poszczególne tytuły i lata oraz ze wskazaniem kwot zaległości, odsetek za zwłokę i opłat prolongacyjnych, a także listę zabezpieczeń tych wierzytelności;
+- **3)** spis znanych na dzień sporządzenia planu sprzedaży zobowiązań cywilnoprawnych, z podziałem na wierzycieli, tytuły, lata, oraz ze wskazaniem kwot zaległości, odsetek za zwłokę, a także listę zabezpieczeń tych wierzytelności.
+
 **Art. 78.** Plan sprzedaży zawiera:
+
+- **1)** określenie zespołów składników majątkowych stoczni podlegających sprzedaży;
+- **2)** określenie szczegółowego trybu i oznaczenie terminów sprzedaży poszczególnych zespołów składników majątkowych stoczni;
+- **3)** preliminarz kosztów i wydatków związanych z realizacją planu sprzedaży.
 
 **Art. 79.**
 
@@ -706,7 +718,7 @@ source: "isap-pdf"
 
 3. Do aukcji stosuje się odpowiednio przepisy ust. 1.
 
-4. Do wydzierżawienia składników majątkowych stoczni na podstawie art. 81, oraz do sprzedaży składników majątkowych stoczni w trybie, o którym mowa w ust. 1–3, nie stosuje się przepisów: art. 1 ust. 2 pkt 2, art. 18 ust. 2 pkt 3, art. 19 i art. 19b ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2025 r. poz. 1478), art. 3 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2023 r. poz. 1796) oraz art. 5a– 5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. z 2016 r. poz. 154, 888, 1933 i 1954) .
+4. Do wydzierżawienia składników majątkowych stoczni na podstawie art. 81, oraz do sprzedaży składników majątkowych stoczni w trybie, o którym mowa w ust. 1–3, nie stosuje się przepisów: ustawy z dnia 29 stycznia 2004 r. – Prawo zamówień publicznych (Dz. U. z 2007 r. Nr 223, poz. 1655 oraz z 2008 r. Nr 171, poz. 1058, Nr 220, poz. 1420 i Nr 227, poz. 1505), art. 1 ust. 2 pkt 2, art. 18 ust. 2 pkt 3, art. 19 i art. 19b ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji (Dz. U. z 2002 r. Nr 171, poz. 1397, z późn. zm.), art. 3 ustawy z dnia 20 grudnia 1996 r. o portach i przystaniach morskich (Dz. U. z 2002 r. Nr 110, poz. 967, z późn. zm.) oraz art. 5a-5c ustawy z dnia 8 sierpnia 1996 r. o zasadach wykonywania uprawnień przysługujących Skarbowi Państwa (Dz. U. Nr 106, poz. 493, z późn. zm.).
 
 5. Procedura sprzedaży przewidziana ustawą powinna być zakończona do dnia 31 maja 2009 r., chyba że Komisja Europejska wyrazi zgodę na przedłużenie tego terminu w przypadku, gdy okaże się to niezbędne do osiągnięcia celów postępowania kompensacyjnego.
 
@@ -736,7 +748,7 @@ source: "isap-pdf"
 
 6. Koszty nabycia składników majątkowych stoczni sprzedanych zgodnie z art. 82 i 83 ponoszą kupujący.
 
-7. Do sprzedaży zespołów składników majątkowych stoczni dokonanej w postępowaniu kompensacyjnym nie stosuje się przepisów art. 55 , art. 59 i art. 527 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz art. 112, art. 114 i art. 114a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+7. Do sprzedaży zespołów składników majątkowych stoczni dokonanej w postępowaniu kompensacyjnym nie stosuje się przepisów art. 554, art. 59 i art. 527 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny oraz art. 112, art. 114 i art. 114a ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 #### Rozdział 10 Zgłoszenie wierzytelności
 
@@ -754,9 +766,17 @@ source: "isap-pdf"
 
 **Art. 88.** Przepisu art. 85 ust. 1 nie stosuje się do tych wierzycieli, których wierzytelność została stwierdzona prawomocnym orzeczeniem sądowym lub ostateczną decyzją administracyjną, wydanymi po wszczęciu postępowania kompensacyjnego. Dotyczy to również wierzytelności wynikających z obowiązku zwrotu udzielonej stoczni pomocy publicznej. Wierzytelności te są umieszczane na liście z urzędu.
 
-**Art. 89.** Zgłoszenia wierzytelności dokonuje się na piśmie, w jednym egzemplarzu. Do pisma zgłaszający wierzytelność dołącza oryginał lub notarialnie poświadczony odpis dokumentu uzasadniającego zgłoszenie. Poświadczenia odpisów może dokonać także radca prawny lub adwokat, będący pełnomocnikiem wierzyciela, który zgłasza wierzytelność.
+**Art. 89.** Zgłoszenia wierzytelności dokonuje się na piśmie, w dwóch egzemplarzach. Do pisma zgłaszający wierzytelność dołącza oryginał lub notarialnie poświadczony odpis dokumentu uzasadniającego zgłoszenie. Poświadczenia odpisów może dokonać także radca prawny lub adwokat, będący pełnomocnikiem wierzyciela, który zgłasza wierzytelność.
 
 **Art. 90.** W zgłoszeniu wierzytelności należy podać:
+
+- **1)** imię i nazwisko bądź nazwę albo firmę wierzyciela i odpowiednio jego miejsce zamieszkania albo siedzibę;
+- **2)** określenie wierzytelności wraz z należnościami ubocznymi oraz wartość wierzytelności niepieniężnej;
+- **3)** dowody stwierdzające istnienie wierzytelności;
+- **4)** kategorię, do której wierzytelność ma być zaliczona;
+- **5)** zabezpieczenie związane z wierzytelnością oraz sumę zabezpieczenia;
+- **6)** przedmiot zabezpieczenia wierzytelności, w stosunku do której stocznia nie jest dłużnikiem osobistym;
+- **7)** stan sprawy, jeżeli co do wierzytelności toczy się postępowanie sądowe lub administracyjne.
 
 #### Rozdział 11 Sprawdzanie zgłoszonych wierzytelności
 
@@ -789,7 +809,7 @@ source: "isap-pdf"
 
 **Art. 97.**
 
-1. Jeżeli w dniu wszczęcia postępowania kompensacyjnego wierzytelność bez zastrzeżenia odsetek nie była jeszcze wymagalna, na liście wierzytelności umieszcza się sumę pieniężną wierzytelności pomniejszoną o odsetki ustawowe, nie wyższe jednak niż 6 % i za czas od dnia wszczęcia postępowania kompensacyjnego do dnia wymagalności, najwyżej jednak za dwa lata.
+1. Jeżeli w dniu wszczęcia postępowania kompensacyjnego wierzytelność bez zastrzeżenia odsetek nie była jeszcze wymagalna, na liście wierzytelności umieszcza się sumę pieniężną wierzytelności pomniejszoną o odsetki ustawowe, nie wyższe jednak niż 6% i za czas od dnia wszczęcia postępowania kompensacyjnego do dnia wymagalności, najwyżej jednak za dwa lata.
 
 2. Odsetki od wierzytelności pieniężnej umieszcza się na liście wierzytelności w kwocie naliczonej do dnia wszczęcia postępowania kompensacyjnego.
 
@@ -797,7 +817,7 @@ source: "isap-pdf"
 
 **Art. 99.**
 
-1. Wierzytelności z tytułu powtarzających się świadczeń, których czas trwania jest oznaczony, umieszcza się na liście jako sumę świadczeń za cały czas ich trwania, pomniejszoną o odsetki ustawowe, nie wyższe jednak niż 6 % i za czas od dnia wszczęcia postępowania kompensacyjnego do dnia wymagalności każdego przyszłego świadczenia.
+1. Wierzytelności z tytułu powtarzających się świadczeń, których czas trwania jest oznaczony, umieszcza się na liście jako sumę świadczeń za cały czas ich trwania, pomniejszoną o odsetki ustawowe, nie wyższe jednak niż 6% i za czas od dnia wszczęcia postępowania kompensacyjnego do dnia wymagalności każdego przyszłego świadczenia.
 
 2. Wierzytelności z tytułu świadczeń powtarzających się, których czas trwania oznaczono na czas życia uprawnionego lub innej osoby, albo nieoznaczonych co do czasu trwania umieszcza się na liście wierzytelności jako sumę stanowiącą wartość prawa.
 
@@ -817,7 +837,7 @@ source: "isap-pdf"
 
 **Art. 105.**
 
-1. Do spraw, o których mowa w art. 102, stosuje się odpowiednio przepisy art. 19, art. 70–74, art. 255–264 oraz art. 266 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe (Dz. U. z 2025 r. poz. 614, 1085, 1170 i 1172), zwanej dalej „Prawem upadłościowym”.
+1. Do spraw, o których mowa w art. 102 stosuje się odpowiednio przepisy art. 19, art. 70–74, art. 255–264 oraz art. 266 ustawy z dnia 28 lutego 2003 r. – Prawo upadłościowe i naprawcze (Dz. U. Nr 60, poz. 535, z późn. zm.), zwanej dalej „Prawem upadłościowym i naprawczym”.
 
 2. Ilekroć w przepisach, o których mowa w ust. 1, wymienia się sędziego-komisarza, syndyka oraz upadłego, należy przez to rozumieć odpowiednio: sąd, zarządcę kompensacji oraz stocznię.
 
@@ -845,11 +865,17 @@ source: "isap-pdf"
 
 **Art. 108.** Po dokonaniu sprzedaży składników majątku stoczni i zatwierdzeniu listy wierzycieli przez sąd zarządca kompensacji sporządza plan podziału kwot, o których mowa w art. 106, zwany dalej „planem podziału”. W planie podziału zarządca kompensacji:
 
+- **1)** określa kwotę podlegającą podziałowi;
+- **2)** wymienia wierzytelności i prawa osób uczestniczących w podziale;
+- **3)** określa kwotę, jaka każdemu z uczestników przypada z podziału;
+- **4)** wskazuje, które kwoty mają być wypłacone, a które i z jakich przyczyn mają być pozostawione w depozycie na subkoncie rachunku bankowego stoczni lub w depozycie sądowym;
+- **5)** określa, czy plan podziału jest częściowy czy ostateczny.
+
 **Art. 109.**
 
 1. Plan podziału podlega zatwierdzeniu przez sąd, o którym mowa w art. 103.
 
-2. Do zatwierdzenia planu podziału stosuje się odpowiednio art. 348– 351 Prawa upadłościowego.
+2. Do zatwierdzenia planu podziału stosuje się odpowiednio art. 348–351 Prawa upadłościowego i naprawczego.
 
 3. Ilekroć w przepisach, o których mowa w ust. 2 oraz w art. 113 ust. 2, wymienia się sędziego-komisarza, syndyka oraz upadłego, należy przez to rozumieć odpowiednio: sąd, zarządcę kompensacji oraz stocznię.
 
@@ -872,7 +898,7 @@ source: "isap-pdf"
 
 6. Do wierzytelności zasądzonych orzeczeniem sądu albo objętych ostateczną decyzją administracyjną, które zostały wydane przeciwko stoczni po wszczęciu postępowania kompensacyjnego, jeżeli należności te podlegają zaspokojeniu z kwot, o których mowa w art. 106, stosuje się odpowiednio przepis ust. 3.
 
-**Art. 111.** Jeżeli w wyniku podziału kwoty przeznaczonej na zaspokojenie wierzytelności i należności, o których mowa w art. 110 ust. 1, nie zapewniono spłaty zaległości z tytułu składek na ubezpieczenie emerytalne w kwocie umożliwiającej dokonanie w pełnej wysokości wpłat do otwartych funduszy emerytalnych, brakujące środki uzupełnia się ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych w kwocie należności głównej, nie większej jednak niż 7,3 % podstawy wymiaru składki na ubezpieczenie emerytalne powiększonej o odsetki za zwłokę, naliczone do dnia zapłaty.
+**Art. 111.** Jeżeli w wyniku podziału kwoty przeznaczonej na zaspokojenie wierzytelności i należności, o których mowa w art. 110 ust. 1, nie zapewniono spłaty zaległości z tytułu składek na ubezpieczenie emerytalne w kwocie umożliwiającej dokonanie w pełnej wysokości wpłat do otwartych funduszy emerytalnych, brakujące środki uzupełnia się ze środków Funduszu Gwarantowanych Świadczeń Pracowniczych w kwocie należności głównej, nie większej jednak niż 7,3% podstawy wymiaru składki na ubezpieczenie emerytalne powiększonej o odsetki za zwłokę, naliczone do dnia zapłaty.
 
 **Art. 112.**
 
@@ -886,7 +912,7 @@ source: "isap-pdf"
 
 1. Podziału środków na spłatę wierzytelności dokonuje się niezwłocznie po zatwierdzeniu planu podziału przez sąd.
 
-2. Do wykonania planu podziału stosuje się odpowiednio przepisy art. 352 ust. 2–art. 358 Prawa upadłościowego.
+2. Do wykonania planu podziału stosuje się odpowiednio przepisy art. 352 ust. 2-art. 358 Prawa upadłościowego i naprawczego.
 
 3. Kwoty uzyskane ze sprzedaży składników majątkowych, na których ustanowiono zabezpieczenie wierzytelności przyszłych, składa się do depozytu sądowego.
 
@@ -902,11 +928,11 @@ source: "isap-pdf"
 - **2)** nie są zatrudnieni na okres próbny;
 - **3)** nie są zatrudnieni na podstawie umowy o pracę w celu przygotowania zawodowego;
 - **4)** nie posiadają prawomocnych orzeczeń stwierdzających nabycie uprawnień do emerytury lub uprawnienia do renty z tytułu niezdolności do pracy, chyba że posiadają takie prawomocne orzeczenia lub posiadają uprawnienia do renty, a odpowiednio: nie osiągnęli wieku emerytalnego wynoszącego 65 lat dla mężczyzn i 60 lat dla kobiet lub nie są całkowicie niezdolni do pracy w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych;
-- **5)** nie przebywają na urlopie bezpłatnym udzielonym na podstawie art. 174 lub art. 174 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 2025 r. poz. 277, 807 i 1423), chyba że zgłoszą powrót z tego urlopu w terminie uzgodnionym ze stocznią w ciągu 7 dni od otrzymania od stoczni pouczenia o takiej możliwości.
+- **5)** nie przebywają na urlopie bezpłatnym udzielonym na podstawie art. 174 lub art. 1741 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy (Dz. U. z 1998 r. Nr 21, poz. 94, z późn. zm.), chyba że zgłoszą powrót z tego urlopu w terminie uzgodnionym ze stocznią w ciągu 7 dni od otrzymania od stoczni pouczenia o takiej możliwości.
 
 3. Ochroną praw pracowników, o której mowa w ust. 2, jest objęty także każdy pracownik stoczni zatrudniony w stoczni na podstawie umowy o pracę po dniu 31 października 2008 r., a przed dniem wszczęcia postępowania kompensacyjnego, jeżeli:
 
-- **1)** bezpośrednio przed dniem nawiązania stosunku pracy ze stocznią był pracownikiem spółki, w której do stoczni należy ponad 50 % akcji lub udziałów i której podstawowym, realizowanym przedmiotem działalności jest świadczenie usług na rzecz stoczni;
+- **1)** bezpośrednio przed dniem nawiązania stosunku pracy ze stocznią był pracownikiem spółki, w której do stoczni należy ponad 50% akcji lub udziałów i której podstawowym, realizowanym przedmiotem działalności jest świadczenie usług na rzecz stoczni;
 - **2)** pracownik został zatrudniony w stoczni na takich samych warunkach, na jakich był zatrudniony w spółce, o której mowa w pkt 1, w dniu 31 października 2008 r.;
 - **3)** pracownik nie był i nie jest prezesem albo członkiem zarządu spółki, o której mowa w pkt 1;
 - **4)** w czasie trwania stosunku pracy pracownika ze spółką, o której mowa w pkt 1, oraz w dniu rozwiązania tego stosunku pracy, w dniu nawiązania stosunku pracy ze stocznią oraz w dniu wszczęcia postępowania kompensacyjnego, nie były spełnione w stosunku do pracownika przesłanki określone w ust. 2 pkt 2–5.
@@ -915,9 +941,9 @@ source: "isap-pdf"
 
 5. W przypadku wypowiedzenia umowy o pracę zawartej na czas nieokreślony lub jej rozwiązania z pracownikiem stoczni, o którym mowa w ust. 2 lub 3, w okresie od dnia wejścia w życie ustawy do dnia wszczęcia postępowania kompensacyjnego, z inicjatywy pracodawcy, z wyjątkiem rozwiązania umowy o pracę na podstawie art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, pracownik ten nabywa prawo do odszkodowania na zasadach określonych w art. 118, a pozostałe przepisy rozdziału 15 stosuje się odpowiednio.
 
-6. Osoby, o których mowa w ust. 3, przebywające na zasiłku chorobowym albo świadczeniu rehabilitacyjnym przysługującym zgodnie z ustawą z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2025 r. poz. 501 i 1083), w chwili zatrudnienia przez stocznię, zgodnie z ust. 4, nie tracą prawa do zasiłku chorobowego oraz świadczenia rehabilitacyjnego.
+6. Osoby, o których mowa w ust. 3, przebywające na zasiłku chorobowym albo świadczeniu rehabilitacyjnym przysługującym zgodnie z ustawą z dnia 25 czerwca 1999 r. o świadczeniach pieniężnych z ubezpieczenia społecznego w razie choroby i macierzyństwa (Dz. U. z 2005 r. Nr 31, poz. 267, z późn. zm.), w chwili zatrudnienia przez stocznię, zgodnie z ust. 4, nie tracą prawa do zasiłku chorobowego oraz świadczenia rehabilitacyjnego.
 
-**Art. 115.** W wypadku nabycia przez kupującego składników majątkowych stoczni, które stanowią przedsiębiorstwo w rozumieniu przepisów art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, kupujący staje się z mocy prawa stroną w dotychczasowych stosunkach pracy – zgodnie z przepisami art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
+**Art. 115.** W wypadku nabycia przez kupującego składników majątkowych stoczni, które stanowią przedsiębiorstwo w rozumieniu przepisów art. 551 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, kupujący staje się z mocy prawa stroną w dotychczasowych stosunkach pracy – zgodnie z przepisami art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 116.**
 
@@ -942,7 +968,7 @@ source: "isap-pdf"
 - **3)** 45 000 złotych – należnej pracownikom, których ogólny okres zatrudnienia w przedsiębiorstwie morskiej stoczni produkcyjnej wynosi więcej niż 10 lat, lecz mniej niż 25 lat;
 - **4)** 60 000 złotych – należnej pracownikom, których ogólny okres zatrudnienia w przedsiębiorstwie morskiej stoczni produkcyjnej wynosi więcej niż 25 lat.
 
-3. Pod pojęciem „zatrudnienie w przedsiębiorstwie morskiej stoczni produkcyjnej” rozumie się zatrudnienie w przedsiębiorstwie w rozumieniu art. 55 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, w którym prowadzona była działalność gospodarcza w zakresie produkcji stoczniowej, wchodzącym w skład, odpowiednio:
+3. Pod pojęciem „zatrudnienie w przedsiębiorstwie morskiej stoczni produkcyjnej” rozumie się zatrudnienie w przedsiębiorstwie w rozumieniu art. 551 ustawy z dnia 23 kwietnia 1964 r. – Kodeks cywilny, w którym prowadzona była działalność gospodarcza w zakresie produkcji stoczniowej, wchodzącym w skład, odpowiednio:
 
 - **1)** przedsiębiorstwa państwowego Stocznia im. Komuny Paryskiej z siedzibą w Gdyni, spółki Stocznia Gdynia S.A. z siedzibą w Gdyni – lub spółek z ich udziałem, których podstawowym realizowanym przedmiotem działalności było świadczenie usług na rzecz tych podmiotów lub produkcja stoczniowa;
 - **2)** przedsiębiorstwa państwowego Szczecińska Stocznia im. Adolfa Warskiego w Szczecinie, spółki Stocznia Szczecińska S.A. z siedzibą w Szczecinie, spółki Stocznia Szczecińska Porta Holding S.A. z siedzibą w Szczecinie oraz spółki Stocznia Szczecińska Nowa Sp. z o.o. z siedzibą w Szczecinie – lub spółek z ich udziałem, których podstawowym realizowanym przedmiotem działalności było świadczenie usług na rzecz tych podmiotów lub produkcja stoczniowa.
@@ -950,16 +976,20 @@ source: "isap-pdf"
 4. Odszkodowanie, o którym mowa w ust. 2, wypłacane jest jednorazowo, odpowiednio w dniu:
 
 - **1)** rozwiązania stosunku pracy za porozumieniem stron;
-- **2)** przejęcia pracownika stoczni przez innego pracodawcę – zgodnie z przepisami art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **2)** przejęcia pracownika stoczni przez innego pracodawcę – zgodnie z przepisami art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **3)** wygaśnięcia stosunku pracy z mocy prawa – zgodnie z przepisami art. 122 ust. 1 niniejszej ustawy.
 
 **Art. 119.** Odszkodowanie, o którym mowa w art. 118 ust. 2, nie przysługuje pracownikowi stoczni, o którym mowa w art. 118 ust. 1, jeżeli:
+
+- **1)** pracownik nie złożył oferty, o której mowa w art. 118 ust. 1;
+- **2)** pracownik złożył ofertę, o której mowa w art. 118 ust. 1, po wyznaczonym terminie;
+- **3)** stosunek pracy został rozwiązany z pracownikiem zgodnie z art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 **Art. 120.**
 
 1. Po zatwierdzeniu planu sprzedaży składników majątkowych stoczni, nie później jednakże niż w dniu 15 marca 2009 r., zarządca kompensacji wzywa pracowników stoczni objętych programem dobrowolnych odejść, którzy nie złożyli oferty w odpowiedzi na pierwsze wezwanie, do złożenia, w terminie do dnia 25 marca 2009 r., oferty rozwiązania stosunku pracy za porozumieniem stron w dniu wybranym przez zarządcę kompensacji; wraz z oświadczeniem o związaniu oferenta ofertą do dnia 31 maja 2009 r.
 
-2. Pracownikom stoczni, o których mowa w ust. 1, którzy złożyli w terminie ofertę, o której mowa w ust. 1, przysługuje odszkodowanie pieniężne w kwocie stanowiącej 80 % odpowiedniej kwoty, o której mowa w art. 118 ust. 2, ustalonej dla odpowiedniego przedziału ogólnego okresu zatrudnienia pracownika w przedsiębiorstwie morskiej stoczni produkcyjnej.
+2. Pracownikom stoczni, o których mowa w ust. 1, którzy złożyli w terminie ofertę, o której mowa w ust. 1, przysługuje odszkodowanie pieniężne w kwocie stanowiącej 80% odpowiedniej kwoty, o której mowa w art. 118 ust. 2, ustalonej dla odpowiedniego przedziału ogólnego okresu zatrudnienia pracownika w przedsiębiorstwie morskiej stoczni produkcyjnej.
 
 3. Odszkodowanie, o którym mowa w ust. 2, wypłacane jest na zasadach określonych w art. 118 ust. 4.
 
@@ -967,34 +997,34 @@ source: "isap-pdf"
 
 **Art. 121.**
 
-1. Pracownikowi stoczni objętemu programem dobrowolnych odejść, który nie złożył oferty, o której mowa w art. 118 ust. 1, a następnie nie złożył oferty, o której mowa w art. 120 ust. 1, albo złożył każdą z tych ofert po wyznaczonym terminie, przysługuje odszkodowanie w kwocie stanowiącej 50 % kwoty, o której mowa w art. 118 ust. 2, ustalonej dla odpowiedniego przedziału ogólnego okresu zatrudnienia pracownika w przedsiębiorstwie morskiej stoczni produkcyjnej, jeżeli:
+1. Pracownikowi stoczni objętemu programem dobrowolnych odejść, który nie złożył oferty, o której mowa w art. 118 ust. 1, a następnie nie złożył oferty, o której mowa w art. 120 ust. 1, albo złożył każdą z tych ofert po wyznaczonym terminie, przysługuje odszkodowanie w kwocie stanowiącej 50% kwoty, o której mowa w art. 118 ust. 2, ustalonej dla odpowiedniego przedziału ogólnego okresu zatrudnienia pracownika w przedsiębiorstwie morskiej stoczni produkcyjnej, jeżeli:
 
-- **1)** pracownik nie został przejęty w toku postępowania kompensacyjnego przez innego pracodawcę, na zasadach określonych w art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **1)** pracownik nie został przejęty w toku postępowania kompensacyjnego przez innego pracodawcę, na zasadach określonych w art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **2)** stosunek pracy nie został rozwiązany zgodnie z art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 2. Odszkodowanie, o którym mowa w ust. 1, wypłacane jest w dniu rozwiązania lub wygaśnięcia stosunku pracy, nie później jednakże niż w dniu 31 maja 2009 r.
 
 **Art. 122.**
 
-1. Stosunki pracy pracowników stoczni, którzy nie zostali przejęci w toku postępowania kompensacyjnego przez innego pracodawcę, na zasadach określonych w art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz stosunki pracy pracowników stoczni, nierozwiązane wcześniej w ramach programu dobrowolnych odejść, wygasają z mocy prawa w dniu 31 maja 2009 r.
+1. Stosunki pracy pracowników stoczni, którzy nie zostali przejęci w toku postępowania kompensacyjnego przez innego pracodawcę, na zasadach określonych w art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, oraz stosunki pracy pracowników stoczni, nierozwiązane wcześniej w ramach programu dobrowolnych odejść, wygasają z mocy prawa w dniu 31 maja 2009 r.
 
 2. Pracownik, któremu wypłacono:
 
 - **1)** odszkodowanie, o którym mowa w art. 118 ust. 2,
 - **2)** odszkodowanie, o którym mowa w art. 120 ust. 2,
-- **3)** odszkodowanie, o którym mowa w art. 121 ust. 1 – nie nabywa uprawnień do zasiłku dla bezrobotnych z tytułu utraty pracy w stoczni.
+- **3)** odszkodowanie, o którym mowa w art. 121 ust. 1 nie nabywa uprawnień do zasiłku dla bezrobotnych z tytułu utraty pracy w stoczni.
 
-3. Pracownicy stoczni objętej postępowaniem kompensacyjnym, spełniający warunki do uzyskania świadczenia przedemerytalnego, o którym mowa w ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. z 2025 r. poz. 421 i 620) uzyskują prawo do świadczenia przedemerytalnego z wyłączeniem warunków dotyczących okresów zatrudnienia, o których mowa w art. 2 ust. 1 pkt 1, 2, 5 i 6 oraz ograniczeń i warunków określonych w art. 2 ust. 3 powołanej ustawy, pod warunkiem złożenia wniosku o świadczenie przedemerytalne we właściwej terenowej jednostce organizacyjnej Zakładu Ubezpieczeń Społecznych w terminie do dnia 31 grudnia 2009 r.
+3. Pracownicy stoczni objętej postępowaniem kompensacyjnym, spełniający warunki do uzyskania świadczenia przedemerytalnego, o którym mowa w ustawie z dnia 30 kwietnia 2004 r. o świadczeniach przedemerytalnych (Dz. U. Nr 120, poz. 1252) uzyskują prawo do świadczenia przedemerytalnego z wyłączeniem warunków dotyczących okresów zatrudnienia, o których mowa w art. 2 ust. 1 pkt 1, 2, 5 i 6 oraz ograniczeń i warunków określonych w art. 2 ust. 3 powołanej ustawy, pod warunkiem złożenia wniosku o świadczenie przedemerytalne we właściwej terenowej jednostce organizacyjnej Zakładu Ubezpieczeń Społecznych w terminie do dnia 31 grudnia 2009 r.
 
 4. Wypłacone pracownikom stoczni odszkodowania, o których mowa w art. 118 ust. 2, art. 120 ust. 2 oraz art. 121 ust. 1 są wolne od opodatkowania podatkiem dochodowym od osób fizycznych.
 
 **Art. 123.**
 
-1. Pracownicy stoczni, w okresie trwania stosunku pracy po wszczęciu postępowania kompensacyjnego oraz po rozwiązaniu lub wygaśnięciu tego stosunku pracy, są objęci, przez okres 6 miesięcy, programem, o którym mowa w art. 217 ust. 2 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz. U. poz. 620), zwanym dalej „programem zwolnień monitorowanych”, o ile nie podejmą w tym okresie zatrudnienia lub innej pracy zarobkowej lub działalności gospodarczej.
+1. Pracownicy stoczni, w okresie trwania stosunku pracy po wszczęciu postępowania kompensacyjnego oraz po rozwiązaniu lub wygaśnięciu tego stosunku pracy, są objęci, przez okres 6 miesięcy, programem zwolnień monitorowanych w rozumieniu przepisów ustawy z dnia 20 kwietnia 2004 r. o promocji zatrudnienia i instytucjach rynku pracy (Dz. U. z 2008 r. Nr 69, poz. 415, z późn. zm.), o ile nie podejmą w tym okresie zatrudnienia lub innej pracy zarobkowej lub działalności gospodarczej.
 
 2. W zakresie nieuregulowanym ustawą do programu zwolnień monitorowanych stosuje się przepisy ustawy, o której mowa w ust. 1.
 
-3. Działania realizowane w formie programu zwolnień monitorowanych wykonuje Agencja. Działania te obejmują w szczególności udzielanie pomocy w zakresie usług pośrednictwa pracy, poradnictwa zawodowego, szkoleń, organizacji staży, przyznania środków na podjęcie działalności gospodarczej, doradztwa w zakresie podejmowania i prowadzenia działalności gospodarczej, refundacji podmiotom prowadzącym działalność gospodarczą kosztów wyposażenia lub doposażenia stanowiska pracy utworzonego dla osób, o których mowa w ust. 1, skierowanych na to stanowisko przez Agencję.
+3. Działania realizowane w formie programu zwolnień monitorowanych wykonuje Agencja. Działania te obejmują w szczególności udzielanie pomocy w zakresie usług pośrednictwa pracy, poradnictwa zawodowego, szkoleń, organizacji staży, pomocy w aktywnym poszukiwaniu pracy, przyznania środków na podjęcie działalności gospodarczej, doradztwa w zakresie podejmowania i prowadzenia działalności gospodarczej, refundacji podmiotom prowadzącym działalność gospodarczą kosztów wyposażenia lub doposażenia stanowiska pracy utworzonego dla osób, o których mowa w ust. 1, skierowanych na to stanowisko przez Agencję.
 
 4. Działania, o których mowa w ust. 3, mogą być finansowane ze środków Europejskiego Funduszu Społecznego w ramach Programu Operacyjnego Kapitał Ludzki oraz Funduszu Pracy.
 
@@ -1004,7 +1034,7 @@ source: "isap-pdf"
 
 7. Koszty związane z aktywizacją zawodową pracowników stoczni mogą być również pokrywane ze środków Europejskiego Funduszu Dostosowania do Globalizacji, udostępnionych na ten cel zgodnie z odrębnymi przepisami.
 
-8. Od dnia rozwiązania lub wygaśnięcia stosunku pracy do dnia podjęcia zatrudnienia lub innej pracy zarobkowej lub działalności gospodarczej uczestnik programu zwolnień monitorowanych otrzymuje z tytułu uczestnictwa w programie miesięczne świadczenie wypłacane ze środków Funduszu Pracy. Świadczenie jest wypłacane przez Agencję, w wysokości równej wynagrodzeniu pracownika, obliczonego jak ekwiwalent za urlop wypoczynkowy na dzień 31 października 2008 r., jednakże nie wyższej niż 200 % minimalnego wynagrodzenia za pracę. Od kwoty świadczenia Agencja opłaca składki na ubezpieczenia emerytalne i rentowe oraz ubezpieczenie zdrowotne. Zasady podlegania ubezpieczeniom, obliczania, rozliczania i opłacania składek określone w odrębnych przepisach dla osób pobierających świadczenie szkoleniowe wypłacane po ustaniu zatrudnienia, stosuje się odpowiednio. Art. 42e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2025 r. poz. 163, z późn. zm. ) stosuje się odpowiednio.
+8. Od dnia rozwiązania lub wygaśnięcia stosunku pracy do dnia podjęcia zatrudnienia lub innej pracy zarobkowej lub działalności gospodarczej uczestnik programu zwolnień monitorowanych otrzymuje z tytułu uczestnictwa w programie miesięczne świadczenie wypłacane ze środków Funduszu Pracy. Świadczenie jest wypłacane przez Agencję, w wysokości równej wynagrodzeniu pracownika, obliczonego jak ekwiwalent za urlop wypoczynkowy na dzień 31 października 2008 r., jednakże nie wyższej niż 200% minimalnego wynagrodzenia za pracę. Od kwoty świadczenia Agencja opłaca składki na ubezpieczenia emerytalne i rentowe oraz ubezpieczenie zdrowotne. Zasady podlegania ubezpieczeniom, obliczania, rozliczania i opłacania składek określone w odrębnych przepisach dla osób pobierających świadczenie szkoleniowe wypłacane po ustaniu zatrudnienia, stosuje się odpowiednio. Art. 42e ustawy z dnia 26 lipca 1991 r. o podatku dochodowym od osób fizycznych (Dz. U. z 2000 r. Nr 14, poz. 176, z późn. zm.) stosuje się odpowiednio.
 
 9. W okresie pobierania świadczenia, o którym mowa w ust. 8, uczestnik programu zwolnień monitorowanych nie nabywa uprawnień do zasiłku dla bezrobotnych, o którym mowa w ustawie wymienionej w ust. 1.
 
@@ -1012,13 +1042,13 @@ source: "isap-pdf"
 
 11. Agencja współdziała w realizacji programu zwolnień monitorowanych z urzędami pracy, instytucjami szkoleniowymi, agencjami zatrudnienia, jednostkami samorządu terytorialnego, przedsiębiorcami i organizacjami pozarządowymi działającymi na rzecz osób poszukujących pracy oraz beneficjentami systemowymi Programu Operacyjnego Kapitał Ludzki, realizującymi projekty na rzecz pracowników stoczni. Agencja może powierzyć urzędowi pracy realizację działań, o których mowa w ust. 3, oraz zadań, o których mowa w ust. 8 i 10.
 
-12. W przypadku powierzenia realizacji działań w ramach programu zwolnień monitorowanych powiatowemu urzędowi pracy, szkolenia, staże, przyznanie środków na podjęcie działalności gospodarczej, refundacja podmiotom prowadzącym działalność gospodarczą kosztów wyposażenia lub doposażenia stanowiska pracy utworzonego dla osób, o których mowa w ust. 1, skierowanych na to stanowisko przez Agencję, są realizowane na zasadach ustalonych dla bezrobotnych i poszukujących pracy, określonych w ustawie, o której mowa w ust. 1. W okresie 6 miesięcy od dnia rozwiązania lub wygaśnięcia stosunku pracy, uczestnikom szkoleń i staży organizowanych przez urząd pracy nie przysługują stypendia, o których mowa w ustawie wymienionej w ust. 1.
+12. W przypadku powierzenia realizacji działań w ramach programu zwolnień monitorowanych powiatowemu urzędowi pracy, szkolenia, staże, przygotowanie zawodowe dorosłych, pomoc w aktywnym poszukiwaniu pracy, przyznanie środków na podjęcie działalności gospodarczej, refundacja podmiotom prowadzącym działalność gospodarczą kosztów wyposażenia lub doposażenia stanowiska pracy utworzonego dla osób, o których mowa w ust. 1, skierowanych na to stanowisko przez Agencję, są realizowane na zasadach ustalonych dla osób bezrobotnych i poszukujących pracy, określonych w ustawie, o której mowa w ust. 1. W okresie 6 miesięcy od dnia rozwiązania lub wygaśnięcia stosunku pracy, uczestnikom szkoleń, staży, przygotowania zawodowego dorosłych organizowanych przez urząd pracy nie przysługują stypendia, o których mowa w ustawie wymienionej w ust. 1.
 
 13. Przepisów ust. 1–4 i ust. 8–12 nie stosuje się do pracowników stoczni, z którymi rozwiązano stosunek pracy zgodnie z art. 52 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy.
 
 14. Okres uczestnictwa w programie zwolnień monitorowanych wlicza się do okresu pracy wymaganego do nabycia lub zachowania uprawnień pracowniczych oraz okresów składkowych w rozumieniu przepisów o emeryturach i rentach z Funduszu Ubezpieczeń Społecznych.
 
-15. Środków Funduszu Pracy, o których mowa w ust. 6 i 8, nie zalicza się do przychodów Agencji, a wydatki z nich finansowane nie stanowią kosztów uzyskania przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2025 r. poz. 278, z późn. zm. ).
+15. Środków Funduszu Pracy, o których mowa w ust. 6 i 8, nie zalicza się do przychodów Agencji, a wydatki z nich finansowane nie stanowią kosztów uzyskania przychodu w rozumieniu przepisów ustawy z dnia 15 lutego 1992 r. o podatku dochodowym od osób prawnych (Dz. U. z 2000 r. Nr 54, poz. 654, z późn. zm.).
 
 #### Rozdział 16 Koszty i źródła finansowania postępowania
 
@@ -1036,7 +1066,7 @@ source: "isap-pdf"
 3. Do wydatków postępowania kompensacyjnego niezbędnych do osiągnięcia celów postępowania należą ponadto:
 
 - **1)** wydatki związane z przygotowaniem i dokonaniem sprzedaży składników majątkowych stoczni, w tym wydatki na utrzymanie w ruchu przedsiębiorstwa stoczni od dnia wszczęcia postępowania kompensacyjnego do dnia sprzedaży składników majątkowych, w zakresie niezbędnym do utrzymania wartości składników majątkowych stoczni;
-- **2)** wynagrodzenia i świadczenia należne pracownikom stoczni za okres świadczenia pracy od dnia 1 grudnia 2008 r. do dnia rozwiązania stosunku pracy lub do dnia przejęcia przez nowego pracodawcę na zasadach określonych w art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
+- **2)** wynagrodzenia i świadczenia należne pracownikom stoczni za okres świadczenia pracy od dnia 1 grudnia 2008 r. do dnia rozwiązania stosunku pracy lub do dnia przejęcia przez nowego pracodawcę na zasadach określonych w art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy;
 - **3)** należności z tytułu składek na ubezpieczenia społeczne i zdrowotne od wynagrodzeń osób, o których mowa w pkt 2, oraz świadczenia należne tytułem odszkodowania lub zadośćuczynienia za wypadki przy pracy lub chorobę zawodową;
 - **4)** podatki i inne daniny publiczne należne od stoczni za okres od dnia wszczęcia postępowania kompensacyjnego do dnia zakończenia lub umorzenia postępowania;
 - **5)** wydatki na funkcjonowanie Agencji w zakresie bezpośredniej obsługi Prezesa Agencji w toku postępowania kompensacyjnego.
@@ -1047,6 +1077,10 @@ source: "isap-pdf"
 
 **Art. 125.** Źródłem pokrycia kosztów i wydatków, o których mowa w art. 124, są w szczególności:
 
+- **1)** bieżące przychody stoczni oraz dochód uzyskany z prowadzenia działalności na majątku stoczni w okresie poprzedzającym sprzedaż lub dochód uzyskany z wydzierżawienia na ten okres składników majątkowych stoczni;
+- **2)** Fundusz Gwarantowanych Świadczeń Pracowniczych;
+- **3)** Fundusz Restrukturyzacji Przedsiębiorców.
+
 **Art. 126.** Ze źródła, o którym mowa w art. 125 pkt 1, pokrywa się opłaty oraz koszty sądowe i administracyjne, koszty obwieszczeń i ogłoszeń oraz wydatki na wynagrodzenia: członków zarządu stoczni oraz ekspertów, o których mowa w art. 10 ust. 2, jak również należne od wynagrodzeń tych osób składki na ubezpieczenia społeczne, ubezpieczenie zdrowotne oraz składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych.
 
 **Art. 127.**
@@ -1054,16 +1088,16 @@ source: "isap-pdf"
 1. Ze źródła, o którym mowa w art. 125 pkt 2, pokrywa się wynagrodzenia należne pracownikom stoczni od dnia 1 grudnia 2008 r., do dnia:
 
 - **1)** rozwiązania stosunku pracy ze stocznią;
-- **2)** przejęcia przez nowego pracodawcę na zasadach określonych w art. 23 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, wraz ze składkami na ubezpieczenie społeczne i zdrowotne należnymi od tych wynagrodzeń;
+- **2)** przejęcia przez nowego pracodawcę na zasadach określonych w art. 231 ustawy z dnia 26 czerwca 1974 r. – Kodeks pracy, wraz ze składkami na ubezpieczenie społeczne i zdrowotne należnymi od tych wynagrodzeń;
 - **3)** wygaśnięcia stosunku pracy.
 
 2. Ze źródła, o którym mowa w art. 125 pkt 2, pokrywa się odszkodowania, o których mowa w art. 118 ust. 2, art. 120 ust. 2 i art. 121 ust. 1 oraz należności i świadczenia, o których mowa w art. 124 ust. 3 pkt 3.
 
-**Art. 128.** Ze źródła, o którym mowa w art. 125 pkt 3, pokrywa się koszty i wydatki postępowania kompensacyjnego, niewymienione w art. 126 i 127, a w szczególności koszty i wydatki niezbędne do osiągnięcia celu postępowania kompensacyjnego, wymienione w art. 124 ust. 3 pkt 1 i 5 oraz wydatki na wynagrodzenia osób, o których mowa w art. 124 ust. 2 pkt 2, i biegłych, o których mowa w art. 124 ust. 2 pkt 3, jak również należne od wynagrodzeń tych osób składki na ubezpieczenia społeczne, ubezpieczenie zdrowotne oraz składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych.
+**Art. 128.** Ze źródła, o którym mowa w art. 125 pkt 3, pokrywa się koszty i wydatki postępowania kompensacyjnego, nie wymienione w art. 126 i 127, a w szczególności koszty i wydatki niezbędne do osiągnięcia celu postępowania kompensacyjnego, wymienione w art. 124 ust. 3 pkt 1 i 5 oraz wydatki na wynagrodzenia osób, o których mowa w art. 124 ust. 2 pkt 2, i biegłych, o których mowa w art. 124 ust. 2 pkt 3, jak również należne od wynagrodzeń tych osób składki na ubezpieczenia społeczne, ubezpieczenie zdrowotne oraz składki na Fundusz Pracy i Fundusz Gwarantowanych Świadczeń Pracowniczych.
 
 **Art. 129.**
 
-1. W celu zasilenia Funduszu Restrukturyzacji Przedsiębiorców w środki potrzebne na finansowanie kosztów i wydatków postępowania kompensacyjnego, o których mowa w art. 124 ust. 3 pkt 1 i 5, minister właściwy do spraw Skarbu Państwa może zmienić przeznaczenie środków państwowych funduszy celowych, o których mowa w art. 56 ust. 1 pkt 1 i 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji , w kwocie do wysokości 540 000 000 złotych, bez konieczności zmiany planów finansowych tych funduszy i uzyskania zgód przewidzianych odrębnymi przepisami prawa.
+1. W celu zasilenia Funduszu Restrukturyzacji Przedsiębiorców w środki potrzebne na finansowanie kosztów i wydatków postępowania kompensacyjnego, o których mowa w art. 124 ust. 3 pkt 1 i 5, minister właściwy do spraw Skarbu Państwa może zmienić przeznaczenie środków państwowych funduszy celowych, o których mowa w art. 56 ust. 1 pkt 1 i 3 ustawy z dnia 30 sierpnia 1996 r. o komercjalizacji i prywatyzacji, w kwocie do wysokości 540 000 000 złotych, bez konieczności zmiany planów finansowych tych funduszy i uzyskania zgód przewidzianych odrębnymi przepisami prawa.
 
 2. Środki, o których mowa w ust. 1, podlegają w całości zwrotowi na państwowy fundusz celowy, z którego zostały przekazane, przy czym środki te oraz kwotę ich zwrotu ustala się w rocznym planie finansowym Funduszu Restrukturyzacji Przedsiębiorców.
 
@@ -1085,6 +1119,9 @@ source: "isap-pdf"
 
 **Art. 131.** Decyzja o zakończeniu postępowania kompensacyjnego zawiera w szczególności:
 
+- **1)** oznaczenie firmy i siedziby stoczni;
+- **2)** uzasadnienie.
+
 **Art. 132.**
 
 1. Prezes Agencji umarza postępowanie kompensacyjne w przypadku prawomocnego orzeczenia nieważności postanowienia o wszczęciu postępowania kompensacyjnego oraz jeżeli sprzedaż majątku nie zostanie zakończona do dnia 31 maja 2009 r., chyba że Komisja Europejska wyrazi zgodę na przedłużenie postępowania kompensacyjnego.
@@ -1096,11 +1133,11 @@ source: "isap-pdf"
 
 **Art. 133.** Zmiany stosunków prawnych dokonane na podstawie przepisów ustawy obowiązują stocznię i drugą stronę również po umorzeniu i po zakończeniu postępowania kompensacyjnego.
 
-**Art. 134.** Decyzja o zakończeniu postępowania kompensacyjnego wywołuje skutki tożsame z określonymi w art. 28 ust. 2 i ust. 3 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2025 r. poz. 350, z późn. zm. ).
+**Art. 134.** Decyzja o zakończeniu postępowania kompensacyjnego wywołuje skutki tożsame z określonymi w art. 28 ust. 2 i ust. 3 pkt 4 ustawy z dnia 13 października 1998 r. o systemie ubezpieczeń społecznych (Dz. U. z 2007 r. Nr 11, poz. 74, z późn. zm.).
 
 **Art. 135.** Po umorzeniu lub zakończeniu postępowania kompensacyjnego kwoty zatrzymane w depozycie, o ile nie przypadną osobie wskazanej w planie podziału, wydaje się syndykowi masy upadłości, ustanowionemu po ogłoszeniu upadłości stoczni.
 
-**Art. 136.** Sentencję decyzji o umorzeniu postępowania kompensacyjnego oraz sentencję decyzji o zakończeniu postępowania kompensacyjnego obwieszcza się w Monitorze Sądowym i Gospodarczym oraz w dzienniku o zasięgu lokalnym. Decyzje te wraz z uzasadnieniem doręcza się zarządcy kompensacji, zarządowi stoczni, ministrowi właściwemu do spraw Skarbu Państwa , członkom rady wierzycieli oraz obserwatorowi.
+**Art. 136.** Sentencję decyzji o umorzeniu postępowania kompensacyjnego oraz sentencję decyzji o zakończeniu postępowania kompensacyjnego obwieszcza się w Monitorze Sądowym i Gospodarczym oraz w dzienniku o zasięgu lokalnym. Decyzje te wraz z uzasadnieniem doręcza się zarządcy kompensacji, zarządowi stoczni, ministrowi właściwemu do spraw Skarbu Państwa, członkom rady wierzycieli oraz obserwatorowi.
 
 **Art. 137.**
 
@@ -1110,25 +1147,25 @@ source: "isap-pdf"
 
 **Art. 138.**
 
-1. Prawomocna decyzja o zakończeniu lub umorzeniu postępowania kompensacyjnego wywołuje takie skutki jak wniosek dłużnika o ogłoszenie upadłości, o którym mowa w przepisach Prawa upadłościowego.
+1. Prawomocna decyzja o zakończeniu lub umorzeniu postępowania kompensacyjnego wywołuje takie skutki jak wniosek dłużnika o ogłoszenie upadłości obejmującej likwidację majątku, o którym mowa w przepisach Prawa upadłościowego i naprawczego.
 
-2. W przypadku, o którym mowa w ust. 1, w dniu w którym decyzja stała się ostateczna podlega ona doręczeniu do sądu, a sąd wzywa zarządcę kompensacji do uzupełnienia wniosku o informacje, o których mowa w art. 22 i art. 23 ust. 1 pkt 1– 8 i ust. 2 Prawa upadłościowego, oraz do złożenia oświadczeń, o których mowa w art. 25 ust. 1 tej ustawy. Przepisów art. 25 ust. 3 i art. 28 Prawa upadłościowego nie stosuje się.
+2. W przypadku, o którym mowa w ust. 1, w dniu w którym decyzja stała się ostateczna podlega ona doręczeniu do sądu, a sąd wzywa zarządcę kompensacji do uzupełnienia wniosku o informacje, o których mowa w art. 22 i art. 23 ust. 1 pkt 1–8 i ust. 2 Prawa upadłościowego i naprawczego, oraz do złożenia oświadczeń, o których mowa w art. 25 ust. 1 tej ustawy. Przepisów art. 25 ust. 3 i art. 28 Prawa upadłościowego i naprawczego nie stosuje się.
 
-3. W sytuacji, o której mowa w ust. 1, nie mają zastosowania przepisy art. 13 i art. 373 Prawa upadłościowego, art. 299 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych oraz art. 116 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
+3. W sytuacji, o której mowa w ust. 1, nie mają zastosowania przepisy art. 13 i art. 373 Prawa upadłościowego i naprawczego, art. 299 ustawy z dnia 15 września 2000 r. – Kodeks spółek handlowych oraz art. 116 ustawy z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa.
 
 **Art. 139.**
 
-1. Skutki wszczęcia postępowania kompensacyjnego trwają do chwili ogłoszenia upadłości stoczni. Przekształcone na mocy niniejszej ustawy stosunki prawne nie ulegają ponownemu przekształceniu na mocy przepisów Prawa upadłościowego dotyczących skutków ogłoszenia upadłości.
+1. Skutki wszczęcia postępowania kompensacyjnego trwają do chwili ogłoszenia upadłości stoczni. Przekształcone na mocy niniejszej ustawy stosunki prawne nie ulegają ponownemu przekształceniu na mocy przepisów Prawa upadłościowego i naprawczego dotyczących skutków ogłoszenia upadłości.
 
 2. Obserwator zachowuje swoje prawa i obowiązki. Art. 10 stosuje się odpowiednio w postępowaniu upadłościowym.
 
-3. Niezaspokojone w postępowaniu kompensacyjnym, wierzytelności które były zabezpieczone w dniu wszczęcia postępowania kompensacyjnego, traktowane są w postępowaniu upadłościowym nadal jak wierzytelności zabezpieczone, i zaspokajane zgodnie z zasadami określonymi w przepisach Prawa upadłościowego, mimo wygaśnięcia zabezpieczeń zgodnie z art. 84 ust. 2.
+3. Nie zaspokojone w postępowaniu kompensacyjnym, wierzytelności które były zabezpieczone w dniu wszczęcia postępowania kompensacyjnego, traktowane są w postępowaniu upadłościowym nadal jak wierzytelności zabezpieczone, i zaspokajane zgodnie z zasadami określonymi w przepisach Prawa upadłościowego i naprawczego, mimo wygaśnięcia zabezpieczeń zgodnie z art. 84 ust. 2.
 
-4. Niezaspokojone w postępowaniu kompensacyjnym wierzytelności które nie były zabezpieczone w dniu wszczęcia postępowania kompensacyjnego, zaspokajane są zgodnie z zasadami określonymi w przepisach Prawa upadłościowego, za wyjątkiem wydatków poniesionych ze środków publicznych na realizację programu ochrony pracowników, o którym mowa w rozdziale 15.
+4. Nie zaspokojone w postępowaniu kompensacyjnym wierzytelności które nie były zabezpieczone w dniu wszczęcia postępowania kompensacyjnego, zaspokajane są zgodnie z zasadami określonymi w przepisach Prawa upadłościowego i naprawczego, za wyjątkiem wydatków poniesionych ze środków publicznych na realizację programu ochrony pracowników, o którym mowa w rozdziale 15.
 
-5. Niezaspokojone w postępowaniu kompensacyjnym wierzytelności wynikające z obowiązku zwrotu pomocy publicznej udzielonej stoczni, w postępowaniu upadłościowym, są zaspokajane zgodnie z zasadami określonymi w przepisach Prawa upadłościowego.
+5. Nie zaspokojone w postępowaniu kompensacyjnym wierzytelności wynikające z obowiązku zwrotu pomocy publicznej udzielonej stoczni, w postępowaniu upadłościowym, są zaspokajane zgodnie z zasadami określonymi w przepisach Prawa upadłościowego i naprawczego.
 
 #### Rozdział 18 Przepisy końcowe
 
-**Art. 140.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia .
+**Art. 140.** Ustawa wchodzi w życie po upływie 7 dni od dnia ogłoszenia.
 

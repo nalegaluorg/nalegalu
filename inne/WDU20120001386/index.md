@@ -8,10 +8,10 @@ pos: 1386
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 11 grudnia 2012 r.
+# Rozporządzenie Prezesa Rady Ministrówz dnia 3 grudnia 2012 r. zmieniające rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego
 
 | Pole | Wartość |
 |---|---|
@@ -22,14 +22,26 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2012-12-03 |
 | Data wydania | 2012-12-11 |
+| Wejście w życie | 2012-12-26 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20120001386) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2012/1386/text.pdf) |
 
-Poz. 1386 ROZPORZĄDZENIE PREZESA RADY MINISTRÓW z dnia 3 grudnia 2012 r.
-zmieniające rozporządzenie w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U.
-z 2008 r. Nr 133, poz. 848, z późn. zm. ) zarządza się, co następuje: § 1. W rozporządzeniu Prezesa Rady Ministrów z dnia 17 października 2002 r. w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 174, poz. 1426, z późn. zm. ) w § 2:
-1) pkt 2 otrzymuje brzmienie: „2) art. 35, art. 41–49 i art. 52–63 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322 oraz z 2012 r. poz. 908);”;
-2) dodaje się pkt 9 w brzmieniu: „9) art. 193 pkt 5 i 6 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145 i 951).”.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Prezes Rady Ministrów: D. Tusk
+Treść rozporządzenia
+Na podstawie art. 95 § 5 ustawy z dnia 24 sierpnia 2001 r. – Kodeks postępowania w sprawach o wykroczenia (Dz. U. z 2008 r. Nr 133, poz. 848, z późn. zm.) zarządza się, co następuje:
+§ 1.
+W rozporządzeniu Prezesa Rady Ministrów z dnia 17 października 2002 r. w sprawie nadania funkcjonariuszom organów Państwowej Inspekcji Sanitarnej uprawnień do nakładania grzywien w drodze mandatu karnego (Dz. U. Nr 174, poz. 1426, z późn. zm.) w § 2:
+1)
+pkt 2 otrzymuje brzmienie:
+„
+2)
+art. 35, art. 41–49 i art. 52–63 ustawy z dnia 25 lutego 2011 r. o substancjach chemicznych i ich mieszaninach (Dz. U. Nr 63, poz. 322 oraz z 2012 r. poz. 908);
+” ;
+2)
+dodaje się pkt 9 w brzmieniu:
+„
+9)
+art. 193 pkt 5 i 6 ustawy z dnia 18 lipca 2001 r. – Prawo wodne (Dz. U. z 2012 r. poz. 145 i 951).
+” .
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

@@ -8,10 +8,10 @@ pos: 1883
 act_type: Rozporządzenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 3 października 2018 r.
+# Rozporządzenie Ministra Gospodarki Morskiej i Żeglugi Śródlądowejz dnia 19 września 2018 r. w sprawie uznania za obowiązujące przepisów w zakresie budowy stałych platform wiertniczych oraz ich urządzeń i wyposażenia
 
 | Pole | Wartość |
 |---|---|
@@ -22,13 +22,18 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2018-10-19 |
 | Data wydania | 2018-10-03 |
+| Wejście w życie | 2018-10-18 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20180001883) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2018/1883/text.pdf) |
 
-Poz. 1883 ROZPORZĄDZENIE MINISTRA GOSPODARKI MORSKIEJ I ŻEGLUGI ŚRÓDLĄDOWEJ z dnia 19 września 2018 r.
-w sprawie uznania za obowiązujące przepisów w zakresie budowy stałych platform wiertniczych oraz ich urządzeń i wyposażenia Na podstawie art. 11 ust. 3 pkt 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r.
-poz. 181, 1137 i 1669) zarządza się, co następuje: § 1. 1. Uznaje się za obowiązujące przepisy techniczne Polskiego Rejestru Statków S.A. w zakresie budowy stałych platform wiertniczych oraz ich urządzeń i wyposażenia.
-2. Przepisy techniczne, o których mowa w ust. 1, zawarte w publikacji „Jednostki morskie. Stacjonarne jednostki i urządzenia górnictwa morskiego. Przepisy budowy i nadzoru” są udostępnione w Biuletynie Informacji Publicznej na stronie podmiotowej Polskiego Rejestru Statków S.A.
-§ 2. Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
-Minister Gospodarki Morskiej i Żeglugi Śródlądowej: M. Gróbarczyk
+Treść rozporządzenia
+Na podstawie art. 11 ust. 3 pkt 1 ustawy z dnia 18 sierpnia 2011 r. o bezpieczeństwie morskim (Dz. U. z 2018 r. poz. 181, 1137 i 1669) zarządza się, co następuje:
+§ 1.
+1.
+Uznaje się za obowiązujące przepisy techniczne Polskiego Rejestru Statków S.A. w zakresie budowy stałych platform wiertniczych oraz ich urządzeń i wyposażenia.
+2.
+Przepisy techniczne, o których mowa w ust. 1, zawarte w publikacji „Jednostki morskie. Stacjonarne jednostki i urządzenia górnictwa morskiego. Przepisy budowy i nadzoru” są udostępnione w Biuletynie Informacji Publicznej na stronie podmiotowej Polskiego Rejestru Statków S.A.
+§ 2.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Gospodarki Morskiej i Żeglugi Śródlądowej kieruje działem administracji rządowej – gospodarka morska, na podstawie § 1 ust. 2 pkt 1 rozporządzenia Prezesa Rady Ministrów z dnia 13 grudnia 2017 r. w sprawie szczegółowego zakresu działania Ministra Gospodarki Morskiej i Żeglugi Śródlądowej (Dz. U. poz. 2324 oraz z 2018 r. poz. 100).
 

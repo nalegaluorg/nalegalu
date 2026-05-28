@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 17 lutego 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-02-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000204) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/204/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 5 lutego 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu
 1. Na podstawie 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 15 grudnia 2022 r. szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu (Dz. U. z 2024 r. poz. 303), z uwzględnieniem zmian wprowadzonych:
 1) ustawą z dnia 15 maja 2024 r. zmianie niektórych ustaw związanych z funkcjonowaniem administracji rządowej (Dz. U. poz. 834),
 2) ustawą z dnia 23 maja 2024 r. bonie energetycznym oraz zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859 i 1831),
@@ -38,11 +38,20 @@ source: "isap-pdf"
 4. Organ, który utracił zadania i kompetencje na podstawie niniejszej przekazuje niezwłocznie organowi, który przejął od niego zadania i kompetencje na podstawie niniejszej dokumentację związaną z wykonywaniem przejętych zadań i kompetencji, tym także postaci informatycznych nośników danych.
 5. Z czynności, których ust. 3 i 4, sporządza się protokół.
 
-**Art. 62.** Dyrektorzy generalni urzędów obsługujących organy, które utraciły zadania i kompetencje na podstawie niniejszej terminie 30 dni od dnia wejścia życie niniejszej przekażą sprawy wszczęte i niezakończone dyrektorom generalnym urzędów obsługujących organy, które przejęły te zadania i kompetencje. Z czynności przekazania sporządza się protokół.
+**Art. 62.** Dyrektorzy generalni urzędów obsługujących organy, które utraciły zadania i kompetencje na podstawie niniejszej terminie 30 dni od dnia wejścia życie niniejszej przekażą sprawy wszczęte i niezakończone dyrektorom generalnym urzędów obsługujących organy, które przejęły te zadania i kompetencje. Z czynności przekazania sporządza się protokół. ustawy ten organ albo przy jego udziale, szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony zachowują ważność okres, na który zostały wydane.
 
-**Art. 63.** Czynności dokonane przed dniem wejścia życie niniejszej ustawy organ, który utracił zadania i kompetencje na podstawie niniejszej a także dokumenty sporządzone przed dniem wejścia życie niniejszej ustawy ten organ albo przy jego udziale, szczególności uzgodnienia, zatwierdzenia, akceptacje, wezwania, wpisy do rejestrów, zlecenia, wskazania, weryfikacje, notyfikacje, opinie i zaświadczenia, zachowują ważność, przy czym dokumenty wydane na czas określony zachowują ważność okres, na który zostały wydane. mentu elektronicznego organ, który utracił zadania i kompetencje na podstawie niniejszej zachowują ważność.” „Art. 84. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
+**Art. 64.** Wzory dokumentów określone na podstawie przepisów zmienianych niniejszą ustawą formie dokumentu elektronicznego organ, który utracił zadania i kompetencje na podstawie niniejszej zachowują ważność.” „Art. 84. Ustawa wchodzi życie pierwszego dnia miesiąca następującego po miesiącu ogłoszenia, z wyjątkiem:
+
+- **1)** 65 ust. 2 i 73 ust. 2, które wchodzą życie z dniem ogłoszenia;
+- **2)** 47 i 82, które wchodzą życie z dniem następującym po dniu ogłoszenia.”;
+- **2)** 31–34, 40 i 43 ustawy z dnia 23 maja 2024 r. bonie energetycznym oraz zmianie niektórych ustaw celu ograniczenia cen energii elektrycznej, gazu ziemnego i ciepła systemowego (Dz. U. poz. 859 i 1831), które stanowią: „Art. 31. Dysponent Funduszu Wypłaty Różnicy Ceny, którym 10a ustawy zmienianej 14, zwanego dalej „Funduszem”, terminie 30 dni od dnia wejścia życie niniejszej ustawy dokonuje zmiany planu finansowego tego Funduszu celem dostosowania go do przepisów:
+- **1)** ust. 4 ustawy zmienianej 23 brzmieniu nadanym niniejszą ustawą;
+- **2)** 26 ust. 4 oraz 31b ust. 3 ustawy zmienianej brzmieniu nadanym niniejszą ustawą.
 
 **Art. 32.** Zarządca Rozliczeń S.A., którym rozdziale 7 ustawy z dnia 29 czerwca 2007 r. zasadach pokrywania kosztów powstałych u wytwórców związku z przedterminowym rozwiązaniem umów długoterminowych sprzedaży mocy i energii elektrycznej (Dz. U. z 2022 r. poz. 311), zwany dalej „Zarządcą Rozliczeń”, przekazuje środki z tytułu odsetek, których mowa:
+
+- **1)** ust. 4 ustawy zmienianej 23 brzmieniu nadanym niniejszą ustawą,
+- **2)** 26 ust. 4 oraz 31b ust. 3 ustawy zmienianej brzmieniu nadanym niniejszą ustawą dotychczas zgromadzonych na rachunku Funduszu, które do dnia wejścia życie niniejszej ustawy nie zostały przekazane na rachunek Funduszu Przeciwdziałania COVID-19, którym 65 ust. 1 ustawy zmienianej 17, terminie 7 dni od dnia zatwierdzenia zmiany planu finansowego, 31.
 
 **Art. 33.** Do rozliczeń dotacji, których 23 ust. 1 ustawy zmienianej 24, składanych za pierwsze półrocze 2024 r., stosuje się przepis 23 ust. 1 ustawy zmienianej brzmieniu dotychczasowym.
 
@@ -55,16 +64,37 @@ source: "isap-pdf"
 - **3)** 36 ustawy zmienianej 22 brzmieniu nadanym niniejszą ustawą,
 - **4)** 23 ustawy zmienianej brzmieniu nadanym niniejszą ustawą opracowuje projekt zmiany planu finansowego tego Funduszu i przedstawia go do uzgodnienia ministrowi właściwemu do spraw finansów publicznych oraz do zatwierdzenia Prezesowi Rady Ministrów.
 
-2. Prezes Rady Ministrów zatwierdza zmianę planu finansowego terminie 14 dni od dnia przedstawienia projektu tej zmiany.” „Art. 40. Do rekompensat, których 4 ust. 1 ustawy zmienianej 24, przysługujących za okres do dnia 30 czerwca 2024 r., stosuje się przepis 12 ust. 1 ustawy zmienianej brzmieniu dotychczasowym. Przepisu 12 ust. 1a ustawy zmienianej nie stosuje się.” „Art. 43. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia, z wyjątkiem:
+2. Prezes Rady Ministrów zatwierdza zmianę planu finansowego terminie 14 dni od dnia przedstawienia projektu tej zmiany.” „Art. 40. Do rekompensat, których 4 ust. 1 ustawy zmienianej 24, przysługujących za okres do dnia 30 czerwca 2024 r., stosuje się przepis 12 ust. 1 ustawy zmienianej brzmieniu dotychczasowym. Przepisu 12 ust. 1a ustawy zmienianej nie stosuje się.” wchodzą życie z dniem 1 lipca 2024 r.;
 
-- **1)** 11, 21, 23 1 lit. b tiret drugie oraz 6, 10, 29, 34, 35 i 39–41, które wchodzą życie z dniem 1 lipca 2024 r.;
-- **2)** 23 1 lit. a, zakresie jakim dotyczy wyłączenia odbiorców, którzy zawarli umowę z ceną dynamiczną energii elektrycznej, 3 6d ustawy zmienianej 11, oraz 26 1, które wchodzą „Art. 25. Do spraw dotyczących udzielania pomocy de minimis wszczętych i niezakończonych przed dniem 1 lipca 2024 r. stosuje się przepisy ustaw zmienianych 1–24 brzmieniu nadanym niniejszą ustawą.” „Art. 27. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 15 grudnia 2022 r. szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu
+- **2)** 23 1 lit. a, zakresie jakim dotyczy wyłączenia odbiorców, którzy zawarli umowę z ceną dynamiczną energii elektrycznej, 3 6d ustawy zmienianej 11, oraz 26 1, które wchodzą życie z dniem sierpnia 2024 r.”;
+- **3)** 25 i 27 ustawy z dnia 18 października 2024 r. zmianie niektórych ustaw związanych z udzielaniem pomocy de minimis (Dz. U. poz. 1635), które stanowią: „Art. 25. Do spraw dotyczących udzielania pomocy de minimis wszczętych i niezakończonych przed dniem 1 lipca 2024 r. stosuje się przepisy ustaw zmienianych 1–24 brzmieniu nadanym niniejszą ustawą.” „Art. 27. Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.”. Marszałek Sejmu: S. Hołownia USTAWA z dnia 15 grudnia 2022 r. szczególnej ochronie niektórych odbiorców paliw gazowych 2023 r. oraz 2024 r. związku z sytuacją na rynku gazu
 
 #### Rozdział 1 Przepisy ogólne
 
 **Art. 1.** Ustawa reguluje:
 
+- **1)** cenę maksymalną paliw gazowych oraz stawki opłat za świadczenie usług dystrybucji paliw gazowych stosowane rozliczeniach z niektórymi odbiorcami paliw gazowych 2023 r. oraz 2024 r.;
+- **2)** zasady i tryb przyznawania i wypłacania rekompensaty z tytułu stosowania ceny maksymalnej paliw gazowych lub stawek opłat za świadczenie usług dystrybucji paliw gazowych podmiot uprawniony, zwanej dalej „rekompensatą”;
+- **3)** zasady i tryb refundacji kwoty odpowiadającej podatkowi VAT wynikającej z opłaconej faktury dokumentującej dostarczenie paliw gazowych od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2024 r. do odbiorcy paliw gazowych;
+- **4)** zasady i tryb wprowadzenia obowiązku przekazywania gazowego odpisu na Fundusz Wypłaty Różnicy Ceny;
+- **5)** zasady i tryb przekazania gazowej składki na Fundusz Wypłaty Różnicy Ceny.
+
 **Art. 2.** Użyte ustawie określenia oznaczają:
+
+- **1)** przedsiębiorstwo wydobywające gaz ziemny przedsiębiorcę zajmującego się wydobywaniem gazu ziemnego na podstawie posiadanej koncesji na wydobywanie węglowodorów rozumieniu przepisów ustawy z dnia 9 czerwca 2011 r. Prawo geologiczne i górnicze (Dz. U. z 2024 r. poz. 1290);
+- **2)** hurtowy rynek paliw gazowych rynek, na którym jest prowadzony obrót produktami energetycznymi sprzedawanymi:
+    - **a)** giełdy towarowe rozumieniu 2 1 ustawy z dnia 26 października 2000 r. giełdach towarowych (Dz. U. z 2024 r. poz. 910 i 1881), rynek organizowany podmiot prowadzący na terytorium Rzeczypospolitej Polskiej rynek regulowany rozumieniu 3 44 ustawy z dnia 10 kwietnia 1997 r. Prawo energetyczne (Dz. U. z 2024 r. poz. 266, 834, 859, 1847 i 1881), zwanej dalej „ustawą Prawo energetyczne”, zorganizowaną platformę obrotu rozumieniu 3 44a ustawy Prawo energetyczne prowadzoną spółkę prowadzącą na terytorium Rzeczypospolitej Polskiej giełdę towarową rozumieniu 2 1 ustawy z dnia 26 października 2000 r. giełdach towarowych,
+    - **b)** ramach umów sprzedaży paliw gazowych, których jedną ze stron jest przedsiębiorstwo wydobywające gaz ziemny, oraz ramach umów sprzedaży paliw gazowych zawartych pomiędzy przedsiębiorstwami energetycznymi wykonującymi działalność gospodarczą zakresie obrotu paliwami gazowymi;
+
+- **3)** umowa sprzedaży paliw gazowych umowę, przedmiotem jest sprzedaż paliw gazowych, zawartą:
+    - **a)** na hurtowym rynku paliw gazowych, gdzie jedną ze stron jest przedsiębiorstwo wydobywające gaz ziemny albo przedsiębiorstwo energetyczne wykonujące działalność gospodarczą zakresie obrotu paliwami gazowymi,
+    - **b)** między przedsiębiorstwem energetycznym wykonującym działalność gospodarczą zakresie obrotu paliwami gazowymi albo przedsiębiorstwem wydobywającym gaz ziemny a odbiorcą końcowym rozumieniu 3 13a ustawy Prawo energetyczne;
+
+- **4)** gazowy odpis na Fundusz Wypłaty Różnicy Ceny kwotę środków finansowych podlegającą przekazaniu zgodnie z przepisami rozdziału 3 przedsiębiorstwo wydobywające gaz ziemny na rachunek Funduszu Wypłaty Różnicy Ceny, którym 11 ust. 1 ustawy z dnia 28 grudnia 2018 r. zmianie ustawy podatku akcyzowym oraz niektórych innych ustaw (Dz. U. poz. 2538, z późn. zm. ), zwany dalej „Funduszem Wypłaty Różnicy Ceny”; Ceny;
+- **5)** podmiot uprawniony przedsiębiorstwo energetyczne rozumieniu 3 12 ustawy Prawo energetyczne, wykonujące działalność gospodarczą zakresie obrotu paliwami gazowymi oraz przedsiębiorstwo energetyczne wykonujące działalność gospodarczą zakresie dystrybucji paliw gazowych;
+- **6)** podatek VAT podatek od towarów i usług, którym ustawie z dnia 11 marca 2004 r. podatku od towarów i usług (Dz. U. z 2024 r. poz. 361, 852, 1473, 1721 i 1911);
+- **7)** gospodarstwo domowe osobę fizyczną samotnie zamieszkującą i gospodarującą (gospodarstwo domowe jednoosobowe) albo osobę fizyczną oraz osoby z nią spokrewnione lub niespokrewnione pozostające faktycznym związku, wspólnie z nią zamieszkujące i gospodarujące (gospodarstwo domowe wieloosobowe);
+- **8)** grupa kapitałowa grupę kapitałową rozumieniu 4 14 ustawy z dnia 16 lutego 2007 r. ochronie konkurencji i konsumentów (Dz. U. z 2024 r. poz. 1616).
 
 #### Rozdział 2 Cena maksymalna oraz stawki opłat za świadczenie usług dystrybucji paliw gazowych stosowane rozliczeniach z niektórymi odbiorcami paliw gazowych oraz zasady i tryb przyznawania i wypłacania rekompensat
 
@@ -123,10 +153,10 @@ source: "isap-pdf"
 - **3)** oznaczenie umowy zawartej pomiędzy podmiotem uprawnionym a odbiorcą, którym ust. 1;
 - **4)** wskazanie okresu, którym ma być stosowana cena maksymalna paliw gazowych;
 - **5)** oświadczenie wykorzystywaniu odbiorcę, którym ust. 1, pieca ogrzewanego paliwami gazowymi do prowadzenia działalności gospodarczej;
-- **6)** oświadczenie tym, że odbiorca, którym ust. 1:
+- **6)** oświadczenie tym, że odbiorca, którym ust. 1: rozumieniu przepisów ustawy z dnia 16 września 1982 r. Prawo spółdzielcze, działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, kodem 10.71.Z i wynika to z rejestru REGON według stanu na dzień poprzedzający dzień rozpoczęcia okresu, którego dotyczy wniosek.
     - **a)** posiada status przedsiębiorcy rozumieniu 4 ust. 1 lub 2 ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców, oraz
     - **b)** prowadził na dzień poprzedzający dzień rozpoczęcia okresu, którego dotyczy wniosek: działalność gospodarczą, oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, jako rodzaj przeważającej działalności, kodem 10.71.Z i wynika to z rejestru REGON według stanu na dzień poprzedzający dzień rozpoczęcia okresu, którego dotyczy wniosek albo działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, kodem 10.71.Z i wynika to z rejestru REGON według stanu na dzień poprzedzający dzień rozpoczęcia okresu, którego dotyczy wniosek, i jego przychód z działalności rozumieniu przepisów podatkowych jednym z dwóch miesięcy kalendarzowych poprzedzających bezpośrednio miesiąc złożenia wniosku cenę maksymalną pochodził co najmniej 50 % ze sprzedaży wyprodukowanych tego odbiorcę pieczywa, świeżych wyrobów ciastkarskich lub ciastek, oraz
-    - **c)** nie zalega na dzień złożenia wniosku z regulowaniem zobowiązań podatkowych lub otrzymał decyzję urzędu skarrozumieniu przepisów ustawy z dnia 16 września 1982 r. Prawo spółdzielcze, działalność gospodarczą oznaczoną według Polskiej Klasyfikacji Działalności (PKD) 2007, kodem 10.71.Z i wynika to z rejestru REGON według stanu na dzień poprzedzający dzień rozpoczęcia okresu, którego dotyczy wniosek.
+    - **c)** nie zalega na dzień złożenia wniosku z regulowaniem zobowiązań podatkowych lub otrzymał decyzję urzędu skarbowego sprawie spłaty zadłużenia i terminowo opłaca raty lub korzysta z odroczenia terminu płatności.
 
 7. Do wniosku cenę maksymalną dołącza się:
 
@@ -187,13 +217,13 @@ source: "isap-pdf"
 
 1. Podmiotowi uprawnionemu przysługuje rekompensata z tytułu stosowania ceny maksymalnej paliw gazowych lub stawek opłat za świadczenie usług dystrybucji paliw gazowych, za każdy miesiąc kalendarzowy.
 
-2. Podmiotowi uprawnionemu, stosującemu cenę maksymalną paliw gazowych, przysługuje rekompensata, ustalana zgodnie ze wzorem: 𝑅 =∑(𝐼𝑝𝑧∗(𝐶𝑝𝑡−𝐶𝑝𝑚)), gdzie poszczególne symbole oznaczają: R kwotę rekompensaty (zł), Ipz ilość paliw gazowych dostarczonych lub prognozowanych do dostarczenia danym miesiącu kalendarzowym stosowania ceny maksymalnej paliw gazowych do odbiorców uprawnionych, danej grupie taryfowej (MWh), Cpt cenę paliwa gazowego dla danej grupy taryfowej wynikającą z taryfy (zł/MWh), Cpm cenę maksymalną paliw gazowych (zł/MWh). gazowych dla odbiorców uprawnionych, przysługuje rekompensata stanowiąca różnicę między wysokością opłat naliczonych za usługi dystrybucji paliw gazowych wynikających ze stawek opłat taryfy dla usług dystrybucji paliw gazowych na 2023 r. a wysokością opłat naliczonych za usługi dystrybucji paliw gazowych wynikających ze stawek opłat z ostatniej stosowanej 2022 r. taryfy dla usług dystrybucji paliw gazowych dla odbiorców uprawnionych, dla ilości paliwa gazowego dostarczanego 2023 r.
+2. Podmiotowi uprawnionemu, stosującemu cenę maksymalną paliw gazowych, przysługuje rekompensata, ustalana zgodnie ze wzorem: 𝑅 =∑(𝐼𝑝𝑧∗(𝐶𝑝𝑡−𝐶𝑝𝑚)) , gdzie poszczególne symbole oznaczają: R kwotę rekompensaty (zł), Ipz ilość paliw gazowych dostarczonych lub prognozowanych do dostarczenia danym miesiącu kalendarzowym stosowania ceny maksymalnej paliw gazowych do odbiorców uprawnionych, danej grupie taryfowej (MWh), Cpt cenę paliwa gazowego dla danej grupy taryfowej wynikającą z taryfy (zł/MWh), Cpm cenę maksymalną paliw gazowych (zł/MWh). za usługi dystrybucji paliw gazowych wynikających ze stawek opłat taryfy dla usług dystrybucji paliw gazowych na 2023 r. a wysokością opłat naliczonych za usługi dystrybucji paliw gazowych wynikających ze stawek opłat z ostatniej stosowanej 2022 r. taryfy dla usług dystrybucji paliw gazowych dla odbiorców uprawnionych, dla ilości paliwa gazowego dostarczanego 2023 r.
 
 3a. Podmiotowi uprawnionemu, którym 3 ust. 7a albo 7b, stosującemu stawki opłat za usługi dystrybucji paliw gazowych dla odbiorców uprawnionych, przysługuje rekompensata stanowiąca różnicę między wysokością opłat naliczonych za usługi dystrybucji paliw gazowych wynikających ze stawki opłat taryfy dla usług dystrybucji paliw gazowych na 2024 r., zwanej dalej „Cd2024”, a wysokością opłat naliczonych za usługi dystrybucji paliw gazowych wynikających ze stawek opłat z ostatniej stosowanej 2022 r. taryfy dla usług dystrybucji paliw gazowych dla odbiorców uprawnionych, dla ilości paliwa gazowego dostarczanego okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r.
 
 3b. W przypadku braku zatwierdzenia taryfy dla usług dystrybucji paliw gazowych na 2024 r., podmiotowi uprawnionemu, którym 3 ust. 7b, przysługuje tymczasowa rekompensata obliczona zgodnie z ust. 3a, przy czym miejsce Cd2024 stosuje się stawkę opłat z ostatniej taryfy dla usług dystrybucji paliw gazowych na 2023 r.
 
-4. Podmiotowi uprawnionemu, stosującemu cenę maksymalną paliw gazowych rozliczeniach z odbiorcami, których 3a ust. 1, przysługuje rekompensata, ustalana zgodnie ze wzorem: 𝑅𝑝= ∑(𝐼𝑝𝑧𝑝∗(𝐶𝑝𝑡𝑝−𝐶𝑝𝑚)) , gdzie poszczególne symbole oznaczają: Rp kwotę rekompensaty (zł), Ipzp ilość paliw gazowych dostarczonych lub prognozowanych do dostarczenia danym okresie stosowania ceny maksymalnej paliw gazowych do odbiorców, których 3a ust. 1 (MWh), Cptp cenę paliwa gazowego określoną umowie między odbiorcą, którym 3a ust. 1, a podmiotem uprawnionym (zł/MWh), Cpm cenę maksymalną paliw gazowych (zł/MWh).
+4. Podmiotowi uprawnionemu, stosującemu cenę maksymalną paliw gazowych rozliczeniach z odbiorcami, których 3a ust. 1, przysługuje rekompensata, ustalana zgodnie ze wzorem: 𝑅𝑝= ∑(𝐼𝑝𝑧𝑝∗(𝐶𝑝𝑡𝑝−𝐶𝑝𝑚)), gdzie poszczególne symbole oznaczają: Rp kwotę rekompensaty (zł), Ipzp ilość paliw gazowych dostarczonych lub prognozowanych do dostarczenia danym okresie stosowania ceny maksymalnej paliw gazowych do odbiorców, których 3a ust. 1 (MWh), Cptp cenę paliwa gazowego określoną umowie między odbiorcą, którym 3a ust. 1, a podmiotem uprawnionym (zł/MWh), Cpm cenę maksymalną paliw gazowych (zł/MWh).
 
 5. Do składania i rozpatrywania wniosków wypłatę rekompensaty z tytułu stosowania ceny maksymalnej rozliczeniach z odbiorcami, których 3a ust. 1, oraz wniosków rozliczanie tej rekompensaty, przepisy 5–8 stosuje się odpowiednio.
 
@@ -210,7 +240,7 @@ source: "isap-pdf"
 
 1. Rekompensata jest wypłacana za każdy miesiąc kalendarzowy na wniosek podmiotu uprawnionego.
 
-2. Podmiot uprawniony składa wniosek wypłatę rekompensaty do zarządcy rozliczeń do 25. dnia miesiąca następującego po miesiącu, dla którego składany jest wniosek wypłatę rekompensaty. Jeżeli termin na złożenie wniosku wypłatę rekompensaty przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa następnego dnia, który nie jest dniem wolnym od pracy ani sobotą. rozliczeniach z odbiorcami uprawnionymi, których 3 ust. 1, oraz rekompensaty z tytułu stosowania ceny maksymalnej rozliczeniach z odbiorcami, których 3a ust. 1.
+2. Podmiot uprawniony składa wniosek wypłatę rekompensaty do zarządcy rozliczeń do 25. dnia miesiąca następującego po miesiącu, dla którego składany jest wniosek wypłatę rekompensaty. Jeżeli termin na złożenie wniosku wypłatę rekompensaty przypada na dzień uznany ustawowo za wolny od pracy lub na sobotę, termin upływa następnego dnia, który nie jest dniem wolnym od pracy ani sobotą. maksymalnej rozliczeniach z odbiorcami, których 3a ust. 1.
 
 2b. W przypadku, którym 4 ust. 6, we wniosku wypłatę rekompensaty składanym po zatwierdzeniu kolejnej taryfy uwzględnia się rozliczenie różnicy między kwotami rekompensat ustalonymi zgodnie z 4 ust. 2, a faktycznie wypłaconymi kwotami tymczasowych rekompensat ustalonymi zgodnie z 4 ust. 6, z uwzględnieniem 4 ust. 7.
 
@@ -265,7 +295,6 @@ source: "isap-pdf"
 
 12. W przypadku gdy nie zostanie dokonany zwrot, zarządca rozliczeń wzywa podmiot uprawniony do zwrotu nienależnie otrzymanych środków terminie 14 dni od dnia otrzymania wezwania, a przypadku zaniechania zwrotu środków, zarządca rozliczeń wydaje decyzję administracyjną określającą wysokość nienależnie pobranej kwoty podlegającej zwrotowi oraz termin dokonania tego zwrotu.
 
-- **1)** za rok 2023 nie wcześniej niż od dnia 15 maja 2024 r. i nie później niż do dnia 31 sierpnia 2024 r.;
 - **2)** za rok 2024 nie wcześniej niż od dnia 15 maja 2025 r. i nie później niż do dnia 31 sierpnia 2025 r.
 
 1a. W przypadku, którym 4 ust. 6, do rozliczenia rekompensaty za okres od dnia określonego odpowiednio 4 ust. 6 1 albo 2 do dnia zatwierdzenia kolejnej taryfy, przyjmuje się, jako cenę paliwa gazowego wynikającą z taryfy (Cpt), 4 ust. 2, cenę z kolejnej zatwierdzonej taryfy. Przepisu 4 ust. 7 nie stosuje się.
@@ -302,7 +331,7 @@ source: "isap-pdf"
     - **a)** wypłatę rekompensaty,
     - **b)** rozliczenie rekompensaty;
 
-- **2)** instrukcje składania wniosków, których 1. mieniu przepisów ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego jest minister właściwy do spraw gospodarki surowcami energetycznymi.
+- **2)** instrukcje składania wniosków, których 1. spraw gospodarki surowcami energetycznymi.
 
 4. Zarządca rozliczeń informuje Prezesa URE wypłaconych podmiotowi uprawnionemu kwotach rekompensat terminie 21 dni od dnia dokonania wypłaty.
 
@@ -401,7 +430,7 @@ source: "isap-pdf"
 
 **Art. 14.**
 
-1. W przypadku zmiany zewnętrznych warunków wykonywania działalności gospodarczej podmiot uprawniony, które wpływają na istotny spadek ceny paliw gazowych wynikających z taryfy zatwierdzonej na całość lub część 2023 r. lub na okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. lub na okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. lub na część tego okresu, tym zmiany dotyczącej warunków zakładanych przy kalkulacji tej taryfy, podmiot uprawniony występuje do Prezesa URE z wnioskiem zmianę taryfy zakresie obniżenia cen paliw gazowych ustalonych taryfie, terminie 14 dni od tej zmiany. Prezesa URE obniżenie cen paliw gazowych taryfie, Prezes URE może wezwać podmiot uprawniony do złożenia wniosku zmianę taryfy terminie 7 dni od dnia otrzymania wezwania.
+1. W przypadku zmiany zewnętrznych warunków wykonywania działalności gospodarczej podmiot uprawniony, które wpływają na istotny spadek ceny paliw gazowych wynikających z taryfy zatwierdzonej na całość lub część 2023 r. lub na okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. lub na okres od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. lub na część tego okresu, tym zmiany dotyczącej warunków zakładanych przy kalkulacji tej taryfy, podmiot uprawniony występuje do Prezesa URE z wnioskiem zmianę taryfy zakresie obniżenia cen paliw gazowych ustalonych taryfie, terminie 14 dni od tej zmiany. zmianę taryfy terminie 7 dni od dnia otrzymania wezwania.
 
 3. W przypadku gdy mimo wezwania podmiot uprawniony nie złoży wniosku, którym ust. 2, lub nie uzupełni wniosku terminie lub uzupełniony wniosek dalej zawiera braki formalne lub merytoryczne uniemożliwiające zatwierdzenie zmiany taryfy zgodnie z 44–46 ustawy Prawo energetyczne, zarządca rozliczeń wstrzymuje wypłatę rekompensat po otrzymaniu informacji tym fakcie od Prezesa URE.
 
@@ -419,7 +448,7 @@ source: "isap-pdf"
 
 2. Kwota należna, ust. 1, jest ustalana zgodnie z wzorem: 𝑊 =𝐼𝑝𝑧∗(𝐶𝑝𝑡−𝐶𝑝𝑚)∗ 𝑥/𝑦 gdzie poszczególne symbole oznaczają: W kwotę należną (zł), Ipz ilość paliw gazowych dostarczonych lub prognozowanych do dostarczenia danym okresie do odbiorcy, którym 3a ust. 1 (MWh), Cpt cenę paliwa gazowego wynikającą z umowy między odbiorcą, którym 3a ust. 1, a podmiotem uprawnionym (zł/MWh), Cpm cenę maksymalną paliw gazowych (zł/MWh), x liczbę dni wynikających ze wskazanego we wniosku okresu, y liczbę dni wynikających z danego okresu rozliczeniowego widniejącego na fakturze lub dokumencie prognozy sprzedaży.
 
-3. Podmiot uprawniony dokonuje przekazania zwróconych kwot należnych wraz z ustawowymi odsetkami za opóźnienie na zasadach określonych 7 dla zwrotu nienależnie otrzymanej rekompensaty. których 4ia ustawy Prawo energetyczne, stosuje:
+3. Podmiot uprawniony dokonuje przekazania zwróconych kwot należnych wraz z ustawowymi odsetkami za opóźnienie na zasadach określonych 7 dla zwrotu nienależnie otrzymanej rekompensaty.
 
 - **1)** okresie od dnia 1 stycznia 2023 r. do dnia 30 czerwca 2024 r. oraz okresie od dnia 1 lipca 2024 r. do dnia 31 grudnia 2024 r. rozliczeniach z odbiorcami uprawnionymi, których 3 ust. 1, oraz
 - **2)** po uwzględnieniu informacji przekazanych Zakład, rozliczeniach z odbiorcami uprawnionymi, których 3a ust. 1, spełniającym warunki do uzyskania pomocy de minimis co najmniej wysokości odpowiadającej kwocie należnej, 14a ust. 1 okresach wskazanych we wniosku, zawierających się pomiędzy dniem 1 kwietnia 2023 r. a dniem 30 czerwca 2024 r., pod warunkiem, którym 3a ust. 1 cenę paliw gazowych nie wyższą niż cena maksymalna paliw gazowych.
@@ -446,6 +475,11 @@ source: "isap-pdf"
 
 **Art. 18.** W przypadku gdy odbiorca paliw gazowych gospodarstwie domowym, którym 62b ust. 1 2 lit. a ustawy Prawo energetyczne:
 
+- **1)** wykorzystuje jako główne źródło ogrzewania gospodarstwa domowego urządzenia grzewcze zasilane paliwami gazowymi, których 3 3a ustawy Prawo energetyczne, wpisany lub zgłoszony do centralnej ewidencji emisyjności budynków, 27a ust. 1 ustawy z dnia 21 listopada 2008 r. wspieraniu termomodernizacji i remontów oraz centralnej ewidencji emisyjności budynków (Dz. U. z 2024 r. poz. 1446, 1473, 1572, 1635 i 1940), do dnia wejścia życie albo po tym dniu przypadku głównego źródła ogrzewania wpisanego lub zgłoszonego po raz pierwszy do centralnej ewidencji emisyjności budynków, których 27g ust. 1 tej ustawy;
+- **2)** jest osobą gospodarstwie domowym jednoosobowym, którym wysokość przeciętnego miesięcznego dochodu rozumieniu 3 1 ustawy z dnia 28 listopada 2003 r. świadczeniach rodzinnych (Dz. U. z 2024 r. poz. 323, 858, 1615 i 1871) nie przekracza kwoty 2100 zł, lub osobą gospodarstwie domowym wieloosobowym, którym wysokość przeciętnego miesięcznego dochodu rozumieniu 3 1 ustawy z dnia 28 listopada 2003 r. świadczeniach rodzinnych nie przekracza kwoty 1500 zł na osobę przysługuje mu refundacja kwoty odpowiadającej podatkowi VAT wynikającej z opłaconej faktury i informacji, których 18a, dokumentujących dostarczenie paliw gazowych od dnia 1 stycznia 2023 r. do dnia 31 grudnia 2023 r. oraz od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. do tego odbiorcy paliw gazowych, zwana dalej „refundacją podatku VAT”. 2023 r. lub okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. i obejmującej dostarczenie paliw gazowych więcej niż jednym roku kalendarzowym załącza informację dotyczącą ilości paliw gazowych dostarczonych 2023 r. oraz odrębnie za okres od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r., określoną na podstawie danych rzeczywistych dotyczących zużycia paliw gazowych, a także ich prognoz, na podstawie danych historycznych dotyczących zużycia paliw gazowych danego odbiorcy, do odbiorcy paliw gazowych, którym 62b ust. 1 2 lit. a ustawy Prawo energetyczne, do którego wysyłana jest taka faktura.
+
+2. W przypadku, którym faktura dokumentująca dostarczenie paliw gazowych 2023 r. lub do dnia 30 czerwca 2024 r. i obejmująca dostarczenie paliw gazowych więcej niż jednym roku kalendarzowym, została dostarczona do odbiorcy paliw gazowych, którym 62b ust. 1 2 lit. a ustawy Prawo energetyczne, bez informacji, ust. 1, przedsiębiorstwo energetyczne rozumieniu 3 12 ustawy Prawo energetyczne, wykonujące działalność gospodarczą zakresie obrotu paliwami gazowymi, informację dotyczącą ilości dostarczonych paliw gazowych odpowiednio 2023 r. lub okresie od dnia 1 stycznia 2024 r. do dnia 30 czerwca 2024 r. załącza do kolejnej faktury wysyłanej do tego odbiorcy, a przypadku jej braku odpowiednio 2023 r. lub okresie do dnia 30 czerwca 2024 r. do innego dokumentu wysyłanego do tego odbiorcy odpowiednio 2023 r. lub 2024 r.
+
 **Art. 19.**
 
 1. Odbiorcy paliw gazowych gospodarstwach domowych, których 62b ust. 1 2 lit. a ustawy Prawo energetyczne, składają wniosek refundację podatku VAT na piśmie lub za pomocą środków komunikacji elektronicznej rozumieniu ustawy z dnia 18 lipca 2002 r. świadczeniu usług drogą elektroniczną (Dz. U. z 2024 r. poz. 1513) wójtowi, burmistrzowi albo prezydentowi miasta, nie później niż do dnia 30 września 2024 r., lub terminie 30 dni od dnia otrzymania faktury dokumentującej dostarczenie paliw gazowych.
@@ -469,7 +503,7 @@ source: "isap-pdf"
 
 5. Przyznanie wójta, burmistrza lub prezydenta miasta refundacji podatku VAT nie wymaga wydania decyzji. Odmowa przyznania refundacji podatku VAT, uchylenie lub zmiana wysokości refundacji podatku VAT oraz rozstrzygnięcie sprawie nienależnie pobranej refundacji podatku VAT wymagają wydania decyzji.
 
-6. Wójt, burmistrz lub prezydent miasta przesyła wnioskodawcy informację przyznaniu refundacji podatku VAT na wskazany niego adres poczty elektronicznej ile wnioskodawca wskazał adres poczty elektronicznej we wniosku refundację podatku VAT. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku refundację podatku VAT, wójt, burmistrz lub prezydent miasta, odbierając ten wniosek od wnioskodawcy, informuje go możliwości odebrania od tego organu informacji przyznaniu refundacji podatku VAT. podatku VAT za jego pośrednictwem za pomocą środków komunikacji elektronicznej, tym przy użyciu aplikacji mObywatel rozumieniu ustawy z dnia 26 maja 2023 r. aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717).
+6. Wójt, burmistrz lub prezydent miasta przesyła wnioskodawcy informację przyznaniu refundacji podatku VAT na wskazany niego adres poczty elektronicznej ile wnioskodawca wskazał adres poczty elektronicznej we wniosku refundację podatku VAT. W przypadku gdy wnioskodawca nie wskazał adresu poczty elektronicznej we wniosku refundację podatku VAT, wójt, burmistrz lub prezydent miasta, odbierając ten wniosek od wnioskodawcy, informuje go możliwości odebrania od tego organu informacji przyznaniu refundacji podatku VAT. rozumieniu ustawy z dnia 26 maja 2023 r. aplikacji mObywatel (Dz. U. z 2024 r. poz. 1275 i 1717).
 
 8. Wniosek refundację podatku VAT złożony przy użyciu aplikacji mObywatel opatruje się zaawansowaną pieczęcią elektroniczną ministra właściwego do spraw informatyzacji, po uwierzytelnieniu składającego oświadczenie z wykorzystaniem certyfikatu podstawowego, którym 2 2 ustawy z dnia 26 maja 2023 r. aplikacji mObywatel. W przypadku złożenia wniosku refundację podatku VAT przy użyciu aplikacji mObywatel do tego wniosku można załączyć odwzorowania cyfrowe dokumentów, których ust. 1.
 
@@ -541,7 +575,7 @@ source: "isap-pdf"
 
 **Art. 25a.**
 
-1. Przedsiębiorstwo wydobywające gaz ziemny, którego zobowiązania zostały objęte gwarancją Skarbu Państwa, 14 ustawy z dnia 26 stycznia 2022 r. szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych związku z sytuacją na rynku gazu (Dz. U. poz. 202, z późn. zm. ), powiększa jednorazowo gazowy odpis na Fundusz Wypłaty Różnicy Ceny, wysokość opłaty wyrównawczej. OW = WNO x 0,587 %, gdzie poszczególne symbole oznaczają: OW opłata wyrównawcza [zł], WNO wartość gazowego odpisu na Fundusz Wypłaty Różnicy Ceny, które przedsiębiorstwo, którym ust. 1, przekazało za wydobycie gazu ziemnego okresie styczeń maj 2023 r. [zł].
+1. Przedsiębiorstwo wydobywające gaz ziemny, którego zobowiązania zostały objęte gwarancją Skarbu Państwa, 14 ustawy z dnia 26 stycznia 2022 r. szczególnych rozwiązaniach służących ochronie odbiorców paliw gazowych związku z sytuacją na rynku gazu (Dz. U. poz. 202, z późn. zm. ), powiększa jednorazowo gazowy odpis na Fundusz Wypłaty Różnicy Ceny, wysokość opłaty wyrównawczej. gdzie poszczególne symbole oznaczają: OW opłata wyrównawcza [zł], WNO wartość gazowego odpisu na Fundusz Wypłaty Różnicy Ceny, które przedsiębiorstwo, którym ust. 1, przekazało za wydobycie gazu ziemnego okresie styczeń maj 2023 r. [zł].
 
 3. Opłatę wyrównawczą przedsiębiorstwo, którym ust. 1, wnosi wraz z gazowym odpisem na Fundusz Wypłaty Różnicy Ceny należnym za miesiąc następujący po miesiącu wejścia życie ustawy z dnia 16 sierpnia 2023 r. zmianie ustawy szczególnych rozwiązaniach służących ochronie odbiorców energii elektrycznej 2023 roku związku z sytuacją na rynku energii elektrycznej oraz niektórych innych ustaw (Dz. U. poz. 1785 oraz z 2024 r. poz. 1831).
 
@@ -642,13 +676,13 @@ source: "isap-pdf"
 
 12. Postępowanie sprawie odwołania od decyzji administracyjnej, ust. 7, toczy się według przepisów ustawy z dnia 17 listopada 1964 r. Kodeks postępowania cywilnego postępowaniu sprawach z zakresu regulacji energetyki.
 
-13. W sprawach dotyczących kontroli, ust. 1, zakresie nieuregulowanym niniejszym rozdziale, Gazowa składka na Fundusz Wypłaty Różnicy Ceny
+13. W sprawach dotyczących kontroli, ust. 1, zakresie nieuregulowanym niniejszym rozdziale, stosuje się przepisy ustawy z dnia 6 marca 2018 r. Prawo przedsiębiorców.
 
 **Art. 31a.**
 
 1. Przedsiębiorstwo wydobywające gaz ziemny przekazuje gazową składkę na Fundusz Wypłaty Różnicy Ceny.
 
-2. Wysokość gazowej składki na Fundusz Wypłaty Różnicy Ceny ustala się zgodnie ze wzorem: GSF = Wr ×(Cr−Kr−Ki) ×0,97, gdzie poszczególne symbole oznaczają: GSF wysokość gazowej składki na Fundusz Wypłaty Różnicy Ceny [zł], Wr wolumen gazu ziemnego wydobytego od dnia 1 stycznia 2022 r. do dnia 31 grudnia 2022 r. przedsiębiorstwo wydobywające gaz ziemny, tym poprzedników prawnych tego przedsiębiorstwa [MWh], Cr średnią ważoną wolumenem cenę kontraktów terminowych zawartych na giełdzie towarowej rozumieniu 2 1 ustawy z dnia 26 października 2000 r. giełdach towarowych, produktów gazowych z dostawą na rok 2022 okresie od dnia 1 października 2021 r. do dnia 31 grudnia 2022 r. z wyłączeniem produktu GAS_BASE_S-W-22 [zł/MWh], Kr średni ważony wolumenem koszt wydobycia gazu ziemnego wynikający z ksiąg rachunkowych przedsiębiorstwa wydobywającego gaz ziemny dla 2022 r., z uwzględnieniem danych poprzedników prawnych tego przedsiębiorstwa [zł/MWh], Ki koszty inwestycyjne wysokości 25 zł/MWh.
+2. Wysokość gazowej składki na Fundusz Wypłaty Różnicy Ceny ustala się zgodnie ze wzorem: GSF= Wr ×(Cr−Kr−Ki) ×0,97, gdzie poszczególne symbole oznaczają: GSF wysokość gazowej składki na Fundusz Wypłaty Różnicy Ceny [zł], Wr wolumen gazu ziemnego wydobytego od dnia 1 stycznia 2022 r. do dnia 31 grudnia 2022 r. przedsiębiorstwo wydobywające gaz ziemny, tym poprzedników prawnych tego przedsiębiorstwa [MWh], Cr średnią ważoną wolumenem cenę kontraktów terminowych zawartych na giełdzie towarowej rozumieniu 2 1 ustawy z dnia 26 października 2000 r. giełdach towarowych, produktów gazowych z dostawą na rok 2022 okresie od dnia 1 października 2021 r. do dnia 31 grudnia 2022 r. z wyłączeniem produktu GAS_BASE_S-W-22 [zł/MWh], Kr średni ważony wolumenem koszt wydobycia gazu ziemnego wynikający z ksiąg rachunkowych przedsiębiorstwa wydobywającego gaz ziemny dla 2022 r., z uwzględnieniem danych poprzedników prawnych tego przedsiębiorstwa [zł/MWh], Ki koszty inwestycyjne wysokości 25 zł/MWh.
 
 3. Wartości symboli użytych we wzorze, którym ust. 2, wyraża się liczbowo z dokładnością do dwóch miejsc po przecinku, z wyjątkiem wartości dotyczącej symbolu Wr, którą wyraża się z dokładnością do czterech miejsc po przecinku.
 
@@ -676,7 +710,7 @@ source: "isap-pdf"
 
 3. Do złożenia i weryfikacji sprawozdań, których 31c ust. 1, przepisy 30 ust. 1–4 stosuje się odpowiednio.
 
-4. Do przeprowadzania kontroli Prezesa URE zgodności informacji i oświadczeń złożonych sprawozdaniach, których 31c ust. 1, przepisy 31 stosuje się odpowiednio. Zmiany przepisach Art. 32–63. (pominięte)
+4. Do przeprowadzania kontroli Prezesa URE zgodności informacji i oświadczeń złożonych sprawozdaniach, których 31c ust. 1, przepisy 31 stosuje się odpowiednio. Art. 32–63. (pominięte)
 
 #### Rozdział 5 Przepisy przejściowe i końcowe
 
@@ -745,7 +779,7 @@ source: "isap-pdf"
 
 1. Przedsiębiorstwo energetyczne posiadające koncesję na magazynowanie paliw gazowych instalacjach magazynowych występuje do Prezesa URE z wnioskiem, którym 9h ust. 2 1 ustawy zmienianej 37 , terminie do dnia 3 listopada 2023 r.
 
-2. Pozostają mocy decyzje wyznaczeniu operatora systemu magazynowania wydane przed dniem wejścia życie niniejszej ustawy. zwany dalej „wytwórcą energii elektrycznej”, któremu wydano postanowienie na podstawie 70ba ust. 1 albo 79a ust. 1 ustawy zmienianej 44 brzmieniu dotychczasowym, może złożyć do Prezesa URE oświadczenie korekcie przedłużonego terminu spełnienia zobowiązania, którym 70b ust. 4 1 lit. d albo 79 ust. 3 8 lit. a ustawy zmienianej 44 , oraz okresu, którym 70b ust. 4 1 lit. c albo 74 ust. 1 ustawy zmienianej 44 , zgodnie z 70ba ust. 1 albo 79a ust. 1 ustawy zmienianej 44 , brzmieniu nadanym niniejszą ustawą.
+2. Pozostają mocy decyzje wyznaczeniu operatora systemu magazynowania wydane przed dniem wejścia życie niniejszej ustawy. ust. 1 ustawy zmienianej 44 brzmieniu dotychczasowym, może złożyć do Prezesa URE oświadczenie korekcie przedłużonego terminu spełnienia zobowiązania, którym 70b ust. 4 1 lit. d albo 79 ust. 3 8 lit. a ustawy zmienianej 44 , oraz okresu, którym 70b ust. 4 1 lit. c albo 74 ust. 1 ustawy zmienianej 44 , zgodnie z 70ba ust. 1 albo 79a ust. 1 ustawy zmienianej 44 , brzmieniu nadanym niniejszą ustawą.
 
 2. Oświadczenie, którym ust. 1, składa się terminie 90 dni od dnia wejścia życie niniejszej jednak nie później niż przed upływem terminu spełnienia zobowiązania, którym 70b ust. 4 1 lit. d albo 79 ust. 3 8 lit. a, oraz okresu, którym 70b ust. 4 1 lit. c albo 74 ust. 1 ustawy zmienianej 44 brzmieniu dotychczasowym, wydłużonego dodatkowy okres wynikający z postanowienia Prezesa URE wydanego na podstawie 70ba ust. 1 albo 79a ust. 1 ustawy zmienianej 44 , brzmieniu dotychczasowym.
 
@@ -768,6 +802,19 @@ source: "isap-pdf"
 9. W przypadkach, których ust. 4 albo 7, wytwórca energii elektrycznej, który przed dniem wejścia życie niniejszej ustawy dokonał aktualizacji oferty na podstawie 79 ust. 9–12 ustawy zmienianej 44 , może ponownie jednokrotnie dokonać tej aktualizacji, terminie i na zasadach określonych tych przepisach.
 
 **Art. 73.** Do wytwórców energii elektrycznej z odnawialnych źródeł energii instalacjach odnawialnych źródeł energii, których oferty wygrały aukcje rozstrzygnięte przed dniem wejścia życie niniejszej stosuje się przepisy 74 ust. 1 1 ustawy zmienianej 44 , brzmieniu nadanym niniejszą ustawą. dniem wejścia życie niniejszego przepisu, przed upływem terminu spełnienia zobowiązania, którym 79 ust. 3 8 lit. a tiret pierwsze ustawy zmienianej 44 brzmieniu dotychczasowym, z uwzględnieniem przedłużenia tego terminu zgodnie z 79a ustawy zmienianej 44 brzmieniu dotychczasowym, może złożyć oświadczenie zmianie terminu spełnienia tego zobowiązania, określając ten termin zgodnie z 79 ust. 3 8 lit. a tiret pierwsze ustawy zmienianej 44 brzmieniu nadanym niniejszą ustawą. 2. Oświadczenie, którym ust. 1, wytwórca energii elektrycznej składa do Prezesa URE. 3. Do oświadczenia, którym ust. 1, wytwórca energii elektrycznej dołącza:
+
+- **1)** zaktualizowany harmonogram rzeczowo-finansowy, którym 75 ust. 5 6 ustawy zmienianej 44 , dostosowany do okresu wydłużanego na podstawie ust. 1;
+- **2)** zaktualizowaną gwarancję bankową, 78 ust. 4 ustawy zmienianej 44 , ile została ustanowiona dla tej instalacji, ważność została dostosowana do okresu wydłużanego na podstawie ust. 1.
+
+4. Złożenie oświadczenia, którym ust. 1, wraz z załącznikami, których ust. 3, zmienia, z mocy prawa, termin spełnienia zobowiązania, którym 79 ust. 3 8 lit. a tiret pierwsze ustawy zmienianej 44 brzmieniu dotychczasowym, na termin spełnienia zobowiązania, którym 79 ust. 3 8 lit. a tiret pierwsze ustawy zmienianej 44 , brzmieniu nadanym niniejszą ustawą.
+
+5. W przypadku gdy oświadczenie, którym ust. 1, zostanie złożone z uchybieniem terminu określonego ust. 1 lub wytwórca energii elektrycznej nie dołączył załączników, których ust. 3, termin spełnienia zobowiązania, którym 79 ust. 3 8 lit. a tiret pierwsze ustawy zmienianej 44 brzmieniu dotychczasowym, nie ulega zmianie.
+
+6. O zmianie terminu spełnienia zobowiązania, którym 79 ust. 3 8 lit. a tiret pierwsze ustawy zmienianej 44 , zgodnie z ust. 1, Prezes URE informuje wytwórcę energii elektrycznej, sprzedawcę zobowiązanego oraz operatora rozliczeń energii odnawialnej, którym 106 ustawy zmienianej 44 , terminie 21 dni od dnia otrzymania oświadczenia, którym ust. 1, wraz z załącznikami, których ust. 3.
+
+7. Przedłużenie terminu spełnienia zobowiązania, którym 79 ust. 3 8 lit. a tiret pierwsze ustawy zmienianej 44 , zgodnie z ust. 1, nie wyklucza skorzystania wytwórcę energii elektrycznej z możliwości przedłużenia terminu spełnienia zobowiązania na podstawie 79a ustawy zmienianej 44 oraz na podstawie 72 niniejszej ustawy.
+
+8. W przypadku gdy zmiany terminu spełnienia zobowiązania zgodnie z ust. 1 dokonał wytwórca energii elektrycznej, który przed dniem wejścia życie niniejszej ustawy dokonał aktualizacji oferty na podstawie 79 ust. 9–12 ustawy zmienianej 44 , może on ponownie jednokrotnie dokonać tej aktualizacji, terminie i na zasadach określonych tych przepisach.
 
 **Art. 75.** Przepis 72 ust. 4b ustawy zmienianej 41 , brzmieniu nadanym niniejszą ustawą, stosuje się również do decyzji środowiskowych uwarunkowaniach wydanych przed wejściem życie niniejszej ustawy.
 
@@ -880,5 +927,13 @@ source: "isap-pdf"
 
 **Art. 88.** Przy ustalaniu latach 2023–2024 obowiązku prowadzenia audytu wewnętrznego, którym 274 ust. 3 ustawy z dnia 27 sierpnia 2009 r. finansach publicznych (Dz. U. z 2024 r. poz. 1530, 1572, 1717, 1756 i 1907 oraz z 2025 r. poz. 39), od kwot ujętych uchwale budżetowej odejmuje się środki przekazane gminom na realizację:
 
+- **1)** refundacji podatku VAT, których 22;
+- **2)** wypłat dodatku węglowego, których 4 ustawy z dnia 5 sierpnia 2022 r. dodatku węglowym (Dz. U. z 2024 r. poz. 1207).
+
 **Art. 89.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia , z wyjątkiem:
+
+- **1)** 46 i 48 3, które wchodzą życie z dniem 31 grudnia 2022 r.;
+- **2)** 39, 44 3, 48 1 i 2, 54, 62, 63, 68, 74 oraz 82, które wchodzą życie z dniem 1 stycznia 2023 r.;
+- **3)** 53 8 i 9 oraz 76, które wchodzą życie z dniem 1 stycznia 2024 r.
+
 

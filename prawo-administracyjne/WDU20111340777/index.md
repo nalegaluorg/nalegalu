@@ -8,10 +8,10 @@ pos: 777
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# dnia 26 maja 2011 zmianie ustawy samorządzie gminnym oraz niektórych innych ustaw
+# Ustawa z dnia 26 maja 2011 r. o zmianie ustawy o samorządzie gminnym oraz niektórych innych ustaw
 
 | Pole | Wartość |
 |---|---|
@@ -22,42 +22,59 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2011-05-26 |
 | Data wydania | 2011-06-29 |
+| Wejście w życie | 2011-07-14 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20111340777) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2011/777/text.pdf) |
 
-**Art. 1.** W ustawie dnia 8 marca 1990 samorządzie gminnym (Dz. 2001 142, 1591, późn. zm. ) wprowadza się następujące zmiany:
+**Art. 1.** W ustawie z dnia 8 marca 1990 r. o samorządzie gminnym (Dz. U. z 2001 r. Nr 142, poz. 1591, z późn. zm.) wprowadza się następujące zmiany:
 
-**Art. 4d.** Rada Ministrów nie przeprowadza zmian, których mowa 4 1 pkt 1, jeżeli:
+- **1)** w art. 4a dodaje się ust. 4 w brzmieniu: „
 
-**Art. 4e.**
+4. W przypadku przeprowadzenia referendum lokalnego w sprawie utworzenia, połączenia, podziału i zniesienia gminy oraz ustalenia granic gminy, o którym mowa w art. 4c, konsultacji z mieszkańcami, o których mowa w ust. 1 i 2, nie przeprowadza się. ” ;
 
-1. W przypadku tworzenia nowej gminy Prezes Rady Ministrów na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego spraw administracji publicznej wyznacza pełnomocnika spraw utworzenia gminy spośród pracowników podległych wojewodzie albo pracowników urzędu gminy, której obszar wchodzi skład nowo tworzonej gminy.
+- **2)** po art. 4b dodaje się art. 4c-4f w brzmieniu: „
 
-2. Do czasu utworzenia nowej gminy zadaniem pełnomocnika, którym mowa 1, jest przygotowanie organizacyjne prawne gminy wykonywania zadań publicznych.
+**Art. 4c.**
 
-3. Z dniem utworzenia gminy pełnomocnik, którym mowa 1, przejmuje wykonywanie zadań kompetencji jej organów czasu wyboru nowych organów gminy.
+1. W sprawie utworzenia, połączenia, podziału i zniesienia gminy oraz ustalenia granic gminy może być przeprowadzone referendum lokalne z inicjatywy mieszkańców.
 
-**Art. 4f.** Jeżeli wyniku zmian podziale terytorialnym państwa rada gminy została mocy prawa rozwiązana na podstawie 390 § 5 ustawy dnia 5 stycznia 2011 – Kodeks wyborczy (Dz. 21 26, 134, 94, 550 102, 588), Prezes Rady Ministrów na wniosek wojewody zgłoszony za pośrednic„1a. Z inicjatywą przeprowadzenia referendum na wniosek mieszkańców gminy sprawie utworzenia, połączenia, podziału zniesienia gminy oraz ustalenia granic gminy wystąpić może jedynie grupa co najmniej 15 obywateli, którym przysługuje prawo wybierania rady gminy.”.
+2. Z inicjatywą przeprowadzenia referendum, o którym mowa w ust. 1, wystąpić może jedynie grupa co najmniej 15 obywateli, o której mowa w art. 11 ust. 1a ustawy z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm.).
 
-**Art. 3.** W ustawie dnia 21 listopada 2008 pracownikach samorządowych (Dz. 223, 1458, 2009 157, 1241 oraz 2010 229, 1494) po rozdziale 4 dodaje się rozdział 4a brzmieniu: „Rozdział 4a podziale terytorialnym państwa
+3. Referendum, o którym mowa w ust. 1, nie przeprowadza się, jeżeli z analizy przeprowadzonej przed referendum wynika, iż na skutek podziału lub ustalenia nowych granic gminy:
 
-**Art. 43a.** Z dniem utworzenia nowej jednostki samorządu terytorialnego pracownicy samorządowi dotychczasowych urzędów gmin, starostw powiatowych lub urzędów marszałkowskich stają się pracownikami urzędu nowej jednostki samorządu terytorialnego, zastrzeżeniem 43b 43c.
+- **1)** dochody podatkowe na mieszkańca gminy w zmienionych granicach lub gminy utworzonej byłyby niższe od najniższych dochodów podatkowych na mieszkańca ustalonych dla poszczególnych gmin zgodnie z ustawą z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego (Dz. U. z 2010 r. Nr 80, poz. 526 i Nr 127, poz. 857),
+- **2)** gmina w zmienionych granicach lub gmina utworzona byłaby mniejsza od najmniejszej pod względem liczby mieszkańców gminy w Polsce według stanu na dzień 31 grudnia roku poprzedzającego ogłoszenie rozporządzenia, o którym mowa w art. 4.
 
-**Art. 43b.**
+4. Analizy, o której mowa w ust. 3, dokonuje właściwy wojewoda.
 
-1. Stosunki pracy wyboru dotychczasowych urzędach gmin, starostwach powiatowych lub urzędach marszałkowskich wygasają dniem utworzenia nowej jednostki samorządu terytorialnego.
+5. W przypadku przeprowadzania z inicjatywy mieszkańców referendum, o którym mowa w ust. 1, pytanie zawarte we wniosku, o którym mowa w art. 15 ust. 2 ustawy z dnia 15 września 2000 r. o referendum lokalnym, powinno określać szczegółowo proponowane zmiany w podziale terytorialnym państwa.
 
-2. Wygaśnięcie stosunku pracy wójta (burmistrza, prezydenta miasta) jest równoznaczne odwołaniem jego zastępcy lub zastępców.
+6. Wojewoda przekazuje ministrowi właściwemu do spraw administracji publicznej informację o publikacji w wojewódzkim dzienniku urzędowym protokołu wyniku referendum, o którym mowa w ust. 1. Rada Ministrów nie przeprowadza zmian, o których mowa w art. 4 ust. 1 pkt 1, jeżeli:
 
-**Art. 43c.**
+- **1)** dochody podatkowe na mieszkańca gminy w zmienionych granicach lub gminy utworzonej byłyby niższe od najniższych dochodów podatkowych na mieszkańca ustalonych dla poszczególnych gmin zgodnie z ustawą z dnia 13 listopada 2003 r. o dochodach jednostek samorządu terytorialnego,
+- **2)** gmina w zmienionych granicach lub gmina utworzona byłaby mniejsza od najmniejszej pod względem liczby mieszkańców gminy w Polsce według stanu na dzień 31 grudnia roku poprzedzającego ogłoszenie rozporządzenia, o którym mowa w art. 4.
 
-1. Stosunki pracy sekretarza oraz skarbnika gminy, powiatu województwa wygasają po upływie jednego miesiąca od dnia utworzenia nowej jednostki samorządu terytorialnego, jeżeli najpóźniej na 14 dni przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo razie ich nieprzyjęcia ciągu 7 dni od dnia ich zaproponowania.
+1. W przypadku tworzenia nowej gminy Prezes Rady Ministrów na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej wyznacza pełnomocnika do spraw utworzenia gminy spośród pracowników podległych wojewodzie albo pracowników urzędu gminy, której obszar wchodzi w skład nowo tworzonej gminy.
 
-2. Wygaśnięcie stosunku pracy, którym mowa 1, pociąga za sobą skutki, jakie przepisy Kodeksu pracy wiążą rozwiązaniem stosunku pracy za wypowiedzeniem.
+2. Do czasu utworzenia nowej gminy zadaniem pełnomocnika, o którym mowa w ust. 1, jest przygotowanie organizacyjne i prawne gminy do wykonywania zadań publicznych.
 
-3. Pracodawca obowiązany jest powiadomić na piśmie pracownika, którym mowa 1, odpowiednio terminie wygaśnięcia stosunku pracy albo skutkach nieprzyjęcia nowych warunków pracy lub płacy.”. tek zmian podziale terytorialnym państwa rozwiązaniu ulegnie rada, jeżeli data wyborów przypada okresie 6 miesięcy poprzedzających rozwiązanie tej rady. W jednostce tej wybory nowej rady przeprowadza się trybie na zasadach określonych kodeksie po wejściu życie zmian podziale terytorialnym § 2. W przypadku, którym mowa § 1, czasu rozwiązania rady jednostce samorządu terytorialnego, której mowa 390 § 1 pkt 3, zadania kompetencje rady wykonują dotychczasowe organy. Po rozwiązaniu rady oraz sytuacji, której mowa 390 § 5, czasu wyboru nowej rady zadania kompetencje rady wykonuje osoba wyznaczona przez Prezesa Rady Ministrów na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego spraw administracji publicznej.”.
+3. Z dniem utworzenia gminy pełnomocnik, o którym mowa w ust. 1, przejmuje wykonywanie zadań i kompetencji jej organów do czasu wyboru nowych organów gminy. Jeżeli w wyniku zmian w podziale terytorialnym państwa rada gminy została z mocy prawa rozwiązana na podstawie art. 390 § 5 ustawy z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, Nr 26, poz. 134, Nr 94, poz. 550 i Nr 102, poz. 588), Prezes Rady Ministrów na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej wyznacza osobę, która wykonuje zadania i kompetencje rady gminy do czasu wyboru nowej rady. ” .
 
-**Art. 5.** Jeżeli wyniku zmian podziale terytorialnym państwa zachodzących trakcie kadencji organów stanowiących jednostek samorządu terytorialnego trwającej dniu wejścia życie niniejszej ustawy rada gminy została mocy prawa rozwiązana na podstawie 197 5 ustawy dnia 16 lipca 1998 – Ordynacja wyborcza rad gmin, rad powiatów sejmików województw (Dz. 2010 176, 1190 oraz 2011 34, 172), Prezes Rady Ministrów na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego spraw administracji publicznej wyznacza osobę, która wykonuje zadania kompetencje rady gminy czasu wyboru nowej rady.
+**Art. 2.** W ustawie z dnia 15 września 2000 r. o referendum lokalnym (Dz. U. Nr 88, poz. 985, z późn. zm.) w art. 11 po ust. 1 dodaje się ust. 1a w brzmieniu: „ 1a. Z inicjatywą przeprowadzenia referendum na wniosek mieszkańców gminy w sprawie utworzenia, połączenia, podziału i zniesienia gminy oraz ustalenia granic gminy wystąpić może jedynie grupa co najmniej 15 obywateli, którym przysługuje prawo wybierania do rady gminy. ” .
 
-**Art. 6.** Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia.
+**Art. 3.** W ustawie z dnia 21 listopada 2008 r. o pracownikach samorządowych (Dz. U. Nr 223, poz. 1458, z 2009 r. Nr 157, poz. 1241 oraz z 2010 r. Nr 229, poz. 1494) po rozdziale 4 dodaje się rozdział 4a w brzmieniu: „
+
+#### Rozdział 4a Zmiany w podziale terytorialnym państwa
+
+**Art. 43a.** Z dniem utworzenia nowej jednostki samorządu terytorialnego pracownicy samorządowi dotychczasowych urzędów gmin, starostw powiatowych lub urzędów marszałkowskich stają się pracownikami urzędu nowej jednostki samorządu terytorialnego, z zastrzeżeniem art. 43b i art. 43c. 1. Stosunki pracy z wyboru w dotychczasowych urzędach gmin, starostwach powiatowych lub urzędach marszałkowskich wygasają z dniem utworzenia nowej jednostki samorządu terytorialnego. 2. Wygaśnięcie stosunku pracy wójta (burmistrza, prezydenta miasta) jest równoznaczne z odwołaniem jego zastępcy lub zastępców. 1. Stosunki pracy sekretarza oraz skarbnika gminy, powiatu i województwa wygasają po upływie jednego miesiąca od dnia utworzenia nowej jednostki samorządu terytorialnego, jeżeli najpóźniej na 14 dni przed upływem tego terminu nie zostaną im zaproponowane nowe warunki pracy lub płacy na dalszy okres albo w razie ich nieprzyjęcia w ciągu 7 dni od dnia ich zaproponowania. 2. Wygaśnięcie stosunku pracy, o którym mowa w ust. 1, pociąga za sobą skutki, jakie przepisy Kodeksu pracy wiążą z rozwiązaniem stosunku pracy za wypowiedzeniem. 3. Pracodawca obowiązany jest powiadomić na piśmie pracownika, o którym mowa w ust. 1, odpowiednio o terminie wygaśnięcia stosunku pracy albo o skutkach nieprzyjęcia nowych warunków pracy lub płacy. ” . W ustawie z dnia 5 stycznia 2011 r. – Kodeks wyborczy (Dz. U. Nr 21, poz. 112, Nr 26, poz. 134, Nr 94, poz. 550 i Nr 102, poz. 588) po art. 390 dodaje się art. 390a w brzmieniu: „
+
+**Art. 390a.**
+
+§ 1. Wyborów zarządzonych na podstawie art. 371 nie przeprowadza się w jednostce samorządu terytorialnego, w której wskutek zmian w podziale terytorialnym państwa rozwiązaniu ulegnie rada, jeżeli data wyborów przypada w okresie 6 miesięcy poprzedzających rozwiązanie tej rady. W jednostce tej wybory do nowej rady przeprowadza się w trybie i na zasadach określonych w kodeksie po wejściu w życie zmian w podziale terytorialnym państwa.
+
+§ 2. W przypadku, o którym mowa w § 1, do czasu rozwiązania rady w jednostce samorządu terytorialnego, o której mowa w art. 390 § 1 pkt 3, zadania i kompetencje rady wykonują dotychczasowe organy. Po rozwiązaniu rady oraz w sytuacji, o której mowa w art. 390 § 5, do czasu wyboru nowej rady zadania i kompetencje rady wykonuje osoba wyznaczona przez Prezesa Rady Ministrów na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej. ” .
+
+**Art. 5.** Jeżeli w wyniku zmian w podziale terytorialnym państwa zachodzących w trakcie kadencji organów stanowiących jednostek samorządu terytorialnego trwającej w dniu wejścia w życie niniejszej ustawy rada gminy została z mocy prawa rozwiązana na podstawie art. 197 ust. 5 ustawy z dnia 16 lipca 1998 r. – Ordynacja wyborcza do rad gmin, rad powiatów i sejmików województw (Dz. U. z 2010 r. Nr 176, poz. 1190 oraz z 2011 r. Nr 34, poz. 172), Prezes Rady Ministrów na wniosek wojewody zgłoszony za pośrednictwem ministra właściwego do spraw administracji publicznej wyznacza osobę, która wykonuje zadania i kompetencje rady gminy do czasu wyboru nowej rady.
+
+**Art. 6.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

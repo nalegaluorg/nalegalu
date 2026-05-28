@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# o zmianie ustawy o dokumentach publicznych oraz ustawy o podatku akcyzowym
-
-*USTAWA z dnia 4 grudnia 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 30 grudnia 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -24,12 +22,61 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2025-12-04 |
 | Data wydania | 2025-12-30 |
+| Wejście w życie | 2025-12-31 |
 | Ostatnia zmiana | 2026-01-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250001881) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/1881/text.pdf) |
 
+Poz. 1881
+USTAWA z dnia 4 grudnia 2025 r.
+o zmianie ustawy o dokumentach publicznych oraz ustawy o podatku akcyzowym
+
 **Art. 1.** W ustawie z dnia 22 listopada 2018 r. o dokumentach publicznych (Dz. U. z 2024 r. poz. 1669 i 1863) wprowadza się następujące zmiany:
 
+- **1)** art. 2 ust. 1:
+    - **a)** pkt 5 otrzymuje brzmienie: „5) personalizacja dokumentu publicznego – naniesienie przez uprawniony podmiot na blankiet dokumentu publicznego warstwie graficznej lub elektronicznej danych osoby, rzeczy lub innych danych wymaganych dla danego dokumentu publicznego;”,
+    - **b)** uchyla się pkt 7;
+
+- **2)** art. 11 ust. 5 wyrazy „ze Spółką” zastępuje się wyrazami „z wytwórcą wyłącznym”;
+- **3)** po art. 16 rozdziale 4 dodaje się art. 16a brzmieniu: „Art. 16a. 1. W celu zagwarantowania bezpieczeństwa państwa oraz porządku publicznego, tym objęcia procesu wytwarzania lub personalizacji dokumentów publicznych nadzorem krajowej władzy bezpieczeństwa, a także ochrony informacji dotyczących współdziałania systemów niezbędnych do wytworzenia dokumentów publicznych z systemami, rejestrami i ewidencjami państwowymi, Polskiej Wytwórni Papierów Wartościowych Spółce Akcyjnej z siedzibą Warszawie, zwanej dalej „wytwórcą wyłącznym”, powierza się prawo wyłączne określone art. 17 zakresie niektórych dokumentów publicznych wymienionych art. 5 ust. 2.
+
+2. Rada Ministrów określi, drodze rozporządzenia, wykaz dokumentów publicznych, do których wytwarzania, indywidualizacji lub personalizacji prawo wyłączne, określone art. 17, powierza się wytwórcy wyłącznemu, oraz zakres tego powierzenia, uwzględniając kryteria określone ust. 1.”;
+
+- **4)** art. 17 otrzymuje brzmienie: „Art. 17. 1. Prawo wyłączne obejmuje wytwarzanie blankietów dokumentów publicznych, o których mowa art. 5 ust. 2 pkt 16, 17, 19 i 32 lit. a–e, g, h oraz m, lub blankietów dokumentów publicznych określonych przepisach wydanych na podstawie art. 16a ust. 2. Prawo wyłączne może obejmować również indywidualizację lub personalizację dokumentów publicznych, o ile następują procesie wytwarzania blankietów dokumentów publicznych.
+
+2. Wytwórca wyłączny jest obowiązany posiadać aktualny, certyfikowany i nadzorowany przez niezależną jednostkę certyfikującą system zarządzania bezpieczeństwem potwierdzony aktualnym certyfikatem zgodności z normą ISO 14298.
+
+3. Wytwórca wyłączny jest obowiązany posiadać świadectwo bezpieczeństwa przemysłowego potwierdzające zdolność do zapewnienia ochrony informacji niejawnych oznaczonych klauzulą „tajne” lub wyższą oraz odrębne świadectwo potwierdzające zdolność do ochrony informacji niejawnych o klauzuli stanowiącej zagraniczny odpowiednik klauzuli „tajne”.
+
+4. Wytwórca wyłączny wytwarza blankiety dokumentów publicznych odpłatnie. Dziennik Ustaw – 2 – Poz. 1881
+
+5. Cena wytworzenia blankietów dokumentów publicznych wymienionych ust. 1 jest ustalana umowie zawieranej między emitentem dokumentu publicznego a wytwórcą wyłącznym, z uwzględnieniem zasad handlowych i interesu publicznego.
+
+6. Blankiety dokumentów publicznych, o których mowa art. 5 ust. 2 pkt 32, mogą być wytwarzane przez Agencję Bezpieczeństwa Wewnętrznego, mając na względzie konieczność zagwarantowania bezpieczeństwa państwa i ochronę danych osobowych funkcjonariuszy.”;
+
+- **5)** użyty art. 18 oraz art. 48 ust. 5, różnym przypadku, wyraz „Spółka” zastępuje się użytymi odpowiednim przypadku wyrazami „wytwórca wyłączny”;
+- **6)** art. 19:
+    - **a)** ust. 1 wyrazy „w Spółce oraz” zastępuje się wyrazami „u wytwórcy wyłącznego oraz w”,
+    - **b)** ust. 3 we wprowadzeniu do wyliczenia wyraz „Spółka” zastępuje się wyrazami „Wytwórca wyłączny”,
+    - **c)** ust. 4 wyraz „Spółka” zastępuje się wyrazami „wytwórca wyłączny”;
+
+- **7)** art. 20 we wprowadzeniu do wyliczenia wyraz „Spółka” zastępuje się wyrazami „Wytwórca wyłączny”;
+- **8)** art. 22 ust. 1 otrzymuje brzmienie: „1. Minister i Szef Agencji Bezpieczeństwa Wewnętrznego wspólnie przeprowadzają kontrolę:
+- **1)** wytwórcy wyłącznego zakresie posiadania systemu zarządzania bezpieczeństwem potwierdzonego certyfikatem zgodności z normą ISO 14298;
+- **2)** podmiotów, o których mowa art. 18, innych niż wytwórca wyłączny zakresie, o którym mowa art. 19, oraz zakresie spełniania przez te podmioty warunków określonych przepisach wydanych na podstawie art. 21.”.
+
 **Art. 2.** W ustawie z dnia 6 grudnia 2008 r. o podatku akcyzowym (Dz. U. z 2025 r. poz. 126, 222, 340 i 1813) wprowadza się następujące zmiany:
+
+- **1)** art. 115:
+    - **a)** ust. 1 otrzymuje brzmienie: „1. Prawo wyłączne do wytwarzania znaków akcyzy minister właściwy do spraw finansów publicznych powierza Polskiej Wytwórni Papierów Wartościowych Spółce Akcyjnej z siedzibą Warszawie, zwanej dalej „wytwórcą”.”,
+    - **b)** po ust. 1 dodaje się ust. 1a brzmieniu: „1a. Wytwórca zapewnia bezpieczeństwo wytwarzania i przechowywania znaków akcyzy.”,
+    - **c)** ust. 2 i 3 po wyrazie „Wytwórca” skreśla się wyraz „znaków”;
+
+- **2)** użyte art. 123 ust. 3 pkt 1 oraz art. 131 ust. 9 pkt 2 wyrazy „ich wytwórcy” zastępuje się wyrazem „wytwórcy”;
+- **3)** art. 128:
+    - **a)** ust. 1 pkt 2 otrzymuje brzmienie: „2) wytwórcę.”,
+    - **b)** ust. 2 wyrazy „ich wytwórcę” zastępuje się wyrazem „wytwórcę”;
+
+- **4)** art. 130 ust. 2 pkt 2 otrzymuje brzmienie: „2) wytwórcy.”.
 
 **Art. 3.** Ustawa wchodzi życie z dniem następującym po dniu ogłoszenia.
 

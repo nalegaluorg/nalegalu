@@ -1,17 +1,4 @@
 saos_id|date|court|case_number|type|score|saos_url
-95404|2011-07-08|SN|IV CSK 603/10|Wyrok|78|https://www.saos.org.pl/judgments/95404
-93173|2010-10-20|SN|III CSK 22/10|Wyrok|78|https://www.saos.org.pl/judgments/93173
-92722|2010-07-27|SN|II CSK 147/10|Wyrok|78|https://www.saos.org.pl/judgments/92722
-91798|2010-02-04|SN|IV CSK 416/09|Wyrok|78|https://www.saos.org.pl/judgments/91798
-91635|2010-01-14|SN|IV CSK 319/09|Wyrok|78|https://www.saos.org.pl/judgments/91635
-91165|2009-11-05|SN|I CSK 138/09|Wyrok|78|https://www.saos.org.pl/judgments/91165
-90921|2009-09-24|SN|IV CSK 167/09|Wyrok|78|https://www.saos.org.pl/judgments/90921
-90920|2009-09-24|SN|IV CSK 166/09|Wyrok|78|https://www.saos.org.pl/judgments/90920
-90762|2009-08-26|SN|I CSK 13/09|Wyrok|78|https://www.saos.org.pl/judgments/90762
-89806|2009-03-05|SN|III CSK 299/08|Wyrok|78|https://www.saos.org.pl/judgments/89806
-89684|2009-02-19|SN|II CSK 469/08|Wyrok|78|https://www.saos.org.pl/judgments/89684
-89460|2009-01-14|SN|IV CSK 356/08|Wyrok|78|https://www.saos.org.pl/judgments/89460
-165085|2008-12-11|SN|IV CSK 349/08|Wyrok|78|https://www.saos.org.pl/judgments/165085
 88905|2008-10-15|SN|I CSK 154/08|Wyrok|78|https://www.saos.org.pl/judgments/88905
 87955|2008-04-24|SN|IV CSK 41/08|Wyrok|78|https://www.saos.org.pl/judgments/87955
 87836|2008-04-09|SN|V CSK 503/07|Wyrok|78|https://www.saos.org.pl/judgments/87836
@@ -26,9 +13,6 @@ saos_id|date|court|case_number|type|score|saos_url
 164222|2006-04-19|SN|V CSK 34/06|Wyrok|78|https://www.saos.org.pl/judgments/164222
 164219|2006-04-19|SN|V CSK 176/05|Wyrok|78|https://www.saos.org.pl/judgments/164219
 164187|2006-04-05|SN|I CSK 189/05|Wyrok|78|https://www.saos.org.pl/judgments/164187
-92232|2010-05-13|SN|IV CSK 484/09|Postanowienie|69|https://www.saos.org.pl/judgments/92232
-76317|2010-03-24|SN|V CSK 338/09|Postanowienie|69|https://www.saos.org.pl/judgments/76317
-91327|2009-11-26|SN|III CSK 52/09|Postanowienie|69|https://www.saos.org.pl/judgments/91327
 88488|2008-07-16|SN|II CZ 45/08|Postanowienie|69|https://www.saos.org.pl/judgments/88488
 87079|2008-01-18|SN|V CSK 298/07|Postanowienie|69|https://www.saos.org.pl/judgments/87079
 85018|2007-01-17|SN|II CSK 416/06|Postanowienie|69|https://www.saos.org.pl/judgments/85018

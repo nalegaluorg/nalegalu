@@ -8,10 +8,10 @@ pos: 402
 act_type: Rozporządzenie
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 27 marca 2014 r.
+# Rozporządzenie Ministra Infrastruktury i Rozwojuz dnia 6 marca 2014 r. w sprawie wzorów zezwoleń na wykonywanie krajowych i międzynarodowych przewozów drogowych osób oraz wypisów z zezwoleń
 
 | Pole | Wartość |
 |---|---|
@@ -22,65 +22,139 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2014-03-06 |
 | Data wydania | 2014-03-27 |
+| Wejście w życie | 2014-04-11 |
 | Ostatnia zmiana | 2025-06-02 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20140000402) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2014/402/text.pdf) |
 
-(strona tylna) Objaśnienia:
-1. Zezwolenie powinno znajdować się w pojeździe przez cały czas trwania przewozu i być okazywane przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. a ustawy o transporcie drogowym).
-2. Zezwolenie nie może być odstąpione osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2012 r.
-poz. 1173, z późn. zm.) - (art. 24 ust. 4 pkt 4 ustawy o transporcie drogowym).
-Opis zezwolenia: - tło koloru seledynowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Zezwolenie powinno znajdować się w pojeździe przez cały czas trwania przewozu i być okazywane przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. a ustawy o transporcie drogowym).
-2. Zezwolenie nie może być odstąpione osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2012 r.
-poz. 1173, z późn. zm.) - (art. 24 ust. 4 pkt 4 ustawy o transporcie drogowym).
-Opis zezwolenia: - tło koloru seledynowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Zezwolenie powinno znajdować się w pojeździe przez cały czas trwania przewozu i być okazywane przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. a ustawy o transporcie drogowym).
-2. Zezwolenie nie może być odstąpione osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2012 r.
-poz. 1173, z późn. zm.) - (art. 24 ust. 4 pkt 4 ustawy o transporcie drogowym).
-Linia prowadzona jest we współpracy z: Opis zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Zezwolenie powinno znajdować się w pojeździe przez cały czas trwania przewozu i być okazywane przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. a ustawy o transporcie drogowym).
-2. Zezwolenie nie uprawnia do wykonywania przewozów, które zaczynają i kończą się na terytorium Rzeczypospolitej Polskiej /kabotaż/ (art. 19 ust. 1 ustawy o transporcie drogowym).
-3. Zezwolenie nie może być odstąpione osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2012 r.
-poz. 1173, z późn. zm.) - (art. 24 ust. 4 pkt 4 ustawy o transporcie drogowym).
-Opis zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Zezwolenie powinno znajdować się w pojeździe przez cały czas trwania przewozu i być okazywane przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. b ustawy o transporcie drogowym).
-2. Zezwolenie nie uprawnia do wykonywania przewozów, które zaczynają i kończą się na terytorium Rzeczypospolitej Polskiej /kabotaż/ (art. 19 ust. 1 ustawy o transporcie drogowym).
-3. Zezwolenie nie może być odstąpione osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2012 r.
-poz. 1173, z późn. zm.) - (art. 24 ust. 4 pkt 4 ustawy o transporcie drogowym).
-Opis zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Zezwolenie powinno znajdować się w pojeździe przez cały czas trwania przewozu i być okazywane przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. b ustawy o transporcie drogowym).
-2. Zezwolenie nie może być odstąpione osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2012 r.
-poz. 1173, z późn. zm.) - (art. 24 ust. 4 pkt 4 ustawy o transporcie drogowym).
-Opis zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Zezwolenie powinno znajdować się w pojeździe przez cały czas trwania przewozu i być okazywane przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. b ustawy o transporcie drogowym).
-2. Zezwolenie nie uprawnia do wykonywania przewozów, które zaczynają i kończą się na terytorium Rzeczypospolitej Polskiej /kabotaż/ (art. 19 ust. 1 ustawy o transporcie drogowym).
-3. W przypadku odbioru grupy z kraju przewoźnika lub obywateli państw trzecich wwiezionych innymi środkami transportu, zezwolenie upoważnia jedynie do bezpośredniego przewiezienia grupy do kraju przewoźnika (art. 18 ust. 3 ustawy o transporcie drogowym).
-4. Zezwolenie nie może być odstąpione osobie trzeciej, przy czym nie jest odstąpieniem zezwolenia powierzenie wykonania przewozu innemu przewoźnikowi, o którym mowa w art. 5 ustawy z dnia 15 listopada 1984 r. Prawo przewozowe (Dz. U. z 2012 r.
-poz. 1173, z późn. zm.) - (art. 24 ust. 4 pkt 4 ustawy o transporcie drogowym).
-Opis zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Wypis z zezwolenia powinien znajdować się w pojeździe przez cały czas trwania przewozu i być okazywany przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. a ustawy o transporcie drogowym).
-Opis wypisu z zezwolenia: - tło koloru seledynowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Wypis z zezwolenia powinien znajdować się w pojeździe przez cały czas trwania przewozu i być okazywany przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. a ustawy o transporcie drogowym).
-Opis wypisu z zezwolenia: - tło koloru seledynowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia: Wypis z zezwolenia powinien znajdować się w pojeździe przez cały czas trwania przewozu i być okazywany przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. a ustawy o transporcie drogowym).
-Linia prowadzona jest we współpracy z: Opis wypisu z zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Wypis z zezwolenia powinien znajdować się w pojeździe przez cały czas trwania przewozu i być okazywany przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. a ustawy o transporcie drogowym).
-2. Wypis z zezwolenia nie uprawnia do wykonywania przewozów, które zaczynają i kończą się na terytorium Rzeczypospolitej Polskiej /kabotaż/ (art. 19 ust. 1 ustawy o transporcie drogowym).
-Opis wypisu z zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Wypis z zezwolenia powinien znajdować się w pojeździe przez cały czas trwania przewozu i być okazywany przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. b ustawy o transporcie drogowym).
-2. Wypis z zezwolenia nie uprawnia do wykonywania przewozów, które zaczynają i kończą się na terytorium Rzeczypospolitej Polskiej /kabotaż/ (art. 19 ust. 1 ustawy o transporcie drogowym).
-Opis wypisu z zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, - papier ze znakami wodnymi.
-(strona tylna) Objaśnienia:
-1. Wypis z zezwolenia powinien znajdować się w pojeździe przez cały czas trwania przewozu i być okazywany przez kierowcę na żądanie uprawnionego organu kontroli (art. 87 ust. 1 pkt 2 lit. b ustawy o transporcie drogowym).
-Opis wypisu z zezwolenia: - tło koloru jasnobeżowego, - blankiet posiada świecące włókna rozmieszczone nieregularnie, widoczne w ultrafiolecie, - godło państwa tłoczone w lewej górnej części blankietu, - napisy w kolorze czarnym, papier ze znakami wodnymi.
+Treść rozporządzenia
+
+## Załącznik nr 1 — – Zezwolenie na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym (wzór)
+
+## Załącznik nr 2 — – Zezwolenie na wykonywanie regularnych specjalnych przewozów osób w krajowym transporcie drogowym (wzór)
+
+## Załącznik nr 3 — – Zezwolenie na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+## Załącznik nr 4 — – Zezwolenie na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+## Załącznik nr 5 — – Zezwolenie na wykonywanie okazjonalnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+## Załącznik nr 6 — – Zezwolenie na wykonywanie wahadłowych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+## Załącznik nr 7 — – Zezwolnie na wykonywanie międzynarodowego transportu drogowego osób na lub przez terytorium Rzeczypospolitej Polskiej pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9-ciu osób łącznie z kierowcą (wzór)
+
+## Załącznik nr 8 — – Wypis z zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym (wzór)
+
+## Załącznik nr 9 — – Wypis z zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym (wzór)
+
+## Załącznik nr 10 — – Wypis z zezwolenia na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+## Załącznik nr 11 — – Wypis z zezwolenia na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+## Załącznik nr 12 — – Wypis z zezwolenia na wykonywanie okazjonalnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+## Załącznik nr 13 — – Wypis z zezwolenia na wykonywanie wahadłowych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+Treść rozporządzenia
+Na podstawie art. 20 ust. 2 ustawy z dnia 6 września 2001 r. o transporcie drogowym (Dz. U. z 2013 r. poz. 1414) zarządza się, co następuje:
+§ 1.
+1.
+Określa się następujące wzory zezwoleń na wykonywanie przewozów osób:
+1)
+regularnych w krajowym transporcie drogowym – w załączniku nr 1 do rozporządzenia;
+2)
+regularnych specjalnych w krajowym transporcie drogowym – w załączniku nr 2 do rozporządzenia.
+2.
+Określa się następujące wzory zezwoleń na wykonywanie przewozów osób na liniach komunikacyjnych wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym:
+1)
+regularnych w międzynarodowym transporcie drogowym – w załączniku nr 3 do rozporządzenia;
+2)
+regularnych specjalnych w międzynarodowym transporcie drogowym – w załączniku nr 4 do rozporządzenia;
+3)
+okazjonalnych w międzynarodowym transporcie drogowym – w załączniku nr 5 do rozporządzenia;
+4)
+wahadłowych w międzynarodowym transporcie drogowym – w załączniku nr 6 do rozporządzenia;
+5)
+w międzynarodowym transporcie drogowym na lub przez terytorium Rzeczypospolitej Polskiej przez zagranicznego przewoźnika drogowego pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą – w załączniku nr 7 do rozporządzenia.
+§ 2.
+1.
+Określa się następujące wzory wypisów z zezwoleń na wykonywanie przewozów osób:
+1)
+regularnych w krajowym transporcie drogowym – w załączniku nr 8 do rozporządzenia;
+2)
+regularnych specjalnych w krajowym transporcie drogowym – w załączniku nr 9 do rozporządzenia.
+2.
+Określa się następujące wzory wypisów z zezwoleń na wykonywanie przewozów osób na liniach komunikacyjnych wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym:
+1)
+regularnych w międzynarodowym transporcie drogowym – w załączniku nr 10 do rozporządzenia;
+2)
+regularnych specjalnych w międzynarodowym transporcie drogowym – w załączniku nr 11 do rozporządzenia;
+3)
+okazjonalnych w międzynarodowym transporcie drogowym – w załączniku nr 12 do rozporządzenia;
+4)
+wahadłowych w międzynarodowym transporcie drogowym – w załączniku nr 13 do rozporządzenia.
+§ 3.
+Wzór zezwolenia na przewóz regularny i regularny specjalny w międzynarodowym transporcie drogowym na terytorium Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym określają przepisy wydane przez Komisję Europejską na podstawie art. 6 ust. 4 rozporządzenia Parlamentu Europejskiego i Rady (WE) nr 1073/2009 z dnia 21 października 2009 r. w sprawie wspólnych zasad dostępu do międzynarodowego rynku usług autokarowych i autobusowych i zmieniającego rozporządzenie (WE) nr 561/2006 (Dz. Urz. UE L 300 z 14.11.2009, str. 88, z późn. zm.).
+§ 4.
+Do czasu określenia przez Komisję Europejską wzoru zezwolenia, o którym mowa w § 3, stosuje się wzór zezwolenia na przewóz regularny i regularny specjalny w międzynarodowym transporcie drogowym na terytorium Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym, określony w rozporządzeniu Komisji (WE) nr 2121/98/WE z dnia 2 października 1998 r. ustanawiającym szczegółowe zasady stosowania rozporządzeń Rady (EWG) nr 684/92 i (WE) 12/98 w zakresie dokumentów dla przewozu osób autokarem i autobusem (Dz. Urz. WE L 268 z 03.10.1998, str. 10, z późn. zm.; Dz. Urz. UE Polskie wydanie specjalne, rozdz. 7, t. 4, str. 142, z późn. zm.).
+§ 5.
+1.
+Formularze zezwoleń na wykonywanie regularnych specjalnych przewozów osób w krajowym transporcie drogowym sporządzone według wzorów określonych w dotychczasowych przepisach mogą być nadal stosowane, jednak nie dłużej niż do dnia 31 grudnia 2014 r.
+2.
+Formularze zezwoleń na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym sporządzone według wzorów określonych w dotychczasowych przepisach mogą być nadal stosowane, jednak nie dłużej niż do dnia 31 grudnia 2016 r.
+3.
+Formularze zezwoleń na wykonywanie regularnych, regularnych specjalnych, okazjonalnych i wahadłowych przewozów osób w międzynarodowym transporcie drogowym na liniach komunikacyjnych wykraczających poza obszar państw członkowskich Unii Europejskiej, Konfederacji Szwajcarskiej lub państw członkowskich Europejskiego Porozumienia o Wolnym Handlu (EFTA) – stron umowy o Europejskim Obszarze Gospodarczym oraz formularze zezwoleń na wykonywanie międzynarodowego transportu drogowego na lub przez terytorium Rzeczypospolitej Polskiej przez zagranicznego przewoźnika drogowego pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9 osób łącznie z kierowcą, sporządzone według wzorów określonych w dotychczasowych przepisach mogą być nadal stosowane, jednak nie dłużej niż do dnia 31 grudnia 2014 r.
+§ 6.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+
+## Załącznik nr 1 — – Zezwolenie na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 2 — – Zezwolenie na wykonywanie regularnych specjalnych przewozów osób w krajowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 3 — – Zezwolenie na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 4 — – Zezwolenie na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 5 — – Zezwolenie na wykonywanie okazjonalnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 6 — – Zezwolenie na wykonywanie wahadłowych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 7 — – Zezwolnie na wykonywanie międzynarodowego transportu drogowego osób na lub przez terytorium Rzeczypospolitej Polskiej pojazdem samochodowym przeznaczonym konstrukcyjnie do przewozu nie więcej niż 9-ciu osób łącznie z kierowcą (wzór)
+
+patrz oryginał
+
+## Załącznik nr 8 — – Wypis z zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 9 — – Wypis z zezwolenia na wykonywanie regularnych przewozów osób w krajowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 10 — – Wypis z zezwolenia na wykonywanie regularnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 11 — – Wypis z zezwolenia na wykonywanie regularnych specjalnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 12 — – Wypis z zezwolenia na wykonywanie okazjonalnych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+patrz oryginał
+
+## Załącznik nr 13 — – Wypis z zezwolenia na wykonywanie wahadłowych przewozów osób w międzynarodowym transporcie drogowym (wzór)
+
+patrz oryginał
 

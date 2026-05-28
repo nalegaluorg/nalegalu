@@ -6,7 +6,7 @@ publisher: DU
 year: 2015
 pos: 2223
 act_type: Rozporządzenie
-status: obowiązujący
+status: akt objęty tekstem jednolitym
 domain: null
 source: "eli-html"
 ---
@@ -18,11 +18,12 @@ source: "eli-html"
 | Adres publikacyjny | Dz.U. 2015 poz. 2223 |
 | ISAP | WDU20150002223 |
 | Typ aktu | Rozporządzenie |
-| Status | obowiązujący |
+| Status | akt objęty tekstem jednolitym |
 | W mocy | tak |
 | Data ogłoszenia | 2015-12-17 |
 | Data wydania | 2015-12-29 |
-| Ostatnia zmiana | 2024-03-14 |
+| Wejście w życie | 2016-01-01 |
+| Ostatnia zmiana | 2026-05-18 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20150002223) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2015/2223/text.pdf) |
 
 Treść rozporządzenia

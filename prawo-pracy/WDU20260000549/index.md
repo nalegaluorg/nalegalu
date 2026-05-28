@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# w sprawie ogłoszenia jednolitego tekstu ustawy o związkach zawodowych
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 22 kwietnia 2026 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2026-04-23 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20260000549) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2026/549/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 17 kwietnia 2026 r.
+w sprawie ogłoszenia jednolitego tekstu ustawy o związkach zawodowych
 1. Na podstawie art. 16 1 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 23 maja 1991 r. o związkach zawodowych (Dz. U. z 2025 r. poz. 440), z uwzględnieniem stanu prawnego na dzień 9 kwietnia 2026 r. oraz zmian wprowadzonych ustawą z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661).
 2. Podany w załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 58 ustawy z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661), który stanowi: „Art. 58. Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem art. 41 pkt 2, który wchodzi w życie z dniem 29 listopada 2025 r.”.
 Marszałek Sejmu: W. Czarzasty
@@ -44,7 +44,7 @@ Art. 25 [3] . 1. Reprezentatywną zakładową organizacją związkową jest zak�
 2) zrzeszająca co najmniej 15 % osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
 2. Jeżeli żadna z zakładowych organizacji związkowych nie spełnia wymogów, o których mowa w 1, reprezentatywną zakładową organizacją związkową jest organizacja zrzeszająca największą liczbę osób wykonujących pracę zarobkową zatrudnionych u pracodawcy.
 3. Jeżeli u pracodawcy działa więcej niż jedna organizacja związkowa reprezentatywna w rozumieniu 1 pkt 1, wchodząca w skład tego samego zrzeszenia (federacji) związków zawodowych lub ogólnokrajowej organizacji międzyzwiązkowej (konfederacji), organizacje te wyłaniają wspólną reprezentację w sprawach dotyczących zbiorowych praw i interesów osób wykonujących pracę zarobkową.
-u pracodawcy lub organizacja spełniająca kryterium reprezentatywności, o którym mowa w 1 pkt 2.
+związkową jest organizacja zrzeszająca największą spośród nich liczbę osób wykonujących pracę zarobkową zatrudnionych u pracodawcy lub organizacja spełniająca kryterium reprezentatywności, o którym mowa w 1 pkt 2.
 5. Utrata przymiotu reprezentatywności w sprawach dotyczących zbiorowych praw i interesów osób wykonujących pracę zarobkową pozostaje bez wpływu na pozostałe uprawnienia reprezentatywnych zakładowych organizacji związkowych i posiadanie przymiotu reprezentatywności w pozostałych sprawach.
 6. Przy ustalaniu liczby osób wykonujących pracę zarobkową zrzeszonych w zakładowej organizacji związkowej, o której mowa w 1 lub 2, uwzględnia się wyłącznie osoby wykonujące pracę zarobkową należące do tej organizacji przez okres co najmniej 6 miesięcy przed przystąpieniem do rokowań lub uzgodnień.
 7. Przy ustalaniu liczby osób wykonujących pracę zarobkową zatrudnionych u pracodawcy, od której liczy się procent wskazany w 1 pkt 1 lub 2, lub przy ustalaniu największej liczby osób wykonujących pracę zarobkową zatrudnionych u pracodawcy, o której mowa w 2, uwzględnia się wyłącznie osoby wykonujące pracę zarobkową zatrudnione u pracodawcy przez okres co najmniej 6 miesięcy przed rozpoczęciem rokowań lub uzgodnień.
@@ -87,7 +87,7 @@ Art. 40–45. (pominięte)
 
 1. Zakazuje się nierównego traktowania w zatrudnieniu osób, o których mowa w art. 2 1 i 3–6, z powodu przynależności do związku zawodowego lub pozostawania poza nim albo wykonywania funkcji związkowej, którego skutkiem jest w szczególności:
 
-- **1)** odmowa nawiązania lub rozwiązanie stosunku prawnego,
+- **1)** odmowa nawiązania lub rozwiązanie stosunku prawnego, przy awansowaniu lub przyznawaniu innych świadczeń związanych z pracą zarobkową,
 - **3)** pominięcie przy typowaniu do udziału w szkoleniach podnoszących kwalifikacje zawodowe chyba że pracodawca udowodni, że kierował się obiektywnymi powodami.
 
 2. W sprawach dotyczących roszczeń z tytułu naruszenia zakazu nierównego traktowania w zatrudnieniu z powodu przynależności do związku zawodowego lub pozostawania poza nim albo wykonywania funkcji związkowej do innych niż pracownicy osób wymienionych w 1 stosuje się odpowiednio przepisy art. 18 i art. 18 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
@@ -124,7 +124,7 @@ Art. 40–45. (pominięte)
 
 3. Organizacje związkowe, w tym federacje i konfederacje, mają prawo tworzenia i wstępowania do międzynarodowych organizacji związkowych. Art. 11 [1] . 1. Składki członkowskie wnoszone do międzynarodowych organizacji związkowych, reprezentujących interesy osób wykonujących pracę zarobkową wobec instytucji Unii Europejskiej, przez organizacje związkowe, reprezentatywne w rozumieniu ustawy z dnia 24 lipca 2015 r. o Radzie Dialogu Społecznego i innych instytucjach dialogu społecznego (Dz. U. z 2018 r. poz. 2232, z późn. zm. ), zwanej dalej „ustawą o Radzie Dialogu Społecznego”, wchodzące w skład Rady Dialogu Społecznego, mogą być dofinansowane z budżetu państwa w formie dotacji celowej.
 
-2. Dotacji celowej, o której mowa w 1, udziela na wniosek organizacji związkowej minister właściwy do spraw pracy, na podstawie umowy zawartej z tą organizacją.
+2. Dotacji celowej, o której mowa w 1, udziela na wniosek organizacji związkowej minister właściwy do spraw pracy, na podstawie umowy zawartej z tą organizacją. w 1, która na dzień złożenia wniosku jest członkiem międzynarodowej organizacji związkowej od co najmniej 12 miesięcy.
 
 4. Kwota dotacji celowej na dofinansowanie składek z budżetu państwa w danym roku, dla każdej organizacji związkowej, o której mowa w 1, nie może być wyższa niż 300 000 zł i stanowić więcej niż 95 % wysokości tych składek.
 
@@ -139,6 +139,19 @@ Art. 40–45. (pominięte)
 2. Osoby, które podjęły uchwałę o utworzeniu związku zawodowego, uchwalają statut i wybierają komitet założycielski w liczbie od 3 do 7 osób.
 
 **Art. 13.** Statut związku zawodowego określa w szczególności:
+
+- **1)** nazwę związku;
+- **2)** siedzibę związku;
+- **3)** terytorialny i podmiotowy zakres działania;
+- **4)** cele i zadania związku oraz sposoby i formy ich realizacji;
+- **5)** zasady nabywania i utraty członkostwa;
+- **6)** prawa i obowiązki członków;
+- **7)** strukturę organizacyjną związku ze wskazaniem, które z jednostek organizacyjnych związku mają osobowość prawną;
+- **8)** sposób reprezentowania związku oraz osoby upoważnione do zaciągania zobowiązań majątkowych w imieniu związku;
+- **9)** organy związku, tryb ich wyboru i odwołania, zakres ich kompetencji oraz okres kadencji;
+- **10)** źródła finansowania działalności związku oraz sposób ustanawiania składek członkowskich;
+- **11)** zasady uchwalania i zmian statutu;
+- **12)** sposób rozwiązania związku i likwidacji jego majątku.
 
 **Art. 14.**
 
@@ -257,6 +270,22 @@ Art. 40–45. (pominięte)
 
 **Art. 26.** Do zakresu działania zakładowej organizacji związkowej należy w szczególności:
 
+- **1)** zajmowanie stanowiska w indywidualnych sprawach pracowniczych w zakresie unormowanym w przepisach prawa pracy oraz w indywidualnych sprawach osób wykonujących pracę zarobkową w zakresie związanym z wykonywaniem tej pracy;
+- **2)** zajmowanie stanowiska wobec pracodawcy lub organu samorządu załogi w sprawach dotyczących zbiorowych interesów i praw osób wykonujących pracę zarobkową;
+- **3)** sprawowanie kontroli nad przestrzeganiem w zakładzie pracy przepisów prawa pracy, a w szczególności przepisów oraz zasad bezpieczeństwa i higieny pracy;
+- **4)** kierowanie działalnością społecznej inspekcji pracy i współdziałanie z państwową inspekcją pracy;
+- **5)** zajmowanie się warunkami życia emerytów i rencistów. Art. 26 [1] . 1. W razie przejścia zakładu pracy lub jego części na nowego pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy są obowiązani do poinformowania na piśmie działających u każdego z nich zakładowych organizacji związkowych o przewidywanym terminie tego przejścia, jego przyczynach, prawnych, ekonomicznych oraz socjalnych skutkach dla swoich pracowników, a także zamierzonych działaniach dotyczących warunków zatrudnienia tych pracowników, w szczególności warunków pracy, płacy i przekwalifikowania.
+
+2. Informacje, o których mowa w 1, dotychczasowy i nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy są obowiązani przekazać co najmniej na 30 dni przed przewidywanym terminem przejścia zakładu pracy lub jego części.
+
+3. Jeżeli dotychczasowy lub nowy pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy zamierza podjąć działania dotyczące warunków zatrudnienia pracowników, jest obowiązany do podjęcia negocjacji z zakładowymi organizacjami związkowymi w celu zawarcia porozumienia w tym zakresie, w terminie niedłuższym niż 30 dni od dnia przekazania informacji o tych działaniach.
+
+4. Porozumienie, o którym mowa w 3, zawierają wszystkie zakładowe organizacje związkowe, które prowadziły negocjacje nad tym porozumieniem. Jeżeli nie jest możliwe uzgodnienie treści porozumienia ze wszystkimi zakładowymi organizacjami związkowymi, pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy uzgadnia treść porozumienia z uczestniczącymi w negocjacjach reprezentatywnymi w rozumieniu art. 25 1 lub 2 zakładowymi organizacjami związkowymi, z których każda zrzesza co najmniej 5 % pracowników zatrudnionych u pracodawcy w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy.
+
+5. W razie niezawarcia porozumienia w terminie, o którym mowa w 3, z powodu niemożności uzgodnienia jego treści przez pracodawcę w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy z zakładowymi organizacjami związkowymi albo z uczestniczącymi w negocjacjach reprezentatywnymi w rozumieniu art. 25 1 lub 2 zakładowymi organizacjami związkowymi zrzeszającymi pracowników, pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy samodzielnie podejmuje działania w sprawach dotyczących warunków zatrudnienia pracowników, uwzględniając ustalenia dokonane z zakładowymi organizacjami związkowymi w toku negocjacji nad zawarciem porozumienia. ników, jakie zamierza podjąć pracodawca w rozumieniu art. 3 ustawy z dnia 26 czerwca 1974 r. Kodeks pracy, określają odrębne przepisy.
+
+7. Informacja o porozumieniu, o którym mowa w 3, podlega wpisowi do Krajowej Ewidencji Układów Zbiorowych Pracy na zasadach określonych w ustawie z dnia 5 listopada 2025 r. o układach zbiorowych pracy i porozumieniach zbiorowych (Dz. U. poz. 1661).
+
 **Art. 27.**
 
 1. Ustalanie zasad wykorzystania zakładowego funduszu świadczeń socjalnych, w tym podział środków z tego funduszu na poszczególne cele i rodzaje działalności, ustala pracodawca w regulaminie uzgodnionym z zakładową organizacją związkową.
@@ -291,7 +320,7 @@ Art. 40–45. (pominięte)
 
 1. W razie uzasadnionego podejrzenia, że w zakładzie pracy lub w miejscu wyznaczonym przez pracodawcę do wykonywania pracy zarobkowej występuje zagrożenie dla życia lub zdrowia osób, o których mowa w art. 2 1 i 4 –6, zakładowa organizacja związkowa może wystąpić do pracodawcy z wnioskiem o przeprowadzenie odpowiednich badań, zawiadamiając o tym równocześnie właściwego okręgowego inspektora pracy. Pracodawca jest obowiązany w terminie 14 dni od dnia otrzymania wniosku zawiadomić zakładową organizację związkową o swoim stanowisku. W razie przeprowadzenia badań, pracodawca niezwłocznie, niepóźniej niż w terminie 7 dni od dnia otrzymania wyników badań, udostępnia te wyniki każdej działającej u niego zakładowej organizacji związkowej wraz z informacją o sposobie i terminie usunięcia stwierdzonego zagrożenia.
 
-2. Zawiadomienie zakładowej organizacji związkowej o odrzuceniu wniosku, o którym mowa w 1, lub niezajęcie przez pracodawcę stanowiska wobec tego wniosku w terminie 14 dni od dnia jego złożenia upoważnia zakładową organizację związkową do przeprowadzenia niezbędnych badań na koszt pracodawcy. O zamiarze podjęcia badań, ich zakresie oraz przewidywanych kosztach zakładowa organizacja związkowa zawiadamia pracodawcę na piśmie z co najmniej 14-dniowym wyprzedzeniem. wadzenie badań wbrew stanowisku inspektora pracy zwalnia pracodawcę z obowiązku pokrycia kosztów tych badań.
+2. Zawiadomienie zakładowej organizacji związkowej o odrzuceniu wniosku, o którym mowa w 1, lub niezajęcie przez pracodawcę stanowiska wobec tego wniosku w terminie 14 dni od dnia jego złożenia upoważnia zakładową organizację związkową do przeprowadzenia niezbędnych badań na koszt pracodawcy. O zamiarze podjęcia badań, ich zakresie oraz przewidywanych kosztach zakładowa organizacja związkowa zawiadamia pracodawcę na piśmie z co najmniej 14-dniowym wyprzedzeniem. właściwego okręgowego inspektora pracy o ustalenie celowości zamierzonych badań lub ich niezbędnego zakresu. Przeprowadzenie badań wbrew stanowisku inspektora pracy zwalnia pracodawcę z obowiązku pokrycia kosztów tych badań.
 
 **Art. 30.**
 
@@ -358,7 +387,7 @@ Art. 40–45. (pominięte)
 
 2. Ochrona, o której mowa w 1, przysługuje przez okres określony uchwałą zarządu, a po jego upływie dodatkowo przez czas odpowiadający połowie okresu określonego uchwałą, niedłużej jednak niż rok po jego upływie.
 
-3. Zarząd zakładowej organizacji związkowej, reprezentatywnej w rozumieniu art. 25 1 lub 2, wskazuje pracodawcy osoby podlegające ochronie przewidzianej w 1, w liczbie niewiększej niż liczba osób stanowiących kadrę kierowniczą u pracodawcy albo w liczbie ustalonej zgodnie z 4. podlegające ochronie przewidzianej w 1, a jeżeli organizacja zrzesza więcej niż 20 członków zatrudnionych przez pracodawcę ma prawo wskazać, jako podlegające tej ochronie, 2 osoby wykonujące pracę zarobkową oraz dodatkowo:
+3. Zarząd zakładowej organizacji związkowej, reprezentatywnej w rozumieniu art. 25 1 lub 2, wskazuje pracodawcy osoby podlegające ochronie przewidzianej w 1, w liczbie niewiększej niż liczba osób stanowiących kadrę kierowniczą u pracodawcy albo w liczbie ustalonej zgodnie z 4. do 20 członków zatrudnionych przez pracodawcę ma prawo wskazać pracodawcy 2 osoby wykonujące pracę zarobkową podlegające ochronie przewidzianej w 1, a jeżeli organizacja zrzesza więcej niż 20 członków zatrudnionych przez pracodawcę ma prawo wskazać, jako podlegające tej ochronie, 2 osoby wykonujące pracę zarobkową oraz dodatkowo:
 
 - **1)** po jednej osobie wykonującej pracę zarobkową na każde rozpoczęte 10 członków tej organizacji zatrudnionych przez pracodawcę, w przedziale od 21 do 50 tych członków;
 - **2)** po jednej osobie wykonującej pracę zarobkową na każde rozpoczęte 20 członków tej organizacji zatrudnionych przez pracodawcę, w przedziale od 51 do 150 tych członków;
@@ -451,7 +480,7 @@ Art. 40–45. (pominięte)
 
 3. Jeżeli środki określone w 2 okażą się bezskuteczne, sąd rejestrowy, na wniosek Ministra Sprawiedliwości, orzeka o skreśleniu związku zawodowego z rejestru. Od tego orzeczenia przysługuje apelacja.
 
-4. (uchylony) swojej likwidacji w sposób przewidziany w statucie.
+4. (uchylony) zaprzestać swej działalności, a w terminie najpóźniej trzech miesięcy od uprawomocnienia się tego orzeczenia dokonać swojej likwidacji w sposób przewidziany w statucie.
 
 #### Rozdział 6 Przepisy szczególne
 

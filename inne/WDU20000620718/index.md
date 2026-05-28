@@ -23,7 +23,7 @@ source: "isap-pdf"
 | Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 2000-07-20 |
-| Ostatnia zmiana | 2026-05-15 |
+| Ostatnia zmiana | 2026-05-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20000620718) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2000/718/text.pdf) |
 
 **Art. 1.**
@@ -179,6 +179,22 @@ source: "isap-pdf"
 3. W dziennikach urzędowych nie zamieszcza się aktów prawnych, które podlegają ogłoszeniu w Dzienniku Ustaw lub Monitorze Polskim, jak również, z zastrzeżeniem ust. 1 pkt 1, aktów prawnych organów innych niż ten, który wydaje dziennik urzędowy.
 
 **Art. 13.** W wojewódzkim dzienniku urzędowym ogłasza się:
+
+- **1)** akty prawa miejscowego stanowione przez wojewodę i organy administracji niezespolonej;
+- **2)** akty prawa miejscowego stanowione przez sejmik województwa, organ powiatu oraz organ gminy, w tym statuty województwa, powiatu i gminy;
+- **3)** statuty związków międzygminnych, statuty związków powiatów oraz statuty związków powiatowo-gminnych;
+- **3a)** statuty związków metropolitalnych;
+- **4)** akty Prezesa Rady Ministrów uchylające akty prawa miejscowego stanowionego przez wojewodę i organy administracji niezespolonej;
+- **5)** wyroki sądu administracyjnego uwzględniające skargi na akty prawa miejscowego stanowionego przez: wojewodę i organy administracji niezespolonej, organ samorządu województwa, organ powiatu i organ gminy;
+- **6)** porozumienia w sprawie wykonywania zadań publicznych zawarte:
+    - **a)** między jednostkami samorządu terytorialnego,
+    - **b)** między jednostkami samorządu terytorialnego i organami administracji rządowej;
+
+- **7)** uchwały budżetowe gminy, powiatu i województwa oraz sprawozdanie z wykonania budżetu gminy, powiatu i województwa;
+- **8)** obwieszczenia o wygaśnięciu mandatu wójta (burmistrza, prezydenta miasta) oraz o rozwiązaniu sejmiku województwa, rady powiatu lub rady gminy;
+- **8a)** rozstrzygnięcia nadzorcze dotyczące aktów prawa miejscowego stanowionych przez jednostki samorządu terytorialnego;
+- **9)** statut urzędu wojewódzkiego;
+- **10)** inne akty prawne, informacje, komunikaty, obwieszczenia i ogłoszenia, jeżeli tak stanowią przepisy szczególne.
 
 **Art. 14.**
 
@@ -375,9 +391,43 @@ source: "isap-pdf"
 
 **Art. 28c.** Prezes Rady Ministrów określi, w drodze rozporządzenia, wymagania techniczne:
 
+- **1)** dokumentów elektronicznych zawierających akty normatywne i inne akty prawne kierowane do ogłoszenia w dziennikach urzędowych,
+- **2)** dzienników urzędowych wydawanych w postaci elektronicznej,
+- **3)** środków komunikacji elektronicznej i informatycznych nośników danych używanych do udostępniania dzienników urzędowych oraz zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawartych w nich aktów normatywnych i innych aktów prawnych – uwzględniając odpowiednio konieczność zachowania jednolitości dokumentów elektronicznych kierowanych do ogłoszenia i możliwości ich przetwarzania na potrzeby wydawania dziennika urzędowego, a także konieczność zapewnienia powszechnej dostępności dzienników urzędowych oraz zbiorów aktów prawa miejscowego stanowionych przez powiat lub gminę lub zawartych w nich aktów normatywnych i innych aktów prawnych.
+
 **Art. 29.** Przepisy art. 8, art. 12, art. 16 ust. 3, art. 17 ust. 4, art. 22 ust. 1 i 2, art. 24 oraz art. 27, w zakresie odnoszącym się do ministrów kierujących działami administracji rządowej, stosuje się do przewodniczących określonych w ustawach komitetów, będących członkami Rady Ministrów.
 
 **Art. 29a.** Dziennik Urzędowy Unii Europejskiej wydawany przez Urząd Oficjalnych Publikacji Komisji Europejskiej, zawiera:
+
+- **1)** w serii L (legislacja):
+    - **a)** rozporządzenia,
+    - **b)** dyrektywy,
+    - **c)** decyzje,
+    - **d)** zalecenia,
+    - **e)** opinie;
+
+- **2)** w serii C (komunikaty albo informacje i zawiadomienia), w szczególności:
+    - **a)** streszczenia wyroków Trybunału Sprawiedliwości Unii Europejskiej,
+    - **b)** protokoły z posiedzeń Parlamentu Europejskiego,
+    - **c)** raporty Trybunału Obrachunkowego,
+    - **d)** pisemne zapytania poselskie oraz odpowiedzi na nie udzielane przez Radę lub Komisję,
+    - **e)** stanowiska Komitetu Ekonomiczno-Społecznego i Komitetu Regionów,
+    - **f)** ogłoszenia o naborze do pracy w instytucjach Unii Europejskiej,
+    - **g)** wezwania do okazania zainteresowania programami i projektami Unii Europejskiej,
+    - **h)** umowy publiczne dotyczące pomocy żywnościowej,
+    - **i)** spis treści Dziennika UE serii C E;
+
+- **3)** w serii S (suplement), w szczególności:
+    - **a)** umowy publiczne dotyczące pracy, dostaw i usług ze wszystkich państw członkowskich Unii Europejskiej,
+    - **b)** umowy użyteczności publicznej,
+    - **c)** umowy publiczne dotyczące instytucji Unii Europejskiej,
+    - **d)** umowy Europejskiego Funduszu Rozwoju (kraje ACP),
+    - **e)** umowy Phare, Tacis z państwami środkowej i wschodniej Europy,
+    - **f)** projekty finansowane przez Europejski Bank Inwestycyjny, Europejski Bank Centralny i Europejski Bank Odbudowy i Rozwoju,
+    - **g)** umowy dotyczące Europejskiego Obszaru Gospodarczego (Norwegia, Islandia i Liechtenstein),
+    - **h)** umowy zawarte zgodnie z porozumieniem dotyczącym zamówień publicznych (GPA) w ramach GATT/Światowej Organizacji Handlu (WTO) ze Szwajcarią,
+    - **i)** zawiadomienia dotyczące europejskiej ekonomicznej grupy interesów (EEIGs),
+    - **j)** umowy publiczne dotyczące usług lotniczych.
 
 **Art. 29b.**
 

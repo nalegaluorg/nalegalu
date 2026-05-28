@@ -11,9 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym
-
-*OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.*
+# RZECZYPOSPOLITEJ POLSKIEJ Warszawa, dnia 24 czerwca 2025 r.
 
 | Pole | Wartość |
 |---|---|
@@ -27,6 +25,8 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2025-06-25 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20250000819) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2025/819/text.pdf) |
 
+OBWIESZCZENIE MARSZAŁKA SEJMU RZECZYPOSPOLITEJ POLSKIEJ z dnia 11 czerwca 2025 r.
+sprawie ogłoszenia jednolitego tekstu ustawy o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym
 1. Na podstawie art. 16 ust. 1 zdanie pierwsze ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst ustawy z dnia 5 sierpnia 2015 r. o nadzorze makroostrożnościowym nad systemem finansowym i zarządzaniu kryzysowym systemie finansowym (Dz. U. z 2024 r. poz. 559), z uwzględnieniem zmian wprowadzonych ustawą z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146) oraz zmian wynikających z przepisów ogłoszonych przed dniem 27 maja 2025 r.
 2. Podany załączniku do niniejszego obwieszczenia tekst jednolity ustawy nie obejmuje art. 76 ustawy z dnia 20 grudnia 2024 r. o podmiotach obsługujących kredyty i nabywcach kredytów (Dz. U. z 2025 r. poz. 146), który stanowi: „Art. 76. Ustawa wchodzi życie po upływie 14 dni od dnia ogłoszenia, z wyjątkiem:
 1) art. 65, art. 67 i art. 75, które wchodzą życie z dniem następującym po dniu ogłoszenia;
@@ -58,7 +58,44 @@ Art. 65–80. (pominięte)
 
 **Art. 4.** Ilekroć ustawie jest mowa o:
 
+- **1)** (uchylony) 1a) globalnej instytucji o znaczeniu systemowym rozumie się przez to globalną instytucję o znaczeniu systemowym, o której mowa art. 4 ust. 1 pkt 133 rozporządzenia 575/2013;
+- **2)** grupie rozumie się przez to grupę, o której mowa art. 4 ust. 1 pkt 138 rozporządzenia 575/2013;
+- **3)** instytucji rozumie się przez to:
+    - **a)** instytucję, o której mowa art. 4 ust. 1 pkt 3 rozporządzenia 575/2013, z wyłączeniem: Banku Gospodarstwa Krajowego, spółdzielczych kas oszczędnościowo-kredytowych, instytucji kredytowych, o których mowa art. 4 ust. 1 pkt 17 ustawy Prawo bankowe, oraz oddziałów instytucji kredytowych, o których mowa art. 4 ust. 1 pkt 18 tej ustawy, wobec którego została wydana decyzja, o której mowa art. 110ac ust. 1 ustawy z dnia 29 lipca 2005 r. o obrocie instrumentami finansowymi (Dz. U. z 2024 r. poz. 722 i 1863 oraz z 2025 r. poz. 146), o którym mowa art. 1 ust. 2 lit. a lub b lub ust. 5 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2019/2033 z dnia 27 listopada 2019 r. sprawie wymogów ostrożnościowych dla firm inwestycyjnych oraz zmieniającego rozporządzenia (UE) nr 1093/2010, (UE) nr 575/2013, (UE) nr 600/2014 i (UE) nr 806/2014 (Dz. Urz. UE L 314 z 05.12.2019, str. 1, z późn. zm. );
+
+- **4)** instytucji finansowej rozumie się przez to instytucję oraz inny podmiot objęty nadzorem Komisji Nadzoru Finansowego, o którym mowa ustawie z dnia 21 lipca 2006 r. o nadzorze nad rynkiem finansowym (Dz. U. z 2025 r. poz. 640);
+- **4a)** jednostce zależnej rozumie się przez to jednostkę zależną, o której mowa art. 4 ust. 1 pkt 16 rozporządzenia 575/2013;
+- **5)** kapitale podstawowym Tier I rozumie się przez to element funduszy własnych instytucji, o którym mowa art. 26–50 rozporządzenia 575/2013;
+- **6)** kapitale dodatkowym Tier I rozumie się przez to element funduszy własnych instytucji, o którym mowa art. 51–61 rozporządzenia 575/2013;
+- **7)** kapitale Tier II rozumie się przez to element funduszy własnych instytucji, o którym mowa art. 62–71 rozporządzenia 575/2013;
+- **7a)** kluczowym wskaźniku referencyjnym rozumie się przez to wskaźnik referencyjny, o którym mowa art. 20 ust. 1 lit. b rozporządzenia 2016/1011;
+- **8)** Ministrze Finansów rozumie się przez to odpowiednio ministra właściwego do spraw budżetu, ministra właściwego do spraw finansów publicznych lub ministra właściwego do spraw instytucji finansowych;
+- **9)** państwie członkowskim rozumie się przez to państwo będące członkiem Unii Europejskiej lub Europejskiego Obszaru Gospodarczego;
+- **10)** państwie trzecim rozumie się przez to państwo niebędące państwem członkowskim;
+- **11)** (uchylony)
+- **12)** rozporządzeniu 575/2013 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 575/2013 z dnia 26 czerwca 2013 r. sprawie wymogów ostrożnościowych dla instytucji kredytowych oraz zmieniające rozporządzenie (UE) nr 648/2012 (Dz. Urz. UE L 176 z 27.06.2013, str. 1, z późn. zm. );
+- **13)** rozporządzeniu 1092/2010 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1092/2010 z dnia 24 listopada 2010 r. sprawie unijnego nadzoru makroostrożnościowego nad systemem finansowym i ustanowienia Europejskiej Rady do spraw Ryzyka Systemowego (Dz. Urz. UE L 331 z 15.12.2010, str. 1);
+- **14)** rozporządzeniu 1093/2010 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 1093/2010 z dnia 24 listopada 2010 r. sprawie ustanowienia Europejskiego Urzędu Nadzoru (Europejskiego Urzędu Nadzoru Bankowego), zmiany decyzji nr 716/2009/WE oraz uchylenia decyzji Komisji 2009/78/WE (Dz. Urz. UE L 331 z 15.12.2010, str. 12, z późn. zm.);
+- **14a)** rozporządzeniu 806/2014 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) nr 806/2014 z dnia 15 lipca 2014 r. ustanawiające jednolite zasady i jednolitą procedurę restrukturyzacji i uporządkowanej likwidacji instytucji kredytowych i niektórych firm inwestycyjnych ramach jednolitego mechanizmu restrukturyzacji i uporządkowanej likwidacji oraz jednolitego funduszu restrukturyzacji i uporządkowanej likwidacji oraz zmieniające rozporządzenie (UE) nr 1093/2010 (Dz. Urz. UE L 225 z 30.07.2014, str. 1, z późn. zm. ); z dnia 12 grudnia 2017 r. sprawie ustanowienia ogólnych ram dla sekurytyzacji oraz utworzenia szczególnych ram dla prostych, przejrzystych i standardowych sekurytyzacji, a także zmieniające dyrektywy 2009/65/WE, 2009/138/WE i 2011/61/UE oraz rozporządzenia (WE) nr 1060/2009 i (UE) nr 648/2012 (Dz. Urz. UE L 347 z 28.12.2017, str. 35, z późn. zm. );
+- **14c)** rozporządzeniu 2016/1011 rozumie się przez to rozporządzenie Parlamentu Europejskiego i Rady (UE) 2016/1011 z dnia 8 czerwca 2016 r. sprawie indeksów stosowanych jako wskaźniki referencyjne instrumentach finansowych i umowach finansowych lub do pomiaru wyników funduszy inwestycyjnych i zmieniające dyrektywy 2008/48/WE i 2014/17/UE oraz rozporządzenie (UE) nr 596/2014 (Dz. Urz. UE L 171 z 29.06.2016, str. 1, z późn. zm. );
+- **15)** ryzyku systemowym rozumie się przez to ryzyko zakłócenia funkcjonowaniu systemu finansowego, które razie jego materializacji zaburza działanie systemu finansowego i gospodarki narodowej jako całości, którego źródłem mogą być szczególności tendencje związane z nadmierną dynamiką akcji kredytowej lub zadłużenia i związane z nimi nierównowagi zakresie cen aktywów, niestabilne modele finansowania, rozkład ryzyka systemie finansowym, powiązania pomiędzy instytucjami finansowymi lub nierównowagi makroekonomiczne i sektorowe;
+- **16)** systemie finansowym rozumie się przez to system finansowy, o którym mowa art. 2 lit. b rozporządzenia 1092/2010;
+- **17)** unijnej dominującej finansowej spółce holdingowej rozumie się przez to unijną dominującą finansową spółkę holdingową, o której mowa art. 4 ust. 1 pkt 31 rozporządzenia 575/2013;
+- **18)** unijnej dominującej finansowej spółce holdingowej o działalności mieszanej rozumie się przez to unijną dominującą finansową spółkę holdingową o działalności mieszanej, o której mowa art. 4 ust. 1 pkt 33 rozporządzenia 575/2013;
+- **19)** unijnej instytucji dominującej rozumie się przez to unijną instytucję dominującą, o której mowa art. 4 ust. 1 pkt 29 rozporządzenia 575/2013;
+- **20)** ustawie Prawo przedsiębiorców rozumie się przez to ustawę z dnia 6 marca 2018 r. Prawo przedsiębiorców (Dz. U. z 2024 r. poz. 236, 1222 i 1871 oraz z 2025 r. poz. 222, 621 i 622);
+- **21)** ustawie Prawo bankowe rozumie się przez to ustawę z dnia 29 sierpnia 1997 r. Prawo bankowe (Dz. U. z 2024 r. poz. 1646, 1685 i 1863 oraz z 2025 r. poz. 146, 222 i 525);
+- **22)** właściwych podmiotach rozumie się przez to Bankowy Fundusz Gwarancyjny, Komisję Nadzoru Finansowego, Ministra Finansów oraz Narodowy Bank Polski, zakresie działań służących wyeliminowaniu lub ograniczeniu ryzyka systemowego;
+- **23)** zasadzie indywidualnej rozumie się przez to zasadę indywidualną, o której mowa art. 6–10 rozporządzenia 575/2013;
+- **24)** zasadzie skonsolidowanej rozumie się przez to zasadę skonsolidowaną, o której mowa art. 4 ust. 1 pkt 48 rozporządzenia 575/2013;
+- **25)** zasadzie subskonsolidowanej rozumie się przez to zasadę subskonsolidowaną, o której mowa art. 4 ust. 1 pkt 49 rozporządzenia 575/2013.
+
 **Art. 5.** Do zadań Komitetu zakresie nadzoru makroostrożnościowego należy:
+
+- **1)** stosowanie instrumentów makroostrożnościowych, tym przedstawianie stanowisk, oraz wydawanie rekomendacji;
+- **2)** identyfikowanie instytucji finansowych istotnych dla systemu finansowego;
+- **3)** współpraca z Europejską Radą do spraw Ryzyka Systemowego, tym informowanie o podjętych działaniach makroostrożnościowych, współpraca z innymi organami Unii Europejskiej, organami nadzoru makroostrożnościowego z państw członkowskich lub państw trzecich, a także instytucjami międzynarodowymi;
+- **4)** zapewnienie właściwego obiegu informacji pomiędzy członkami Komitetu służących realizacji jego zadań.
 
 **Art. 6.**
 
@@ -66,7 +103,7 @@ Art. 65–80. (pominięte)
 
 - **1)** opracowywanie i przyjmowanie procedur współdziałania na wypadek wystąpienia bezpośredniego zagrożenia dla stabilności systemu finansowego;
 - **2)** koordynowanie działań członków Komitetu przypadku bezpośredniego zagrożenia dla stabilności systemu finansowego lub zidentyfikowania instytucji finansowej, której obecna lub prognozowana sytuacja finansowa może stanowić zagrożenie dla dalszego funkcjonowania tej instytucji;
-- **3)** zapewnienie właściwego obiegu informacji pomiędzy członkami Komitetu służących realizacji jego zadań; z 2024 r. poz. 505).
+- **4)** stwierdzanie przesłanek wystąpienia i ustania kryzysu systemowego, o którym mowa art. 2 pkt 16 ustawy z dnia 12 lutego 2010 r. o rekapitalizacji niektórych instytucji oraz o rządowych instrumentach stabilizacji finansowej (Dz. U. z 2024 r. poz. 505).
 
 2. Procedury, o których mowa ust. 1 pkt 1, są przekazywane Ministrowi Finansów, Narodowemu Bankowi Polskiemu, Komisji Nadzoru Finansowego i Bankowemu Funduszowi Gwarancyjnemu.
 
@@ -160,7 +197,7 @@ Art. 65–80. (pominięte)
 
 4. Do osób, o których mowa ust. 2 i 3, przepisy ust. 1 pkt 2 oraz ust. 5 stosuje się odpowiednio także po ustaniu ich członkostwa organach, o których mowa ust. 2, oraz po ustaniu ich zatrudnienia podmiotach, o których mowa ust. 3.
 
-5. Obowiązek, o którym mowa ust. 1 pkt 2, trwa również po ustaniu członkostwa Komitecie lub zaprzestaniu uczestnictwa pracach Komitetu i stosuje się do osób, o których mowa art. 7 ust. 1, 3 i 4 oraz art. 10 ust. 1.
+5. Obowiązek, o którym mowa ust. 1 pkt 2, trwa również po ustaniu członkostwa Komitecie lub zaprzestaniu uczestnictwa pracach Komitetu i stosuje się do osób, o których mowa art. 7 ust. 1, 3 i 4 oraz art. 10 ust. 1. pkt 3.
 
 **Art. 16.** Członkowie Komitetu, celu wzmocnienia współpracy międzynarodowej na rzecz realizacji zadań określonych art. 6 ust. 1, mogą zawierać porozumienia z organami realizującymi zadania z tego zakresu państwach członkowskich, z bankami centralnymi wchodzącymi skład Europejskiego Systemu Banków Centralnych, tym z Europejskim Bankiem Centralnym, oraz z organami nadzoru nad rynkiem finansowym państwach członkowskich i właściwymi ministrami państwach członkowskich.
 
@@ -236,7 +273,7 @@ Art. 65–80. (pominięte)
 3. Minister właściwy do spraw instytucji finansowych określi, drodze rozporządzenia:
 
 - **1)** wskaźnik bufora antycyklicznego;
-- **2)** dzień, od którego instytucje stosują ten wskaźnik przypadku gdy wskaźnik bufora antycyklicznego jest podwyższany; dzień ten ustala się na pierwszy dzień po upływie 12 miesięcy od dnia ogłoszenia rozporządzenia, chyba że wyjątkowe okoliczności uzasadniają określenie krótszego terminu.
+- **2)** dzień, od którego instytucje stosują ten wskaźnik przypadku gdy wskaźnik bufora antycyklicznego jest podwyższany; dzień ten ustala się na pierwszy dzień po upływie 12 miesięcy od dnia ogłoszenia rozporządzenia, chyba że wyjątkowe okoliczności uzasadniają określenie krótszego terminu. uwagę:
 - **1)** rekomendację Komitetu dotyczącą natężenia cyklicznego ryzyka systemowego oraz wysokości i adekwatności wskaźnika bufora antycyklicznego;
 - **2)** wartość odniesienia, o której mowa art. 23;
 - **3)** zalecenia Europejskiej Rady do spraw Ryzyka Systemowego dotyczące ustalania wskaźnika bufora antycyklicznego, wydane na podstawie art. 16 rozporządzenia 1092/2010;
@@ -313,6 +350,14 @@ Art. 65–80. (pominięte)
 
 **Art. 31.** Komitet zamieszcza informacje o wskaźniku bufora antycyklicznego dla państwa trzeciego, na stronie internetowej Narodowego Banku Polskiego, tym informacje o:
 
+- **1)** wysokości obowiązującego wskaźnika bufora antycyklicznego;
+- **2)** dniu, od którego instytucje stosują ten wskaźnik. ust. 1 i 2, przyjmuje się, że:
+- **1)** wskaźnik bufora antycyklicznego dla państwa członkowskiego innego niż Rzeczpospolita Polska ma zastosowanie od dnia określonego zgodnie z prawem tego państwa przez organ właściwy sprawach nadzoru makroostrożnościowego danego państwa członkowskiego, jeżeli skutkiem takiej decyzji jest podwyższenie wskaźnika tego bufora,
+- **2)** przypadku gdy organ właściwy sprawach nadzoru makroostrożnościowego państwa trzeciego ustalił wskaźnik bufora antycyklicznego dla tego państwa trzeciego na poziomie wyższym od dotychczasowego, znajduje on zastosowanie po upływie 12 miesięcy od dnia ogłoszenia sposób przewidziany prawie właściwym dla państwa trzeciego, bez względu na wyznaczenie przez ten organ krótszego terminu dla instytucji zarejestrowanych tym państwie,
+- **3)** wskaźnik bufora antycyklicznego ma zastosowanie od dnia określonego zgodnie z prawem państwa członkowskiego innego niż Rzeczpospolita Polska albo państwa trzeciego, jeżeli organy właściwe sprawach nadzoru makroostrożnościowego tego państwa ustalą wskaźnik bufora antycyklicznego na poziomie niższym od dotychczasowego z zastrzeżeniem że przypadku określenia wskaźnika bufora antycyklicznego przepisach wydanych na podstawie art. 27 ust. 3, art. 29 ust. 2 lub art. 30 ust. 2, do obliczenia średniej ważonej wskaźnika bufora antycyklicznego stosuje się odpowiednio wskaźnik określony zgodnie z tymi przepisami.
+
+2. Do obliczania średniej ważonej wskaźników bufora antycyklicznego obowiązujących państwach członkowskich lub państwach trzecich, których znajdują się ekspozycje kredytowe instytucji, instytucje określają lokalizację geograficzną stosownej ekspozycji kredytowej zgodnie z regulacyjnymi standardami technicznymi przyjętymi przez Komisję Europejską trybie art. 10–13 rozporządzenia 1093/2010.
+
 #### Rozdział 7 Bufory instytucji o znaczeniu systemowym
 
 **Art. 33.**
@@ -343,7 +388,7 @@ Art. 65–80. (pominięte)
 
 1. Komisja Nadzoru Finansowego, po zasięgnięciu opinii Komitetu, drodze decyzji, identyfikuje globalne instytucje o znaczeniu systemowym oraz przyporządkowuje je do jednej z kategorii, o których mowa art. 34 ust. 3, wyznaczających, narastająco, znaczenie systemowe globalnej instytucji o znaczeniu systemowym. W przypadku przyporządkowania do kategorii, o której mowa art. 34 ust. 3 pkt 5, decyzja określa również poziom bufora globalnej instytucji o znaczeniu systemowym.
 
-2. Komisja Nadzoru Finansowego uzasadnionych przypadkach może, drodze decyzji, po zasięgnięciu opinii Komitetu, przyporządkować globalną instytucję o znaczeniu systemowym do kategorii, której odpowiada bufor na wyższym poziomie. jeżeli na podstawie kryteriów, o których mowa art. 36 ust. 1, podmiot ten nie zostałby przyporządkowany do żadnej z tych kategorii, identyfikując jednocześnie ten podmiot jako globalną instytucję o znaczeniu systemowym.
+2. Komisja Nadzoru Finansowego uzasadnionych przypadkach może, drodze decyzji, po zasięgnięciu opinii Komitetu, przyporządkować globalną instytucję o znaczeniu systemowym do kategorii, której odpowiada bufor na wyższym poziomie. Komitetu, przyporządkować podmiot, o którym mowa art. 33 ust. 1, do jednej z kategorii, o których mowa art. 34 ust. 3, jeżeli na podstawie kryteriów, o których mowa art. 36 ust. 1, podmiot ten nie zostałby przyporządkowany do żadnej z tych kategorii, identyfikując jednocześnie ten podmiot jako globalną instytucję o znaczeniu systemowym.
 
 2b. Komisja Nadzoru Finansowego po dodatkowej identyfikacji, o której mowa art. 36 ust. 1a, może, drodze decyzji, po zasięgnięciu opinii Komitetu, przyporządkować globalną instytucję o znaczeniu systemowym do kategorii, której odpowiada bufor na niższym poziomie.
 
@@ -379,7 +424,7 @@ Art. 65–80. (pominięte)
 
 1. Komisja Nadzoru Finansowego, drodze decyzji, po zasięgnięciu opinii Komitetu, identyfikuje inną instytucję o znaczeniu systemowym i nakłada na nią bufor innej instytucji o znaczeniu systemowym do wysokości 3 % łącznej kwoty ekspozycji na ryzyko obliczonej zgodnie z art. 92 ust. 3 rozporządzenia 575/2013.
 
-1a. Komisja Nadzoru Finansowego, drodze decyzji, po zasięgnięciu opinii Komitetu oraz po otrzymaniu zgody Komisji Europejskiej, identyfikuje inną instytucję o znaczeniu systemowym i nakłada na nią bufor innej instytucji o znaczeniu systemowym większy niż 3 % łącznej kwoty ekspozycji na ryzyko obliczonej zgodnie z art. 92 ust. 3 rozporządzenia 575/2013. ją do jednej z kategorii, o których mowa art. 34 ust. 3.
+1a. Komisja Nadzoru Finansowego, drodze decyzji, po zasięgnięciu opinii Komitetu oraz po otrzymaniu zgody Komisji Europejskiej, identyfikuje inną instytucję o znaczeniu systemowym i nakłada na nią bufor innej instytucji o znaczeniu systemowym większy niż 3 % łącznej kwoty ekspozycji na ryzyko obliczonej zgodnie z art. 92 ust. 3 rozporządzenia 575/2013. może uznać, inną instytucję o znaczeniu systemowym za globalną instytucję o znaczeniu systemowym i przyporządkować ją do jednej z kategorii, o których mowa art. 34 ust. 3.
 
 3. Do wydawanych opinii, o których mowa ust. 1–2, stosuje się przepis art. 106 ustawy z dnia 14 czerwca 1960 r. Kodeks postępowania administracyjnego, z tym że na postanowienie nie służy zażalenie.
 
@@ -398,7 +443,19 @@ Art. 65–80. (pominięte)
 
 **Art. 41.** W przypadku gdy inna instytucja o znaczeniu systemowym jest jednostką zależną globalnej instytucji o znaczeniu systemowym albo innej instytucji o znaczeniu systemowym, która jest instytucją albo grupą, na czele której stoi unijna instytucja dominująca, i podlega buforowi innej instytucji o znaczeniu systemowym na zasadzie skonsolidowanej, bufor innej instytucji o znaczeniu systemowym, który ma zastosowanie na zasadzie indywidualnej lub zasadzie subskonsolidowanej, nie przekracza niższej z następujących wartości:
 
+- **1)** sumy:
+    - **a)** wyższego z buforów bufora globalnej instytucji o znaczeniu systemowym albo bufora innej instytucji o znaczeniu systemowym, mającego zastosowanie wobec grupy na zasadzie skonsolidowanej, oraz
+    - **b)** 1 % łącznej kwoty ekspozycji na ryzyko obliczonej zgodnie z art. 92 ust. 3 rozporządzenia 575/2013 albo
+
+- **2)** 3 % łącznej kwoty ekspozycji na ryzyko obliczonej zgodnie z art. 92 ust. 3 rozporządzenia 575/2013 albo wskaźnika łącznej kwoty ekspozycji na ryzyko obliczonej zgodnie z art. 92 ust. 3 rozporządzenia 575/2013, o którym mowa decyzji, o której mowa art. 39 ust. 1a.
+
 **Art. 42.** Dodatkowa kwota kapitału podstawowego Tier I, którą globalne instytucje o znaczeniu systemowym oraz inne instytucje o znaczeniu systemowym utrzymują celu spełnienia wymogów, o których mowa art. 34 ust. 1 oraz art. 38 ust. 1, nie jest jednocześnie zaliczana na poczet spełniania przez te instytucje:
+
+- **1)** wymogów nałożonych na podstawie art. 92 ust. 1 lit. a–c rozporządzenia 575/2013 oraz
+- **2)** dodatkowego wymogu zakresie funduszy własnych, o którym mowa art. 138 ust. 2 pkt 2 ustawy Prawo bankowe, uwzględniającego inne rodzaje ryzyka niż ryzyko nadmiernej dźwigni, o którym mowa art. 92 ust. 1 lit. d oraz ust. 1a rozporządzenia 575/2013, oraz
+- **3)** opartych na ryzyku składników wymogów, o których mowa art. 92a i art. 92b rozporządzenia 575/2013 oraz art. 97 i art. 98 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, oraz
+- **4)** wymogów nałożonych na podstawie art. 19 ust. 1, art. 21 ust. 1 i art. 47, oraz
+- **5)** zaleceń, o których mowa art. 133a ust. 5a ustawy Prawo bankowe, uwzględniających inne rodzaje ryzyka niż ryzyko nadmiernej dźwigni, o którym mowa art. 92 ust. 1 lit. d oraz ust. 1a rozporządzenia 575/2013.
 
 **Art. 43.** W przypadku gdy grupa na zasadzie skonsolidowanej podlega wymogowi bufora globalnej instytucji o znaczeniu systemowym oraz wymogowi bufora innej instytucji o znaczeniu systemowym, zastosowanie ma wyższy z tych buforów.
 
@@ -450,6 +507,11 @@ Art. 65–80. (pominięte)
 **Art. 47.** Instytucja utrzymuje dodatkową kwotę kapitału podstawowego Tier I stosunku do kapitału podstawowego Tier I utrzymywanego na potrzeby spełniania wymogu zakresie funduszy własnych, o którym mowa art. 92 ust. 1 lit. a–c rozporządzenia 575/2013, celu zapobiegania ryzyku systemowemu nieobjętemu tym rozporządzeniem, buforem antycyklicznym specyficznym dla instytucji, buforem globalnej instytucji o znaczeniu systemowym i buforem innej instytucji o znaczeniu systemowym oraz ograniczania tego ryzyka, wysokości określonej przepisach wydanych na podstawie art. 50 ust. 8 (bufor ryzyka systemowego).
 
 **Art. 48.** Dodatkowa kwota kapitału podstawowego Tier I, którą instytucja utrzymuje celu spełnienia wymogów, o których mowa art. 47, nie jest jednocześnie zaliczana na poczet spełniania przez tę instytucję:
+
+- **1)** wymogów nałożonych na podstawie art. 92 ust. 1 lit. a–c rozporządzenia 575/2013 oraz
+- **2)** dodatkowego wymogu zakresie funduszy własnych, o którym mowa art. 138 ust. 2 pkt 2 ustawy Prawo bankowe, uwzględniającego inne rodzaje ryzyka niż ryzyko nadmiernej dźwigni, o którym mowa art. 92 ust. 1 lit. d oraz ust. 1a rozporządzenia 575/2013, oraz i art. 98 ustawy z dnia 10 czerwca 2016 r. o Bankowym Funduszu Gwarancyjnym, systemie gwarantowania depozytów oraz przymusowej restrukturyzacji, oraz
+- **4)** wymogów nałożonych na podstawie art. 19 ust. 1, art. 21 ust. 1, art. 34 ust. 1 i art. 38 ust. 1, oraz
+- **5)** zaleceń, o których mowa art. 133a ust. 5a ustawy Prawo bankowe, uwzględniających inne rodzaje ryzyka niż ryzyko nadmiernej dźwigni, o którym mowa art. 92 ust. 1 lit. d oraz ust. 1a rozporządzenia 575/2013.
 
 **Art. 49.**
 
@@ -515,7 +577,7 @@ Art. 65–80. (pominięte)
 1. Minister właściwy do spraw instytucji finansowych, za pośrednictwem Komitetu, powiadamia o zamiarze nałożenia albo zmiany wysokości bufora ryzyka systemowego:
 
 - **1)** Europejską Radę do spraw Ryzyka Systemowego oraz
-- **2)** przypadku gdy wymóg utrzymania bufora ryzyka systemowego ma objąć jednostkę zależną jednostki dominującej rozumieniu art. 4 ust. 1 pkt 15 rozporządzenia 575/2013, która ma siedzibę państwie członkowskim innym niż Rzeczpospolita Polska organ właściwy sprawach nadzoru makroostrożnościowego tego państwa członkowskiego. tucji finansowych przekazuje nie później niż miesiąc przed dniem określenia tego wskaźnika.
+- **2)** przypadku gdy wymóg utrzymania bufora ryzyka systemowego ma objąć jednostkę zależną jednostki dominującej rozumieniu art. 4 ust. 1 pkt 15 rozporządzenia 575/2013, która ma siedzibę państwie członkowskim innym niż Rzeczpospolita Polska organ właściwy sprawach nadzoru makroostrożnościowego tego państwa członkowskiego. stawie art. 50 ust. 8, nie przekracza 3 %, powiadomienie, o którym mowa ust. 1 pkt 1, minister właściwy do spraw instytucji finansowych przekazuje nie później niż miesiąc przed dniem określenia tego wskaźnika.
 
 3. (uchylony)
 
@@ -541,6 +603,11 @@ Art. 65–80. (pominięte)
 - **6)** przypadku gdy wskaźnik bufora ryzyka systemowego ma zastosowanie do wszystkich ekspozycji uzasadnienie, dlaczego bufor ryzyka systemowego dotyczy innego rodzaju ryzyka niż ryzyko objęte buforem globalnej instytucji o znaczeniu systemowym lub buforem innej instytucji o znaczeniu systemowym.
 
 **Art. 52.** Komitet zamieszcza na stronie internetowej Narodowego Banku Polskiego informacje o wskaźniku bufora ryzyka systemowego, zawierające szczególności:
+
+- **1)** wysokość obowiązującego wskaźnika lub wskaźników bufora ryzyka systemowego;
+- **2)** kategorie instytucji, do których ma zastosowanie bufor ryzyka systemowego;
+- **4)** rodzaje ekspozycji i państwa, których one się znajdują;
+- **5)** uzasadnienie określenia wskaźnika lub wskaźników bufora ryzyka systemowego przypadku gdy informacja ta nie zagraża stabilności systemu finansowego.
 
 **Art. 53.**
 
@@ -577,7 +644,7 @@ Art. 65–80. (pominięte)
 - **4)** spłatę kwot opłaconych związku z instrumentami kapitałowymi, o których mowa art. 26 ust. 1 lit. a rozporządzenia 575/2013;
 - **5)** wypłatę pozycji, o których mowa art. 26 ust. 1 lit. b–e rozporządzenia 575/2013.
 
-4. Wymóg połączonego bufora stanowi łączny kapitał podstawowy Tier I, który jest wymagany do pokrycia bufora zabezpieczającego, powiększonego o bufor antycykliczny specyficzny dla instytucji, bufor globalnych instytucji o znaczeniu systemowym, bufor innych instytucji o znaczeniu systemowym lub bufor ryzyka systemowego (wymóg połączonego bufora).
+4. Wymóg połączonego bufora stanowi łączny kapitał podstawowy Tier I, który jest wymagany do pokrycia bufora zabezpieczającego, powiększonego o bufor antycykliczny specyficzny dla instytucji, bufor globalnych instytucji o znaczeniu systemowym, bufor innych instytucji o znaczeniu systemowym lub bufor ryzyka systemowego (wymóg połączonego bufora). i o jakości, które są wymagane do jednoczesnego spełniania:
 
 - **1)** wymogów nałożonych na podstawie art. 92 ust. 1 lit. a–c rozporządzenia 575/2013 oraz
 - **2)** dodatkowego wymogu zakresie funduszy własnych, o którym mowa art. 138 ust. 2 pkt 2 ustawy Prawo bankowe, uwzględniającego inne rodzaje ryzyka niż ryzyko nadmiernej dźwigni, o którym mowa art. 92 ust. 1 lit. d oraz ust. 1a rozporządzenia 575/2013, oraz
@@ -619,7 +686,7 @@ Art. 65–80. (pominięte)
 
 2. Wartość liczbową, o której mowa ust. 1, uzyskuje się wyniku zsumowania zysków z bieżącego okresu niewłączonych do kapitału podstawowego Tier I zgodnie z art. 26 ust. 2 rozporządzenia 575/2013 oraz zysków rocznych niewłączonych do kapitału podstawowego Tier I zgodnie z art. 26 ust. 2 rozporządzenia 575/2013.
 
-3. Od kwoty obliczonej zgodnie z ust. 2 odejmuje się wartość kwot należnych z tytułu podatku, jeżeli zyski, o których mowa ust. 2, nie zostałyby wypłacone.
+3. Od kwoty obliczonej zgodnie z ust. 2 odejmuje się wartość kwot należnych z tytułu podatku, jeżeli zyski, o których mowa ust. 2, nie zostałyby wypłacone. oraz wartości współczynnika L-MDA ustalonego zgodnie z art. 58, pomniejszony o kwoty, o których mowa art. 56 ust. 4.
 
 2. Wartość liczbową, o której mowa ust. 1, uzyskuje się wyniku zsumowania zysków z bieżącego okresu niewłączonych do kapitału podstawowego Tier I zgodnie z art. 26 ust. 2 rozporządzenia 575/2013 oraz zysków rocznych niewłączonych do kapitału podstawowego Tier I zgodnie z art. 26 ust. 2 rozporządzenia 575/2013.
 
@@ -651,7 +718,7 @@ Art. 65–80. (pominięte)
 - **1)** dolny kres kwartylu ((wymóg bufora wskaźnika dźwigni wyrażony jako odsetek ekspozycji całkowitej obliczonej zgodnie z art. 429 ust. 4 rozporządzenia 575/2013)/4) x (Qn 1),
 - **2)** górny kres kwartylu ((wymóg bufora wskaźnika dźwigni wyrażony jako odsetek ekspozycji całkowitej obliczonej zgodnie z art. 429 ust. 4 rozporządzenia 575/2013)/4) x Qn których „Qn” oznacza numer porządkowy danego kwartylu.
 
-5. Przez kwartyl, o którym mowa ust. 1–4, rozumie się parametr statystyczny, którego trzy wartości dzielą uporządkowany zbiór danych na cztery zbiory równe pod względem liczebności. art. 56 ust. 3 lub 4, niezwłocznie powiadamia Komisję Nadzoru Finansowego o:
+5. Przez kwartyl, o którym mowa ust. 1–4, rozumie się parametr statystyczny, którego trzy wartości dzielą uporządkowany zbiór danych na cztery zbiory równe pod względem liczebności. dźwigni, o którym mowa art. 92 ust. 1a rozporządzenia 575/2013, planuje dokonać wypłaty, o której mowa odpowiednio art. 56 ust. 3 lub 4, niezwłocznie powiadamia Komisję Nadzoru Finansowego o:
 
 - **1)** wysokości utrzymywanego przez nią kapitału podziale na:
     - **a)** kapitał podstawowy Tier I,
@@ -692,7 +759,7 @@ Art. 65–80. (pominięte)
 
 **Art. 61a.**
 
-1. W przypadku wystąpienia zdarzenia, o którym mowa art. 23c ust. 1 rozporządzenia 2016/1011, Komisja Nadzoru Finansowego przedstawia Komitetowi stanowisko zawierające informację o konieczności wyznaczenia zamiennika kluczowego wskaźnika referencyjnego, zwanego dalej „zamiennikiem”, albo braku takiej konieczności. Komisja Nadzoru Finansowego może wskazać konieczność wyznaczenia więcej niż jednego zamiennika.
+1. W przypadku wystąpienia zdarzenia, o którym mowa art. 23c ust. 1 rozporządzenia 2016/1011, Komisja Nadzoru Finansowego przedstawia Komitetowi stanowisko zawierające informację o konieczności wyznaczenia zamiennika kluczowego wskaźnika referencyjnego, zwanego dalej „zamiennikiem”, albo braku takiej konieczności. Komisja Nadzoru Finansowego może wskazać konieczność wyznaczenia więcej niż jednego zamiennika. o których mowa art. 23b ust. 9 rozporządzenia 2016/1011.
 
 3. Stanowisko zawierające informację o braku konieczności wyznaczenia zamiennika zawiera uzasadnienie.
 
@@ -703,6 +770,11 @@ Art. 65–80. (pominięte)
 2. Rekomendacja zawiera elementy, o których mowa art. 23b ust. 9 rozporządzenia 2016/1011.
 
 **Art. 61c.** Minister właściwy do spraw instytucji finansowych może określić, drodze rozporządzenia:
+
+- **1)** zamiennik albo zamienniki,
+- **2)** korektę spreadu, o której mowa art. 23b ust. 9 lit. b rozporządzenia 2016/1011, oraz metodę jej ustalania,
+- **3)** odpowiednie istotne zmiany dostosowawcze, o których mowa art. 23b ust. 9 lit. c rozporządzenia 2016/1011,
+- **4)** datę albo daty rozpoczęcia stosowania danego zamiennika albo zamienników biorąc pod uwagę rekomendację Komitetu, o której mowa art. 61b, oraz wzrost ryzyka systemowego systemie finansowym, spowodowanego zaprzestaniem opracowywania kluczowych wskaźników referencyjnych lub ich likwidacją.
 
 #### Rozdział 11 Sankcje administracyjne za naruszenie przepisów
 
@@ -734,6 +806,11 @@ Art. 65–80. (pominięte)
 
 **Art. 81.** Zidentyfikowane globalne instytucje o znaczeniu systemowym utrzymują:
 
+- **1)** 25 % bufora globalnej instytucji o znaczeniu systemowym 2016 r.;
+- **2)** 50 % bufora globalnej instytucji o znaczeniu systemowym 2017 r.;
+- **3)** 75 % bufora globalnej instytucji o znaczeniu systemowym 2018 r.;
+- **4)** 100 % bufora globalnej instytucji o znaczeniu systemowym od 2019 r.
+
 **Art. 82.** Komitet Stabilności Finansowej działający na podstawie ustawy, o której mowa art. 95, staje się Komitetem.
 
 **Art. 83.** Wskaźnik bufora antycyklicznego, o którym mowa art. 24 ust. 1, wynosi 0 % okresie do dnia poprzedzającego dzień, od którego instytucja będzie obowiązana stosować wskaźnik określony przepisach wydanych na podstawie art. 24 ust. 3.
@@ -758,6 +835,11 @@ Art. 65–80. (pominięte)
 
 **Art. 92.** Na potrzeby stosowania art. 395 ust. 1 rozporządzenia 575/2013 do dnia wejścia życie przepisów wydanych na podstawie art. 71 ustawy zmienianej art. 68 , brzmieniu nadanym niniejszą ustawą, wyłącza się odniesieniu do banków:
 
+- **1)** ekspozycje, o których mowa art. 493 ust. 3 lit. a, d–g oraz j rozporządzenia 575/2013;
+- **2)** 80 % wartości ekspozycji, o których mowa art. 493 ust. 3 lit. b rozporządzenia 575/2013;
+- **3)** ekspozycje wobec własnych jednostek zależnych, tym udziały kapitałowe i innego rodzaju udziały, zakresie, jakim te jednostki są objęte nadzorem Komisji Nadzoru Finansowego na zasadzie skonsolidowanej, o których mowa art. 493 ust. 3 lit. c rozporządzenia 575/2013;
+- **4)** 50 % pozabilansowych akredytyw dokumentowych średniego/niskiego ryzyka i pozabilansowych niewykorzystanych zobowiązań kredytowych średniego/niskiego ryzyka, o których mowa art. 493 ust. 3 lit. i rozporządzenia 575/2013.
+
 **Art. 93.**
 
 1. Dotychczasowe przepisy wykonawcze wydane na podstawie art. 94 ust. 1 pkt 5 i 5a oraz art. 98i ust. 2 ustawy zmienianej art. 72 , brzmieniu dotychczasowym, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 94 ust. 1 pkt 5 oraz art. 110x ustawy zmienianej art. 72 , brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy.
@@ -772,9 +854,13 @@ Art. 65–80. (pominięte)
 - **2)** art. 92b ust. 3 ustawy zmienianej art. 68 , brzmieniu dotychczasowym, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 92b ust. 3 ustawy zmienianej art. 68 , brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy;
 - **3)** art. 137 pkt 1 i 2 ustawy zmienianej art. 68 , brzmieniu dotychczasowym, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 31b ustawy zmienianej art. 68 , brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy;
 - **4)** art. 137 pkt 1a ustawy zmienianej art. 68 , brzmieniu dotychczasowym, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 6a ust. 9 ustawy zmienianej art. 68 , brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy;
-- **5)** art. 141l ust. 3 ustawy zmienianej art. 68 , brzmieniu dotychczasowym, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 141l ust. 3 ustawy zmienianej art. 68 , brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy. ust. 3 rozporządzenia 575/2013, z wyłączeniem przepisów zakresie nadzorczych miar płynności krótkoterminowej oraz nadzorczych miar płynności określających współczynnik udziału podstawowej i uzupełniającej rezerwy płynności aktywach ogółem, które zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 128 ust. 6a pkt 5 ustawy zmienianej art. 68 , brzmieniu nadanym niniejszą ustawą, o ile przepisach tych zostanie określony wyższy wymóg dotyczący pokrycia płynności wynoszący 100 %, nie dłużej jednak niż do dnia 31 grudnia 2017 r.
+- **5)** art. 141l ust. 3 ustawy zmienianej art. 68 , brzmieniu dotychczasowym, zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 141l ust. 3 ustawy zmienianej art. 68 , brzmieniu nadanym niniejszą ustawą, nie dłużej jednak niż przez 18 miesięcy od dnia wejścia życie niniejszej ustawy. dnia, którym znajdą zastosowanie przepisy wydane na podstawie wniosku ustawodawczego, o którym mowa art. 510 ust. 3 rozporządzenia 575/2013, z wyłączeniem przepisów zakresie nadzorczych miar płynności krótkoterminowej oraz nadzorczych miar płynności określających współczynnik udziału podstawowej i uzupełniającej rezerwy płynności aktywach ogółem, które zachowują moc do dnia wejścia życie przepisów wykonawczych wydanych na podstawie art. 128 ust. 6a pkt 5 ustawy zmienianej art. 68 , brzmieniu nadanym niniejszą ustawą, o ile przepisach tych zostanie określony wyższy wymóg dotyczący pokrycia płynności wynoszący 100 %, nie dłużej jednak niż do dnia 31 grudnia 2017 r.
 
 **Art. 95.** Traci moc ustawa z dnia 7 listopada 2008 r. o Komitecie Stabilności Finansowej (Dz. U. poz. 1317 oraz z 2013 r. poz. 1012).
 
 **Art. 96.** Ustawa wchodzi życie po upływie 30 dni od dnia ogłoszenia , z wyjątkiem:
+
+- **1)** art. 19–46, art. 55–62, art. 81 i art. 83, które wchodzą życie z dniem 1 stycznia 2016 r.;
+- **2)** art. 65 pkt 3–5, które wchodzą życie z dniem następującym po dniu ogłoszenia.
+
 

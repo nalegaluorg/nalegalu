@@ -8,10 +8,10 @@ pos: 502
 act_type: Obwieszczenie
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Warszawa, dnia 16 marca 2023 OBWIESZCZENIE MINISTRA ZDROWIA dnia 23 lutego 2023 sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia sprawie rezerwy szczepionek innych immunologicznych produktów leczniczych, stosowanych razie wystąpienia zagrożenia epidemicznego lub epidemii
+# Obwieszczenie Ministra Zdrowiaz dnia 23 lutego 2023 r. w sprawie ogłoszenia jednolitego tekstu rozporządzenia Ministra Zdrowia w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii
 
 | Pole | Wartość |
 |---|---|
@@ -25,56 +25,127 @@ source: "isap-pdf"
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20230000502) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2023/502/text.pdf) |
 
-1. Na podstawie art. 16 ust. 3 ustawy dnia 20 lipca 2000 ogłaszaniu aktów normatywnych niektórych innych aktów prawnych (Dz. U. 2019 1461) ogłasza się załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia dnia 29 marca 2017 sprawie rezerwy szczepionek innych immunologicznych produktów leczniczych, stosowanych razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. 2022 964), uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia dnia 6 czerwca 2022 zmieniającym rozporządzenie sprawie rezerwy szczepionek innych immunologicznych produktów leczniczych, stosowanych razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. 1255).
-2. Podany załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje 2 rozporządzenia Ministra Zdrowia dnia 6 czerwca 2022 zmieniającego rozporządzenie sprawie rezerwy szczepionek innych immunologicznych produktów leczniczych, stosowanych razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. 1255), który stanowi: „§ 2. Rozporządzenie wchodzi życie dniem 1 lipca 2022 r.”.
-Minister Zdrowia: A. Niedzielski dnia 29 marca 2017 sprawie rezerwy szczepionek innych immunologicznych produktów leczniczych, stosowanych razie wystąpienia zagrożenia epidemicznego lub epidemii Na podstawie art. 18a ust. 4 ustawy dnia 5 grudnia 2008 zapobieganiu zwalczaniu zakażeń chorób zakaźnych u ludzi (Dz. U. 2022 1657, 2280, 2674, 2705 2770) zarządza się, co następuje:
-1. Rozporządzenie określa:
-1) skład, wielkość sposób przechowywania rezerwy szczepionek innych immunologicznych produktów leczniczych, stosowanych razie wystąpienia zagrożenia epidemicznego lub epidemii, zwanej dalej „rezerwą”;
-2) tryb uruchamiania rezerwy;
-sposób dystrybucji produktów leczniczych uruchomionych rezerwy;
-sposób postępowania produktami leczniczymi stanowiącymi rezerwę, dla kończą się terminy ważności.
-2. W skład rezerwy wchodzą szczepionki przeciwko:
-1) inwazyjnym zakażeniom Neisseria meningitidis nie mniej niż 15 000 dawek;
-2) durowi brzusznemu (Ty) nie mniej niż 60 opakowań wielodawkowych;
-durowi tężcowi (TyT) nie mniej niż 70 opakowań wielodawkowych;
+Treść obwieszczenia
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 29 marca 2017 r. w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii
+Treść obwieszczenia
+1.
+Na podstawie art. 16 ust. 3 ustawy z dnia 20 lipca 2000 r. o ogłaszaniu aktów normatywnych i niektórych innych aktów prawnych (Dz. U. z 2019 r. poz. 1461) ogłasza się w załączniku do niniejszego obwieszczenia jednolity tekst rozporządzenia Ministra Zdrowia z dnia 29 marca 2017 r. w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. z 2022 r. poz. 964), z uwzględnieniem zmiany wprowadzonej rozporządzeniem Ministra Zdrowia z dnia 6 czerwca 2022 r. zmieniającym rozporządzenie w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. poz. 1255).
+2.
+Podany w załączniku do niniejszego obwieszczenia tekst jednolity rozporządzenia nie obejmuje § 2 rozporządzenia Ministra Zdrowia z dnia 6 czerwca 2022 r. zmieniającego rozporządzenie w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. poz. 1255), który stanowi:
+„
+§ 2.
+Rozporządzenie wchodzi w życie z dniem 1 lipca 2022 r.
+” .
+Załącznik – Rozporządzenie Ministra Zdrowia z dnia 29 marca 2017 r. w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii
+Na podstawie art. 18a ust. 4 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi (Dz. U. z 2022 r. poz. 1657, 2280, 2674, 2705 i 2770) zarządza się, co następuje:
+§ 1.
+Rozporządzenie określa:
+1)
+skład, wielkość i sposób przechowywania rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii, zwanej dalej „rezerwą”;
+2)
+tryb uruchamiania rezerwy;
+3)
+sposób dystrybucji produktów leczniczych uruchomionych z rezerwy;
+4)
+sposób postępowania z produktami leczniczymi stanowiącymi rezerwę, dla których kończą się terminy ważności.
+§ 2.
+W skład rezerwy wchodzą szczepionki przeciwko:
+1)
+inwazyjnym zakażeniom Neisseria meningitidis – nie mniej niż 15 000 dawek;
+2)
+durowi brzusznemu (Ty) – nie mniej niż 60 opakowań wielodawkowych;
+3)
+durowi i tężcowi (TyT) – nie mniej niż 70 opakowań wielodawkowych;
+4)
 błonicy:
-a) szczepionka stosowana u dzieci (D) nie mniej niż 50 opakowań wielodawkowych,
-b) szczepionka stosowana u dorosłych (d) nie mniej niż 357 dawek;
-5) szczepionki przeciw chorobom, które są objęte obowiązkiem szczepienia ramach Programu Szczepień Ochronnych, którym mowa art. 17 ust. 11 ustawy dnia 5 grudnia 2008 zapobieganiu zwalczaniu zakażeń chorób zakaźnych u ludzi nie mniej niż 10% zapotrzebowania na szczepionki do realizacji tego programu;
-6) COVID-19 wywoływanej przez wirus SARS-CoV-2 nie mniej niż 10% zapotrzebowania na szczepionki do realizacji programu, którym mowa uchwale Rady Ministrów nr 187/2020 dnia 15 grudnia 2020 sprawie przyjęcia Narodowego Programu Szczepień przeciw COVID-19;
-7) wirusowemu zapaleniu wątroby typu A nie mniej niż 1000 dawek.
-3. 1. Rezerwę przechowuje dystrybutor centralny wyznaczony przez ministra właściwego do spraw zdrowia.
-2. W przypadku szczepionki stanowiącej rezerwę, której mowa 2 pkt 6, dystrybutorem centralnym jest podmiot, któremu wydano polecenie tym zakresie na podstawie przepisów ustawy dnia 2 marca 2020 szczególnych rozwiązaniach związanych zapobieganiem, przeciwdziałaniem zwalczaniem COVID-19, innych chorób zakaźnych wywołanych nimi sytuacji kryzysowych (Dz. U. 2021 2095, późn. zm. ). W przypadku gdy takiego polecenia nie wydano albo zostało ono uchylone, stosuje się ust. 1.
-3. Dystrybutor centralny zarządza odpowiada za proces dystrybucji szczepionek.
-dzonym przez dystrybutora centralnego sposób zapewniający możliwość ustalenia łańcucha dystrybucji szczepionek od przyjęcia ich przez dystrybutora do dostarczenia do punktu szczepień, zawierającym następujące dane:
-1) nazwę szczepionki jej serię;
-2) ilość szczepionki;
+a)
+szczepionka stosowana u dzieci (D) – nie mniej niż 50 opakowań wielodawkowych,
+b)
+szczepionka stosowana u dorosłych (d) – nie mniej niż 357 dawek;
+5)
+szczepionki przeciw chorobom, które są objęte obowiązkiem szczepienia w ramach Programu Szczepień Ochronnych, o którym mowa w art. 17 ust. 11 ustawy z dnia 5 grudnia 2008 r. o zapobieganiu oraz zwalczaniu zakażeń i chorób zakaźnych u ludzi – nie mniej niż 10% zapotrzebowania na szczepionki do realizacji tego programu;
+6)
+COVID-19 wywoływanej przez wirus SARS-CoV-2 – nie mniej niż 10% zapotrzebowania na szczepionki do realizacji programu, o którym mowa w uchwale Rady Ministrów nr 187/2020 z dnia 15 grudnia 2020 r. w sprawie przyjęcia Narodowego Programu Szczepień przeciw COVID-19;
+7)
+wirusowemu zapaleniu wątroby typu A – nie mniej niż 1000 dawek.
+§ 3.
+1.
+Rezerwę przechowuje dystrybutor centralny wyznaczony przez ministra właściwego do spraw zdrowia.
+2.
+W przypadku szczepionki stanowiącej rezerwę, o której mowa w § 2 pkt 6, dystrybutorem centralnym jest podmiot, któremu wydano polecenie w tym zakresie na podstawie przepisów ustawy z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, z późn. zm.). W przypadku gdy takiego polecenia nie wydano albo zostało ono uchylone, stosuje się ust. 1.
+3.
+Dystrybutor centralny zarządza i odpowiada za proces dystrybucji szczepionek.
+4.
+Dystrybutor centralny może zlecić przechowywanie lub transport szczepionek, o których mowa w § 2 pkt 6, przedsiębiorcy prowadzącemu działalność polegającą na prowadzeniu hurtowni farmaceutycznej, o którym mowa w art. 78 ust. 1 ustawy z dnia 6 września 2001 r. – Prawo farmaceutyczne (Dz. U. z 2022 r. poz. 2301). Za zgodą dystrybutora centralnego przedsiębiorca ten może dokonać dalszego zlecenia transportu tych szczepionek.
+5.
+Dystrybucję szczepionek, o których mowa w § 2 pkt 6, odzwierciedla się w systemie teleinformatycznym prowadzonym przez dystrybutora centralnego w sposób zapewniający możliwość ustalenia łańcucha dystrybucji szczepionek od przyjęcia ich przez dystrybutora do dostarczenia do punktu szczepień, zawierającym następujące dane:
+1)
+nazwę szczepionki i jej serię;
+2)
+ilość szczepionki;
+3)
 wskazanie końcowego odbiorcy szczepionki (punkt szczepień);
-nazwę zleceniobiorcy wykonującego transport lub magazynującego szczepionkę jeżeli dotyczy.
-3a. Na wniosek Ministra Obrony Narodowej dystrybutor centralny może zlecić przechowywanie lub transport szczepionek przeciw chorobie, której mowa 2 pkt 6, przeznaczonych do realizacji szczepień żołnierzy pracowników Sił Zbrojnych Rzeczypospolitej Polskiej żołnierzy, funkcjonariuszy pracowników Służby Wywiadu Wojskowego Służby Kontrwywiadu Wojskowego, wyznaczonym jednostkom organizacyjnym podległym Ministrowi Obrony Narodowej lub przez niego nadzorowanym.
-4. Do środków rezerwy stosuje się Dobrą Praktykę Dystrybucyjną, której mowa ustawie dnia 6 września 2001 Prawo farmaceutyczne przepisach wydanych na jej podstawie.
-5. 1. Rezerwę minister właściwy do spraw zdrowia uruchamia własnej inicjatywy lub na wniosek:
-1) Głównego Inspektora Sanitarnego;
-2) Głównego Inspektora Sanitarnego Ministerstwa Spraw Wewnętrznych Administracji ;
+4)
+nazwę zleceniobiorcy wykonującego transport lub magazynującego szczepionkę – jeżeli dotyczy.
+§ 3a.
+Na wniosek Ministra Obrony Narodowej dystrybutor centralny może zlecić przechowywanie lub transport szczepionek przeciw chorobie, o której mowa w § 2 pkt 6, przeznaczonych do realizacji szczepień żołnierzy i pracowników Sił Zbrojnych Rzeczypospolitej Polskiej oraz żołnierzy, funkcjonariuszy i pracowników Służby Wywiadu Wojskowego i Służby Kontrwywiadu Wojskowego, wyznaczonym jednostkom organizacyjnym podległym Ministrowi Obrony Narodowej lub przez niego nadzorowanym.
+§ 4.
+Do środków z rezerwy stosuje się Dobrą Praktykę Dystrybucyjną, o której mowa w ustawie z dnia 6 września 2001 r. – Prawo farmaceutyczne i przepisach wydanych na jej podstawie.
+§ 5.
+1.
+Rezerwę minister właściwy do spraw zdrowia uruchamia z własnej inicjatywy lub na wniosek:
+1)
+Głównego Inspektora Sanitarnego;
+2)
+Głównego Inspektora Sanitarnego Ministerstwa Spraw Wewnętrznych i Administracji ;
+3)
 Głównego Inspektora Sanitarnego Wojska Polskiego;
+4)
 wojewody;
-5) państwowego granicznego inspektora sanitarnego, za pośrednictwem Głównego Inspektora Sanitarnego;
-6) państwowego wojewódzkiego inspektora sanitarnego;
-7) państwowego powiatowego inspektora sanitarnego, za pośrednictwem państwowego wojewódzkiego inspektora sanitarnego.
-2. Wnioski, mowa ust. 1 pkt 2–7, akceptuje Główny Inspektor Sanitarny.
-3. Wniosek, którym mowa ust. 1, określa co najmniej:
-1) nazwę ilość środka rezerwy;
-2) cel jego wykorzystania;
+5)
+państwowego granicznego inspektora sanitarnego, za pośrednictwem Głównego Inspektora Sanitarnego;
+6)
+państwowego wojewódzkiego inspektora sanitarnego;
+7)
+państwowego powiatowego inspektora sanitarnego, za pośrednictwem państwowego wojewódzkiego inspektora sanitarnego.
+2.
+Wnioski, o których mowa w ust. 1 pkt 2–7, akceptuje Główny Inspektor Sanitarny.
+3.
+Wniosek, o którym mowa w ust. 1, określa co najmniej:
+1)
+nazwę i ilość środka z rezerwy;
+2)
+cel jego wykorzystania;
+3)
 uzasadnienie potrzeby uruchomienia.
-4. Uruchamiając rezerwę, minister właściwy do spraw zdrowia wskazuje:
-1) nazwę ilość środka rezerwy;
-2) cel jego wykorzystania;
-dane podmiotu lub podmiotów, którym środki rezerwy będą przekazane;
-miejsce, którego środki rezerwy będą przekazane podmiotowi, którym mowa pkt 3;
-5) podmiot zobowiązany do transportu uruchomionych środków rezerwy.
-5. Przekazanie uruchomionych środków rezerwy jest dokumentowane protokole zdawczo-odbiorczym podpisanym przez podmiot, który przekazywał środki, podmiot, któremu zostały one przekazane.
-6. Protokół zdawczo-odbiorczy zawiera wykaz środków, datę przekazania odbioru podpisy upoważnionych przedstawicieli podmiotów, mowa ust. 5.
-699, 1250, 1726, 2127 2722 2023 295).
-2. Likwidację środków rezerwy zleca minister właściwy do spraw zdrowia inicjatywy własnej lub na wniosek podmiotu przechowującego.
-7. Rozporządzenie wchodzi życie po upływie 14 dni od dnia ogłoszenia .
+4.
+Uruchamiając rezerwę, minister właściwy do spraw zdrowia wskazuje:
+1)
+nazwę i ilość środka z rezerwy;
+2)
+cel jego wykorzystania;
+3)
+dane podmiotu lub podmiotów, którym środki z rezerwy będą przekazane;
+4)
+miejsce, z którego środki z rezerwy będą przekazane podmiotowi, o którym mowa w pkt 3;
+5)
+podmiot zobowiązany do transportu uruchomionych środków z rezerwy.
+5.
+Przekazanie uruchomionych środków z rezerwy jest dokumentowane w protokole zdawczo-odbiorczym podpisanym przez podmiot, który przekazywał środki, i podmiot, któremu zostały one przekazane.
+6.
+Protokół zdawczo-odbiorczy zawiera wykaz środków, datę przekazania i odbioru oraz podpisy upoważnionych przedstawicieli podmiotów, o których mowa w ust. 5.
+§ 6.
+1.
+Środki stanowiące rezerwę, dla których kończą się terminy ważności, mogą podlegać:
+1)
+wymianie na środki o dłuższym terminie ważności;
+2)
+nieodpłatnemu przekazaniu do zasadnego z punktu widzenia zdrowia publicznego wykorzystania;
+3)
+likwidacji przez unieszkodliwienie zgodnie z przepisami ustawy z dnia 14 grudnia 2012 r. o odpadach (Dz. U. z 2022 r. poz. 699, 1250, 1726, 2127 i 2722 oraz z 2023 r. poz. 295).
+2.
+Likwidację środków z rezerwy zleca minister właściwy do spraw zdrowia z inicjatywy własnej lub na wniosek podmiotu przechowującego.
+§ 7.
+Rozporządzenie wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
+1) Minister Zdrowia kieruje działem administracji rządowej – zdrowie, na podstawie § 1 ust. 2 rozporządzenia Prezesa Rady Ministrów z dnia 27 sierpnia 2020 r. w sprawie szczegółowego zakresu działania Ministra Zdrowia (Dz. U. z 2021 r. poz. 932). 2) Dodany przez § 1 rozporządzenia Ministra Zdrowia z dnia 6 czerwca 2022 r. zmieniającego rozporządzenie w sprawie rezerwy szczepionek oraz innych immunologicznych produktów leczniczych, stosowanych w razie wystąpienia zagrożenia epidemicznego lub epidemii (Dz. U. poz. 1255), które weszło w życie z dniem 1 lipca 2022 r. 3) Zmiany tekstu jednolitego wymienionej ustawy zostały ogłoszone w Dz. U. z 2021 r. poz. 2120, 2133, 2262, 2269, 2317, 2368 i 2459, z 2022 r. poz. 202, 218, 655, 830, 1301, 1370, 1488, 1561, 1723, 1768, 1783, 2127, 2185, 2640, 2687 i 2705 oraz z 2023 r. poz. 185, 240 i 412. 4) Państwowa Inspekcja Sanitarna Ministerstwa Spraw Wewnętrznych i Administracji została zlikwidowana z dniem 1 lipca 2020 r. na podstawie art. 17 ust. 1 ustawy z dnia 23 stycznia 2020 r. o zmianie ustawy o Państwowej Inspekcji Sanitarnej oraz niektórych innych ustaw (Dz. U. poz. 322 i 374), która weszła w życie z dniem 15 marca 2020 r. 5) Rozporządzenie zostało ogłoszone w dniu 7 kwietnia 2017 r.
 

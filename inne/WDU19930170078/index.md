@@ -8,12 +8,10 @@ pos: 78
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# przerywania Uznając, że życie jest fundamentalnym dobrem człowieka, a troska życie zdrowie należy podstawowych obowiązków państwa, społeczeństwa obywatela; uznając prawo każdego odpowiedzialnego decydowania posiadaniu dzieci prawo dostępu informacji, edukacji, poradnictwa środków umożliwiających korzystanie tego prawa, stanowi się, co następuje:
-
-*USTAWA 7 stycznia 1993 r.*
+# Ustawa z dnia 7 stycznia 1993 r. o planowaniu rodziny, ochronie płodu ludzkiego i warunkach dopuszczalności przerywania ciąży
 
 | Pole | Wartość |
 |---|---|
@@ -23,74 +21,121 @@ source: "isap-pdf"
 | Status | akt posiada tekst jednolity |
 | W mocy | tak |
 | Data ogłoszenia | 1993-01-07 |
+| Wejście w życie | 1993-03-14 |
 | Ostatnia zmiana | 2025-04-09 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19930170078) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1993/78/text.pdf) |
 
+Uznając, że życie jest fundamentalnym dobrem człowieka, a troska o życie i zdrowie należy do podstawowych obowiązków państwa, społeczeństwa i obywatela, stanowi się, co następuje:
+
 **Art. 1.**
 
-- **1)** Prawo życia podlega ochronie, tym również fazie prenatalnej granicach określonych ustawie.
+1. Każda istota ludzka ma od chwili poczęcia przyrodzone prawo do życia.
+
+2. Życie i zdrowie dziecka od chwili jego poczęcia pozostają pod ochroną prawa.
 
 **Art. 2.**
 
-1. Organy administracji rządowej samorządu terytorialnego, zakresie swoich kompetencji określonych przepisach szczególnych, są obowiązane zapewnienia kobietom opieki medycznej, socjalnej prawnej szczególności poprzez:
+1. Organy administracji rządowej oraz samorządu terytorialnego, w zakresie swoich kompetencji określonych w przepisach szczególnych, są obowiązane do zapewnienia kobietom w ciąży opieki socjalnej, medycznej i prawnej w szczególności poprzez:
 
-- **1)** opiekę prenatalną nad płodem opiekę medyczną nad kobietą ciąży,
-- **2)** pomoc materialną opiekę nad kobietami ciąży, znajdującymi się trudnych materialnych, na zasadach określonych ustawie 12 marca 2004 r. pomocy społecznej (Dz. U. 2021 r. poz. 2268 2270 2022 r. poz. 1, 66 1079),
+- **1)** opiekę medyczną na dzieckiem poczętym i jego matką,
+- **2)** pomoc materialną i opiekę nad kobietami w ciąży, znajdującymi się w trudnych warunkach materialnych, przez czas ciąży, porodu i po porodzie,
+- **3)** służby informacyjne, udzielające szczegółowych informacji na temat uprawnień, zasiłków i świadczeń przysługujących prawnie rodzinom, matkom zamężnym i niezamężnym oraz ich dzieciom, a także możliwości adopcji; służby informacyjne pomagają w rozwiązywaniu problemów psychologicznych i społecznych.
 
-2. Organy administracji rządowej samorządu terytorialnego, zakresie swoich kompetencji określonych przepisach szczególnych, są zobowiązane zapewnić obywatelom swobodny dostęp metod środków służących dla świadomej prokreacji.
+2. Organy administracji rządowej oraz samorządu terytorialnego, w zakresie swoich kompetencji określonych w przepisach szczególnych, są zobowiązane zapewnić obywatelom swobodny dostęp do metod i środków służących dla świadomej prokreacji.
 
-2a. Organy administracji rządowej samorządu terytorialnego, zakresie swoich kompetencji określonych przepisach szczególnych, są zobowiązane zapewnić swobodny dostęp informacji badań prenatalnych, szczególnie wtedy, gdy istnieje podwyższone ryzyko bądź podejrzenie wystąpienia wady genetycznej lub rozwojowej albo nieuleczalnej choroby zagrażającej życiu płodu.
+3. Szkoła ma obowiązek udzielić uczennicy w ciąży urlopu oraz innej pomocy niezbędnej do ukończenia przez nią edukacji, w miarę możliwości nie powodując opóźnień w zaliczaniu przedmiotów. Jeżeli ciąża, poród lub połóg powoduje niemożliwość zaliczenia w terminie egzaminów ważnych dla ciągłości nauki, szkoła zobowiązana jest do wyznaczenia dodatkowego terminu egzaminu dogodnego dla kobiety, w okresie nie dłuższym niż 6 miesięcy.
 
-3. Szkoła ma obowiązek udzielić uczennicy urlopu innej pomocy niezbędnej ukończenia przez nią edukacji, miarę możliwości nie powodując opóźnień zaliczaniu przedmiotów. Jeżeli ciąża, poród lub połóg powoduje niemożliwość zaliczenia terminie egzaminów ważnych dla ciągłości nauki, szkoła zobowiązana jest wyznaczenia dodatkowego terminu egzaminu dogodnego dla kobiety, okresie nie dłuższym niż 6 miesięcy.
-
-4. Zakres formy tryb udzielania pomocy, której 1 2, określa, drodze rozporządzenia, Rada Ministrów.
+4. Zakres i formy oraz tryb udzielania pomocy, o której mowa w ust. 1 i 2, określa, w drodze rozporządzenia, Rada Ministrów.
 
 **Art. 3.**
 
-1. Organy administracji rządowej samorządu terytorialnego współdziałają udzielają pomocy Kościołowi Katolickiemu, innym kościołom związkom wyznaniowym organizacjom społecznym, które organizują opiekę nad kobietami ciąży, jak również organizują rodziny zastępcze lub udzielają pomocy przysposabianiu dzieci.
+1. Organy administracji rządowej oraz samorządu terytorialnego współdziałają i udzielają pomocy Kościołowi Katolickiemu, innym kościołom i związkom wyznaniowym oraz organizacjom społecznym, które organizują opiekę nad kobietami w ciąży, jak również organizują rodziny zastępcze lub udzielają pomocy w przysposabianiu dzieci.
 
-2. Zakres, formy tryb udzielania pomocy, której 1, określa, drodze rozporządzenia, Rada Ministrów.
+2. Zakres, formy oraz tryb udzielania pomocy, o której mowa w ust. 1, określa, w drodze rozporządzenia, Rada Ministrów.
 
 **Art. 4.**
 
-1. Do programów nauczania szkolnego wprowadza się wiedzę życiu seksualnym człowieka, zasadach świadomego odpowiedzialnego rodzicielstwa, 1, zawartych podstawie programowej kształcenia ogólnego wprowadzi systemu dokształcania doskonalenia nauczycieli tematykę określoną 1.
+1. Do programów nauczania szkolnego wprowadza się wiedzę o życiu seksualnym człowieka, o zasadach świadomego i odpowiedzialnego rodzicielstwa, o wartości rodziny, życia poczętego oraz metodach i środkach świadomej prokreacji.
 
-**Art. 4a.**
+2. Minister Edukacji Narodowej ustala szczegółowy program nauczania szkolnego, o którym mowa w ust. 1.
 
-1. Przerwanie może być dokonane wyłącznie przez lekarza, przypadku gdy:
+**Art. 5.** W ustawie z dnia 28 października 1950 r. o zawodzie lekarza (Dz. U. Nr 50, poz. 458 i Nr 53, poz. 489, z 1956 r. Nr 12, poz. 61 oraz z 1989 r. Nr 30, poz. 158) w art. 15 w ust. 2 skreśla się pkt 4.
 
-- **1)** ciąża stanowi zagrożenie dla życia lub zdrowia kobiety ciężarnej,
-- **2)** (utracił moc)
-- **3)** zachodzi uzasadnione podejrzenie, że ciąża powstała wyniku czynu zabronionego,
-- **4)** (utracił moc)
+**Art. 6.** W Kodeksie cywilnym wprowadza się następujące zmiany:
 
-2. W przypadkach określonych 1 2 przerwanie jest dopuszczalne chwili osiągnięcia przez płód zdolności samodzielnego życia poza organizmem kobiety ciężarnej; przypadku określonym 1 3 lub 4, jeżeli od początku nie upłynęło więcej niż 12 tygodni.
+- **1)** w art. 8: dotychczasową treść oznacza się jako § 1, dodaje się § 2 w brzmieniu: „
+    - **a)**
+    - **b)**
 
-3. W przypadkach, których 1 1 2, przerwania dokonuje lekarz szpitalu.
+§ 2. Zdolność prawną ma również dziecko poczęte; jednakże prawa i zobowiązania majątkowe uzyskuje ono pod warunkiem, że urodzi się żywe. ” ,
 
-4. Do przerwania wymagana jest pisemna zgoda kobiety. W przypadku małoletniej lub kobiety ubezwłasnowolnionej całkowicie wymagana jest pisemna zgoda jej przedstawiciela ustawowego. W przypadku małoletniej powyżej 13 roku życia wymagana jest również pisemna zgoda tej osoby. W przypadku małoletniej poniżej 13 roku życia wymagana jest zgoda sądu opiekuńczego, a małoletnia ma prawo wyrażenia własnej opinii. W przypadku kobiety ubezwłasnowolnionej całkowicie wymagana jest także pisemna zgoda tej osoby, chyba że na wyrażenie zgody nie pozwala stan jej zdrowia psychicznego. W razie braku zgody
+- **2)** po art. 446 dodaje się art. 4461 w brzmieniu: „
 
-6. W przypadku, którym 1 4, kobieta składa pisemne oświadczenie, a ponadto zaświadczenie odbytej konsultacji u lekarza podstawowej opieki zdrowotnej, innego niż dokonujący przerwania ciąży, lub u innej wybranej przez siebie uprawnionej osoby. Przerwanie może być dokonane, jeżeli kobieta podtrzymuje zamiar przerwania po upływie 3 dni od konsultacji.
+**Art. 4461.** Z chwilą urodzenia dziecko może żądać naprawienia szkód doznanych przed urodzeniem. ”
 
-7. Celem konsultacji, której 6, jest szczególności ustalenie sytuacji zdrowotnej życiowej kobiety, pomoc rozwiązaniu jej problemów, między innymi poprzez wskazanie dostępnych form pomocy przysługujących kobietom związku ciążą po urodzeniu dziecka, poinformowanie kobiety prawnej życia fazie prenatalnej, aspektach medycznych przerwania ciąży, a także środkach metodach antykoncepcyjnych. Za zgodą kobiety konsultacji może wziąć udział jej partner, członkowie rodziny lub inna bliska osoba.
+**Art. 7.** W Kodeksie karnym wprowadza się następujące zmiany:
 
-8. Do prywatnych gabinetów lekarskich, których dokonuje się przerwania ciąży, zakresie wymagań, jakim powinny odpowiadać pod względem fachowym sanitarnym pomieszczenia urządzenia gabinetu prywatnego, zakresie dotyczącym dokumentacji medycznej sprawowania kontroli nad tymi gabinetami stosuje się odrębne przepisy.
+- **1)** po art. 23a dodaje się art. 23b w brzmieniu: „
 
-9. Minister Zdrowia Opieki Społecznej po zasięgnięciu opinii Naczelnej Rady Lekarskiej określi, drodze rozporządzenia, kwalifikacje zawodowe lekarzy, uprawniające dokonania przerwania ciąży, kwalifikacje lekarzy, których
+**Art. 23b.**
 
-5.
+§ 1. Dziecko poczęte nie może być przedmiotem działań innych niż te, które służą ochronie życia i zdrowia jego lub jego matki, z wyjątkiem działań określonych w §2.
 
-10. Minister Zdrowia Opieki Społecznej porozumieniu ministrem właściwym spraw zabezpieczenia społecznego określi, drodze przysługuje prawo bezpłatnego przerwania publicznym zakładzie opieki zdrowotnej.
+§ 2. Dopuszcza się badania przedurodzeniowe nie zwiększające wyraźnie ryzyka poronienia, w przypadku gdy:
 
-**Art. 4c.**
+- **1)** dziecko poczęte należy do rodziny obciążonej genetycznie,
+- **2)** istnieje podejrzenie występowania choroby genetycznej możliwej do wyleczenia, zaleczenia bądź ograniczenia jej skutków w okresie płodowym,
+- **3)** istnieje podejrzenie ciężkiego uszkodzenia płodu. ” ,
+- **2)** po art. 149 dodaje się art. 149a i 149b w brzmieniu: „
 
-1. Osoby wykonujące czynności wynikające są obowiązane zachowania tajemnicy wszystkiego, czym powzięły wiadomość związku wykonywaniem tych czynności, stosownie odrębnych przepisów.
+**Art. 149a.**
 
-2. W razie zawinionego ujawnienia wiadomości, których 1, sąd może przyznać osobie poszkodowanej odpowiednią sumę tytułem zadośćuczynienia pieniężnego za doznaną krzywdę. Art. 5–8. (pominięte)
+§ 1. Kto powoduje śmierć dziecka poczętego, podlega karze pozbawienia wolności do lat 2.
 
-**Art. 9.** Rada Ministrów przedkłada Sejmowi corocznie, terminie 31 lipca, sprawozdanie wykonywania skutkach jej stosowania.
+§ 2. Nie podlega karze matka dziecka poczętego.
 
-**Art. 10.** Traci moc ustawa 27 kwietnia 1956 r. przerywania (Dz. U. poz. 61 1969 r. poz. 95).
+§ 3. Nie popełnia przestępstwa określonego w § 1 lekarz, podejmujący to działanie w publicznym zakładzie opieki zdrowotnej, w przypadku gdy:
 
-**Art. 11.** Ustawa wchodzi życie po upływie 14 dni od ogłoszenia .
+- **1)** ciąża stanowiła zagrożenie dla życia lub poważne zagrożenie dla zdrowia matki, stwierdzone orzeczeniem dwóch lekarzy innych niż lekarz podejmujący działanie, o którym mowa w § 1, przy czym orzeczenie to nie jest niezbędne w przypadku natychmiastowej konieczności uchylenia zagrożenia dla życia matki,
+- **2)** gdy śmierć dziecka poczętego nastąpiła wskutek działań podjętych dla ratowania życia matki albo dla przeciwdziałania poważnemu uszczerbkowi na zdrowiu matki, którego niebezpieczeństwo zostało potwierdzone orzeczeniem dwóch innych lekarzy,
+- **3)** badania prenatalne, potwierdzone orzeczeniem dwóch lekarzy innych niż lekarz podejmujący działanie, o którym mowa w § 1, wskazują na ciężkie i nieodwracalne uszkodzenie płodu,
+- **4)** zachodzi uzasadnione podejrzenie, potwierdzone zaświadczeniem prokuratora, że ciąża powstała w wyniku czynu zabronionego.
+
+§ 4. W szczególnie uzasadnionych przypadkach sąd może odstąpić od wymierzenia kary wobec sprawcy przestępstwa określonego w § 1. Kto stosując przemoc wobec kobiety ciężarnej powoduje śmierć dziecka poczętego albo w inny sposób powoduje śmierć dziecka poczętego bez zgody kobiety ciężarnej lub przemocą, groźbą bezprawną albo podstępem doprowadza matkę dziecka poczętego do pozbawienia życia tego dziecka, podlega karze pozbawienia wolności od 6 miesięcy do lat 8. ” ,
+
+- **3)** skreśla się art. 153 i 154,
+- **4)** po art. 156 dodaje się art. 156a w brzmieniu: „
+
+**Art. 156a.**
+
+§ 1. Kto powoduje uszkodzenie ciała dziecka poczętego lub rozstrój zdrowia zagrażający jego życiu, podlega karze ograniczenia wolności do lat 2.
+
+§ 2. Nie popełnia przestępstwa lekarz, jeżeli uszkodzenie ciała lub rozstrój zdrowia dziecka poczętego są następstwem działań leczniczych, koniecznych dla uchylenia niebezpieczeństwa grożącego zdrowiu i życiu kobiety ciężarnej lub dziecka poczętego.
+
+§ 3. Nie podlega karze matka dziecka poczętego, która dopuszcza się czynu określonego w § 1. ” ,
+
+- **5)** w art. 157: § 1 otrzymuje brzmienie: „
+    - **a)**
+
+§ 1. Jeżeli następstwem czynu określonego w art. 156 § 1 jest śmierć człowieka, sprawca podlega karze pozbawienia wolności od roku do lat 10. ” , dodaje się nowy § 2 w brzmieniu: „
+
+- **b)**
+
+§ 2. Tej samej karze podlega sprawca czynu określonego w art. 149a § 1, art. 149b lub 156a § 1, jeżeli następstwem tego czynu jest śmierć matki dziecka poczętego. ” , dotychczasowy § 2 otrzymuje oznaczenie § 3.
+
+- **c)**
+
+**Art. 8.** W ustawie z dnia 8 marca 1990 r. o samorządzie terytorialnym (Dz. U. Nr 16, poz. 95, Nr 32, poz. 191, Nr 34, poz. 199, Nr 43, poz. 253 i Nr 89, poz. 518, z 1991 r. Nr 4, poz. 18 i Nr 110, poz. 473 oraz z 1992 r. Nr 85, poz. 428 i Nr 100, poz. 499) w art. 7 w ust. 1 dodaje się pkt 16 w brzmieniu: „
+
+- **16)** zapewnienia kobietom w ciąży opieki socjalnej, medycznej i prawnej. ”
+
+**Art. 9.**
+
+1. Po upływie roku od dnia wejścia w życie ustawy Minister Zdrowia i Opieki Społecznej przedłoży Sejmowi sprawozdanie z wykonywania ustawy oraz o skutkach jej stosowania.
+
+2. Odpowiednie sprawozdania przedłożą Ministrowie Sprawiedliwości, Edukacji Narodowej oraz Pracy i Polityki Socjalnej w odniesieniu do spraw wchodzących w zakres ich kompetencji.
+
+**Art. 10.** Traci moc ustawa z dnia 27 kwietnia 1956 r. o warunkach dopuszczalności przerywania ciąży (Dz. U. Nr 12, poz. 61 i z 1969 r. Nr 13, poz. 95).
+
+**Art. 11.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

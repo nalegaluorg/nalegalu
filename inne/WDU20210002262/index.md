@@ -8,12 +8,10 @@ pos: 2262
 act_type: Ustawa
 status: akt posiada tekst jednolity
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
-
-*USTAWA z dnia 17 listopada 2021 r.*
+# Ustawa z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi
 
 | Pole | Wartość |
 |---|---|
@@ -24,10 +22,9 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 2021-11-17 |
 | Data wydania | 2021-12-08 |
+| Wejście w życie | 2021-12-23 |
 | Ostatnia zmiana | 2024-03-14 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20210002262) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/2021/2262/text.pdf) |
-
-Art. 52–55. (pominięte)
 
 #### Rozdział 1 Przepisy ogólne
 
@@ -40,6 +37,13 @@ Art. 52–55. (pominięte)
 **Art. 2.** Ustawę stosuje się do umów nabycia produktów rolnych lub spożywczych, zawieranych między nabywcami tych produktów a ich dostawcami, zwanych dalej „umowami”.
 
 **Art. 3.** Użyte w ustawie określenia oznaczają:
+
+- **1)** dostawca – przedsiębiorcę, który wytwarza lub przetwarza produkty rolne lub spożywcze lub odpłatnie zbywa je nabywcy;
+- **2)** łatwo psujące się produkty rolne lub spożywcze – produkty rolne lub spożywcze, które ze względu na swoją naturę lub etap przetwarzania mogą przestać nadawać się do sprzedaży lub przetworzenia w okresie 30 dni od ich zebrania, wyprodukowania lub przetworzenia;
+- **3)** nabywca – przedsiębiorcę lub podmiot, o którym mowa w art. 4 ustawy z dnia 11 września 2019 r. – Prawo zamówień publicznych (Dz. U. z 2021 r. poz. 1129, 1598 i 2054), zwanej dalej „Prawem zamówień publicznych”, który bezpośrednio lub pośrednio nabywa od dostawcy produkty rolne lub spożywcze;
+- **4)** produkty rolne lub spożywcze – produkty wymienione w załączniku I do Traktatu o funkcjonowaniu Unii Europejskiej, a także produkty niewymienione w tym załączniku, ale przetworzone z przeznaczeniem do spożycia z wykorzystaniem produktów wymienionych w tym załączniku;
+- **5)** przedsiębiorca – przedsiębiorcę w rozumieniu art. 4 pkt 1 ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów (Dz. U. z 2021 r. poz. 275), zwanej dalej „ustawą o ochronie konkurencji i konsumentów”;
+- **6)** rok obrotowy – rok obrotowy w rozumieniu art. 3 ust. 1 pkt 9 ustawy z dnia 29 września 1994 r. o rachunkowości (Dz. U. z 2021 r. poz. 217, 2105 i 2106).
 
 **Art. 4.** Ochrona przed praktykami nieuczciwie wykorzystującymi przewagę kontraktową w obrocie produktami rolnymi lub spożywczymi, zwanymi dalej „praktykami nieuczciwie wykorzystującymi przewagę kontraktową”, przewidziana w ustawie nie wyłącza ochrony wynikającej z innych ustaw.
 
@@ -74,7 +78,7 @@ Art. 52–55. (pominięte)
 
 5. W przypadku gdy dostawca albo nabywca, o którym mowa w ust. 2 lub 3, powstał w wyniku połączenia lub przekształcenia innych podmiotów, obliczając wysokość jego rocznego obrotu, uwzględnia się obrót osiągnięty przez te podmioty w roku obrotowym poprzedzającym rok obrotowy stosowania praktyki mogącej stanowić przedmiot postępowania w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową.
 
-6. W przypadku gdy dostawca albo nabywca, o którym mowa w ust. 2 lub 3, działa jako przedsiębiorca prowadzący przedsiębiorstwo w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm. ), obliczając wysokość jego rocznego obrotu, uwzględnia się przepisy tego załącznika dotyczące kategorii i rodzaju przedsiębiorstwa.
+6. W przypadku gdy dostawca albo nabywca, o którym mowa w ust. 2 lub 3, działa jako przedsiębiorca prowadzący przedsiębiorstwo w rozumieniu załącznika I do rozporządzenia Komisji (UE) nr 651/2014 z dnia 17 czerwca 2014 r. uznającego niektóre rodzaje pomocy za zgodne z rynkiem wewnętrznym w zastosowaniu art. 107 i 108 Traktatu (Dz. Urz. UE L 187 z 26.06.2014, str. 1, z późn. zm.), obliczając wysokość jego rocznego obrotu, uwzględnia się przepisy tego załącznika dotyczące kategorii i rodzaju przedsiębiorstwa.
 
 7. Wielkości, o których mowa w ust. 2 i 3, wyrażone w euro przelicza się na złote według średniego kursu ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roku obrotowego poprzedzającego rok obrotowy stosowania praktyki mogącej stanowić przedmiot postępowania w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową.
 
@@ -88,22 +92,22 @@ Art. 52–55. (pominięte)
 
 1. Za praktyki nieuczciwie wykorzystujące przewagę kontraktową uznaje się w szczególności praktyki polegające na:
 
-- **1)** dokonaniu przez nabywcę zapłaty dostawcy, w przypadku gdy umowa:
-    - **a)** przewiduje regularne dostarczanie produktów po upływie: – 30 dni od dnia zakończenia uzgodnionego między nabywcą a dostawcą okresu dostarczania łatwo psujących się produktów rolnych lub spożywczych, w którym produkty te zostały dostarczone, albo od dnia ustalenia kwoty do zapłaty za ten okres dostarczania produktów, jeżeli jest to dzień późniejszy niż dzień zakończenia uzgodnionego okresu dostarczania, w którym produkty te zostały dostarczone, – 60 dni od dnia zakończenia uzgodnionego między nabywcą a dostawcą okresu dostarczania produktów rolnych lub spożywczych innych niż łatwo psujące się produkty rolne lub spożywcze, w którym produkty te zostały dostarczone, albo od dnia ustalenia kwoty do zapłaty za ten okres dostarczania produktów, jeżeli jest to dzień późniejszy niż dzień zakończenia uzgodnionego okresu dostarczania, w którym produkty te zostały dostarczone,
-    - **b)** nie przewiduje regularnego dostarczania produktów po upływie: – 30 dni od dnia, w którym łatwo psujące się produkty rolne lub spożywcze zostały dostarczone, albo od dnia ustalenia kwoty do zapłaty, jeżeli jest to dzień późniejszy niż dzień, w którym produkty te zostały dostarczone, – 60 dni od dnia, w którym inne niż łatwo psujące się produkty rolne lub spożywcze zostały dostarczone, albo od dnia ustalenia kwoty do zapłaty, jeżeli jest to dzień późniejszy niż dzień, w którym produkty te zostały dostarczone;
+- **1)** dokonaniu przez nabywcę zapłaty dostawcy, w przypadku gdy umowa: przewiduje regularne dostarczanie produktów po upływie: – 30 dni od dnia zakończenia uzgodnionego między nabywcą a dostawcą okresu dostarczania łatwo psujących się produktów rolnych lub spożywczych, w którym produkty te zostały dostarczone, albo od dnia ustalenia kwoty do zapłaty za ten okres dostarczania produktów, jeżeli jest to dzień późniejszy niż dzień zakończenia uzgodnionego okresu dostarczania, w którym produkty te zostały dostarczone, – 60 dni od dnia zakończenia uzgodnionego między nabywcą a dostawcą okresu dostarczania produktów rolnych lub spożywczych innych niż łatwo psujące się produkty rolne lub spożywcze, w którym produkty te zostały dostarczone, albo od dnia ustalenia kwoty do zapłaty za ten okres dostarczania produktów, jeżeli jest to dzień późniejszy niż dzień zakończenia uzgodnionego okresu dostarczania, w którym produkty te zostały dostarczone, nie przewiduje regularnego dostarczania produktów po upływie: – 30 dni od dnia, w którym łatwo psujące się produkty rolne lub spożywcze zostały dostarczone, albo od dnia ustalenia kwoty do zapłaty, jeżeli jest to dzień późniejszy niż dzień, w którym produkty te zostały dostarczone, – 60 dni od dnia, w którym inne niż łatwo psujące się produkty rolne lub spożywcze zostały dostarczone, albo od dnia ustalenia kwoty do zapłaty, jeżeli jest to dzień późniejszy niż dzień, w którym produkty te zostały dostarczone;
+    - **a)**
+    - **b)**
 
 - **2)** anulowaniu przez nabywcę zamówienia w terminie krótszym niż 30 dni przed przewidywanym terminem dostarczenia łatwo psujących się produktów rolnych lub spożywczych;
 - **3)** jednostronnej zmianie przez nabywcę warunków umowy w zakresie częstotliwości, sposobu realizacji, miejsca, terminu lub wielkości ogółu dostaw lub pojedynczych dostaw produktów rolnych lub spożywczych, standardów jakości produktów rolnych lub spożywczych, warunków płatności lub cen, lub w odniesieniu do świadczenia usług oraz wykonywania czynności, o których mowa w pkt 11–16;
 - **4)** nieuzasadnionym obniżaniu należności z tytułu dostarczenia produktów rolnych lub spożywczych po ich przyjęciu przez nabywcę w całości albo w umówionej części, w szczególności na skutek żądania udzielenia rabatu;
 - **5)** żądaniu przez nabywcę od dostawcy płatności niezwiązanych ze sprzedażą produktów rolnych lub spożywczych dostawcy;
 - **6)** żądaniu przez nabywcę od dostawcy zapłaty za pogorszenie się stanu lub utratę produktów rolnych lub spożywczych, do których doszło w obiektach nabywcy lub po przejściu własności tych produktów na nabywcę z przyczyn niezawinionych przez dostawcę;
-- **7)** odmowie przez nabywcę pisemnego potwierdzenia warunków umowy obowiązujących między nabywcą a dostawcą, o których pisemne potwierdzenie zwrócił się dostawca, chyba że umowa dotyczy produktów rolnych lub spożywczych, które mają być dostarczone przez członka uznanej: poz. 287 i 412), który sprzedaje produkty rolne lub spożywcze do tej organizacji,
-    - **a)** grupy producentów rolnych, o której mowa w przepisach ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2023 r. poz. 1145), który sprzedaje produkty rolne lub spożywcze do tej grupy,
-    - **b)** organizacji producentów owoców i warzyw, o której mowa w przepisach ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2022 r. poz. 2101 oraz z 2023 r. poz. 412, 533 i 588), który sprzedaje owoce lub warzywa do tej organizacji,
-    - **c)** organizacji producentów, o której mowa w przepisach ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2023 r.
-    - **d)** organizacji producentów, o której mowa w przepisach ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2023 r. poz. 1228), który sprzedaje produkty rolne lub spożywcze do tej organizacji – jeżeli akt założycielski tej grupy lub tej organizacji albo umowa między członkiem tej grupy lub tej organizacji a grupą lub organizacją zawiera postanowienia o skutkach podobnych do warunków umowy;
+- **7)** odmowie przez nabywcę pisemnego potwierdzenia warunków umowy obowiązujących między nabywcą a dostawcą, o których pisemne potwierdzenie zwrócił się dostawca, chyba że umowa dotyczy produktów rolnych lub spożywczych, które mają być dostarczone przez członka uznanej: grupy producentów rolnych, o której mowa w przepisach ustawy z dnia 15 września 2000 r. o grupach producentów rolnych i ich związkach oraz o zmianie innych ustaw (Dz. U. z 2018 r. poz. 1026 oraz z 2021 r. poz. 1603), który sprzedaje produkty rolne lub spożywcze do tej grupy, organizacji producentów owoców i warzyw, o której mowa w przepisach ustawy z dnia 19 grudnia 2003 r. o organizacji rynków owoców i warzyw oraz rynku chmielu (Dz. U. z 2021 r. poz. 618), który sprzedaje owoce lub warzywa do tej organizacji, organizacji producentów, o której mowa w przepisach ustawy z dnia 11 marca 2004 r. o organizacji niektórych rynków rolnych (Dz. U. z 2018 r. poz. 945, z 2019 r. poz. 2020 oraz z 2021 r. poz. 255 i 1603), który sprzedaje produkty rolne lub spożywcze do tej organizacji, organizacji producentów, o której mowa w przepisach ustawy z dnia 20 kwietnia 2004 r. o organizacji rynku mleka i przetworów mlecznych (Dz. U. z 2019 r. poz. 1430 oraz z 2021 r. poz. 1603), który sprzedaje produkty rolne lub spożywcze do tej organizacji jeżeli akt założycielski tej grupy lub tej organizacji albo umowa między członkiem tej grupy lub tej organizacji a grupą lub organizacją zawiera postanowienia o skutkach podobnych do warunków umowy;
+    - **a)**
+    - **b)**
+    - **c)**
+    - **d)**
 
-- **8)** bezprawnym pozyskiwaniu, wykorzystywaniu lub ujawnianiu przez nabywcę tajemnic przedsiębiorstwa dostawcy w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2022 r. poz. 1233);
+- **8)** bezprawnym pozyskiwaniu, wykorzystywaniu lub ujawnianiu przez nabywcę tajemnic przedsiębiorstwa dostawcy w rozumieniu art. 11 ust. 2 ustawy z dnia 16 kwietnia 1993 r. o zwalczaniu nieuczciwej konkurencji (Dz. U. z 2020 r. poz. 1913 oraz z 2021 r. poz. 1655);
 - **9)** grożeniu podjęciem handlowych działań odwetowych lub podejmowaniu takich działań przeciwko dostawcy, jeżeli ten korzysta z praw przysługujących mu na mocy umowy lub przepisów prawa;
 - **10)** żądaniu od dostawcy rekompensaty kosztów rozpatrzenia skarg konsumentów związanych ze sprzedażą produktów rolnych lub spożywczych dostawcy, dotyczących przypadków, które wystąpiły z przyczyn niezawinionych przez dostawcę;
 - **11)** zwrocie przez nabywcę dostawcy niesprzedanych produktów rolnych lub spożywczych bez zapłaty za te produkty lub za ich unieszkodliwianie;
@@ -118,7 +122,7 @@ Art. 52–55. (pominięte)
 - **1)** pkt 11–16 – jeżeli zostały one przed ich stosowaniem jasno i jednoznacznie uzgodnione w umowie między nabywcą a dostawcą;
 - **2)** pkt 13 – jeżeli umowa między dostawcą a nabywcą została zawarta przed przewidywanym terminem promocji i zawiera postanowienia określające termin rozpoczęcia promocji, czas jej trwania oraz ilość produktów rolnych lub spożywczych, które będą objęte promocją.
 
-3. Na potrzeby określenia terminów płatności, o których mowa w ust. 1 pkt 1 lit. a, uznaje się, że uzgodnione okresy dostarczania produktów rolnych lub spożywczych, o których mowa w ust. 1 pkt 1 lit. a, nie przekraczają miesiąca.
+3. Na potrzeby określenia terminów płatności, o których mowa w ust. 1 pkt 1 lit. a, uznaje się, że uzgodnione okresy dostarczania produktów rolnych lub spożywczych, o których mowa w ust. 1 pkt 1 lit. a, nie przekraczają 30 dni.
 
 4. W przypadku gdy nabywca ustala kwotę do zapłaty, terminy płatności, o których mowa w ust. 1 pkt 1:
 
@@ -130,6 +134,11 @@ Art. 52–55. (pominięte)
 **Art. 9.** Przy dokonywaniu oceny praktyk nieuczciwie wykorzystujących przewagę kontraktową, o których mowa w art. 8 ust. 1, nie uwzględnia się przesłanek określonych w art. 6.
 
 **Art. 10.** Zakaz stosowania praktyk nieuczciwie wykorzystujących przewagę kontraktową, o których mowa w art. 8 ust. 1 pkt 1, nie ma:
+
+- **1)** wpływu na możliwość uzgodnienia przez nabywcę i dostawcę klauzuli dotyczącej podziału wartości w rozumieniu art. 172a rozporządzenia Parlamentu Europejskiego i Rady (UE) nr 1308/2013 z dnia 17 grudnia 2013 r. ustanawiającego wspólną organizację rynków produktów rolnych oraz uchylającego rozporządzenia Rady (EWG) nr 922/72, (EWG) nr 234/79, (WE) nr 1037/2001 i (WE) nr 1234/2007 (Dz. Urz. UE L 347 z 20.12.2013, str. 671, z późn. zm.);
+- **2)** zastosowania do płatności uiszczanych przez: nabywcę na rzecz dostawcy w ramach programu dla szkół, o którym mowa w art. 23 rozporządzenia, o którym mowa w pkt 1, podmioty lecznicze, o których mowa w art. 4 ust. 1 ustawy z dnia 15 kwietnia 2011 r. o działalności leczniczej (Dz. U. z 2021 r. poz. 711, 1773 i 2120).
+    - **a)**
+    - **b)**
 
 #### Rozdział 3 Właściwość Prezesa Urzędu Ochrony Konkurencji i Konsumentów
 
@@ -165,7 +174,7 @@ Art. 52–55. (pominięte)
 
 4. Postępowanie wyjaśniające nie powinno trwać dłużej niż 4 miesiące, a w sprawach szczególnie skomplikowanych – nie dłużej niż 5 miesięcy od dnia jego wszczęcia.
 
-5. W przypadku, o którym mowa w ust. 2 pkt 2, przepisów ust. 4 oraz art. 35 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2023 r. poz. 775 i 803), zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się.
+5. W przypadku, o którym mowa w ust. 2 pkt 2, przepisów ust. 4 oraz art. 35 ustawy z dnia 14 czerwca 1960 r. – Kodeks postępowania administracyjnego (Dz. U. z 2021 r. poz. 735, 1491 i 2052), zwanej dalej „Kodeksem postępowania administracyjnego”, nie stosuje się.
 
 **Art. 15.**
 
@@ -212,7 +221,7 @@ Art. 52–55. (pominięte)
 
 **Art. 19.** Prezes Urzędu może zlecić Inspekcji Handlowej przeprowadzenie kontroli lub realizację innych zadań należących do zakresu jego działania w sprawach praktyk nieuczciwie wykorzystujących przewagę kontraktową.
 
-**Art. 20.** W postępowaniu w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową przepisy art. 51–53, art. 54–61, art. 69, art. 71–73, art. 74, art. 77, art. 78 i art. 80 ustawy o ochronie konkurencji i konsumentów stosuje się odpowiednio.
+**Art. 20.** W postępowaniu w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową przepisy art. 51–61, art. 69, art. 71–73, art. 74, art. 77, art. 78 i art. 80 ustawy o ochronie konkurencji i konsumentów stosuje się odpowiednio.
 
 **Art. 21.**
 
@@ -230,9 +239,9 @@ Art. 52–55. (pominięte)
 - **2)** żądania udostępnienia związanych z przedmiotem kontroli dokumentów, w szczególności akt, ksiąg, wszelkiego rodzaju pism oraz ich odpisów i wyciągów, korespondencji przesyłanej pocztą elektroniczną, informatycznych nośników danych w rozumieniu przepisów o informatyzacji działalności podmiotów realizujących zadania publiczne, innych urządzeń zawierających dane informatyczne lub systemów informatycznych, w tym także zapewnienia dostępu do systemów informatycznych będących własnością innego podmiotu zawierających dane kontrolowanego związane z przedmiotem kontroli w zakresie, w jakim kontrolowany ma do nich dostęp;
 - **3)** sporządzania notatek z dokumentów i korespondencji, o których mowa w pkt 2;
 - **4)** żądania sporządzenia przez kontrolowanego kopii lub wydruków dokumentów i korespondencji, o których mowa w pkt 2, oraz informacji zgromadzonych na nośnikach, w urządzeniach lub w systemach, o których mowa w pkt 2;
-- **5)** żądania od kontrolowanego lub osób przez niego upoważnionych:
-    - **a)** ustnych wyjaśnień dotyczących przedmiotu kontroli,
-    - **b)** udostępnienia i wydania przedmiotów mogących stanowić dowód w sprawie.
+- **5)** żądania od kontrolowanego lub osób przez niego upoważnionych: ustnych wyjaśnień dotyczących przedmiotu kontroli, udostępnienia i wydania przedmiotów mogących stanowić dowód w sprawie.
+    - **a)**
+    - **b)**
 
 2. Osobie upoważnionej do udziału w kontroli na podstawie art. 21 ust. 2 przysługują uprawnienia kontrolującego w zakresie wstępu na grunt oraz do budynków, lokali lub innych pomieszczeń oraz środków transportu kontrolowanego oraz dostępu do dokumentów i korespondencji oraz informacji zgromadzonych na nośnikach, w urządzeniach lub w systemach, o których mowa w ust. 1 pkt 2, a także do sporządzania z nich notatek.
 
@@ -272,9 +281,9 @@ Art. 52–55. (pominięte)
 
 3. W przypadku odmowy przez kontrolowanego potwierdzenia za zgodność z oryginałem sporządzonych kopii dokumentów i wydruków potwierdza je kontrolujący, o czym czyni wzmiankę w protokole kontroli.
 
-**Art. 26.** Do kontroli przepisy art. 105f–105h, art. 105j i art. 105k ustawy o ochronie konkurencji i konsumentów stosuje się odpowiednio.
+**Art. 26.** Do kontroli przepisy art. 105f-105h, art. 105j i art. 105k ustawy o ochronie konkurencji i konsumentów stosuje się odpowiednio.
 
-**Art. 27.** Do kontroli przedsiębiorcy lub podmiotu, o którym mowa w art. 4 Prawa zamówień publicznych, lub kontroli zleconej Inspekcji Handlowej przez Prezesa Urzędu na podstawie art. 19, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2023 r. poz. 221, 641 i 803), z wyłączeniem art. 48, art. 50, art. 54 i art. 55 tej ustawy.
+**Art. 27.** Do kontroli przedsiębiorcy lub podmiotu, o którym mowa w art. 4 Prawa zamówień publicznych, lub kontroli zleconej Inspekcji Handlowej przez Prezesa Urzędu na podstawie art. 19, stosuje się przepisy rozdziału 5 ustawy z dnia 6 marca 2018 r. – Prawo przedsiębiorców (Dz. U. z 2021 r. poz. 162 i 2105), z wyłączeniem art. 48, art. 50, art. 54 i art. 55 tej ustawy.
 
 **Art. 28.**
 
@@ -292,7 +301,7 @@ Art. 52–55. (pominięte)
 
 1. W sprawach nieuregulowanych w ustawie do postępowania przed Prezesem Urzędu stosuje się przepisy Kodeksu postępowania administracyjnego.
 
-2. W sprawach dotyczących dowodów w zakresie nieuregulowanym w niniejszym rozdziale do postępowania przed Prezesem Urzędu przepisy art. 227– 315 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, z późn. zm. ) stosuje się odpowiednio.
+2. W sprawach dotyczących dowodów w zakresie nieuregulowanym w niniejszym rozdziale do postępowania przed Prezesem Urzędu przepisy art. 227–315 ustawy z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, 1981, 2052 i 2262) stosuje się odpowiednio.
 
 **Art. 30.** Postępowanie w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową powinno być zakończone nie później niż w terminie 5 miesięcy od dnia jego wszczęcia.
 
@@ -407,6 +416,9 @@ Art. 52–55. (pominięte)
 
 **Art. 43.** Prezes Urzędu może również nałożyć na przedsiębiorcę lub podmiot, o którym mowa w art. 4 Prawa zamówień publicznych, w drodze decyzji, karę pieniężną w wysokości stanowiącej równowartość w złotych do 50 000 000 euro, jeżeli ten przedsiębiorca lub ten podmiot, choćby nieumyślnie:
 
+- **1)** nie udzielił informacji żądanych przez Prezesa Urzędu na podstawie art. 18 ust. 1 lub art. 32 ust. 3 lub udzielił informacji nieprawdziwych lub wprowadzających w błąd;
+- **2)** uniemożliwia lub utrudnia rozpoczęcie lub przeprowadzenie kontroli na podstawie art. 21 ust. 1, w tym nie wykonuje obowiązków określonych w art. 24 ust. 1 lub art. 25 ust. 1.
+
 **Art. 44.** Prezes Urzędu może nałożyć na przedsiębiorcę lub podmiot, o którym mowa w art. 4 Prawa zamówień publicznych, w drodze decyzji, karę pieniężną w wysokości stanowiącej równowartość w złotych do 10 000 euro za każdy dzień opóźnienia w wykonaniu decyzji wydanych na podstawie art. 31 ust. 1, art. 32 ust. 1 i 2 oraz art. 33 ust. 1 i 3, postanowień wydanych na podstawie art. 105g ust. 1 ustawy o ochronie konkurencji i konsumentów w związku z art. 26 lub wyroków sądowych w sprawach praktyk nieuczciwie wykorzystujących przewagę kontraktową. Karę pieniężną nakłada się, licząc od daty wskazanej w tej decyzji.
 
 **Art. 45.** Wielkości, o których mowa w art. 42 ust. 5 i 6, art. 43 i art. 44, wyrażone w euro przelicza się na złote według średniego kursu ogłaszanego przez Narodowy Bank Polski w ostatnim dniu roku kalendarzowego poprzedzającego rok nałożenia kary pieniężnej.
@@ -420,9 +432,9 @@ Art. 52–55. (pominięte)
 
 2. Prezes Urzędu może, w drodze decyzji, nałożyć karę pieniężną w wysokości, o której mowa w ust. 1, na:
 
-- **1)** osobę upoważnioną przez kontrolowanego, o której mowa w art. 24 ust. 1, za:
-    - **a)** udzielenie w toku kontroli nieprawdziwych lub wprowadzających w błąd informacji żądanych przez Prezesa Urzędu,
-    - **b)** uniemożliwianie lub utrudnianie rozpoczęcia lub przeprowadzenia kontroli na podstawie art. 21 ust. 1, w tym niewykonanie obowiązków, o których mowa w art. 24 ust. 1 lub art. 25 ust. 1;
+- **1)** osobę upoważnioną przez kontrolowanego, o której mowa w art. 24 ust. 1, za: udzielenie w toku kontroli nieprawdziwych lub wprowadzających w błąd informacji żądanych przez Prezesa Urzędu, uniemożliwianie lub utrudnianie rozpoczęcia lub przeprowadzenia kontroli na podstawie art. 21 ust. 1, w tym niewykonanie obowiązków, o których mowa w art. 24 ust. 1 lub art. 25 ust. 1;
+    - **a)**
+    - **b)**
 
 - **2)** osobę, o której mowa w art. 105a ust. 7 ustawy o ochronie konkurencji i konsumentów w związku z art. 21 ust. 3, będącą pracownikiem kontrolowanego, za uniemożliwianie lub utrudnianie okazania dokumentów wymienionych w art. 105a ust. 7 ustawy o ochronie konkurencji i konsumentów.
 
@@ -461,7 +473,7 @@ Art. 52–55. (pominięte)
 
 4. W przypadku uchylenia albo zmiany prawomocnej decyzji, których następstwem jest uchylenie nałożonej kary pieniężnej lub obniżenie jej wysokości, uiszczona kara pieniężna podlega zwrotowi w części albo w całości, w terminie 14 dni od dnia doręczenia wezwania do zwrotu tej kary, wraz z odpisem orzeczenia sądu i, w uzasadnionym przypadku, stwierdzeniem jego prawomocności. Przy zwrocie kary odsetek nie nalicza się.
 
-**Art. 49.** Prezes Urzędu może, na wniosek przedsiębiorcy lub podmiotu, o którym mowa w art. 4 Prawa zamówień publicznych, lub innych osób, o których mowa w art. 46, odroczyć uiszczenie nałożonej kary pieniężnej albo rozłożyć ją na raty ze względu na ważny interes wnioskodawcy. Przepisy art. 113 ust. 1a–7 ustawy o ochronie konkurencji i konsumentów stosuje się odpowiednio.
+**Art. 49.** Prezes Urzędu może, na wniosek przedsiębiorcy lub podmiotu, o którym mowa w art. 4 Prawa zamówień publicznych, lub innych osób, o których mowa w art. 46, odroczyć uiszczenie nałożonej kary pieniężnej albo rozłożyć ją na raty ze względu na ważny interes wnioskodawcy. Przepisy art. 113 ust. 1a-7 ustawy o ochronie konkurencji i konsumentów stosuje się odpowiednio.
 
 **Art. 50.** Nie wszczyna się postępowania w sprawie nałożenia kary pieniężnej, jeżeli upłynęły 2 lata od końca roku, w którym dopuszczono się naruszenia przepisów ustawy.
 
@@ -469,9 +481,32 @@ Art. 52–55. (pominięte)
 
 #### Rozdział 7 Zmiany w przepisach obowiązujących
 
+**Art. 52.** W ustawie z dnia 17 listopada 1964 r. – Kodeks postępowania cywilnego (Dz. U. z 2021 r. poz. 1805, 1981 i 2052) w art. 47928w§ 1 pkt 6 otrzymuje brzmienie: „
+
+- **6)** zażaleń, o których mowa w art. 28 ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. poz. 2262). ” .
+
+**Art. 53.** W ustawie z dnia 29 sierpnia 1997 r. – Ordynacja podatkowa (Dz. U. z 2021 r. poz. 1540, 1598, 2076 i 2105) wprowadza się następujące zmiany:
+
+- **1)** w art. 297 w § 1 w pkt 11 lit. b otrzymuje brzmienie: „ postępowaniem w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową i postępowaniem wyjaśniającym, prowadzonych na podstawie przepisów ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. poz. 2262), ” ;
+    - **b)**
+
+- **2)** w art. 298: pkt 6f dodany ustawą z dnia 4 lipca 2019 r. o zmianie ustawy o ochronie konkurencji i konsumentów oraz niektórych innych ustaw (Dz. U. poz. 1667) otrzymuje brzmienie: „
+    - **a)**
+
+- **6f)** Prezesowi Urzędu Ochrony Konkurencji i Konsumentów – w związku z toczącym się postępowaniem prowadzonym na podstawie przepisów ustawy z dnia 16 lutego 2007 r. o ochronie konkurencji i konsumentów, przepisów ustawy z dnia 8 marca 2013 r. o przeciwdziałaniu nadmiernym opóźnieniom w transakcjach handlowych oraz przepisów ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi; ” , uchyla się pkt 6f dodany ustawą z dnia 19 lipca 2019 r. o zmianie niektórych ustaw w celu ograniczenia zatorów płatniczych (Dz. U. poz. 1649).
+    - **b)**
+
+**Art. 54.** W ustawie z dnia 29 sierpnia 1997 r. – Prawo bankowe (Dz. U. z 2020 r. poz. 1896, z późn. zm.) w art. 105 w ust. 1 w pkt 2 w lit. r tiret trzecie otrzymuje brzmienie: „ – w związku z toczącym się przed Prezesem Urzędu Ochrony Konkurencji i Konsumentów postępowaniem prowadzonym na podstawie przepisów ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. poz. 2262), ” .
+
+**Art. 55.** W ustawie z dnia 2 marca 2020 r. o szczególnych rozwiązaniach związanych z zapobieganiem, przeciwdziałaniem i zwalczaniem COVID-19, innych chorób zakaźnych oraz wywołanych nimi sytuacji kryzysowych (Dz. U. z 2021 r. poz. 2095, 2120 i 2133) art. 15zzzm otrzymuje brzmienie: „ 1. Do postępowania w sprawie nałożenia kar, o których mowa w art. 15zzzk i art. 15zzzl, stosuje się odpowiednio przepisy rozdziału 4 ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. poz. 2262), z wyłączeniem art. 31–35 i art. 40 tej ustawy. 2. Do kar pieniężnych, o których mowa w art. 15zzzk i art. 15zzzl, stosuje się odpowiednio przepisy art. 48 i art. 49 ustawy z dnia 17 listopada 2021 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi. ” .
+
 #### Rozdział 8 Przepisy przejściowe i końcowe
 
 **Art. 56.** Do postępowań w sprawach określonych w:
+
+- **1)** art. 297 § 1 pkt 11 lit. b oraz art. 298 pkt 6f ustawy zmienianej w art. 53,
+- **2)** art. 105 ust. 1 pkt 2 lit. r tiret trzecie ustawy zmienianej w art. 54,
+- **3)** art. 15zzzm ustawy zmienianej w art. 55 wszczętych i niezakończonych przed dniem wejścia w życie niniejszej ustawy, stosuje się przepisy dotychczasowe.
 
 **Art. 57.** Do postępowań w sprawie praktyk nieuczciwie wykorzystujących przewagę kontraktową wszczętych na podstawie ustawy uchylanej w art. 61 i niezakończonych przed dniem wejścia w życie niniejszej ustawy stosuje się przepisy dotychczasowe.
 
@@ -487,5 +522,5 @@ Art. 52–55. (pominięte)
 
 **Art. 61.** Traci moc ustawa z dnia 15 grudnia 2016 r. o przeciwdziałaniu nieuczciwemu wykorzystywaniu przewagi kontraktowej w obrocie produktami rolnymi i spożywczymi (Dz. U. z 2020 r. poz. 1213).
 
-**Art. 62.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia .
+**Art. 62.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

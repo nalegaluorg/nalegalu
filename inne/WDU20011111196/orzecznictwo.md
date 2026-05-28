@@ -2,7 +2,7 @@
 
 Orzeczenia powołujące: *Ustawa z dnia 24 sierpnia 2001 r. o restrukturyzacji hutnictwa żelaza i stali.*
 
-Łącznie: **5** orzeczeń
+Łącznie: **4** orzeczeń
 
 ## art. 2 (2)
 
@@ -24,8 +24,4 @@ Orzeczenia powołujące: *Ustawa z dnia 24 sierpnia 2001 r. o restrukturyzacji h
 ## art. 29 (1)
 
 - 2008-07-10 | SN | [III CSK 73/08](https://www.saos.org.pl/judgments/88443) | Postanowienie
-
-## art. 33 (1)
-
-- 2013-12-13 | SN | [III CZP 81/13](https://www.saos.org.pl/judgments/103853) | Uchwała ★
 

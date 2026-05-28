@@ -11,7 +11,7 @@ domain: null
 source: "isap-pdf"
 ---
 
-# DEKRET z dnia 23 kwietnia 1953 r.
+# 3. Minister Finansów insty wykonania przewidzianych ust.
 
 | Pole | Wartość |
 |---|---|
@@ -21,67 +21,62 @@ source: "isap-pdf"
 | Status | obowiązujący |
 | W mocy | tak |
 | Data ogłoszenia | 1953-04-23 |
+| Wejście w życie | 1953-04-24 |
 | Ostatnia zmiana | 2015-07-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19530230093) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1953/93/text.pdf) |
 
-o świadczeniach w celu zwalczania klęsk żywiołowych
+2.
 
-**Art. 1.**
+**Art. 5.** Wykonanie dekretu porucza Ministrowi Pracy Opieki oraz Ministrowi Finansów.
 
-1. Klęskami żywiołowymi w rozumieniu niniejszego dekretu są wszelkiego rodzaju zdarzenia żywiołowe:
+**Art. 6.** Dekret wCRodzi pierwszym cniem po Rady A. Sekretarz Rady Rybicki dnia kwietnia o celu zwalczania Art. t. Klęskami rozumieniu niniej szego dekretu wszelkiego rodzaju zdarzenia lub mienia szej osób albo gospodarki na rodowej, dla których zwalczania konieczna jest zorganizowana ak cja
 
-- **1)** zagrażające bezpieczeństwu życia lub mienia większej ilości osób albo też
-- **2)** mogące wywołać poważne zakłócenia gospodarki narodowej, w szczególności w komunikacji miejskiej na skutek nadmiernych opadów śnieżnych dla których zwalczania konieczna jest zorganizowana akcja społeczna.
+**Art. 2.**
 
-2. Przepisy dekretu mają zastosowanie również w przypadku katastrof, o ile katastrofy te odpowiadają określeniu zawartemu w ust. 1 pkt 1 i 2.
+1. Kierownictwo spo prezydia rad. (gmi?nych, !miejskich, powiatowych, wOjewodzkJch) na obszar lub
 
-**Art. 2.** (uchylony).
+2. Organizacje tej akcji prezydiami rad narodowych. l
 
-**Art. 3.**
+**Art. 1.** Jeżeli środki. którymi dysponuje prezy ium rady narod. owej, n.i: ono drodze wprowadzJc na terem e wo jewództwa, powiatu, miasta lub gminy osobistych rzeczowych dla celów zorganizowanej akcji temu podlegaj osoby fizyczne prawne na terenie danej gminy, miasta, powia tu lub województwa. 2. O o której mowa ust. l, prezydium rady narodowej zawiadamia pret YdiUm rady aarodowej stopnia. 3. o wprowadzeniu osobistych rzeczowych wchodzi jej obwieszczenia siedzibie prezydium rady na ~OdOW~j. sposób zwyczajowo przyjęty danej miej!SCOWOSCl. "
 
-1. Jeżeli środki, którymi dysponuje właściwy organ jednostki samorządu terytorialnego albo wojewoda, są niewystarczające, organy te mogą wprowadzić obowiązek świadczeń osobistych i rzeczowych na cele zorganizowanej akcji społecznej.
+**Art. 4.**
 
-2. O nałożeniu obowiązku, o którym mowa w ust. 1, właściwy organ jednostki samorządu terytorialnego zawiadamia bezzwłocznie starostę i wojewodę.
+1. osobiste rzeczowe dla ce lów zorganizowanej akcji na: udzielaniu pierwszej pomocy osobom, które uległy wypadkom, pomieszczenia poszkodowanym czas dla udzielenia pierwszej pomocy schro nienia, na przechowanie pilnowaniu mienia po szkodow an ych, zabezpieczeniu inwentarza (do starczenie paszy pomieszczenia),
 
-3. Obowiązek, o którym mowa w ust. 1, wchodzi w życie z dniem ogłoszenia. Zasady i formy ogłoszenia określają odrębne przepisy.
+- **5)** warty celu rozszerzaniu robót,
+- **7)** dostarczeniu potrzebnych przy prowadzeniu akcji, dostarczeniu przewozowych wraz nym inwentarzem
 
-**Art. 4.** Świadczenia osobiste i rzeczowe dla celów zorganizowanej akcji społecznej polegają na:
+2. Rada Ministrów drodze inne osobiste rzeczowe, re prezydium rady narodowej wprowadzone dla celów zorganizowanej akcji spo
 
 **Art. 5.**
 
-1. Do wykonania obowiązku świadczeń osobistych i rzeczowych powołuje odpowiednio wójt, burmistrz (prezydent miasta), starosta albo wojewoda.
+1. Do wykonania osobistych rzeczowych prezydium wej miejskiej, 'dzielnicowej lub gminnej rady narocl'Jwej.
 
-2. Rada Ministrów w drodze rozporządzenia określi tryb powoływania wykonania obowiązku świadczeń osobistych i rzeczowych, zasady wykonywania świadczeń oraz kategorie osób zwolnione od tych świadczeń.
+2. Rada Ministrów drodze okre tryb wykonania osobistych rzeczowych. zasady wy!<onywallia oraz kategorie osób zwolnionych od tych
 
 **Art. 6.**
 
-1. Kto w czasie zorganizowanej akcji społecznej i w związku z udziałem w tej akcji bez własnej winy doznał uszkodzenia zdrowia powodującego utratę zdolności pracy zarobkowej, ma prawo odszkodowania. Jeżeli wskutek takiego uszkodzenia nastąpiła śmierć, prawo odszkodowania przysługuje osobom, utrzymania których zmarły był zobowiązany, oraz osobom, które zmarły rzeczywiście utrzymywał.
+1. Kto czas:e zorganizowanej ak.:'ji spo utrzymania których craz; oso bom, które
 
-2. Poszkodowanemu przysługuje prawo odszkodowania za zniszczenie, uszkodzenie, zużycie lub utratę mienia w czasie i w związku z udziałem w akcji, o ile nastąpiły one bez jego winy.
+2. Poszkodowanemu prawo odszko dowania za zniszczenie, uszkodzenie, lub mienia czasie akcji, o ile one bez jego winy. Kto wykonywaniem opu swoim pracy, lnu prawo wynagrodzenia z' tego pracy za czas wykonywania Rada Ministrów drodze zasady oraz tryb ustalenia odszKodo'vania, o którym mowa ust.
 
-3. Kto w związku z wykonywaniem świadczeń opuścił pracę zawodową w swoim zakładzie pracy, ma prawo pełnego wynagrodzenia z tego zakładu pracy za cały czas wykonywania świadczeń.
+**Art. 1.** Kto nie wykonuje na nim obo przewidzianych niniejszym dekre cie - podlega karze pracy poprawczej jednego mie lub grzywny 2. Orzekanie trybie kur no-administracyjnego.
 
-4. Rada Ministrów w drodze rozporządzenia określi zasady oraz tryb ustalenia i wypłaty odszkodowania, o którym mowa w ust. 1 i 2.
+**Art. 8.** Kto złośliwie uchyla się od wykon.:mia obo przewidzianych dekre cie - podlega karze aresztu trzech
 
-**Art. 6a.** Minister Administracji i Gospodarki Przestrzennej może nałożyć na terenowy organ administracji państwowej obowiązek świadczenia środkami technicznymi przedsiębiorstw i zakładów usług i robót mających na celu zwalczenie klęski żywiołowej na terenie innego województwa.
+**Art. 9.** t. Sposób przeprowadzania zorganizowanej akcji stosunku obiektów w0jskcwych jak zakres warunki wykonywania art. przez organy wojskowe czynnej wojskowej Obrony Narodowej porozumieniu Ministrem darki Komunalnej za Prezesa Rady Ministrów. 2. Sposób zorganizo'Nanej stosunku obiektów bezpieczell.stwa blicznego, zasady prezydiów rad wych orgi'tnami publicznego zwalczania oraz zakres wykonywania art. funkcjonariuszy publicznego nister Publicznego porozumieniu nistrem Gospodarki Komunalnej za Prezesa' Ministrów.
 
-**Art. 7.**
+**Art. 10.** Przepisy dekretu nie zast030wania ochrony
 
-1. Kto nie wykonuje ciążącego na nim obowiązku świadczeń przewidzianych w niniejszym dekrecie - podlega karze poprawczej 1 miesiąca lub grzywny 1500 zł.
+**Art. 11.** \Vykonanie dekretu porucza Prezesowi .,Rady Ministrów zainteresowanym ministrom.
 
-2. Orzekanie następuje w trybie postępowania karno-administracyjnego.
+**Art. 12.** Dekret wchodzi dniem Rady Sekretarz Rady M. 94 dnia kwietnia Wojsk Pogranicza. Art. t. Bandera jednostek \Vojsk Ochrony Pogranicza korzysta ochrony pnewitlzianej dla
 
-**Art. 8.** Kto złośliwie uchyla się od wykonania obowiązku świadczeń przewidzianych w niniejszym dekrecie - podlega karze aresztu 3 miesięcy.
+**Art. 2.** t. jednostek .Wojsk Ochrony Pogranicza jest tkaniny o barwach Polskiej Rzeczypospolitej Ludowej , ciem jednym krótszych jego boków. Po pasa I dzy bokiem .bez a umiesz fczone Jest Polskiej Rzeczypospolitej Ludowej. Doi wna tarczy jest " Stosunek jego wy nosi 2.1. jest równa pohwie sze Stosunek 3. Wzór bandery zawiera dekretu.
 
-**Art. 9.** Sposób przeprowadzania zorganizowanej akcji społecznej w stosunku obiektów wojskowych jak również zakres i warunki wykonywania świadczeń wynikających z art. 4 i 5 przez organy wojskowe oraz żołnierzy w czynnej służbie wojskowej określi Minister Obrony Narodowej w porozumieniu z Ministrem Gospodarki Komunalnej i za zgodą Prezesa Rady Ministrów.
+**Art. 3.** Minister Publicznego rozumieniu Ministrem Obrony Narodowej ustdli bandery oraz znaki rozpoznawcze nocy przez jednostki Wojsk Ochrony nicza.
 
-**Art. 10.**
+**Art. 4.** Wykonanie dekretu Publicznego porucza strem Obrony Narodowej. Ministrowi porozumieniu
 
-1. Przepisy dekretu nie mają zastosowania ochrony przeciwpożarowej.
-
-2. W razie powodzi, zakłócenia komunikacji drogowej lub innych zdarzeń, dla zwalczania których przewidziane są środki w przepisach szczególnych, przepisy dekretu mają zastosowanie, jeżeli zdarzenia te odpowiadają określeniu zawartemu w art. 1, a środki przewidziane w przepisach szczególnych byłyby nie wystarczające.
-
-**Art. 11.** Wykonanie dekretu porucza się Prezesowi Rady Ministrów i zainteresowanym ministrom.
-
-**Art. 12.** Dekret wchodzi w życie z dniem ogłoszenia.
+**Art. 5.** Dekret wchodzi dniem
 

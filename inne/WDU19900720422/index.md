@@ -8,10 +8,10 @@ pos: 422
 act_type: Ustawa
 status: obowiązujący
 domain: null
-source: "isap-pdf"
+source: "eli-html"
 ---
 
-# Ilekroć przepisy ustaw przewidują za przestępstwo:
+# Ustawa z dnia 28 września 1990 r. o zmianie niektórych przepisów prawa karnego i prawa o wykroczeniach
 
 | Pole | Wartość |
 |---|---|
@@ -22,31 +22,73 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1990-09-28 |
 | Data wydania | 1990-10-24 |
+| Wejście w życie | 1990-11-06 |
 | Ostatnia zmiana | 2024-03-15 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19900720422) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1990/422/text.pdf) |
 
-1) inną dolną lub górna granicę grzywny niż wynikająca z części ogólnej Kodeksu karnego, ustala się ja wysokości dziesięciokrotnej,
-2) dolną lub górna granicę nawiązki albo określają wartość kwotową mienia, towaru lub wyrządzonej szkody, ustala się je wysokości dziesięciokrotnej.
-W Kodeksie postępowania karnego wprowadza się następujące zmiany:
-1) wart. 13 S 2 wyrazy „do 10 złotych” zastępuje się wyrazami „do 100 złotych”;
-2) wart. 242 wyrazy „20 złotych” zastępuje się wyrazami „200 złotych”;
-3) art. 419 $ pkt wyrazy „100 złotych” zastępuje się wyrazami „1
-4) wart. 422 S 2 wyrazy „50 złotych” zastępuje się wyrazami „500 złotych”;
-5) art. 447 $ I pkt 2 wyrazy „100 złotych” zastępuje się wyrazami „1
-6) art. 450 wyrazy „„500 złotych” zastępuje się wyrazami „5 złotych”;
-7) art. 454c $ wyrazy „do 200 złotych” zastępuje się wyrazami „do 2
+**Art. 1.** W Kodeksie karnym wprowadza się następujące zmiany:
+
+- **1)** w art. 5 w § 3 wyrazy „50 000 złotych” zastępuje się wyrazami „1 000 000 złotych”;
+- **2)** w art. 36: w § 1 wyrazy „od 20 000 do 500 000 złotych” zastępuje się wyrazami „od 200 000 do 5 000 000 złotych”; w § 2 wyrazy „od 20 000 do 5 000 000 złotych” zastępuje się wyrazami „od 200 000 do 50 000 000 złotych”;
+    - **a)**
+    - **b)**
+
+- **3)** w art. 37: w § 1 wyrazy „20 000 złotych” zastępuje się wyrazami „500 000 złotych”, a wyrazy „od 500 do 1 500 złotych” – wyrazami „od 10 000 do 30 000 złotych”, § 2 otrzymuje brzmienie: „
+    - **a)**
+    - **b)**
+
+§ 2. Kara zastępcza nie może przekroczyć 3 lat pozbawienia wolności, jak również górnej granicy kary pozbawienia wolności przewidzianej za dane przestępstwo, a jeżeli przestępstwo nie jest zagrożone taką karą – 6 miesięcy pozbawienia wolności; wymierza się ją w latach, miesiącach i dniach. ” ;
+
+- **4)** w art. 59 w § 3 wyrazy „od 5 000 do 50 000 złotych” zastępuje się wyrazami „od 50 000 do 500 000 złotych”;
+- **5)** w art. 59a wyrazy „od 5 000 do 50 000 złotych” zastępuje się wyrazami „od 50 000 do 500 000 złotych”;
+- **6)** w art. 83 w § 3 wyrazy „od 1 000 do 3 000 złotych” zastępuje się wyrazami „od 10 000 do 30 000 złotych”;
+- **7)** w art. 84 w § 2 wyrazy „od 10 000 do 30 000 złotych” zastępuje się wyrazami „od 150 000 do 450 000 złotych”;
+- **8)** w art. 178 w § 3 wyrazy „od 5 000 do 50 000 złotych” zastępuje się wyrazami „od 50 000 do 500 000 złotych”.
+
+**Art. 2.** W ustawie z dnia 19 kwietnia 1969 r. – Przepisy wprowadzające Kodeks karny (Dz. U. Nr 13, poz. 95, z 1982 r. Nr 40, poz. 271 i z 1985 r. Nr 23, poz. 100) w art. X:
+
+- **1)** w § 2 wyrazy „do 5 000 000 złotych” zastępuje się wyrazami „do 500 000 000 złotych”;
+- **2)** w § 3 wyrazy „od 50 000 do 1 000 000 złotych” zastępuje się wyrazami „od 500 000 do 100 000 000 złotych”.
+
+**Art. 3.** Ilekroć przepisy ustaw przewidują za przestępstwo:
+
+- **1)** inną dolną lub górną granicę grzywny niż wynikająca z przepisów części ogólnej Kodeksu karnego, ustala się ją w wysokości dziesięciokrotnej,
+- **2)** dolną lub górną granicę nawiązki albo określają wartość kwotową mienia, towaru lub wyrządzonej szkody, ustala się je w wysokości dziesięciokrotnej.
+
+**Art. 4.** W Kodeksie postępowania karnego wprowadza się następujące zmiany:
+
+- **1)** w art. 13 w § 2 wyrazy „do 10 000 złotych” zastępuje się wyrazami „do 100 000 złotych”;
+- **2)** w art. 242 wyrazy „20 000 złotych” zastępuje się wyrazami „200 000 złotych”;
+- **3)** w art. 419 w § 1 w pkt 3 wyrazy „100 000 złotych” zastępuje się wyrazami „1 000 000 złotych”;
+- **4)** w art. 422 w § 2 wyrazy „50 000 złotych” zastępuje się wyrazami „500 000 złotych”;
+- **5)** w art. 447 w § 1 w pkt 2 wyrazy „100 000 złotych” zastępuje się wyrazami „1 000 000 złotych”;
+- **6)** w art. 450 wyrazy „500 000 złotych” zastępuje się wyrazami „5 000 000 złotych”;
+- **7)** w art. 454c w § 1 wyrazy „do 200 000 złotych” zastępuje się wyrazami „do 2 000 000 złotych”.
+
+**Art. 5.**
+
 1. W Kodeksie wykroczeń wprowadza się następujące zmiany:
-1) wart. I wyrazy „do 50 złotych” zastępuje się wyrazami „do złotych”;
-2) wart. 10 S 2 wyrazy „od 500 do 500 złotych” zastępuje się wyrazami „od 10
-3) art. 23 wyrazy „od 10 do 30 złotych” zastępuje się wyrazami „od 150
-4) wart. 24 S$ wyrazy „od do 50 złotych” zastępuje się wyrazami „od
-5) art. 25 S wyrazy „„10 złotych” zastępuje się wyrazami „100 złotych”, wyrazy „od 500 do 500 złotych” - wyrazami „od 10 do 30 złotych”;
-6) art. 37 wyrazy „20 złotych” zastępuje się wyrazami „200 złotych;
-2. Ilekroć przepisy ustaw przewidują za wykroczenia: Kodeksuykroczeń , ustalasięjaysokościdziesięciokrotnej , 2 ) dolnąlubgórnagranicęnaiązkialbookreślająartośćkotoąmienia , toarulu yrządzonejszkody , ustalasięjeysokościdziesięciokrotnej .
-WKodeksiepostępoaniaspraachoykroczeniaproadzasięnastępującezmiany : ) a r t . 63 S 2 yrazy „ o d 500 d o 5 złotych ” zastępujesięyrazami „ o d 5 d o 50 złotych ;
-2 ) a r t . 64 Syrazy „ o d 500 d o 7 500 złotych ” zastępujesięyrazami „ o d 10 d 250 złotych ” ;
-) a r t . 66 Syrazy „ o d 500 dozłotych ” zastępujesięyrazami „ o d 10 d 200 złotych * ;
-4 ) a r t . 136 Syrazy „ o d 500 dozłotych ” zastępujesięyrazami „ o d 5 d 0 00 0 złotych ” , ayrazy „ d o 5 00 0 złotych ” - yrazami „ d o 5 0 00 0 złotych ” ;
-5 ) a r t . 148 Syrazy „ o d 2 d o 10 złotych ” zastępujesięyrazami „ o d 20 d o 300 złotych ” .
-Ustaachodziżyciepoupłyie 14 dnioddniaogłoszenia .
+
+- **1)** w art. 1 wyrazy „do 50 000 złotych” zastępuje się wyrazami „do 1 000 000 złotych”;
+- **2)** w art. 10 w § 2 wyrazy „od 500 do 1 500 złotych” zastępuje się wyrazami „od 10 000 do 30 000 złotych”;
+- **3)** w art. 23 wyrazy „od 10 000 do 30 000 złotych” zastępuje się wyrazami „od 150 000 do 450 000 złotych”;
+- **4)** w art. 24 w § 1 wyrazy „od 1 000 do 50 000 złotych” zastępuje się wyrazami „od 20 000 do 1 000 000 złotych”;
+- **5)** w art. 25 w § 1 wyrazy „10 000 złotych” zastępuje się wyrazami „100 000 złotych”, a wyrazy „od 500 do 1 500 złotych” – wyrazami „od 10 000 do 30 000 złotych”;
+- **6)** w art. 37 wyrazy „20 000 złotych” zastępuje się wyrazami „200 000 złotych”;
+- **7)** skreśla się art. 37a.
+
+2. Ilekroć przepisy ustaw przewidują za wykroczenia:
+
+- **1)** inną dolną lub górną granicę grzywny niż wynikająca z przepisów części ogólnej Kodeksu wykroczeń, ustala się ją w wysokości dziesięciokrotnej,
+- **2)** dolną lub górną granicę nawiązki albo określają wartość kwotową mienia, towaru lub wyrządzonej szkody, ustala się je w wysokości dziesięciokrotnej.
+
+**Art. 6.** W Kodeksie postępowania w sprawach o wykroczenia wprowadza się następujące zmiany:
+
+- **1)** w art. 63 w § 2 wyrazy „od 500 do 5 000 złotych” zastępuje się wyrazami „od 5 000 do 50 000 złotych”;
+- **2)** w art. 64 w § 1 wyrazy „od 500 do 7 500 złotych” zastępuje się wyrazami „od 10 000 do 250 000 złotych”;
+- **3)** w art. 66 w § 1 wyrazy „od 500 do 3 000 złotych” zastępuje się wyrazami „od 10 000 do 200 000 złotych”;
+- **4)** w art. 136 w § 1 wyrazy „od 500 do 3 000 złotych” zastępuje się wyrazami „od 5 000 do 30 000 złotych”, a wyrazy „do 5 000 złotych” – wyrazami „do 50 000 złotych”;
+- **5)** w art. 148 w § 3 wyrazy „od 2 000 do 10 000 złotych” zastępuje się wyrazami „od 20 000 do 300 000 złotych”.
+
+**Art. 7.** Ustawa wchodzi w życie po upływie 14 dni od dnia ogłoszenia.
 

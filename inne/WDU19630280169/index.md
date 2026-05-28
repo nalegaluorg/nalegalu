@@ -24,6 +24,7 @@ source: "isap-pdf"
 | W mocy | tak |
 | Data ogłoszenia | 1963-06-29 |
 | Data wydania | 1963-07-05 |
+| Wejście w życie | 1963-07-05 |
 | Ostatnia zmiana | 2025-10-30 |
 | Źródło | [ISAP](https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19630280169) · [PDF](https://api.sejm.gov.pl/eli/acts/DU/1963/169/text.pdf) |
 
